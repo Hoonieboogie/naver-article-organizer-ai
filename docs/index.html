@@ -239,14 +239,6 @@
 <div class="toast" id="toast"></div>
 
 <script>
-  // ========================================================
-  // ⚙️  배포 설정: 아래 두 값을 채워주세요.
-  //   GH_TOKEN : repo + workflow 권한의 Classic PAT
-  //   GH_REPO  : 비워두면 GitHub Pages URL에서 자동 감지
-  // ========================================================
-  const GH_TOKEN = "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";   // 예: "ghp_xxxxxxxxxxxxxxxxxxxx"
-  const GH_REPO  = "";   // 예: "owner/repo-name" (비워두면 자동)
-
   let config = { keywords: [], articles_per_keyword: 10 };
   let currentKeyword = null;
   let currentDate = null;
@@ -255,7 +247,20 @@
 
   const BASE_DATA_URL = "./data/";
 
+  // URL 해시에 토큰이 있으면 localStorage에 저장 후 해시 제거
+  // 공유 URL: https://.../#token=ghp_xxxx
+  function initTokenFromHash() {
+    const hash = window.location.hash.slice(1);
+    const params = new URLSearchParams(hash);
+    const t = params.get("token");
+    if (t) {
+      localStorage.setItem("gh_token", t);
+      history.replaceState(null, "", window.location.pathname + window.location.search);
+    }
+  }
+
   async function init() {
+    initTokenFromHash();
     updateHeaderDate();
     await loadConfig();
     await scanAvailableDates();
@@ -584,18 +589,19 @@
   }
 
   function getCredentials() {
-    // GH_REPO: 상수 → URL 자동 감지 순으로 결정
-    let repo = GH_REPO;
-    if (!repo) {
-      const host = window.location.hostname;
-      const path = window.location.pathname;
-      if (host.endsWith(".github.io")) {
-        const username = host.replace(".github.io", "");
-        const segment  = path.split("/").filter(Boolean)[0] || "";
-        if (username && segment) repo = `${username}/${segment}`;
-      }
+    // 토큰: localStorage (URL 해시로 최초 1회 주입)
+    const token = localStorage.getItem("gh_token") || "";
+    // 레포: GitHub Pages URL에서 자동 감지
+    let repo = "";
+    const host = window.location.hostname;
+    const path = window.location.pathname;
+    if (host.endsWith(".github.io")) {
+      const username = host.replace(".github.io", "");
+      const segment  = path.split("/").filter(Boolean)[0] || "";
+      if (username && segment) repo = `${username}/${segment}`;
     }
-    return { token: GH_TOKEN, repo };
+    repo = repo || localStorage.getItem("gh_repo") || "";
+    return { token, repo };
   }
 
   document.getElementById("newKeywordInput").addEventListener("keydown", e => {
