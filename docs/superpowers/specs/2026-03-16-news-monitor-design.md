@@ -76,7 +76,7 @@ repo/
         {
           "title": "삼성전자, 3나노 양산 본격화",
           "url": "https://...",
-          "published_at": "2026-03-16T08:30:00",
+          "published_at": "2026-03-16T08:30:00",  // 네이버 API RFC 822 → ISO 8601 변환 (run.py 담당)
           "summary": "삼성전자는 3나노 2세대 공정 양산을 시작했으며...",
           "source": "url_context"
         }
@@ -96,7 +96,7 @@ repo/
 
 - **API**: 네이버 검색 API (뉴스)
 - **인증**: Client ID / Client Secret (GitHub Actions Secret으로 관리)
-- **기간 필터**: 전날 10:00 KST ~ 당일 09:00 KST 사이 발행 기사
+- **기간 필터**: 전날 10:00 KST ~ 당일 09:00 KST 사이 발행 기사 (의도적 23시간 윈도우 — 당일 실행과 겹침 방지)
 - **수량**: `config.json`의 `articles_per_keyword` 값 (최대 20개)
 
 ### 6-2. 기사 원문 수집 — 3단계 Fallback
@@ -114,7 +114,7 @@ repo/
 ### 6-3. AI 요약 (Gemini 2.5 Flash)
 
 - **프롬프트 방침**: 기사에 등장한 단어만 사용해 핵심 내용을 빠짐없이 요약. 중요한 수치·인물·사건 반드시 포함. 길이 제한 없음.
-- **Rate limit 대응**: 분당 10회 제한 → 기사 간 6초 딜레이 적용
+- **Rate limit 대응**: 분당 10회 제한 → 기사 간 6초 딜레이 적용 (전체 기사 순차 처리, 키워드 간 병렬 처리 없음)
 - **예상 소요시간**: 최대 180기사 기준 약 18분 (10시 30분 확인 시 여유 있음)
 
 ---
@@ -156,13 +156,18 @@ repo/
 ### 7-4. 키워드 관리
 
 - 웹 UI에서 키워드 추가/삭제 → GitHub API 호출 → `config.json` 업데이트 → 다음 실행에 반영
-- GitHub Personal Access Token을 최초 1회 입력 → `localStorage`에 저장
-- 기사 수(k) 조정도 동일하게 처리
+- **GitHub PAT 초기 설정**: 페이지 최초 로드 시 localStorage에 토큰이 없으면 모달 표시 → 토큰 입력 → `localStorage`에 저장. 이후 방문 시 모달 없이 자동 로드.
+- 사이드바 하단 "⚙️ 설정" 버튼으로 언제든 토큰 재입력 가능
+- 기사 수(k) 조정도 동일하게 GitHub API로 처리
 
 ### 7-5. 실행 상태 표시
 
-- 실행 버튼 클릭 후 → GitHub Actions 진행 상태 폴링
-- 완료 시 자동으로 결과 로드
+- 실행 버튼 클릭 후 → 버튼 비활성화 + 스피너 표시
+- GitHub Actions API (`GET /repos/{owner}/{repo}/actions/runs`) 를 **5초 간격**으로 폴링
+- 최대 폴링 시간: **30분** (타임아웃 시 에러 메시지 표시 후 버튼 재활성화)
+- workflow 상태: `queued` / `in_progress` → 스피너 유지
+- workflow 상태: `completed` + conclusion `success` → 최신 JSON 자동 로드 후 표시
+- workflow 상태: `completed` + conclusion `failure` → "실행 중 오류가 발생했습니다" 메시지 + 버튼 재활성화
 
 ---
 
