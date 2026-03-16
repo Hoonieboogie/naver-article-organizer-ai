@@ -1,5 +1,7 @@
 {
-  "keywords": [],
+  "keywords": [
+    "현대자동차"
+  ],
   "articles_per_keyword": 2,
   "schedule": "0 1 * * *"
 }
