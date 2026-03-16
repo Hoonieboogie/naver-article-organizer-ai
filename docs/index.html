@@ -531,13 +531,7 @@
             "Content-Type": "application/json",
             Accept: "application/vnd.github.v3+json"
           },
-          body: JSON.stringify({
-            ref: "main",
-            inputs: {
-              // KST(UTC+9) 기준 오늘 날짜를 target_date로 전달
-              target_date: new Date(Date.now() + 9*60*60*1000).toISOString().slice(0, 10)
-            }
-          })
+          body: JSON.stringify({ ref: "main" })
         }
       );
       if (!res.ok) throw new Error("workflow dispatch 실패: " + res.status);
@@ -552,6 +546,19 @@
   function startPolling(token, repo) {
     let elapsed = 0;
     const MAX_WAIT = 30 * 60 * 1000;
+
+    const STEP_LABELS = {
+      "Checkout": "📥 코드 체크아웃",
+      "Set up Python": "🐍 Python 설치",
+      "Install dependencies": "📦 패키지 설치",
+      "Run news monitor": "📰 기사 수집 · 요약 중",
+      "Commit results": "💾 결과 저장 중",
+    };
+
+    function setStatus(msg) {
+      document.getElementById("runHint").textContent = msg;
+    }
+
     pollingInterval = setInterval(async () => {
       elapsed += 5000;
       if (elapsed > MAX_WAIT) {
@@ -568,6 +575,7 @@
         const data = await res.json();
         const run = data.workflow_runs?.[0];
         if (!run) return;
+
         if (run.status === "completed") {
           clearInterval(pollingInterval);
           if (run.conclusion === "success") {
@@ -577,7 +585,29 @@
             showToast("실행 중 오류가 발생했습니다.");
           }
           resetRunBtn();
+          return;
         }
+
+        // 현재 실행 중인 스텝 표시
+        try {
+          const jobsRes = await fetch(
+            `https://api.github.com/repos/${repo}/actions/runs/${run.id}/jobs`,
+            { headers: { Authorization: `token ${token}`, Accept: "application/vnd.github.v3+json" } }
+          );
+          const jobsData = await jobsRes.json();
+          const job = jobsData.jobs?.[0];
+          if (job) {
+            const activeStep = job.steps?.find(s => s.status === "in_progress")
+              ?? [...(job.steps || [])].reverse().find(s => s.status === "completed");
+            const label = activeStep
+              ? (STEP_LABELS[activeStep.name] ?? activeStep.name)
+              : "준비 중";
+            const mins = Math.floor(elapsed / 60000);
+            const secs = String(Math.floor((elapsed % 60000) / 1000)).padStart(2, "0");
+            setStatus(`${label} (${mins}:${secs} 경과)`);
+          }
+        } catch { /* 스텝 조회 실패 시 무시 */ }
+
       } catch { /* 네트워크 오류 무시, 계속 폴링 */ }
     }, 5000);
   }
