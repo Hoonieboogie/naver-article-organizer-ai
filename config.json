@@ -2,6 +2,6 @@
   "keywords": [
     "현대자동차"
   ],
-  "articles_per_keyword": 5,
+  "articles_per_keyword": 4,
   "schedule": "0 1 * * *"
 }
