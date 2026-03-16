@@ -34,7 +34,14 @@ def main():
         print("config.json에 키워드가 없습니다. 종료합니다.")
         sys.exit(0)
 
-    run_date = datetime.now(tz=KST)
+    target_date_str = os.environ.get("TARGET_DATE", "").strip()
+    if target_date_str:
+        # 지정 날짜 10:00 KST 기준으로 윈도우 계산 (전날 10:00 ~ 당일 09:00)
+        target = datetime.strptime(target_date_str, "%Y-%m-%d")
+        run_date = target.replace(hour=10, minute=0, second=0, microsecond=0, tzinfo=KST)
+        print(f"대상 날짜 지정: {target_date_str}")
+    else:
+        run_date = datetime.now(tz=KST)
     print(f"실행 시작: {run_date.isoformat()}")
     print(f"키워드: {keywords} / 키워드당 기사 수: {articles_per_keyword}")
 

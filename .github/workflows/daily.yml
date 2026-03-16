@@ -4,6 +4,12 @@ on:
   schedule:
     - cron: '0 1 * * *'   # 매일 10:00 KST (UTC 01:00)
   workflow_dispatch:        # 웹 UI "실행" 버튼에서 수동 트리거
+    inputs:
+      target_date:
+        description: '수집 날짜 (YYYY-MM-DD, 비워두면 오늘 KST 기준)'
+        required: false
+        type: string
+        default: ''
 
 jobs:
   run:
@@ -28,6 +34,7 @@ jobs:
           NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
           NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          TARGET_DATE: ${{ github.event.inputs.target_date }}
         run: python run.py
 
       - name: Commit results
