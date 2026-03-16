@@ -227,6 +227,7 @@
     <div class="sidebar-section" style="margin-top:auto;">
       <button class="run-btn" id="runBtn" onclick="runWorkflow()">▶ 실행</button>
       <div class="run-hint" id="runHint">약 15~20분 소요</div>
+      <button class="settings-btn" onclick="openPatModal()">🔑 토큰 변경</button>
     </div>
   </aside>
 
@@ -234,6 +235,21 @@
     <div class="empty-state">키워드를 선택하거나 실행해 주세요.</div>
   </main>
 
+</div>
+
+<!-- PAT 모달 -->
+<div class="modal-overlay hidden" id="patModal">
+  <div class="modal">
+    <h3>🔑 액세스 토큰 등록</h3>
+    <p>키워드 관리 및 실행 기능을 사용하려면 GitHub Personal Access Token이 필요합니다.<br>
+    <code>repo</code> + <code>workflow</code> 권한의 Classic PAT를 입력하세요.<br>
+    <small style="color:#aaa">한 번 등록하면 이 기기에서는 다시 입력하지 않아도 됩니다.</small></p>
+    <input type="password" id="patInput" placeholder="ghp_xxxxxxxxxxxx" style="width:100%;padding:9px 12px;border:1px solid #ddd;border-radius:6px;font-size:13px;margin-bottom:12px;outline:none;font-family:monospace">
+    <div style="display:flex;gap:8px;justify-content:flex-end">
+      <button style="padding:8px 18px;border-radius:6px;font-size:13px;cursor:pointer;border:none;background:#eee;color:#333" onclick="closePatModal()">나중에</button>
+      <button style="padding:8px 18px;border-radius:6px;font-size:13px;cursor:pointer;border:none;background:#4285f4;color:white" onclick="savePat()">저장</button>
+    </div>
+  </div>
 </div>
 
 <div class="toast" id="toast"></div>
@@ -247,23 +263,29 @@
 
   const BASE_DATA_URL = "./data/";
 
-  // URL 해시에 토큰이 있으면 localStorage에 저장 후 해시 제거
-  // 공유 URL: https://.../#token=ghp_xxxx
-  function initTokenFromHash() {
-    const hash = window.location.hash.slice(1);
-    const params = new URLSearchParams(hash);
-    const t = params.get("token");
-    if (t) {
-      localStorage.setItem("gh_token", t);
-      history.replaceState(null, "", window.location.pathname + window.location.search);
-    }
-  }
-
   async function init() {
-    initTokenFromHash();
     updateHeaderDate();
     await loadConfig();
     await scanAvailableDates();
+    if (!localStorage.getItem("gh_token")) openPatModal();
+  }
+
+  function openPatModal() {
+    document.getElementById("patInput").value = localStorage.getItem("gh_token") || "";
+    document.getElementById("patModal").classList.remove("hidden");
+  }
+
+  function closePatModal() {
+    document.getElementById("patModal").classList.add("hidden");
+  }
+
+  function savePat() {
+    const token = document.getElementById("patInput").value.trim();
+    if (!token) { showToast("토큰을 입력해주세요."); return; }
+    localStorage.setItem("gh_token", token);
+    closePatModal();
+    showToast("저장됨 ✓");
+    loadConfig();
   }
 
   function updateHeaderDate() {
