@@ -157,6 +157,16 @@
 
     .empty-state { text-align: center; color: #aaa; padding: 60px 20px; font-size: 14px; }
 
+    .keyword-section { margin-bottom: 24px; }
+    .section-header {
+      display: flex; align-items: center; justify-content: space-between;
+      font-size: 15px; font-weight: 700; padding: 8px 0;
+      border-bottom: 2px solid #e0e0e0; margin-bottom: 10px; color: #333;
+      position: sticky; top: 0; background: #f5f6fa; z-index: 1;
+    }
+    .section-count { font-size: 12px; color: #999; font-weight: 400; }
+    .section-empty { font-size: 13px; color: #aaa; padding: 10px 0; }
+
     /* ── 모달 ── */
     .modal-overlay {
       position: fixed; inset: 0; background: rgba(0,0,0,.5);
@@ -322,7 +332,7 @@
       const el = document.createElement("div");
       el.className = "keyword-item" + (kw === currentKeyword ? " active" : "");
       el.innerHTML = `
-        <span onclick="selectKeyword('${kw}')" style="flex:1;cursor:pointer">${kw}</span>
+        <span onclick="selectKeyword(${JSON.stringify(kw)})" style="flex:1;cursor:pointer">${kw}</span>
         <span class="badge" id="badge-${kw}">-</span>
         <span class="del-btn" onclick="removeKeyword('${kw}')">✕</span>
       `;
@@ -376,89 +386,91 @@
       const badge = document.getElementById("badge-" + kd.keyword);
       if (badge) badge.textContent = kd.articles.length;
     });
-    if (!currentKeyword && data.keywords && data.keywords.length > 0) {
-      selectKeyword(data.keywords[0].keyword, data);
-    } else if (currentKeyword) {
-      const kd = (data.keywords || []).find(k => k.keyword === currentKeyword);
-      if (kd) renderArticles(kd, data.date);
-    }
     window.__lastData = data;
+    renderAllArticles(data);
 
     // 요약 안 된 데이터면 AI 요약 버튼 표시
     const sumBtn = document.getElementById("sumBtn");
     sumBtn.style.display = (data.summarized === false) ? "" : "none";
   }
 
-  function selectKeyword(kw, data) {
+  function selectKeyword(kw) {
     currentKeyword = kw;
     renderKeywordList();
-    const d = data || window.__lastData;
-    if (!d) {
-      document.getElementById("mainPanel").innerHTML = `<div class="empty-state">날짜를 선택하거나 <strong>실행</strong> 버튼으로 수집을 시작하세요.</div>`;
-      return;
-    }
-    const kd = (d.keywords || []).find(k => k.keyword === kw);
-    if (kd) {
-      renderArticles(kd, d.date);
-    } else {
-      renderArticles({ keyword: kw, articles: [] }, d.date);
+    const section = document.getElementById("section-" + CSS.escape(kw));
+    if (section) {
+      section.scrollIntoView({ behavior: "smooth", block: "start" });
     }
   }
 
-  function renderArticles(kwData, date) {
+  function renderAllArticles(data) {
     const panel = document.getElementById("mainPanel");
-    const articles = kwData.articles || [];
+    const keywords = data.keywords || [];
+    const totalArticles = keywords.reduce((sum, k) => sum + (k.articles || []).length, 0);
 
-    if (articles.length === 0) {
-      panel.innerHTML = `
-        <div class="empty-state">
-          <div style="font-size:36px;margin-bottom:10px">📭</div>
-          <div style="font-weight:600;font-size:15px;color:#555;margin-bottom:6px">"${kwData.keyword}" 기사가 없습니다</div>
-          <div style="font-size:12px;color:#aaa;line-height:1.7">
-            이 날짜 데이터에 <strong>${kwData.keyword}</strong> 키워드 결과가 없습니다.<br>
-            수집 윈도우: 전날 10:00 KST ~ 실행 시각<br><br>
-            <strong>실행</strong> 버튼을 눌러 지금 바로 수집하세요.
-          </div>
-        </div>`;
+    if (keywords.length === 0) {
+      panel.innerHTML = `<div class="empty-state">키워드를 추가하고 실행해 주세요.</div>`;
       return;
     }
 
     panel.innerHTML = `
       <div class="main-header">
-        <div>
-          <span style="font-size:18px;font-weight:700">${kwData.keyword}</span>
-          <span class="meta">${date} · ${articles.length}개 기사</span>
-        </div>
+        <span class="meta">${data.date} · 총 ${totalArticles}개 기사</span>
         <button class="copy-btn" id="copyBtn" onclick="copySelected()" disabled>📋 선택 항목 복사</button>
       </div>
       <div id="articleList"></div>
     `;
 
     const list = document.getElementById("articleList");
-    articles.forEach((art, i) => {
-      const isPending = art.source === "pending";
-      const isShallow = art.source === "description";
-      const card = document.createElement("div");
-      card.className = "article-card" + (isShallow ? " shallow" : "");
-      const bodyText = isPending
-        ? `<div class="article-summary" style="color:#999;font-style:italic">${art.description || "본문 없음"}</div>`
-        : `<div class="article-summary">${art.summary || art.description || ""}</div>`;
-      card.innerHTML = `
-        <input type="checkbox" id="chk-${i}" onchange="onCheckChange()">
-        <div class="article-body">
-          <div class="article-title">
-            ${art.title}
-            <a href="${art.url}" target="_blank" rel="noopener">↗</a>
-          </div>
-          ${bodyText}
-          <div class="article-meta">
-            ${isPending ? '<span class="shallow-badge">AI 요약 전</span>' : ""}
-            ${isShallow ? '<span class="shallow-badge">⚠️ 발췌문 기반</span>' : ""}
-            ${formatTime(art.published_at)}
-          </div>
-        </div>
-      `;
-      list.appendChild(card);
+    let cardIndex = 0;
+
+    keywords.forEach(kd => {
+      const articles = kd.articles || [];
+      const section = document.createElement("div");
+      section.className = "keyword-section";
+      section.id = "section-" + kd.keyword;
+
+      const header = document.createElement("div");
+      header.className = "section-header";
+      header.innerHTML = `<span>${kd.keyword}</span><span class="section-count">${articles.length}개</span>`;
+      section.appendChild(header);
+
+      if (articles.length === 0) {
+        const empty = document.createElement("div");
+        empty.className = "section-empty";
+        empty.textContent = "수집된 기사가 없습니다.";
+        section.appendChild(empty);
+      } else {
+        articles.forEach(art => {
+          const idx = cardIndex++;
+          const isPending = art.source === "pending";
+          const isShallow = art.source === "description";
+          const card = document.createElement("div");
+          card.className = "article-card" + (isShallow ? " shallow" : "");
+          card.dataset.keyword = kd.keyword;
+          card.dataset.url = art.url;
+          const bodyText = isPending
+            ? `<div class="article-summary" style="color:#999;font-style:italic">${art.description || "본문 없음"}</div>`
+            : `<div class="article-summary">${art.summary || art.description || ""}</div>`;
+          card.innerHTML = `
+            <input type="checkbox" id="chk-${idx}" onchange="onCheckChange()">
+            <div class="article-body">
+              <div class="article-title">
+                ${art.title}
+                <a href="${art.url}" target="_blank" rel="noopener">↗</a>
+              </div>
+              ${bodyText}
+              <div class="article-meta">
+                ${isPending ? '<span class="shallow-badge">AI 요약 전</span>' : ""}
+                ${isShallow ? '<span class="shallow-badge">⚠️ 발췌문 기반</span>' : ""}
+                ${formatTime(art.published_at)}
+              </div>
+            </div>
+          `;
+          section.appendChild(card);
+        });
+      }
+      list.appendChild(section);
     });
   }
 
@@ -472,23 +484,29 @@
   }
 
   function onCheckChange() {
-    const anyChecked = document.querySelectorAll("#articleList input[type=checkbox]:checked").length > 0;
+    const anyChecked = document.querySelectorAll(".article-card input[type=checkbox]:checked").length > 0;
     const btn = document.getElementById("copyBtn");
     if (btn) btn.disabled = !anyChecked;
-    document.querySelectorAll(".article-card").forEach((card, i) => {
-      const chk = document.getElementById("chk-" + i);
+    document.querySelectorAll(".article-card").forEach(card => {
+      const chk = card.querySelector("input[type=checkbox]");
       if (chk) card.classList.toggle("checked", chk.checked);
     });
   }
 
   function copySelected() {
-    if (!currentKeyword || !window.__lastData) return;
-    const kd = (window.__lastData.keywords || []).find(k => k.keyword === currentKeyword);
-    if (!kd) return;
-    const checked = document.querySelectorAll("#articleList input[type=checkbox]:checked");
-    const indices = Array.from(checked).map(el => parseInt(el.id.replace("chk-", "")));
-    const urls = indices.map(i => kd.articles[i]?.url).filter(Boolean);
-    const text = currentKeyword + "\n" + urls.map(u => "* " + u).join("\n");
+    const checkedCards = document.querySelectorAll(".article-card input[type=checkbox]:checked");
+    if (!checkedCards.length) return;
+    const grouped = {};
+    checkedCards.forEach(chk => {
+      const card = chk.closest(".article-card");
+      const kw = card.dataset.keyword;
+      const url = card.dataset.url;
+      if (!grouped[kw]) grouped[kw] = [];
+      grouped[kw].push(url);
+    });
+    const text = Object.entries(grouped)
+      .map(([kw, urls]) => kw + "\n" + urls.map(u => "* " + u).join("\n"))
+      .join("\n\n");
     navigator.clipboard.writeText(text).then(() => showToast("복사됨!"));
   }
 
