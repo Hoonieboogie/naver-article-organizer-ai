@@ -630,12 +630,23 @@
           const secs = String(Math.floor((elapsed % 60000) / 1000)).padStart(2, "0");
           const activeStep = job.steps?.find(s => s.status === "in_progress");
 
-          let label = "⏳ 준비 중";
-          if (activeStep?.name === "Run news monitor") {
+          const SETUP_LABELS = {
+            "Checkout": "⬇️ 코드 준비 중",
+            "Set up Python": "🐍 Python 환경 설정 중",
+            "Install dependencies": "📦 패키지 설치 중",
+          };
+          let label;
+          if (!activeStep) {
+            label = run.status === "queued" ? "⏳ 실행 대기 중" : "⏳ 시작 중";
+          } else if (SETUP_LABELS[activeStep.name]) {
+            label = SETUP_LABELS[activeStep.name];
+          } else if (activeStep.name === "Run news monitor") {
             const logStatus = await fetchStatusFromLogs(job.id);
             label = logStatus ? `📰 ${logStatus}` : "📰 기사 수집 중";
-          } else if (activeStep?.name === "Commit results") {
+          } else if (activeStep.name === "Commit results") {
             label = "💾 결과 저장 중";
+          } else {
+            label = "⏳ 준비 중";
           }
           setStatus(`${label} (${mins}:${secs} 경과)`);
         } catch { /* 스텝 조회 실패 시 무시 */ }
