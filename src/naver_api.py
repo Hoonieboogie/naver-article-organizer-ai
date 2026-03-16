@@ -14,17 +14,10 @@ def parse_pub_date(pub_date_str: str) -> datetime:
 
 def is_in_window(article_dt: datetime, run_date: datetime) -> bool:
     """
-    수집 윈도우 확인: 전날 10:00 KST ~ 당일 09:00 KST
-    run_date: 실행 시각 (당일 10:00 KST 기준)
+    수집 윈도우 확인: run_date 기준 KST 당일 00:00 ~ 23:59
+    언제 실행해도 오늘 날짜 기사만 수집한다.
     """
-    run_date_kst = run_date.astimezone(KST)
-    today = run_date_kst.date()
-    yesterday = today - timedelta(days=1)
-
-    window_start = datetime(yesterday.year, yesterday.month, yesterday.day, 10, 0, 0, tzinfo=KST)
-    window_end   = datetime(today.year,     today.month,     today.day,     9, 0, 0, tzinfo=KST)
-
-    return window_start <= article_dt < window_end
+    return article_dt.astimezone(KST).date() == run_date.astimezone(KST).date()
 
 
 def _strip_html(text: str) -> str:

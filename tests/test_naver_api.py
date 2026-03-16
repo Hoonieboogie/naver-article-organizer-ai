@@ -23,9 +23,15 @@ def test_is_in_window_excludes_article_before_window():
     article_dt = datetime(2026, 3, 15, 9, 0, 0, tzinfo=KST)
     assert is_in_window(article_dt, run_date) is False
 
-def test_is_in_window_excludes_article_after_window():
+def test_is_in_window_includes_article_same_day_any_hour():
+    # 같은 날이면 시간 무관하게 포함 (오전/오후 모두)
     run_date = datetime(2026, 3, 16, 10, 0, 0, tzinfo=KST)
-    article_dt = datetime(2026, 3, 16, 9, 30, 0, tzinfo=KST)
+    article_dt = datetime(2026, 3, 16, 22, 0, 0, tzinfo=KST)
+    assert is_in_window(article_dt, run_date) is True
+
+def test_is_in_window_excludes_different_date():
+    run_date = datetime(2026, 3, 16, 10, 0, 0, tzinfo=KST)
+    article_dt = datetime(2026, 3, 17, 0, 30, 0, tzinfo=KST)
     assert is_in_window(article_dt, run_date) is False
 
 def test_fetch_articles_calls_naver_api(mocker):
