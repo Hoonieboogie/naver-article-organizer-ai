@@ -227,7 +227,6 @@
     <div class="sidebar-section" style="margin-top:auto;">
       <button class="run-btn" id="runBtn" onclick="runWorkflow()">▶ 실행</button>
       <div class="run-hint" id="runHint">약 15~20분 소요</div>
-      <button class="settings-btn" onclick="openSettings()">⚙️ GitHub 설정</button>
     </div>
   </aside>
 
@@ -237,29 +236,17 @@
 
 </div>
 
-<!-- PAT 모달 -->
-<div class="modal-overlay" id="patModal">
-  <div class="modal">
-    <h3>🔑 GitHub 액세스 토큰</h3>
-    <p>
-      키워드 관리 및 실행 기능을 사용하려면 GitHub Personal Access Token이 필요합니다.<br>
-      <code>repo</code> + <code>workflow</code> 권한이 포함된 Classic PAT를 입력해주세요.
-    </p>
-    <input type="password" id="patInput" placeholder="ghp_xxxxxxxxxxxx">
-    <div id="repoDetected" style="font-size:12px;color:#888;margin-bottom:12px;display:none"></div>
-    <div id="repoManualRow" style="display:none">
-      <input type="text" id="repoInput" placeholder="owner/repo-name (예: johndoe/news-monitor)">
-    </div>
-    <div class="modal-actions">
-      <button class="btn-secondary" onclick="closePatModal()">나중에</button>
-      <button class="btn-primary" onclick="savePat()">저장</button>
-    </div>
-  </div>
-</div>
-
 <div class="toast" id="toast"></div>
 
 <script>
+  // ========================================================
+  // ⚙️  배포 설정: 아래 두 값을 채워주세요.
+  //   GH_TOKEN : repo + workflow 권한의 Classic PAT
+  //   GH_REPO  : 비워두면 GitHub Pages URL에서 자동 감지
+  // ========================================================
+  const GH_TOKEN = "";   // 예: "ghp_xxxxxxxxxxxxxxxxxxxx"
+  const GH_REPO  = "";   // 예: "owner/repo-name" (비워두면 자동)
+
   let config = { keywords: [], articles_per_keyword: 10 };
   let currentKeyword = null;
   let currentDate = null;
@@ -272,7 +259,6 @@
     updateHeaderDate();
     await loadConfig();
     await scanAvailableDates();
-    checkPatModal();
   }
 
   function updateHeaderDate() {
@@ -284,7 +270,7 @@
   // config.json은 docs/ 밖(레포 루트)에 있어 GitHub Pages에서 직접 접근 불가.
   // PAT가 있으면 GitHub Contents API로 읽고, 없으면 빈 기본값을 사용한다.
   async function loadConfig() {
-    const { token, repo } = getStoredPat();
+    const { token, repo } = getCredentials();
     if (token && repo) {
       try {
         const res = await fetch(
@@ -498,7 +484,7 @@
   }
 
   async function saveConfig() {
-    const { token, repo } = getStoredPat();
+    const { token, repo } = getCredentials();
     if (!token || !repo) { showToast("GitHub 설정이 필요합니다."); return; }
     try {
       const metaRes = await fetch(`https://api.github.com/repos/${repo}/contents/config.json`, {
@@ -523,8 +509,8 @@
   }
 
   async function runWorkflow() {
-    const { token, repo } = getStoredPat();
-    if (!token || !repo) { openSettings(); return; }
+    const { token, repo } = getCredentials();
+    if (!token || !repo) { showToast("GH_TOKEN / GH_REPO 설정이 필요합니다."); return; }
     const btn = document.getElementById("runBtn");
     btn.disabled = true;
     btn.innerHTML = '<div class="spinner"></div> 실행 중...';
@@ -597,70 +583,19 @@
     document.getElementById("runHint").textContent = "약 15~20분 소요";
   }
 
-  function detectRepo() {
-    // GitHub Pages URL (https://username.github.io/repo-name/) 에서 자동 감지
-    const host = window.location.hostname;
-    const path = window.location.pathname;
-    if (host.endsWith(".github.io")) {
-      const username = host.replace(".github.io", "");
-      const repo = path.split("/").filter(Boolean)[0] || "";
-      if (username && repo) return `${username}/${repo}`;
+  function getCredentials() {
+    // GH_REPO: 상수 → URL 자동 감지 순으로 결정
+    let repo = GH_REPO;
+    if (!repo) {
+      const host = window.location.hostname;
+      const path = window.location.pathname;
+      if (host.endsWith(".github.io")) {
+        const username = host.replace(".github.io", "");
+        const segment  = path.split("/").filter(Boolean)[0] || "";
+        if (username && segment) repo = `${username}/${segment}`;
+      }
     }
-    return localStorage.getItem("gh_repo") || "";
-  }
-
-  function getStoredPat() {
-    return {
-      token: localStorage.getItem("gh_token") || "",
-      repo:  detectRepo()
-    };
-  }
-
-  function checkPatModal() {
-    const { token } = getStoredPat();
-    if (!token) openPatModal();
-  }
-
-  function openPatModal() {
-    const token = localStorage.getItem("gh_token") || "";
-    document.getElementById("patInput").value = token;
-
-    const autoRepo = detectRepo();
-    const detectedEl = document.getElementById("repoDetected");
-    const manualRow  = document.getElementById("repoManualRow");
-    if (autoRepo && window.location.hostname.endsWith(".github.io")) {
-      detectedEl.textContent = "✅ 레포 자동 감지: " + autoRepo;
-      detectedEl.style.display = "block";
-      manualRow.style.display  = "none";
-    } else {
-      detectedEl.style.display = "none";
-      manualRow.style.display  = "block";
-      document.getElementById("repoInput").value = autoRepo;
-    }
-    document.getElementById("patModal").classList.remove("hidden");
-  }
-
-  function closePatModal() {
-    document.getElementById("patModal").classList.add("hidden");
-  }
-
-  function openSettings() { openPatModal(); }
-
-  function savePat() {
-    const token = document.getElementById("patInput").value.trim();
-    if (!token) { showToast("토큰을 입력해주세요."); return; }
-    localStorage.setItem("gh_token", token);
-
-    // GitHub Pages가 아닌 경우 수동 입력한 레포 저장
-    const manualRow = document.getElementById("repoManualRow");
-    if (manualRow.style.display !== "none") {
-      const repo = document.getElementById("repoInput").value.trim();
-      if (!repo) { showToast("레포 정보를 입력해주세요."); return; }
-      localStorage.setItem("gh_repo", repo);
-    }
-    closePatModal();
-    showToast("저장됨 ✓");
-    loadConfig();
+    return { token: GH_TOKEN, repo };
   }
 
   document.getElementById("newKeywordInput").addEventListener("keydown", e => {
