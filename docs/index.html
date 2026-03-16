@@ -334,20 +334,13 @@
 
   async function scanAvailableDates() {
     availableDates = [];
-    const today = new Date();
-    const checks = [];
-    for (let i = 0; i < 30; i++) {
-      const d = new Date(today);
-      d.setDate(d.getDate() - i);
-      const dateStr = d.toISOString().slice(0, 10);
-      checks.push(
-        fetch(BASE_DATA_URL + dateStr + ".json", { method: "HEAD" })
-          .then(r => r.ok ? dateStr : null)
-          .catch(() => null)
-      );
-    }
-    const results = await Promise.all(checks);
-    availableDates = results.filter(Boolean).sort().reverse();
+    try {
+      const res = await fetch(BASE_DATA_URL + "index.json?t=" + Date.now());
+      if (res.ok) {
+        const data = await res.json();
+        availableDates = (data.dates || []).sort().reverse();
+      }
+    } catch { /* index.json 없으면 빈 목록 */ }
     renderDateSelect();
     if (availableDates.length > 0) loadDate(availableDates[0]);
   }
