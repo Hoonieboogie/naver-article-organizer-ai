@@ -25,14 +25,18 @@ class Summarizer:
         self._call_count = 0
 
     def summarize(self, title: str, content: str) -> str:
-        """기사 제목과 본문을 받아 요약문을 반환한다. 분당 10회 제한 준수."""
+        """기사 제목과 본문을 받아 요약문을 반환한다. 실패 시 빈 문자열 반환."""
         if self._call_count > 0:
             time.sleep(6)  # 분당 10회 = 6초 간격
 
         prompt = PROMPT_TEMPLATE.format(title=title, content=content[:8000])
-        response = self._client.models.generate_content(
-            model=self.MODEL,
-            contents=prompt,
-        )
-        self._call_count += 1
-        return response.text.strip()
+        try:
+            response = self._client.models.generate_content(
+                model=self.MODEL,
+                contents=prompt,
+            )
+            self._call_count += 1
+            return response.text.strip()
+        except Exception as e:
+            print(f"    [WARN] 요약 실패 ({type(e).__name__}): {e}")
+            return ""
