@@ -1,0 +1,12 @@
+# Worktrees
+.worktrees/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.env
+.env
+
+# 브라우저 세션 (비주얼 컴패니언)
+.superpowers/
