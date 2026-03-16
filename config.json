@@ -2,6 +2,6 @@
   "keywords": [
     "무신사"
   ],
-  "articles_per_keyword": 20,
+  "articles_per_keyword": 10,
   "schedule": "0 1 * * *"
 }
