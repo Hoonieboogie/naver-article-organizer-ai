@@ -76,7 +76,7 @@ repo/
         {
           "title": "삼성전자, 3나노 양산 본격화",
           "url": "https://...",
-          "published_at": "2026-03-16T08:30:00",  // 네이버 API RFC 822 → ISO 8601 변환 (run.py 담당)
+          "published_at": "2026-03-16T08:30:00",
           "summary": "삼성전자는 3나노 2세대 공정 양산을 시작했으며...",
           "source": "url_context"
         }
@@ -96,7 +96,8 @@ repo/
 
 - **API**: 네이버 검색 API (뉴스)
 - **인증**: Client ID / Client Secret (GitHub Actions Secret으로 관리)
-- **기간 필터**: 전날 10:00 KST ~ 당일 09:00 KST 사이 발행 기사 (의도적 23시간 윈도우 — 당일 실행과 겹침 방지)
+- **기간 필터**: 전날 10:00 KST ~ 당일 09:00 KST 사이 발행 기사 (23시간 윈도우 — 당일 실행과 겹침 방지)
+- **날짜 변환**: 네이버 API `pubDate` 필드(RFC 822) → ISO 8601 변환은 `run.py`가 담당
 - **수량**: `config.json`의 `articles_per_keyword` 값 (최대 20개)
 
 ### 6-2. 기사 원문 수집 — 3단계 Fallback
