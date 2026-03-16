@@ -1,6 +1,7 @@
 {
   "keywords": [
-    "삼성전자"
+    "삼성전자",
+    "아모레퍼시픽"
   ],
   "articles_per_keyword": 3,
   "schedule": "0 1 * * *"
