@@ -565,7 +565,7 @@
             "Content-Type": "application/json",
             Accept: "application/vnd.github.v3+json"
           },
-          body: JSON.stringify({ ref: "main", inputs: { phase: "all" } })
+          body: JSON.stringify({ ref: "main", inputs: { phase: "fetch" } })
         }
       );
       if (!res.ok) throw new Error("workflow dispatch 실패: " + res.status);
