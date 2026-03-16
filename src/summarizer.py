@@ -18,7 +18,7 @@ PROMPT_TEMPLATE = """다음 기사를 요약해줘.
 
 
 class Summarizer:
-    MODEL = "gemini-1.5-flash"
+    MODEL = "gemini-2.0-flash"
 
     def __init__(self, api_key: str):
         self._client = genai.Client(api_key=api_key)
