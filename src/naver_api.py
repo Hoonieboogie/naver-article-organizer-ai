@@ -45,7 +45,7 @@ class NaverNewsClient:
         """
         params = {
             "query": keyword,
-            "display": min(max_count * 3, 100),  # 필터 후 충분히 남도록 여유있게 요청
+            "display": 100,  # 최대치 요청 후 날짜 필터로 추림
             "sort": "date",
         }
         response = requests.get(self.API_URL, headers=self.headers, params=params)
