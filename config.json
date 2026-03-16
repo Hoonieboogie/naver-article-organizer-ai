@@ -1,5 +1,7 @@
 {
-  "keywords": ["삼성전자"],
-  "articles_per_keyword": 10,
+  "keywords": [
+    "현대자동차"
+  ],
+  "articles_per_keyword": 1,
   "schedule": "0 1 * * *"
 }
