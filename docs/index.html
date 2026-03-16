@@ -100,6 +100,14 @@
     }
     .run-btn:disabled { background: #aaa; cursor: not-allowed; }
     .run-btn:not(:disabled):hover { background: #2d924a; }
+    .sum-btn {
+      width: 100%; padding: 10px; background: #f29900; color: white;
+      border: none; border-radius: 6px; font-size: 13px; font-weight: 600;
+      cursor: pointer; display: flex; align-items: center; justify-content: center; gap: 6px;
+      transition: background .15s;
+    }
+    .sum-btn:disabled { background: #aaa; cursor: not-allowed; }
+    .sum-btn:not(:disabled):hover { background: #d98a00; }
     .run-hint { font-size: 10px; color: #999; text-align: center; }
 
     .settings-btn {
@@ -225,8 +233,9 @@
     </div>
 
     <div class="sidebar-section" style="margin-top:auto;">
-      <button class="run-btn" id="runBtn" onclick="runWorkflow()">▶ 실행</button>
-      <div class="run-hint" id="runHint">약 15~20분 소요</div>
+      <button class="run-btn" id="runBtn" onclick="runWorkflow('fetch')">▶ 실행</button>
+      <button class="sum-btn" id="sumBtn" onclick="runWorkflow('summarize')" style="display:none;margin-top:6px">🤖 AI 요약하기</button>
+      <div class="run-hint" id="runHint">약 2~3분 소요</div>
     </div>
   </aside>
 
@@ -358,6 +367,10 @@
       if (kd) renderArticles(kd, data.date);
     }
     window.__lastData = data;
+
+    // 요약 안 된 데이터면 AI 요약 버튼 표시
+    const sumBtn = document.getElementById("sumBtn");
+    sumBtn.style.display = (data.summarized === false) ? "" : "none";
   }
 
   function selectKeyword(kw, data) {
@@ -407,9 +420,13 @@
 
     const list = document.getElementById("articleList");
     articles.forEach((art, i) => {
+      const isPending = art.source === "pending";
       const isShallow = art.source === "description";
       const card = document.createElement("div");
       card.className = "article-card" + (isShallow ? " shallow" : "");
+      const bodyText = isPending
+        ? `<div class="article-summary" style="color:#999;font-style:italic">${art.description || "본문 없음"}</div>`
+        : `<div class="article-summary">${art.summary || art.description || ""}</div>`;
       card.innerHTML = `
         <input type="checkbox" id="chk-${i}" onchange="onCheckChange()">
         <div class="article-body">
@@ -417,10 +434,11 @@
             ${art.title}
             <a href="${art.url}" target="_blank" rel="noopener">↗</a>
           </div>
-          <div class="article-summary">${art.summary}</div>
+          ${bodyText}
           <div class="article-meta">
+            ${isPending ? '<span class="shallow-badge">AI 요약 전</span>' : ""}
             ${isShallow ? '<span class="shallow-badge">⚠️ 발췌문 기반</span>' : ""}
-            ${formatTime(art.published_at)} · ${art.source}
+            ${formatTime(art.published_at)}
           </div>
         </div>
       `;
@@ -507,13 +525,18 @@
     }
   }
 
-  async function runWorkflow() {
+  async function runWorkflow(phase = 'fetch') {
     const { token, repo } = getCredentials();
     if (!token || !repo) { showToast("GH_TOKEN / GH_REPO 설정이 필요합니다."); return; }
-    const btn = document.getElementById("runBtn");
+
+    const isFetch = phase === 'fetch';
+    const btn = document.getElementById(isFetch ? "runBtn" : "sumBtn");
+    const otherBtn = document.getElementById(isFetch ? "sumBtn" : "runBtn");
     btn.disabled = true;
-    btn.innerHTML = '<div class="spinner"></div> 실행 중...';
-    document.getElementById("runHint").textContent = "완료까지 15~20분 소요";
+    btn.innerHTML = `<div class="spinner"></div> ${isFetch ? "수집 중..." : "요약 중..."}`;
+    if (otherBtn) otherBtn.disabled = true;
+    document.getElementById("runHint").textContent = isFetch ? "기사 수집 중..." : "AI 요약 중...";
+
     try {
       const res = await fetch(
         `https://api.github.com/repos/${repo}/actions/workflows/daily.yml/dispatches`,
@@ -524,19 +547,19 @@
             "Content-Type": "application/json",
             Accept: "application/vnd.github.v3+json"
           },
-          body: JSON.stringify({ ref: "main" })
+          body: JSON.stringify({ ref: "main", inputs: { phase } })
         }
       );
       if (!res.ok) throw new Error("workflow dispatch 실패: " + res.status);
-      showToast("실행 시작됨! 완료까지 기다려주세요.");
-      setTimeout(() => startPolling(token, repo), 5000);
+      showToast(isFetch ? "기사 수집 시작!" : "AI 요약 시작!");
+      setTimeout(() => startPolling(token, repo, phase), 5000);
     } catch (e) {
       showToast("실행 실패: " + e.message);
-      resetRunBtn();
+      resetButtons();
     }
   }
 
-  function startPolling(token, repo) {
+  function startPolling(token, repo, phase = 'fetch') {
     let elapsed = 0;
     const MAX_WAIT = 30 * 60 * 1000;
 
@@ -565,7 +588,7 @@
       if (elapsed > MAX_WAIT) {
         clearInterval(pollingInterval);
         showToast("시간 초과: 나중에 다시 확인해주세요.");
-        resetRunBtn();
+        resetButtons();
         return;
       }
       try {
@@ -580,12 +603,13 @@
         if (run.status === "completed") {
           clearInterval(pollingInterval);
           if (run.conclusion === "success") {
-            showToast("완료! 결과를 불러옵니다...");
+            const msg = phase === 'fetch' ? "수집 완료! 기사를 불러옵니다..." : "요약 완료! 결과를 불러옵니다...";
+            showToast(msg);
             await scanAvailableDates();
           } else {
             showToast("실행 중 오류가 발생했습니다.");
           }
-          resetRunBtn();
+          resetButtons();
           return;
         }
 
@@ -628,11 +652,14 @@
     }, 5000);
   }
 
-  function resetRunBtn() {
-    const btn = document.getElementById("runBtn");
-    btn.disabled = false;
-    btn.innerHTML = "▶ 실행";
-    document.getElementById("runHint").textContent = "약 15~20분 소요";
+  function resetButtons() {
+    const runBtn = document.getElementById("runBtn");
+    runBtn.disabled = false;
+    runBtn.innerHTML = "▶ 실행";
+    const sumBtn = document.getElementById("sumBtn");
+    sumBtn.disabled = false;
+    sumBtn.innerHTML = "🤖 AI 요약하기";
+    document.getElementById("runHint").textContent = "약 2~3분 소요";
   }
 
   function getCredentials() {
