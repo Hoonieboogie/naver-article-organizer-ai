@@ -1,5 +1,5 @@
 {
-  "keywords": ["삼성전자"],
+  "keywords": [],
   "articles_per_keyword": 10,
   "schedule": "0 1 * * *"
 }
