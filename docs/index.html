@@ -547,18 +547,24 @@
     let elapsed = 0;
     const MAX_WAIT = 30 * 60 * 1000;
 
-    // "Run news monitor" 단계 내부를 경과 시간으로 추정
-    function getMonitorSubLabel(stepStartedAt) {
-      const stepElapsed = stepStartedAt
-        ? (Date.now() - new Date(stepStartedAt).getTime()) / 1000
-        : 0;
-      if (stepElapsed < 60)  return "📡 기사 수집 중";
-      if (stepElapsed < 600) return "🔍 기사 분석 · 요약 중";
-      return "📝 결과 작성 중";
-    }
-
     function setStatus(msg) {
       document.getElementById("runHint").textContent = msg;
+    }
+
+    // run.py의 [STATUS] 로그에서 마지막 상태 파싱
+    async function fetchStatusFromLogs(jobId) {
+      try {
+        const res = await fetch(
+          `https://api.github.com/repos/${repo}/actions/jobs/${jobId}/logs`,
+          { headers: { Authorization: `token ${token}` } }
+        );
+        if (!res.ok) return null;
+        const text = await res.text();
+        const lines = text.split("\n").filter(l => l.includes("[STATUS]"));
+        if (!lines.length) return null;
+        const match = lines[lines.length - 1].match(/\[STATUS\]\s+(.+)/);
+        return match ? match[1].trim() : null;
+      } catch { return null; }
     }
 
     pollingInterval = setInterval(async () => {
@@ -590,7 +596,7 @@
           return;
         }
 
-        // 현재 실행 중인 스텝 표시
+        // jobs API → 현재 스텝 확인 후 로그에서 [STATUS] 파싱
         try {
           const jobsRes = await fetch(
             `https://api.github.com/repos/${repo}/actions/runs/${run.id}/jobs`,
@@ -598,22 +604,20 @@
           );
           const jobsData = await jobsRes.json();
           const job = jobsData.jobs?.[0];
-          if (job) {
-            const activeStep = job.steps?.find(s => s.status === "in_progress");
-            const mins = Math.floor(elapsed / 60000);
-            const secs = String(Math.floor((elapsed % 60000) / 1000)).padStart(2, "0");
-            let label;
-            if (!activeStep) {
-              label = "⏳ 준비 중";
-            } else if (activeStep.name === "Run news monitor") {
-              label = getMonitorSubLabel(activeStep.started_at);
-            } else if (activeStep.name === "Commit results") {
-              label = "💾 결과 저장 중";
-            } else {
-              label = "⏳ 준비 중";  // Checkout / Set up Python / Install dependencies 숨김
-            }
-            setStatus(`${label} (${mins}:${secs} 경과)`);
+          if (!job) return;
+
+          const mins = Math.floor(elapsed / 60000);
+          const secs = String(Math.floor((elapsed % 60000) / 1000)).padStart(2, "0");
+          const activeStep = job.steps?.find(s => s.status === "in_progress");
+
+          let label = "⏳ 준비 중";
+          if (activeStep?.name === "Run news monitor") {
+            const logStatus = await fetchStatusFromLogs(job.id);
+            label = logStatus ? `📰 ${logStatus}` : "📰 기사 수집 중";
+          } else if (activeStep?.name === "Commit results") {
+            label = "💾 결과 저장 중";
           }
+          setStatus(`${label} (${mins}:${secs} 경과)`);
         } catch { /* 스텝 조회 실패 시 무시 */ }
 
       } catch { /* 네트워크 오류 무시, 계속 폴링 */ }

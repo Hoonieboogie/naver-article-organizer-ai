@@ -44,19 +44,19 @@ def main():
     writer = OutputWriter()
 
     keyword_results = []
+    total_kw = len(keywords)
 
-    for keyword in keywords:
-        print(f"\n[{keyword}] 기사 수집 중...")
+    for kw_idx, keyword in enumerate(keywords, 1):
+        print(f"[STATUS] 기사 수집 중 · {keyword} ({kw_idx}/{total_kw})")
         articles_meta = naver.fetch_articles(keyword, max_count=articles_per_keyword, run_date=run_date)
         print(f"  → {len(articles_meta)}개 기사 발견")
 
         articles_output = []
+        total_art = len(articles_meta)
         for i, meta in enumerate(articles_meta, 1):
-            print(f"  [{i}/{len(articles_meta)}] {meta['title'][:40]}...")
+            print(f"[STATUS] 분석 · 요약 중 · {keyword} ({kw_idx}/{total_kw}) — 기사 {i}/{total_art}")
 
             fetch_result = fetcher.fetch(meta["url"], fallback_description=meta["description"])
-            print(f"    수집 방법: {fetch_result.source}")
-
             summary = summarizer.summarize(title=meta["title"], content=fetch_result.content)
             print(f"    요약 완료 ({len(summary)}자)")
 
@@ -70,6 +70,7 @@ def main():
 
         keyword_results.append({"keyword": keyword, "articles": articles_output})
 
+    print("[STATUS] 결과 저장 중")
     output_path = writer.write(run_date=run_date, keyword_results=keyword_results)
     print(f"\n✅ 완료: {output_path}")
 
