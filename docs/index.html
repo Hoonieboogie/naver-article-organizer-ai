@@ -574,13 +574,15 @@
     let elapsed = 0;
     const MAX_WAIT = 30 * 60 * 1000;
 
-    const STEP_LABELS = {
-      "Checkout": "📥 코드 체크아웃",
-      "Set up Python": "🐍 Python 설치",
-      "Install dependencies": "📦 패키지 설치",
-      "Run news monitor": "📰 기사 수집 · 요약 중",
-      "Commit results": "💾 결과 저장 중",
-    };
+    // "Run news monitor" 단계 내부를 경과 시간으로 추정
+    function getMonitorSubLabel(stepStartedAt) {
+      const stepElapsed = stepStartedAt
+        ? (Date.now() - new Date(stepStartedAt).getTime()) / 1000
+        : 0;
+      if (stepElapsed < 60)  return "📡 기사 수집 중";
+      if (stepElapsed < 600) return "🔍 기사 분석 · 요약 중";
+      return "📝 결과 작성 중";
+    }
 
     function setStatus(msg) {
       document.getElementById("runHint").textContent = msg;
@@ -624,13 +626,19 @@
           const jobsData = await jobsRes.json();
           const job = jobsData.jobs?.[0];
           if (job) {
-            const activeStep = job.steps?.find(s => s.status === "in_progress")
-              ?? [...(job.steps || [])].reverse().find(s => s.status === "completed");
-            const label = activeStep
-              ? (STEP_LABELS[activeStep.name] ?? activeStep.name)
-              : "준비 중";
+            const activeStep = job.steps?.find(s => s.status === "in_progress");
             const mins = Math.floor(elapsed / 60000);
             const secs = String(Math.floor((elapsed % 60000) / 1000)).padStart(2, "0");
+            let label;
+            if (!activeStep) {
+              label = "⏳ 준비 중";
+            } else if (activeStep.name === "Run news monitor") {
+              label = getMonitorSubLabel(activeStep.started_at);
+            } else if (activeStep.name === "Commit results") {
+              label = "💾 결과 저장 중";
+            } else {
+              label = "⏳ 준비 중";  // Checkout / Set up Python / Install dependencies 숨김
+            }
             setStatus(`${label} (${mins}:${secs} 경과)`);
           }
         } catch { /* 스텝 조회 실패 시 무시 */ }
