@@ -236,6 +236,7 @@
       <button class="run-btn" id="runBtn" onclick="runWorkflow('fetch')">▶ 실행</button>
       <button class="sum-btn" id="sumBtn" onclick="runWorkflow('summarize')" style="display:none;margin-top:6px">🤖 AI 요약하기</button>
       <div class="run-hint" id="runHint">약 2~3분 소요</div>
+      <button class="settings-btn" onclick="openPatModal()">🔑 토큰 변경</button>
     </div>
   </aside>
 
@@ -246,6 +247,19 @@
 </div>
 
 <div class="toast" id="toast"></div>
+
+<!-- PAT 입력 모달 -->
+<div class="modal-overlay hidden" id="patModal">
+  <div class="modal">
+    <h3>🔑 GitHub 토큰 설정</h3>
+    <p>repo + workflow 권한의 Classic PAT를 입력하세요.<br>한 번 저장하면 이 브라우저에 계속 유지됩니다.</p>
+    <input type="text" id="patInput" placeholder="ghp_xxxxxxxxxxxxxxxxxxxx" autocomplete="off">
+    <div class="modal-actions">
+      <button class="btn-secondary" onclick="closePatModal()">취소</button>
+      <button class="btn-primary" onclick="savePat()">저장</button>
+    </div>
+  </div>
+</div>
 
 <script>
   // ========================================================
@@ -266,6 +280,8 @@
 
   async function init() {
     updateHeaderDate();
+    const { token } = getCredentials();
+    if (!token) { openPatModal(); return; }
     await loadConfig();
     await scanAvailableDates();
   }
@@ -663,7 +679,7 @@
   }
 
   function getCredentials() {
-    // GH_REPO: 상수 → URL 자동 감지 순으로 결정
+    const token = GH_TOKEN || localStorage.getItem("gh_pat") || "";
     let repo = GH_REPO;
     if (!repo) {
       const host = window.location.hostname;
@@ -674,7 +690,26 @@
         if (username && segment) repo = `${username}/${segment}`;
       }
     }
-    return { token: GH_TOKEN, repo };
+    return { token, repo };
+  }
+
+  function openPatModal() {
+    const current = localStorage.getItem("gh_pat") || "";
+    document.getElementById("patInput").value = current;
+    document.getElementById("patModal").classList.remove("hidden");
+  }
+
+  function closePatModal() {
+    document.getElementById("patModal").classList.add("hidden");
+  }
+
+  function savePat() {
+    const val = document.getElementById("patInput").value.trim();
+    if (!val) return;
+    localStorage.setItem("gh_pat", val);
+    closePatModal();
+    showToast("토큰 저장됨 ✓");
+    init();
   }
 
   document.getElementById("newKeywordInput").addEventListener("keydown", e => {
