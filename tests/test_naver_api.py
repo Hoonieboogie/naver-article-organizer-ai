@@ -14,25 +14,34 @@ def test_parse_pub_date_returns_aware_datetime():
     assert result.hour == 8
 
 def test_is_in_window_includes_article_in_range():
+    # 오전 10시 실행 → 전날 10:00 ~ 오늘 10:00 포함
     run_date = datetime(2026, 3, 16, 10, 0, 0, tzinfo=KST)
     article_dt = datetime(2026, 3, 16, 8, 0, 0, tzinfo=KST)
     assert is_in_window(article_dt, run_date) is True
 
+def test_is_in_window_includes_yesterday_after_10():
+    # 전날 10시 이후 기사 포함
+    run_date = datetime(2026, 3, 16, 10, 0, 0, tzinfo=KST)
+    article_dt = datetime(2026, 3, 15, 22, 0, 0, tzinfo=KST)
+    assert is_in_window(article_dt, run_date) is True
+
 def test_is_in_window_excludes_article_before_window():
+    # 전날 10시 이전 기사 제외
     run_date = datetime(2026, 3, 16, 10, 0, 0, tzinfo=KST)
     article_dt = datetime(2026, 3, 15, 9, 0, 0, tzinfo=KST)
     assert is_in_window(article_dt, run_date) is False
 
-def test_is_in_window_includes_article_same_day_any_hour():
-    # 같은 날이면 시간 무관하게 포함 (오전/오후 모두)
-    run_date = datetime(2026, 3, 16, 10, 0, 0, tzinfo=KST)
-    article_dt = datetime(2026, 3, 16, 22, 0, 0, tzinfo=KST)
-    assert is_in_window(article_dt, run_date) is True
-
-def test_is_in_window_excludes_different_date():
-    run_date = datetime(2026, 3, 16, 10, 0, 0, tzinfo=KST)
-    article_dt = datetime(2026, 3, 17, 0, 30, 0, tzinfo=KST)
+def test_is_in_window_excludes_article_after_run_time():
+    # 실행 시각 이후 기사 제외
+    run_date = datetime(2026, 3, 16, 7, 0, 0, tzinfo=KST)
+    article_dt = datetime(2026, 3, 16, 8, 0, 0, tzinfo=KST)
     assert is_in_window(article_dt, run_date) is False
+
+def test_is_in_window_early_morning_run():
+    # 오전 7시 실행 → 전날 10:00 ~ 오늘 07:00
+    run_date = datetime(2026, 3, 16, 7, 0, 0, tzinfo=KST)
+    article_dt = datetime(2026, 3, 15, 15, 0, 0, tzinfo=KST)
+    assert is_in_window(article_dt, run_date) is True
 
 def test_fetch_articles_calls_naver_api(mocker):
     mock_response = MagicMock()
