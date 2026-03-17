@@ -1,7 +1,7 @@
 {
   "sections": [
     {
-      "name": "골프",
+      "name": "축구",
       "keywords": [
         "캘러웨이 어패럴",
         "테일러메이드 어패럴",
@@ -45,5 +45,5 @@
       ]
     }
   ],
-  "articles_per_keyword": 99
+  "articles_per_keyword": null
 }
