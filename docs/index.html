@@ -131,7 +131,6 @@
     }
     .article-card:hover { border-color: #c0c0c0; }
     .article-card.checked { border-color: #4285f4; background: #fafcff; }
-    .article-card.shallow { background: #fffbf0; border-color: #ffe082; }
 
     .article-card input[type=checkbox] {
       margin-top: 2px; flex-shrink: 0; width: 16px; height: 16px; cursor: pointer;
@@ -142,10 +141,6 @@
     .article-title a:hover { text-decoration: underline; }
     .article-summary { font-size: 13px; color: #444; line-height: 1.6; margin-bottom: 8px; }
     .article-meta { font-size: 11px; color: #aaa; }
-    .shallow-badge {
-      display: inline-block; background: #fff3cd; color: #856404;
-      padding: 1px 6px; border-radius: 4px; font-size: 10px; margin-right: 4px;
-    }
 
     .empty-state { text-align: center; color: #aaa; padding: 60px 20px; font-size: 14px; }
 
@@ -430,15 +425,11 @@
       } else {
         articles.forEach(art => {
           const idx = cardIndex++;
-          const isPending = art.source === "pending";
-          const isShallow = art.source === "description";
           const card = document.createElement("div");
-          card.className = "article-card" + (isShallow ? " shallow" : "");
+          card.className = "article-card";
           card.dataset.keyword = kd.keyword;
           card.dataset.url = art.url;
-          const bodyText = isPending
-            ? `<div class="article-summary" style="color:#999;font-style:italic">${art.description || "본문 없음"}</div>`
-            : `<div class="article-summary">${art.summary || art.description || ""}</div>`;
+          const bodyText = `<div class="article-summary">${art.description || ""}</div>`;
           card.innerHTML = `
             <input type="checkbox" id="chk-${idx}" onchange="onCheckChange()">
             <div class="article-body">
@@ -447,11 +438,7 @@
                 <a href="${art.url}" target="_blank" rel="noopener">↗</a>
               </div>
               ${bodyText}
-              <div class="article-meta">
-                ${isPending ? '<span class="shallow-badge">AI 요약 전</span>' : ""}
-                ${isShallow ? '<span class="shallow-badge">⚠️ 발췌문 기반</span>' : ""}
-                ${formatTime(art.published_at)}
-              </div>
+              <div class="article-meta">${formatTime(art.published_at)}</div>
             </div>
           `;
           section.appendChild(card);
