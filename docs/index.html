@@ -351,17 +351,34 @@
     });
   }
 
-  async function scanAvailableDates() {
+  async function scanAvailableDates(viaApi = false) {
     availableDates = [];
-    try {
-      const res = await fetch(BASE_DATA_URL + "index.json?t=" + Date.now());
-      if (res.ok) {
-        const data = await res.json();
-        availableDates = (data.dates || []).sort().reverse();
-      }
-    } catch { /* index.json 없으면 빈 목록 */ }
+    const { token, repo } = getCredentials();
+    if (viaApi && token && repo) {
+      // GitHub Contents API로 직접 읽기 (Pages CDN 캐시 우회)
+      try {
+        const res = await fetch(
+          `https://api.github.com/repos/${repo}/contents/docs/data/index.json`,
+          { headers: { Authorization: `token ${token}`, Accept: "application/vnd.github.v3+json" } }
+        );
+        if (res.ok) {
+          const meta = await res.json();
+          const data = JSON.parse(decodeURIComponent(escape(atob(meta.content.replace(/\s/g, "")))));
+          availableDates = (data.dates || []).sort().reverse();
+        }
+      } catch { /* fallback to Pages */ }
+    }
+    if (availableDates.length === 0) {
+      try {
+        const res = await fetch(BASE_DATA_URL + "index.json?t=" + Date.now());
+        if (res.ok) {
+          const data = await res.json();
+          availableDates = (data.dates || []).sort().reverse();
+        }
+      } catch { /* index.json 없으면 빈 목록 */ }
+    }
     renderDateSelect();
-    if (availableDates.length > 0) loadDate(availableDates[0]);
+    if (availableDates.length > 0) loadDate(availableDates[0], viaApi);
   }
 
   function renderDateSelect() {
@@ -379,17 +396,34 @@
     });
   }
 
-  async function loadDate(dateStr) {
+  async function loadDate(dateStr, viaApi = false) {
     if (!dateStr) return;
     currentDate = dateStr;
-    try {
-      const res = await fetch(BASE_DATA_URL + dateStr + ".json?t=" + Date.now());
-      if (!res.ok) throw new Error("not found");
-      const data = await res.json();
-      applyData(data);
-    } catch {
-      showEmptyState("선택한 날짜의 데이터를 불러올 수 없습니다.");
+    let data = null;
+    const { token, repo } = getCredentials();
+    if (viaApi && token && repo) {
+      try {
+        const res = await fetch(
+          `https://api.github.com/repos/${repo}/contents/docs/data/${dateStr}.json`,
+          { headers: { Authorization: `token ${token}`, Accept: "application/vnd.github.v3+json" } }
+        );
+        if (res.ok) {
+          const meta = await res.json();
+          data = JSON.parse(decodeURIComponent(escape(atob(meta.content.replace(/\s/g, "")))));
+        }
+      } catch { /* fallback to Pages */ }
     }
+    if (!data) {
+      try {
+        const res = await fetch(BASE_DATA_URL + dateStr + ".json?t=" + Date.now());
+        if (!res.ok) throw new Error("not found");
+        data = await res.json();
+      } catch {
+        showEmptyState("선택한 날짜의 데이터를 불러올 수 없습니다.");
+        return;
+      }
+    }
+    applyData(data);
   }
 
   function applyData(data) {
@@ -676,7 +710,7 @@
           clearInterval(pollingInterval);
           if (run.conclusion === "success") {
             showToast("완료! 결과를 불러옵니다...");
-            await scanAvailableDates();
+            await scanAvailableDates(true);
           } else {
             showToast("실행 중 오류가 발생했습니다.");
           }
