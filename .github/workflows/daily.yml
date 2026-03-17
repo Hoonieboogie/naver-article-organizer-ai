@@ -1,14 +1,7 @@
-name: Daily News Monitor
+name: News Monitor
 
 on:
-  schedule:
-    - cron: '0 1 * * *'   # 매일 10:00 KST (UTC 01:00) — fetch + summarize 모두 실행
   workflow_dispatch:
-    inputs:
-      phase:
-        description: 'fetch / summarize / all'
-        required: false
-        default: 'fetch'
 
 jobs:
   run:
@@ -33,8 +26,7 @@ jobs:
         env:
           NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
           NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python run.py --phase ${{ github.event.inputs.phase || 'all' }}
+        run: python run.py
 
       - name: Commit results
         run: |

@@ -35,6 +35,5 @@
     "테슬라",
     "폴스타"
   ],
-  "articles_per_keyword": 3,
-  "schedule": "0 1 * * *"
+  "articles_per_keyword": 3
 }
