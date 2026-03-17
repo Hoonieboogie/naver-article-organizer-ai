@@ -34,7 +34,7 @@
 
     /* ── 사이드바 ── */
     .sidebar {
-      width: 220px;
+      width: 240px;
       background: #f0f2f5;
       border-right: 1px solid #ddd;
       display: flex;
@@ -49,6 +49,32 @@
       font-size: 10px; font-weight: 700; letter-spacing: 1px;
       text-transform: uppercase; color: #888;
     }
+
+    /* ── 섹션 탭 ── */
+    .section-tabs { display: flex; gap: 4px; }
+    .section-tab {
+      flex: 1; padding: 8px 4px; border: 1px solid #ddd; border-radius: 6px;
+      background: white; font-size: 12px; font-weight: 600; cursor: pointer;
+      text-align: center; transition: all .15s; color: #666;
+    }
+    .section-tab.active { background: #4285f4; color: white; border-color: #4285f4; }
+    .section-tab:not(.active):hover { border-color: #4285f4; color: #4285f4; }
+
+    /* ── 섹션 이름 편집 ── */
+    .section-name-row {
+      display: flex; align-items: center; gap: 6px; font-size: 12px; color: #555;
+    }
+    .section-name-row input {
+      flex: 1; padding: 4px 8px; border: 1px solid #ddd; border-radius: 4px;
+      font-size: 12px; outline: none;
+    }
+    .section-name-row input:focus { border-color: #4285f4; }
+    .section-name-row button {
+      padding: 4px 8px; border: 1px solid #ddd; border-radius: 4px;
+      background: white; font-size: 11px; cursor: pointer; color: #666;
+    }
+    .section-name-row button:hover { border-color: #4285f4; color: #4285f4; }
+
     .keyword-item {
       display: flex; align-items: center; gap: 6px;
       background: white; border: 1px solid #e0e0e0; border-radius: 6px;
@@ -87,9 +113,10 @@
       font-size: 12px; text-align: center;
     }
 
-    select.date-select {
-      width: 100%; padding: 6px 8px; border: 1px solid #ddd; border-radius: 4px;
-      font-size: 12px; background: white; cursor: pointer;
+    /* ── 수집 범위 ── */
+    .collect-range {
+      font-size: 11px; color: #888; background: #e8e8e8; border-radius: 4px;
+      padding: 6px 8px; text-align: center; line-height: 1.5;
     }
 
     .run-btn {
@@ -136,15 +163,16 @@
       margin-top: 2px; flex-shrink: 0; width: 16px; height: 16px; cursor: pointer;
     }
     .article-body { flex: 1; }
-    .article-title { font-size: 14px; font-weight: 600; margin-bottom: 6px; line-height: 1.4; }
-    .article-title a { color: #4285f4; text-decoration: none; margin-left: 6px; font-size: 12px; }
+    .article-title { font-size: 14px; font-weight: 600; margin-bottom: 6px; line-height: 1.4; display: flex; align-items: baseline; gap: 8px; }
+    .article-title a { color: #4285f4; text-decoration: none; font-size: 12px; flex-shrink: 0; }
     .article-title a:hover { text-decoration: underline; }
-    .article-summary { font-size: 13px; color: #444; line-height: 1.6; margin-bottom: 8px; }
-    .article-meta { font-size: 11px; color: #aaa; display: flex; align-items: center; gap: 6px; }
     .article-source {
-      display: inline-block; background: #e8f0fe; color: #1a73e8;
-      font-size: 11px; font-weight: 600; padding: 1px 7px; border-radius: 3px;
+      display: inline-block; background: #1a73e8; color: white;
+      font-size: 12px; font-weight: 600; padding: 2px 10px; border-radius: 4px;
+      margin-bottom: 6px;
     }
+    .article-summary { font-size: 13px; color: #444; line-height: 1.6; margin-bottom: 8px; }
+    .article-meta { font-size: 11px; color: #aaa; }
 
     .empty-state { text-align: center; color: #aaa; padding: 60px 20px; font-size: 14px; }
 
@@ -170,7 +198,7 @@
     }
     .modal h3 { font-size: 16px; margin-bottom: 8px; }
     .modal p { font-size: 13px; color: #555; margin-bottom: 16px; line-height: 1.5; }
-    .modal input[type=text] {
+    .modal input[type=text], .modal input[type=password] {
       width: 100%; padding: 9px 12px; border: 1px solid #ddd; border-radius: 6px;
       font-size: 13px; margin-bottom: 12px; outline: none; font-family: monospace;
     }
@@ -210,6 +238,17 @@
 <div class="layout">
 
   <aside class="sidebar">
+    <!-- 섹션 탭 -->
+    <div class="sidebar-section">
+      <div class="sidebar-label">섹션</div>
+      <div class="section-tabs" id="sectionTabs"></div>
+      <div class="section-name-row" id="sectionNameRow" style="display:none">
+        <input type="text" id="sectionNameInput" placeholder="섹션 이름">
+        <button onclick="saveSectionName()">변경</button>
+      </div>
+    </div>
+
+    <!-- 키워드 -->
     <div class="sidebar-section">
       <div class="sidebar-label">키워드</div>
       <div id="keywordList"></div>
@@ -228,9 +267,10 @@
       </div>
     </div>
 
+    <!-- 수집 범위 -->
     <div class="sidebar-section">
-      <div class="sidebar-label">날짜</div>
-      <select class="date-select" id="dateSelect" onchange="loadDate(this.value)"></select>
+      <div class="sidebar-label">수집 범위</div>
+      <div class="collect-range" id="collectRange">데이터 없음</div>
     </div>
 
     <div class="sidebar-section" style="margin-top:auto;">
@@ -262,29 +302,19 @@
 </div>
 
 <script>
-  // ========================================================
-  // ⚙️  배포 설정: 아래 두 값을 채워주세요.
-  //   GH_TOKEN : repo + workflow 권한의 Classic PAT
-  //   GH_REPO  : 비워두면 GitHub Pages URL에서 자동 감지
-  // ========================================================
-  const GH_TOKEN = "";   // 예: "ghp_xxxxxxxxxxxxxxxxxxxx"
-  const GH_REPO  = "";   // 예: "owner/repo-name" (비워두면 자동)
+  const GH_TOKEN = "";
+  const GH_REPO  = "";
 
-  let config = { keywords: [], articles_per_keyword: 10 };
+  let config = { sections: [], articles_per_keyword: 10 };
+  let activeSection = 0;   // 현재 선택된 섹션 인덱스
   let currentKeyword = null;
-  let currentDate = null;
   let availableDates = [];
   let pollingInterval = null;
   let savingConfig = false;
 
   const BASE_DATA_URL = "./data/";
 
-  function escapeHtml(str) {
-    const div = document.createElement("div");
-    div.textContent = str;
-    return div.innerHTML;
-  }
-
+  // ── init ──
   async function init() {
     updateHeaderDate();
     const { token } = getCredentials();
@@ -299,8 +329,7 @@
       now.toLocaleDateString("ko-KR", { year:"numeric", month:"long", day:"numeric" });
   }
 
-  // config.json은 docs/ 밖(레포 루트)에 있어 GitHub Pages에서 직접 접근 불가.
-  // PAT가 있으면 GitHub Contents API로 읽고, 없으면 빈 기본값을 사용한다.
+  // ── config ──
   async function loadConfig() {
     const { token, repo } = getCredentials();
     if (token && repo) {
@@ -313,19 +342,68 @@
         const meta = await res.json();
         config = JSON.parse(decodeURIComponent(escape(atob(meta.content.replace(/\s/g, "")))));
       } catch {
-        config = { keywords: [], articles_per_keyword: 10 };
+        config = { sections: [], articles_per_keyword: 10 };
       }
-    } else {
-      config = { keywords: [], articles_per_keyword: 10 };
     }
+    // 구버전 호환: keywords 배열이면 sections로 변환
+    if (config.keywords && !config.sections) {
+      config.sections = [{ name: "기본", keywords: config.keywords }];
+      delete config.keywords;
+    }
+    if (!config.sections) config.sections = [];
+    renderSectionTabs();
     renderKeywordList();
     document.getElementById("articlesPerKeyword").value = config.articles_per_keyword || 10;
+  }
+
+  // ── 섹션 탭 ──
+  function renderSectionTabs() {
+    const container = document.getElementById("sectionTabs");
+    container.innerHTML = "";
+    config.sections.forEach((sec, i) => {
+      const tab = document.createElement("button");
+      tab.className = "section-tab" + (i === activeSection ? " active" : "");
+      tab.textContent = sec.name;
+      tab.addEventListener("click", () => {
+        activeSection = i;
+        currentKeyword = null;
+        renderSectionTabs();
+        renderKeywordList();
+        renderCurrentSection();
+        showSectionNameEditor();
+      });
+      container.appendChild(tab);
+    });
+    showSectionNameEditor();
+  }
+
+  function showSectionNameEditor() {
+    const row = document.getElementById("sectionNameRow");
+    const sec = config.sections[activeSection];
+    if (!sec) { row.style.display = "none"; return; }
+    row.style.display = "flex";
+    document.getElementById("sectionNameInput").value = sec.name;
+  }
+
+  async function saveSectionName() {
+    const input = document.getElementById("sectionNameInput");
+    const name = input.value.trim();
+    if (!name) return;
+    config.sections[activeSection].name = name;
+    renderSectionTabs();
+    await saveConfig();
+  }
+
+  // ── 키워드 ──
+  function getCurrentKeywords() {
+    const sec = config.sections[activeSection];
+    return sec ? sec.keywords || [] : [];
   }
 
   function renderKeywordList() {
     const list = document.getElementById("keywordList");
     list.innerHTML = "";
-    (config.keywords || []).forEach((kw, i) => {
+    getCurrentKeywords().forEach(kw => {
       const el = document.createElement("div");
       el.className = "keyword-item" + (kw === currentKeyword ? " active" : "");
 
@@ -351,11 +429,51 @@
     });
   }
 
+  async function addKeyword() {
+    const input = document.getElementById("newKeywordInput");
+    const kw = input.value.trim();
+    const sec = config.sections[activeSection];
+    if (!kw || !sec || sec.keywords.includes(kw)) return;
+    sec.keywords.push(kw);
+    input.value = "";
+    renderKeywordList();
+    await saveConfig();
+  }
+
+  async function removeKeyword(kw) {
+    const sec = config.sections[activeSection];
+    if (!sec) return;
+    sec.keywords = sec.keywords.filter(k => k !== kw);
+    if (currentKeyword === kw) currentKeyword = null;
+    renderKeywordList();
+    await saveConfig();
+  }
+
+  function selectKeyword(kw) {
+    currentKeyword = kw;
+    renderKeywordList();
+    const section = document.querySelector(`[data-section="${CSS.escape(kw)}"]`);
+    if (section) section.scrollIntoView({ behavior: "smooth", block: "start" });
+  }
+
+  // ── 수집 범위 표시 ──
+  function updateCollectRange(data) {
+    const el = document.getElementById("collectRange");
+    if (!data || !data.generated_at) {
+      el.textContent = "데이터 없음";
+      return;
+    }
+    const end = new Date(data.generated_at);
+    const start = new Date(end.getTime() - 24 * 60 * 60 * 1000);
+    const fmt = (d) => d.toLocaleString("ko-KR", { month:"numeric", day:"numeric", hour:"2-digit", minute:"2-digit" });
+    el.textContent = fmt(start) + "  ~  " + fmt(end);
+  }
+
+  // ── 데이터 로드 ──
   async function scanAvailableDates(viaApi = false) {
     availableDates = [];
     const { token, repo } = getCredentials();
     if (viaApi && token && repo) {
-      // GitHub Contents API로 직접 읽기 (Pages CDN 캐시 우회)
       try {
         const res = await fetch(
           `https://api.github.com/repos/${repo}/contents/docs/data/index.json`,
@@ -366,7 +484,7 @@
           const data = JSON.parse(decodeURIComponent(escape(atob(meta.content.replace(/\s/g, "")))));
           availableDates = (data.dates || []).sort().reverse();
         }
-      } catch { /* fallback to Pages */ }
+      } catch {}
     }
     if (availableDates.length === 0) {
       try {
@@ -375,30 +493,13 @@
           const data = await res.json();
           availableDates = (data.dates || []).sort().reverse();
         }
-      } catch { /* index.json 없으면 빈 목록 */ }
+      } catch {}
     }
-    renderDateSelect();
     if (availableDates.length > 0) loadDate(availableDates[0], viaApi);
-  }
-
-  function renderDateSelect() {
-    const sel = document.getElementById("dateSelect");
-    sel.innerHTML = "";
-    if (availableDates.length === 0) {
-      sel.innerHTML = '<option value="">결과 없음</option>';
-      return;
-    }
-    availableDates.forEach((d, i) => {
-      const opt = document.createElement("option");
-      opt.value = d;
-      opt.textContent = d + (i === 0 ? " (최신)" : "");
-      sel.appendChild(opt);
-    });
   }
 
   async function loadDate(dateStr, viaApi = false) {
     if (!dateStr) return;
-    currentDate = dateStr;
     let data = null;
     const { token, repo } = getCredentials();
     if (viaApi && token && repo) {
@@ -411,61 +512,88 @@
           const meta = await res.json();
           data = JSON.parse(decodeURIComponent(escape(atob(meta.content.replace(/\s/g, "")))));
         }
-      } catch { /* fallback to Pages */ }
+      } catch {}
     }
     if (!data) {
       try {
         const res = await fetch(BASE_DATA_URL + dateStr + ".json?t=" + Date.now());
-        if (!res.ok) throw new Error("not found");
+        if (!res.ok) throw new Error();
         data = await res.json();
       } catch {
         showEmptyState("선택한 날짜의 데이터를 불러올 수 없습니다.");
         return;
       }
     }
-    applyData(data);
+    window.__lastData = data;
+    updateCollectRange(data);
+    updateBadges(data);
+    renderCurrentSection();
   }
 
-  function applyData(data) {
-    (data.keywords || []).forEach(kd => {
+  function updateBadges(data) {
+    if (!data) return;
+    const sections = data.sections || [];
+    // 구버전 호환
+    const keywords = data.keywords || [];
+    const allKw = [];
+    sections.forEach(s => (s.keywords || []).forEach(kd => allKw.push(kd)));
+    keywords.forEach(kd => allKw.push(kd));
+    allKw.forEach(kd => {
       const badge = document.querySelector(`[data-keyword="${CSS.escape(kd.keyword)}"]`);
       if (badge) badge.textContent = kd.articles.length;
     });
-    window.__lastData = data;
-    renderAllArticles(data);
   }
 
-  function selectKeyword(kw) {
-    currentKeyword = kw;
-    renderKeywordList();
-    const section = document.querySelector(`[data-section="${CSS.escape(kw)}"]`);
-    if (section) {
-      section.scrollIntoView({ behavior: "smooth", block: "start" });
+  // ── 렌더링 ──
+  function renderCurrentSection() {
+    const data = window.__lastData;
+    if (!data) { showEmptyState("실행 버튼을 눌러 기사를 수집하세요."); return; }
+
+    const sec = config.sections[activeSection];
+    if (!sec) { showEmptyState("섹션을 추가하세요."); return; }
+
+    // 데이터에서 현재 섹션의 키워드들 찾기
+    let kwDataList = [];
+    const dataSections = data.sections || [];
+    const dataSection = dataSections.find(s => s.name === sec.name);
+    if (dataSection) {
+      kwDataList = dataSection.keywords || [];
+    } else {
+      // 구버전 호환: sections 없이 keywords만 있는 경우
+      const allKwData = data.keywords || [];
+      const myKws = new Set(sec.keywords);
+      kwDataList = allKwData.filter(kd => myKws.has(kd.keyword));
     }
-  }
 
-  function renderAllArticles(data) {
+    const totalArticles = kwDataList.reduce((sum, k) => sum + (k.articles || []).length, 0);
     const panel = document.getElementById("mainPanel");
-    const keywords = data.keywords || [];
-    const totalArticles = keywords.reduce((sum, k) => sum + (k.articles || []).length, 0);
 
-    if (keywords.length === 0) {
-      panel.innerHTML = `<div class="empty-state">키워드를 추가하고 실행해 주세요.</div>`;
+    if (kwDataList.length === 0) {
+      showEmptyState("이 섹션에 수집된 기사가 없습니다.");
       return;
     }
 
-    panel.innerHTML = `
-      <div class="main-header">
-        <span class="meta">${data.date} · 총 ${totalArticles}개 기사</span>
-        <button class="copy-btn" id="copyBtn" onclick="copySelected()" disabled>📋 선택 항목 복사</button>
-      </div>
-      <div id="articleList"></div>
-    `;
+    panel.innerHTML = "";
+    const headerDiv = document.createElement("div");
+    headerDiv.className = "main-header";
+    const metaSpan = document.createElement("span");
+    metaSpan.className = "meta";
+    metaSpan.textContent = sec.name + " · 총 " + totalArticles + "개 기사";
+    const copyBtn = document.createElement("button");
+    copyBtn.className = "copy-btn";
+    copyBtn.id = "copyBtn";
+    copyBtn.disabled = true;
+    copyBtn.textContent = "📋 선택 항목 복사";
+    copyBtn.addEventListener("click", copySelected);
+    headerDiv.appendChild(metaSpan);
+    headerDiv.appendChild(copyBtn);
+    panel.appendChild(headerDiv);
 
-    const list = document.getElementById("articleList");
+    const list = document.createElement("div");
+    list.id = "articleList";
     let cardIndex = 0;
 
-    keywords.forEach(kd => {
+    kwDataList.forEach(kd => {
       const articles = kd.articles || [];
       const section = document.createElement("div");
       section.className = "keyword-section";
@@ -503,14 +631,23 @@
           const body = document.createElement("div");
           body.className = "article-body";
 
+          if (art.source_name) {
+            const sourceSpan = document.createElement("span");
+            sourceSpan.className = "article-source";
+            sourceSpan.textContent = art.source_name;
+            body.appendChild(sourceSpan);
+          }
+
           const titleDiv = document.createElement("div");
           titleDiv.className = "article-title";
-          titleDiv.textContent = art.title;
+          const titleText = document.createElement("span");
+          titleText.textContent = art.title;
           const link = document.createElement("a");
           link.href = art.url;
           link.target = "_blank";
           link.rel = "noopener";
           link.textContent = "\u2197";
+          titleDiv.appendChild(titleText);
           titleDiv.appendChild(link);
 
           const descDiv = document.createElement("div");
@@ -519,15 +656,7 @@
 
           const metaDiv = document.createElement("div");
           metaDiv.className = "article-meta";
-          if (art.source_name) {
-            const sourceSpan = document.createElement("span");
-            sourceSpan.className = "article-source";
-            sourceSpan.textContent = art.source_name;
-            metaDiv.appendChild(sourceSpan);
-          }
-          const timeSpan = document.createElement("span");
-          timeSpan.textContent = formatTime(art.published_at);
-          metaDiv.appendChild(timeSpan);
+          metaDiv.textContent = formatTime(art.published_at);
 
           body.appendChild(titleDiv);
           body.appendChild(descDiv);
@@ -539,6 +668,7 @@
       }
       list.appendChild(section);
     });
+    panel.appendChild(list);
   }
 
   function formatTime(isoStr) {
@@ -550,6 +680,7 @@
     } catch { return isoStr; }
   }
 
+  // ── 체크/복사 ──
   function onCheckChange() {
     const anyChecked = document.querySelectorAll(".article-card input[type=checkbox]:checked").length > 0;
     const btn = document.getElementById("copyBtn");
@@ -579,23 +710,7 @@
       .catch(() => showToast("복사 실패: 클립보드 권한을 확인하세요."));
   }
 
-  async function addKeyword() {
-    const input = document.getElementById("newKeywordInput");
-    const kw = input.value.trim();
-    if (!kw || config.keywords.includes(kw)) return;
-    config.keywords.push(kw);
-    input.value = "";
-    renderKeywordList();
-    await saveConfig();
-  }
-
-  async function removeKeyword(kw) {
-    config.keywords = config.keywords.filter(k => k !== kw);
-    if (currentKeyword === kw) currentKeyword = null;
-    renderKeywordList();
-    await saveConfig();
-  }
-
+  // ── config 저장 ──
   async function saveArticlesPerKeyword() {
     const val = parseInt(document.getElementById("articlesPerKeyword").value);
     if (val < 1 || val > 100) return;
@@ -622,7 +737,7 @@
           "Content-Type": "application/json",
           Accept: "application/vnd.github.v3+json"
         },
-        body: JSON.stringify({ message: "config: update keywords via web UI", content, sha: meta.sha })
+        body: JSON.stringify({ message: "config: update via web UI", content, sha: meta.sha })
       });
       if (!res.ok) throw new Error(await res.text());
       showToast("저장됨 ✓");
@@ -633,6 +748,7 @@
     }
   }
 
+  // ── 실행 / 폴링 ──
   async function runWorkflow() {
     const { token, repo } = getCredentials();
     if (!token || !repo) { showToast("GH_TOKEN / GH_REPO 설정이 필요합니다."); return; }
@@ -673,7 +789,6 @@
       document.getElementById("runHint").textContent = msg;
     }
 
-    // run.py의 [STATUS] 로그에서 마지막 상태 파싱
     async function fetchStatusFromLogs(jobId) {
       try {
         const res = await fetch(
@@ -718,7 +833,6 @@
           return;
         }
 
-        // jobs API → 현재 스텝 확인 후 로그에서 [STATUS] 파싱
         try {
           const jobsRes = await fetch(
             `https://api.github.com/repos/${repo}/actions/runs/${run.id}/jobs`,
@@ -751,9 +865,9 @@
             label = "⏳ 준비 중";
           }
           setStatus(`${label} (${mins}:${secs} 경과)`);
-        } catch { /* 스텝 조회 실패 시 무시 */ }
+        } catch {}
 
-      } catch { /* 네트워크 오류 무시, 계속 폴링 */ }
+      } catch {}
     }, 5000);
   }
 
@@ -764,6 +878,7 @@
     document.getElementById("runHint").textContent = "약 2~3분 소요";
   }
 
+  // ── 유틸리티 ──
   function getCredentials() {
     const token = GH_TOKEN || localStorage.getItem("gh_pat") || "";
     let repo = GH_REPO;
@@ -784,11 +899,7 @@
     document.getElementById("patInput").value = current;
     document.getElementById("patModal").classList.remove("hidden");
   }
-
-  function closePatModal() {
-    document.getElementById("patModal").classList.add("hidden");
-  }
-
+  function closePatModal() { document.getElementById("patModal").classList.add("hidden"); }
   function savePat() {
     const val = document.getElementById("patInput").value.trim();
     if (!val) return;
@@ -797,10 +908,6 @@
     showToast("토큰 저장됨 ✓");
     init();
   }
-
-  document.getElementById("newKeywordInput").addEventListener("keydown", e => {
-    if (e.key === "Enter") addKeyword();
-  });
 
   function showEmptyState(msg) {
     const panel = document.getElementById("mainPanel");
@@ -817,6 +924,10 @@
     t.classList.add("show");
     setTimeout(() => t.classList.remove("show"), 2500);
   }
+
+  document.getElementById("newKeywordInput").addEventListener("keydown", e => {
+    if (e.key === "Enter") addKeyword();
+  });
 
   init();
 </script>
