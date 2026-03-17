@@ -245,6 +245,7 @@
       <div class="section-name-row" id="sectionNameRow" style="display:none">
         <input type="text" id="sectionNameInput" placeholder="섹션 이름">
         <button onclick="saveSectionName()">변경</button>
+        <button onclick="deleteSection()" style="color:#e53935">삭제</button>
       </div>
     </div>
 
@@ -310,6 +311,7 @@
   let currentKeyword = null;
   let availableDates = [];
   let pollingInterval = null;
+  let saveConfigQueue = null;
   let savingConfig = false;
 
   const BASE_DATA_URL = "./data/";
@@ -351,6 +353,7 @@
       delete config.keywords;
     }
     if (!config.sections) config.sections = [];
+    if (activeSection >= config.sections.length) activeSection = Math.max(0, config.sections.length - 1);
     renderSectionTabs();
     renderKeywordList();
     document.getElementById("articlesPerKeyword").value = config.articles_per_keyword || 10;
@@ -374,7 +377,34 @@
       });
       container.appendChild(tab);
     });
+    // + 버튼
+    const addBtn = document.createElement("button");
+    addBtn.className = "section-tab";
+    addBtn.textContent = "+";
+    addBtn.style.flex = "0 0 32px";
+    addBtn.addEventListener("click", addSection);
+    container.appendChild(addBtn);
     showSectionNameEditor();
+  }
+
+  async function addSection() {
+    const name = "새 섹션";
+    config.sections.push({ name, keywords: [] });
+    activeSection = config.sections.length - 1;
+    renderSectionTabs();
+    renderKeywordList();
+    renderCurrentSection();
+    await saveConfig();
+  }
+
+  async function deleteSection() {
+    if (config.sections.length <= 1) { showToast("섹션은 최소 1개 필요합니다."); return; }
+    config.sections.splice(activeSection, 1);
+    activeSection = Math.min(activeSection, config.sections.length - 1);
+    renderSectionTabs();
+    renderKeywordList();
+    renderCurrentSection();
+    await saveConfig();
   }
 
   function showSectionNameEditor() {
@@ -433,7 +463,9 @@
     const input = document.getElementById("newKeywordInput");
     const kw = input.value.trim();
     const sec = config.sections[activeSection];
-    if (!kw || !sec || sec.keywords.includes(kw)) return;
+    if (!kw || !sec) return;
+    if (!sec.keywords) sec.keywords = [];
+    if (sec.keywords.includes(kw)) return;
     sec.keywords.push(kw);
     input.value = "";
     renderKeywordList();
@@ -713,15 +745,19 @@
   // ── config 저장 ──
   async function saveArticlesPerKeyword() {
     const val = parseInt(document.getElementById("articlesPerKeyword").value);
-    if (val < 1 || val > 100) return;
+    if (isNaN(val) || val < 1 || val > 100) return;
     config.articles_per_keyword = val;
     await saveConfig();
   }
 
   async function saveConfig() {
+    if (savingConfig) {
+      // 이미 저장 중이면 대기 후 재실행
+      saveConfigQueue = true;
+      return;
+    }
     const { token, repo } = getCredentials();
     if (!token || !repo) { showToast("GitHub 설정이 필요합니다."); return; }
-    if (savingConfig) return;
     savingConfig = true;
     try {
       const metaRes = await fetch(`https://api.github.com/repos/${repo}/contents/config.json`, {
@@ -745,6 +781,10 @@
       showToast("저장 실패: " + e.message);
     } finally {
       savingConfig = false;
+      if (saveConfigQueue) {
+        saveConfigQueue = false;
+        await saveConfig();
+      }
     }
   }
 

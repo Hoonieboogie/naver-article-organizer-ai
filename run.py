@@ -48,12 +48,19 @@ def main():
     total_kw = len(all_keywords)
     kw_idx = 0
 
+    errors = []
     for sec in sections:
         keyword_results = []
         for keyword in sec.get("keywords", []):
             kw_idx += 1
             print(f"[STATUS] 기사 수집 중 · [{sec['name']}] {keyword} ({kw_idx}/{total_kw})")
-            articles_meta = naver.fetch_articles(keyword, max_count=articles_per_keyword, run_date=run_date)
+            try:
+                articles_meta = naver.fetch_articles(keyword, max_count=articles_per_keyword, run_date=run_date)
+            except Exception as e:
+                print(f"  ⚠️ 수집 실패 ({type(e).__name__}): {e}")
+                errors.append(keyword)
+                keyword_results.append({"keyword": keyword, "articles": []})
+                continue
             print(f"  → {len(articles_meta)}개 기사 발견")
 
             articles_output = []
@@ -75,6 +82,8 @@ def main():
 
     print("[STATUS] 결과 저장 중")
     output_path = writer.write(run_date=run_date, section_results=section_results)
+    if errors:
+        print(f"\n⚠️ 수집 실패 키워드: {errors}")
     print(f"\n✅ 수집 완료: {output_path}")
 
 

@@ -51,6 +51,7 @@ class NaverNewsClient:
         pagination으로 충분한 기사를 확보한다.
         """
         results = []
+        seen_urls = set()
         start = 1
 
         while len(results) < max_count and start <= 1000:
@@ -61,7 +62,7 @@ class NaverNewsClient:
                 "start": start,
                 "sort": "date",
             }
-            response = requests.get(self.API_URL, headers=self.headers, params=params)
+            response = requests.get(self.API_URL, headers=self.headers, params=params, timeout=15)
             response.raise_for_status()
 
             data = response.json()
@@ -80,11 +81,14 @@ class NaverNewsClient:
                     continue
 
                 if not is_in_window(pub_dt, run_date):
-                    # 최신순 정렬이므로 윈도우 이전 기사가 나오면 더 볼 필요 없음
                     return results[:max_count]
 
-                found_any_in_window = True
                 url = item.get("originallink") or item.get("link", "")
+                if url in seen_urls:
+                    continue
+                seen_urls.add(url)
+
+                found_any_in_window = True
                 results.append({
                     "title": _strip_html(item.get("title", "")),
                     "url": url,
@@ -96,7 +100,6 @@ class NaverNewsClient:
                 if len(results) >= max_count:
                     return results
 
-            # 이번 페이지에서 윈도우 내 기사가 하나도 없으면 중단
             if not found_any_in_window:
                 break
 
