@@ -1,6 +1,7 @@
 {
   "keywords": [
-    "캘러웨이 어패럴"
+    "캘러웨이 어패럴",
+    "테일러메이드 어패럴"
   ],
   "articles_per_keyword": 10,
   "schedule": "0 1 * * *"
