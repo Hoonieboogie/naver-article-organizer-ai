@@ -43,6 +43,10 @@
         "테슬라",
         "폴스타"
       ]
+    },
+    {
+      "name": "새 섹션",
+      "keywords": []
     }
   ],
   "articles_per_keyword": 99
