@@ -1,175 +1,1022 @@
 {
   "date": "2026-03-17",
-  "generated_at": "2026-03-17T12:29:24.261971+09:00",
-  "summarized": true,
+  "generated_at": "2026-03-17T20:50:46.583496+09:00",
+  "summarized": false,
   "keywords": [
-    {
-      "keyword": "삼성전자",
-      "articles": [
-        {
-          "title": "기술력 뽐낸 삼성, 스킨십 나선 SK…AI 메모리 주도권 격돌",
-          "url": "https://www.asiatime.co.kr/article/20260317500153",
-          "published_at": "2026-03-17T12:22:00+09:00",
-          "description": "삼성전자, HBM4E 최초 공개…'초격차 기술력' 선봬 삼성전자, IDM 역량도 부각…파운드리도 엔비디아 협력 SK하이닉스, 최태원 회장 직접 출동…파트너십 강화 [아시아타임즈=박요돈 기자] 삼성전자와... ",
-          "summary": "",
-          "source": "url_context"
-        },
-        {
-          "title": "[글로벌] 일론 머스크 &quot;AI 칩 공장 '테라팹' 7일 내 착수&quot;...테슬라 반도...",
-          "url": "https://www.techm.kr/news/articleView.html?idxno=150269",
-          "published_at": "2026-03-17T12:22:00+09:00",
-          "description": "다만 실제 생산은 TSMC와 삼성전자 등 외부 파운드리에 맡기고 있습니다. 머스크 CEO는 올해 1월 실적 발표 콘퍼런스콜에서 &quot;향후 3~4년 내 반도체 공급 제약이 발생할 가능성이 높다&quot;며 &quot;테슬라가 자체 생산 체계를... ",
-          "summary": "",
-          "source": "bs4"
-        },
-        {
-          "title": "[위클리오늘] 17일 정오의 인기종목",
-          "url": "http://www.weeklytoday.com/news/articleView.html?idxno=765546",
-          "published_at": "2026-03-17T12:22:00+09:00",
-          "description": "삼성전자(005930)가 21.71%의 검색비율을 기록하며 많은 투자자들의 관심을 받고 있다. 17일 기준 삼성전자의 주가는 19만 6600원으로 전 거래일 대비 7900원(4.19%) 상승했다. 금일 삼성전자의 시가는... ",
-          "summary": "",
-          "source": "bs4"
-        },
-        {
-          "title": "한병도 &quot;국민의힘, 필버로 검찰개혁법 발목 잡으면 주저없이 종결시킬 ...",
-          "url": "https://www.newspim.com/news/view/20260317000734",
-          "published_at": "2026-03-17T12:21:00+09:00",
-          "description": "그는 &quot;KB증권 보고서에 따르면, 반도체 산업 활황으로 삼성전자, SK하이닉스 등 법인세 세수만 5조원 이상 더 걷힐 것으로 예상되고, 이재명 정부의 자본시장 활성화를 통한 주식 거래 증가 영향으로 초과 증권 거래세 수도... ",
-          "summary": "",
-          "source": "bs4"
-        },
-        {
-          "title": "젠승 황이 감사 표현…삼성전자 '메모리 토털 솔루션', 엔비디아도 매료",
-          "url": "https://www.thedailypost.kr/news/articleView.html?idxno=113488",
-          "published_at": "2026-03-17T12:18:00+09:00",
-          "description": "ㅣ데일리포스트=곽민구 기자ㅣ삼성전자가 엔비디아 GTC 2026에 참가해 차세대 HBM4E 기술력과 '베라 루빈(Vera Rubin)' 플랫폼 전용 메모리 공급 역량을 드러낸다. 삼성전자는 16일부터 19일까지(현지시간) 미국... ",
-          "summary": "",
-          "source": "bs4"
-        },
-        {
-          "title": "유가 하락·젠슨황 효과…코스피 5,700선 공방",
-          "url": "http://www.yonhapnewstv.co.kr/MYH20260317121655muh",
-          "published_at": "2026-03-17T12:17:00+09:00",
-          "description": "삼성전자는 장중 4% 넘게 상승해 19만전자에 올라섰고, SK하이닉스도 ‘100만닉스’를 회복했습니다. 현대차와 기아 등으로도 매수세가 퍼지면서 지수 전반적으로 상승 흐름 나타나고 있습니다. 코스닥지수도 1% 넘게... ",
-          "summary": "",
-          "source": "bs4"
-        },
-        {
-          "title": "숙명여대-마이크로소프트, AI 기반 마케팅 인재 양성",
-          "url": "https://dhnews.co.kr/news/view/1065579109932592",
-          "published_at": "2026-03-17T12:16:00+09:00",
-          "description": "생성형 AI 생산성 도구인 마이크로소프트 365 코파일럿을 활용해 삼성전자 노트북의 인지도를 높이고 사용자를 확대하는 내용이다. 최근 AI PC 시장의 확대와 함께 생성형 AI 경험이 업무 방식을 변화시키는 가운데... ",
-          "summary": "",
-          "source": "bs4"
-        },
-        {
-          "title": "&quot;마티스·폴록 작품을 TV로&quot;... 삼성 아트 스토어, SFMOMA 컬렉션 공개",
-          "url": "http://www.newslock.co.kr/news/articleView.html?idxno=127017",
-          "published_at": "2026-03-17T12:16:00+09:00",
-          "description": "삼성전자가 샌프란시스코 현대미술관(SFMOMA)과 파트너십을 맺고 삼성 TV만의 아트 구독 서비스인 삼성 아트 스토어에 20세기 현대 미술 거장의 작품을 담은 SFMOMA 컬렉션을 공개했다고 17일 밝혔다. SFMOMA는 미국 서부... ",
-          "summary": "",
-          "source": "bs4"
-        },
-        {
-          "title": "젠슨 황이 자랑한 ‘슈퍼칩’ 자세히 보니…삼성 ‘메모리 3종 세트’가...",
-          "url": "https://biz.heraldcorp.com/article/10696151?ref=naver",
-          "published_at": "2026-03-17T12:15:00+09:00",
-          "description": "삼성 HBM4·소캠2·스토리지까지 전천후 공급 젠슨 황의 ‘전력·데이터 병목’ 고민 해결사 역할 엔비디아 공급망 선점한 삼성, 메모리 위상 강화 삼성전자는 16일(현지시간) 개막한 GTC 2026에서 엔비디아의 차세대... ",
-          "summary": "",
-          "source": "bs4"
-        },
-        {
-          "title": "유가 급락에 코스피 반등‥젠슨황 &quot;땡큐 삼성&quot;",
-          "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6808064_36967.html",
-          "published_at": "2026-03-17T12:14:00+09:00",
-          "description": "삼성전자는 '20만 전자'를 향해 가고 있고, SK하이닉스는 100만 원 안팎에서 거래되고 있습니다. 현대차 주가도 5% 가까이 급등했습니다. 엔비디아 행사를 계기로 AI 산업 전반에 기대감이 커졌기 때문입니다.... ",
-          "summary": "",
-          "source": "bs4"
-        }
-      ]
-    },
     {
       "keyword": "아모레퍼시픽",
       "articles": [
         {
-          "title": "화장품 상장기업 브랜드평판 3월…아모레퍼시픽 1위·현대바이오 2위·L...",
-          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=561412",
-          "published_at": "2026-03-17T11:40:00+09:00",
-          "description": "한국기업평판연구소가 발표한 2026년 3월 화장품 상장기업 브랜드평판 빅데이터 분석 결과, 아모레퍼시픽이 1위를 차지했다. 뒤를 이어 현대바이오, LG생활건강이 각각 2위와 3위에 올랐다. 이번 평가는... ",
+          "title": "K-뷰티, 전통문화 감성으로 ‘K-헤리티지’ 전파",
+          "url": "https://www.ekn.kr/web/view.php?key=20260317025038514",
+          "published_at": "2026-03-17T20:40:00+09:00",
+          "description": "아모레퍼시픽의 설화수도 한국 전통문화의 아름다움을 고급 스킨케어 라인인 '진설'에 담았다. 설화수가 1966년 국내 최초로 인삼을 원료로 활용한 'ABC 인삼크림'의 정체성을 '진설 크림 리치'로 이어갔다. 60년 전 디자인... ",
           "summary": "",
-          "source": "bs4"
+          "source": "pending"
         },
         {
-          "title": "G마켓 ‘JBP 협업’ 효과 쏠쏠하네",
-          "url": "https://biz.heraldcorp.com/article/10696113?ref=naver",
-          "published_at": "2026-03-17T11:36:00+09:00",
-          "description": "아모레퍼시픽은 한 달 치 매출을 하루 만에 올리며 40배 넘는 거래액을 달성했고, LG생활건강은 일반 프로모션 대비 3.4배 높은 고객 유입률로 G마켓 역대 최고 하루 매출을 올렸다. G마켓은 뷰티·패션·식품 등 성장... ",
+          "title": "화장품 주가 수직 반등...외국인, 매수 열기 가득",
+          "url": "https://www.thebk.co.kr/news/articleView.html?idxno=308492",
+          "published_at": "2026-03-17T18:54:00+09:00",
+          "description": "에이피알(19,250원), 코스맥스(6,600원), 달바글로벌(5,700원), 아모레퍼시픽(4,800원), 코스메카코리아(4,100원)가 가파르게 상승하며 업종 전체의 회복을 견인했다. 특히 외국인의 전반적인 매도 공세 속에서도 화장품... ",
           "summary": "",
-          "source": "bs4"
+          "source": "pending"
         },
         {
-          "title": "수출 100만달러 뚫은 K-뷰티 … 핵심 기술·인력 유출 '경고등'",
-          "url": "https://biz.newdaily.co.kr/site/data/html/2026/03/17/2026031700164.html",
-          "published_at": "2026-03-17T11:00:00+09:00",
-          "description": "2016년 중국 화장품 업체 자연당(自然堂)이 아모레퍼시픽 계열사 대표를 최고경영자(CEO)로 영입한 사례와 상하이자화가 2015년 LG생활건강·애경산업 출신 인력을 기존 연봉의 두세 배 수준으로 영입한 사례 등이... ",
+          "title": "올리브영 美직진출에… 뷰티업계 &quot;기대·우려 교차&quot;",
+          "url": "http://www.fnnews.com/news/202603171818153591",
+          "published_at": "2026-03-17T18:19:00+09:00",
+          "description": "업계 관계자는 &quot;아모레퍼시픽, LG생활건강이 직접 현지 유통을 담당하는 것처럼 브랜드가 커질수록 유통사에 의존하기보다 직진출하려는 시도가 늘어날 것&quot;이라며 &quot;새로운 인디브랜드의 성장과 함께 유통사가 성장하는... ",
           "summary": "",
-          "source": "bs4"
+          "source": "pending"
         },
         {
-          "title": "아모레퍼시픽, 국내 뷰티 최초 챗GPT 앱 진입… AI 기반 맞춤형 상담 강...",
-          "url": "https://www.polinews.co.kr/news/articleView.html?idxno=725628",
-          "published_at": "2026-03-17T10:03:00+09:00",
-          "description": "아모레퍼시픽이 생성형 AI 플랫폼을 활용한 디지털 영업망 확충에 나서며 뷰티 산업과 인공지능 기술의 결합을 가속화하고 있다. 아모레퍼시픽은 오픈AI(OpenAI)의 챗GPT 내에 자사 공식 온라인몰인 '아모레몰' 앱을... ",
+          "title": "“햇빛보다 뜨겁다”…K뷰티, 선케어 기술 경쟁 격화",
+          "url": "https://www.asiatoday.co.kr/view.php?key=20260317010005155",
+          "published_at": "2026-03-17T18:16:00+09:00",
+          "description": "아모레퍼시픽은 이달 초 R&amp;I 센터를 통해 최신 국제 표준 시험법(ISO 23675)을 도입, 국제적 수준의 평가 신뢰도를 확보했다. LG생활건강도 지난 5일 디에이징(De-Aging) 솔루션 뷰티 브랜드 '오휘'에서 콜라겐과 항산화... ",
           "summary": "",
-          "source": "bs4"
+          "source": "pending"
         },
         {
-          "title": "오설록, 제주 티뮤지엄에 말차 체험 공간 개설… 제조 공정 실시간 시연",
-          "url": "https://www.polinews.co.kr/news/articleView.html?idxno=725633",
-          "published_at": "2026-03-17T10:02:00+09:00",
-          "description": "아모레퍼시픽의 차(茶) 브랜드 오설록이 차의 제조 과정을 직접 확인하고 시음할 수 있는 특화 공간을 확대하며 브랜드의 전문성과 고객 경험의 접점을 넓히고 있다. 오설록은 제주 티뮤지엄 내에 말차를 테마로 한 특화... ",
+          "title": "[단독] 롯데건설, 성수4지구 재입찰 앞두고 'S70' 상표 출원",
+          "url": "https://www.bizhankook.com/bk/article/31759",
+          "published_at": "2026-03-17T17:34:00+09:00",
+          "description": "이후 롯데월드타워 구조 설계를 맡은 레라, 아모레퍼시픽 본사 설계를 맡은 데이비드 치퍼필드 아키텍츠 등과 협업 계획을 공개했다. 성수4지구를 겨냥한 건설사 상표 출원 사례는 이미 존재한다. 롯데건설은... ",
           "summary": "",
-          "source": "bs4"
+          "source": "pending"
         },
         {
-          "title": "화장품 상장기업 브랜드평판 3월 빅데이터 분석···1위 아모레퍼시픽...",
-          "url": "http://www.wsobi.com/news/articleView.html?idxno=307305",
-          "published_at": "2026-03-17T09:08:00+09:00",
-          "description": "화장품 상장기업 브랜드평판 3월 빅데이터 분석결과 1위 아모레퍼시픽, 2위 현대바이오, 3위 LG생활건강 순으로 분석됐다. 국내 화장품 시장은 K-뷰티의 글로벌 위상 강화와 함께 수출 중심의 성장이... ",
+          "title": "美 상륙하는 올리브영, '기대와 우려' 교차하는 K뷰티업계",
+          "url": "http://www.fnnews.com/news/202603151426270981",
+          "published_at": "2026-03-17T17:19:00+09:00",
+          "description": "업계 관계자는 &quot;아모레퍼시픽, LG생활건강이 직접 현지 유통을 담당하는 것처럼 브랜드가 커질수록 유통사에 의존하기보다 직진출하려는 시도가 늘어날 것&quot;이라며 &quot;새로운 인디브랜드의 성장과 함께 유통사가 성장하는... ",
           "summary": "",
-          "source": "bs4"
+          "source": "pending"
         },
         {
-          "title": "휴머노이드 승부처는 가격, 액추에이터 내재화로 돌파",
-          "url": "http://www.engjournal.co.kr/news/articleView.html?idxno=3693",
-          "published_at": "2026-03-17T09:00:00+09:00",
-          "description": "이미 바닥이 평탄화된 제조 환경에서는 휴머노이드의 적용이 수월하기 때문에 실제로 휠베이스형 휴머노이드 '앨리스 M1'의 경우, 지난해 12월 아모레퍼시픽, HL만도, SK텔레콤 등 산업 현장에 투입해 PoC를 완료한... ",
+          "title": "개인화 추천 70% 선호…아모레퍼시픽, 챗GPT 기반 쇼핑 서비스 확대",
+          "url": "http://www.wikileaks-kr.org/news/articleView.html?idxno=184888",
+          "published_at": "2026-03-17T17:18:00+09:00",
+          "description": "아모레퍼시픽이 생성형 인공지능(AI) 챗GPT에 '아모레몰' 앱을 출시했다. 뷰티 업계는 생성형 AI를 중심으로 빠르게 재편되고 있다. 피부 상태와 취향에 따라 제품 선택이 달라지는 특성상 개인화 추천이 핵심... ",
           "summary": "",
-          "source": "bs4"
+          "source": "pending"
         },
         {
-          "title": "25년 화장품 수출 신기록, 현금 배당...'코스맥스 3,300원·토니모리 50원...",
-          "url": "https://www.thebk.co.kr/news/articleView.html?idxno=308402",
-          "published_at": "2026-03-17T08:58:00+09:00",
-          "description": "아모레퍼시픽을 포함한 18개 주요 화장품사의 배당 공시를 종합한 결과, 코스맥스가 주당 3,300원으로 가장 높은 배당을 실시하며, 18개사 전체 현금 배당 규모는 약 2,641억 원으로 집계됐다. 대형사들은 주당 1... ",
+          "title": "[코스피 지수선물 옵션] &quot;선물시장 돈 몰렸다&quot;…삼성전자·하이닉스 중...",
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=437565",
+          "published_at": "2026-03-17T17:06:00+09:00",
+          "description": "화장품 대표주 아모레퍼시픽과 신약 개발 기업 SK바이오팜, 항체 기반 기술력을 보유한 리가켐바이오 역시 성장 기대감이 반영되며 거래가 확대됐다. 금융과 제조업에서도 흐름이 이어졌다. 카드사업 중심의 삼성카드와... ",
           "summary": "",
-          "source": "description"
+          "source": "pending"
         },
         {
-          "title": "화장품 상장기업 2026년 3월 브랜드평판...아모레퍼시픽, 현대바이오, L...",
-          "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=223755",
-          "published_at": "2026-03-17T08:30:00+09:00",
-          "description": "화장품 상장기업 브랜드평판 2026년 3월 빅데이터 분석결과, 1위 아모레퍼시픽 2위 현대바이오 3위 LG생활건강 순으로 분석됐다. 국내 화장품 시장은 K-뷰티의 글로벌 위상 강화와 함께 수출 중심의 성장이... ",
+          "title": "K-뷰티, '포스트 차이나' 인도서 신시장 공략 가속",
+          "url": "https://www.newspim.com/news/view/20260317001174",
+          "published_at": "2026-03-17T16:54:00+09:00",
+          "description": "인도 뷰티 플랫폼 '나이카'에 입점한 에이피알 메디큐브(사진 위)와 아모레퍼시픽 일리윤. [사진=나이카 홈페이지 갈무리] 메디큐브는 ▲제로 라인 ▲PDRN 라인 ▲콜라겐 라인 ▲딥 비타 C 라인 등 국내외에서 높은... ",
           "summary": "",
-          "source": "bs4"
+          "source": "pending"
         },
         {
-          "title": "이니스프리, ‘블랙 화산송이 파하 모공 클렌징 오일’ 출시",
-          "url": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=324661",
-          "published_at": "2026-03-17T08:12:00+09:00",
-          "description": "ⓒ아모레퍼시픽제품은 숯 파우더를 함유한 블랙 컬러 오일 제형이다. 피부에 부드럽게 롤링하면 메이크업과 미세먼지, 노폐물을 제거하는 데 도움을 준다. 모공보다 작은 유화 입자가 모공 구석까지 밀착해 블랙헤드를... ",
+          "title": "엔비디아 훈풍, 코스피 '활짝'...삼성전자·LG·현대차 '급등'",
+          "url": "http://www.choicenews.co.kr/news/articleView.html?idxno=162418",
+          "published_at": "2026-03-17T16:20:00+09:00",
+          "description": "화장품주 중 아모레퍼시픽(3.43%), 에이피알(6.24%), 달바글로벌(4.71%) 등이 껑충 뛰었다. 건설주 중 대우건설이 1.09% 상승했다. 방산주 중에선 LIG넥스원(-3.42%), 한화에어로스페이스(-5.42%) 등이 하락했다. 원전주... ",
           "summary": "",
-          "source": "bs4"
+          "source": "pending"
+        }
+      ]
+    },
+    {
+      "keyword": "벤츠",
+      "articles": [
+        {
+          "title": "지인에게 빌린 외제차 중고로 판 50대 벌금형",
+          "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260318.22006005341",
+          "published_at": "2026-03-17T19:28:00+09:00",
+          "description": "지인에게 벤츠 차량을 빌려 타다 반환을 요구받자 중고차 매매상에게 차량을 넘겨버린 50대가 벌금형에... 법원이 인정한 범죄사실을 보면 A 씨는 2018년 10월께 지인 B 씨에게 부탁해 벤츠E220 차량을 건네받았다. B... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "포스코이앤씨, 유엔스튜디오와 신반포 19·25 현장방문",
+          "url": "https://www.onews.tv/news/articleView.html?idxno=276769",
+          "published_at": "2026-03-17T19:22:00+09:00",
+          "description": "UNStudio는 독일메르세데스-벤츠박물관, 두바이미래교통허브, 싱가포르복합업무단지 등 프로젝트를 설계하며 도시단위 마스터플랜과 미래형복합개발 분야에서 경험을 쌓아 왔다. 국내에서는 압구정갤러리아백화점... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "리사 수, 삼성전자와 파운드리 협력 논의…이재용과 만찬도",
+          "url": "http://www.yonhapnewstv.co.kr/AKR202603171824311Jo",
+          "published_at": "2026-03-17T18:25:00+09:00",
+          "description": "앞서 이 회장은 메타의 마크 저커버그 CEO, 사우디아라비아의 무함마드 빈 살만 왕세자, 올라 칼레니우스 메르세데스-벤츠 회장 등과 승지원에서 만나 비즈니스 논의를 한 바 있습니다. 수 CEO는 이튿날인 19일에는... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "HS효성더클래스, 루비의원과 제휴···'마스테리아 클럽' 혜택 강화",
+          "url": "http://www.finomy.com/news/articleView.html?idxno=251594",
+          "published_at": "2026-03-17T18:22:00+09:00",
+          "description": "현대경제신문 임이랑 기자 | 메르세데스-벤츠 공식 딜러 HS효성더클래스가 지난 12일, 하이엔드 프리미엄 의원 루비의원과 메르세데스-마이바흐 고객 전용 멤버십인 '마스테리아 클럽(MASTERIA Club)' 회원을 위한 업무협약... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "승차감ㆍ연비 다 잡은 금호타이어 ‘크루젠 GT Pro’",
+          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202603171721063720558",
+          "published_at": "2026-03-17T18:20:00+09:00",
+          "description": "18인치부터 22인치까지 총 53개 규격으로 출시돼 현대차ㆍ기아ㆍ벤츠ㆍBMW 등 국산ㆍ수입 프리미엄 SUV에 폭넓게 장착할 수 있다. 내연기관차와 전기차 모두에 적용 가능한 겸용 제품이기도 하다. 마일리지(타이어... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "포스코이앤씨, &quot;유엔스튜디오(UNStudio)와 글로벌 설계 협업...신반포 19...",
+          "url": "https://www.getnews.co.kr/news/articleView.html?idxno=864772",
+          "published_at": "2026-03-17T18:10:00+09:00",
+          "description": "또 세계적인 랜드마크를 설계하며 복합 개발 분야에서 독보적인 위상을 확보하고 있는 유엔스튜디오는 독일 메르세데스-벤츠 박물관, 두바이 미래 교통허브 등 국내에서도 압구정 갤러리아 백화점, YG엔터테인먼트 사옥... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "현대차·기아, 엔비디아 로보택시 새 파트너로 … '완전 자율주행' 앞당...",
+          "url": "https://www.mk.co.kr/article/11990573",
+          "published_at": "2026-03-17T18:06:00+09:00",
+          "description": "이미 메르세데스-벤츠, 도요타, GM 등이 엔비디아의 자율주행 기술 파트너로 협력하고 있다. 현대차·기아는 이번 협력을 통해 엔비디아가 보유한 자율주행 2단계 이상 기술을 일부 차종에 선제 적용할 예정이다. 품질과... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "금호타이어, SUV 전용 '크루젠 GT Pro' 출시...국내 유일 회전저항 2등급...",
+          "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=752105",
+          "published_at": "2026-03-17T18:06:00+09:00",
+          "description": "현대차 싼타페, 기아 카니발, 벤츠 GLS 등 국산차와 수입차 SUV에 적용 가능하다. 크루젠 GT Pro는 내연기관차뿐만 아니라 전기차에도 탑재가 가능하다. 크루젠 GT Pro는 '금호 EV 기술'이 적용돼 높은 토크와 하중을... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "금호타이어, '크루젠 GT Pro' 출시…SUV 타깃 양적·질적 도약",
+          "url": "https://news.dealsitetv.com/articles/166999",
+          "published_at": "2026-03-17T18:06:00+09:00",
+          "description": "크루젠 GT Pro는 18~22인치까지 총 53개 규격으로 출시되며 현대차·기아를 비롯해 벤츠, BMW 등 주요 SUV 모델에 대응할 수 있도록 설계됐다. 금호타이어는 해당 제품의 핵심 경쟁력으로 ▲승차감과 정숙성 ▲마른·젖은... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "금호타이어, 크루젠 GT Pro 출시...프리미엄 SUV ‘정조준’",
+          "url": "https://www.asiatime.co.kr/article/20260317500292",
+          "published_at": "2026-03-17T18:02:00+09:00",
+          "description": "테슬라 모델 Y를 비롯해 메르세데스-벤츠, BMW, 볼보, 포르쉐 등 주요 브랜드의 고급 SUV 판매가 꾸준히 증가하면서 고성능·저소음·고효율을 동시에 요구하는 시장이 빠르게 커지고 있다. 이에 따라 SUV 타이어는 단순... ",
+          "summary": "",
+          "source": "pending"
+        }
+      ]
+    },
+    {
+      "keyword": "bmw",
+      "articles": [
+        {
+          "title": "승차감ㆍ연비 다 잡은 금호타이어 ‘크루젠 GT Pro’",
+          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202603171721063720558",
+          "published_at": "2026-03-17T18:20:00+09:00",
+          "description": "18인치부터 22인치까지 총 53개 규격으로 출시돼 현대차ㆍ기아ㆍ벤츠ㆍBMW 등 국산ㆍ수입 프리미엄 SUV에 폭넓게 장착할 수 있다. 내연기관차와 전기차 모두에 적용 가능한 겸용 제품이기도 하다. 마일리지(타이어... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "수소에너지·수소차·연료전지 관련주, '웃음꽃' 한화솔루션·대창솔루...",
+          "url": "http://www.finomy.com/news/articleView.html?idxno=251572",
+          "published_at": "2026-03-17T18:10:00+09:00",
+          "description": "GM·포드 등 북미, BMW·아우디 등 유럽 고객과 장기 파트너십 유지, 신흥시장 수출·거래선 다각화 지속 중이다. 친환경차 시장 확대에 대응하여 수소연료전지차용 부품 사업과 전기차용 모터 제어부 방열모듈 관련... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "금호타이어, '크루젠 GT Pro' 출시…SUV 타깃 양적·질적 도약",
+          "url": "https://news.dealsitetv.com/articles/166999",
+          "published_at": "2026-03-17T18:06:00+09:00",
+          "description": "크루젠 GT Pro는 18~22인치까지 총 53개 규격으로 출시되며 현대차·기아를 비롯해 벤츠, BMW 등 주요 SUV 모델에 대응할 수 있도록 설계됐다. 금호타이어는 해당 제품의 핵심 경쟁력으로 ▲승차감과 정숙성 ▲마른·젖은... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "금호타이어, 크루젠 GT Pro 출시...프리미엄 SUV ‘정조준’",
+          "url": "https://www.asiatime.co.kr/article/20260317500292",
+          "published_at": "2026-03-17T18:02:00+09:00",
+          "description": "테슬라 모델 Y를 비롯해 메르세데스-벤츠, BMW, 볼보, 포르쉐 등 주요 브랜드의 고급 SUV 판매가 꾸준히 증가하면서 고성능·저소음·고효율을 동시에 요구하는 시장이 빠르게 커지고 있다. 이에 따라 SUV 타이어는 단순... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "Kumho Tire rolls out premium SUV tire in global push",
+          "url": "https://www.koreaherald.com/article/10696431?ref=naver",
+          "published_at": "2026-03-17T18:02:00+09:00",
+          "description": "The tire comes in 53 sizes ranging from 18 to 22 inches, covering a wide range of premium SUVs from carmakers including Hyundai Motor, Kia, Mercedes-Benz, BMW and Porsche, and is optimized for... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "中 지커, 韓 전기차 판 흔들까… BMW·벤츠·제네시스 '정조준'",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092158767",
+          "published_at": "2026-03-17T18:02:00+09:00",
+          "description": "지커는 BMW, 메르세데스-벤츠, 아우디 등 독일 프리미엄 브랜드는 물론 현대자동차의 고급 브랜드... 차급을 고려하면 7X는 BMW iX, 아우디 'Q6 e-트론', 메르세데스-벤츠 '디 올 뉴 GLC 위드 EQ 테크놀로지' 등과 경쟁할 것으로... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "금호타이어 ‘5조 클럽’ 정조준…크루젠 GT Pro로 SUV 시장 공략 [현장...",
+          "url": "https://www.kukinews.com/article/view/kuk202603170119",
+          "published_at": "2026-03-17T18:02:00+09:00",
+          "description": "승차감·정숙성·마일리지 강화…“프리미엄 SUV 시장 겨냥” 금호타이어는 크루젠 GT 프로를 18인치부터 22인치까지 총 53개 규격으로 출시해 현대차·기아, BMW 등 주요 프리미엄 SUV 차종에 대응할 수 있도록 설계했다.... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "금호타이어, 프리미엄 SUV 시장 도전장… 관세·전쟁 뚫고 ‘‘5.1兆 매...",
+          "url": "https://biz.chosun.com/industry/car/2026/03/17/TTANIKEU5ZB3NJ6EYYQHWPJFH4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+          "published_at": "2026-03-17T18:01:00+09:00",
+          "description": "금호타이어 관계자는 “18인치부터 22인치까지 총 53개 사이즈로 출시돼 현대차·기아 등 국산차는 물론 메르세데스-벤츠, BMW까지 모든 프리미엄 SUV 모델에 대응 가능하다”고 설명했다. 한국 SUV 시장은 빠르게 성장하고... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "[현장 직썰] &quot;프리미엄 SUV 시장 잡는다&quot;···금호타이어, '크루젠 GT 프...",
+          "url": "https://www.ziksir.com/news/articleView.html?idxno=127395",
+          "published_at": "2026-03-17T18:00:00+09:00",
+          "description": "국내 완성차를 비롯해 BMW 등 글로벌 프리미엄 SUV 차종에 폭넓게 대응할 수 있는 라인업이다. 금호타이어 상품개발1부문장 김호중 상무. [성유창 기자] ◇&quot;2분기 물량 확보&quot;…판매 확대·OE 공급 추진 간담회에서는 판매... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "[현장] 정일택 금호타이어 사장 &quot;매출 5.1조 목표…프리미엄 타이어로 ...",
+          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1702606",
+          "published_at": "2026-03-17T18:00:00+09:00",
+          "description": "또한 메르세데스-벤츠 GLC와 GLE, BMW X5 등 최근 국내에서 프리미엄 SUV 인기가 늘고 있다. 이에 해당 수요를 겨냥한 신규 타이어 출시를 결정했다는 후문이다. 정일택 금호타이어 사장은 &quot;크루젠 GT Pro는 성장하는... ",
+          "summary": "",
+          "source": "pending"
+        }
+      ]
+    },
+    {
+      "keyword": "스텔란티스",
+      "articles": [
+        {
+          "title": "[데일리픽] 엔비디아 AI 팩토리 플랫폼 확장…삼성전자 HBM4E 첫 선",
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=642001",
+          "published_at": "2026-03-17T17:06:00+09:00",
+          "description": "드라이브 하이페리온 기존 고객사로는 오로라, 누로 같은 자율주행 전문 기업과 소니그룹, 우버 테크놀로지스, 지프 모브랜드 스텔란티스, 전기차 업체 루시드그룹 등이 있다. 자율주행은 엔비디아에게 새로운... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "[신지아의 산업예보] 캐즘 속에서도 수주 훈풍…美 정책에 K-배터리 기대...",
+          "url": "https://www.ajunews.com/view/20260317150111605",
+          "published_at": "2026-03-17T17:02:00+09:00",
+          "description": "이번 계약에 따라 공급하게 될 배터리는 미국 인디애나주(州)에 위치한 삼성SDI-스텔란티스 합작법인 '스타플러스 에너지(Starplus Energy, SPE)' 공장에서 생산된다. 지난해 말 미국의 에너지 관련 인프라 개발∙운영... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "홍콩상장 NEV 링파오, 10년만의 흑자전환 '백만대' 대약진 시동",
+          "url": "https://www.newspim.com/news/view/20260317001113",
+          "published_at": "2026-03-17T16:24:00+09:00",
+          "description": "링파오는 세계 4위 완성차 연합 그룹 스텔란티스(Stellantis)와의 합작 법인인 '리프모터 인터내셔널'을 통해 유럽, 중동, 아시아 태평양 등 글로벌 40개국에 900여 개의 판매망을 구축, 해외 판매를 크게 늘릴 수... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "&quot;역시 머스크였네…&quot; LG엔솔 ‘6조 美배터리 수주’ 주인은 테슬라",
+          "url": "https://www.joongang.co.kr/article/25412426",
+          "published_at": "2026-03-17T16:08:00+09:00",
+          "description": "배터리는 미 인디애나주에 위치한 삼성SDI-스텔란티스 합작법인 스타플러스에너지(SPE) 공장에서 생산되며, 올해부터 2029년까지 4년간 단계적으로 공급할 예정이다. 삼성SDI 관계자는 “최근 잇단 수주 릴레이는... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "현대차부터 테슬라까지… 한국단자, 글로벌 완성차 '커넥터 표준' 잡았...",
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=437523",
+          "published_at": "2026-03-17T16:00:00+09:00",
+          "description": "현대차·기아 등 국내 기업은 물론 테슬라, GM, 스텔란티스 등 글로벌 완성차 업체를 고객사로 확보하며 북미 매출이 가파른 상승세를 보이고 있다. 2025년 기준 미국 및 멕시코 법인의 매출은 3400억 원을 넘어설 것으로... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "절치부심 스텔란티스…美 시장 25% 성장 목표 제시",
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=642035",
+          "published_at": "2026-03-17T15:48:00+09:00",
+          "description": "스텔란티스가 2026년에 반등을 노리고 있다. [사진: 스텔란티스] 다국적 자동차 기업 스텔란티스가 미국 시장에서 판매 부진이 이어지는 가운데 2026년 25% 성장 목표를 제시하며 반등을 시도하고 있다. 16일(현지시간)... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "엔비디아, 볼트와 자율주행 동맹…유럽 로보택시 겨냥",
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=641907",
+          "published_at": "2026-03-17T11:58:00+09:00",
+          "description": "2025년 말에는 포니(Pony.ai)와 스텔란티스(Stellantis)와의 파트너십을 발표한 바 있다. 다만 엔비디아 기술이 적용된 볼트 로보택시가 유럽 도시에 실제로 도입되는 시점은 아직 공개되지 않았다.",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "“연비 1위 브랜드는 혼다”…EPA 조사서 현대차·기아 미국 ‘톱3’",
+          "url": "https://www.thedrive.co.kr/news/newsview.php?ncode=1065579643032855",
+          "published_at": "2026-03-17T11:26:00+09:00",
+          "description": "포드 10.0km/L, 제너럴 모터스(GM) 9.7km/L, 스텔란티스 9.7km/L 등이다. EPA는 픽업트럭과 대형 SUV 중심의 판매 구조가 연비 평균에 영향을 준 것으로 분석했다. # 대부분 제조사 연비 개선…토요타 상승폭 최대 이번... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "삼성물산, 인도 릴라이언스와 4.5조 그린암모니아 동맹",
+          "url": "http://www.thebigdata.co.kr/view.php?ud=202603171012211713bbceadc3c9_23",
+          "published_at": "2026-03-17T11:10:00+09:00",
+          "description": "또 올라 칼레니우스 메르세데스-벤츠 회장과 미래 모빌리티 협력을 논의하고 존 엘칸 스텔란티스 회장과도 긴밀한 관계를 이어가는 등 글로벌 산업 네트워크를 확대하고 있다. 재계 관계자는 &quot;이재용 회장이 구축한... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "중국산 전기차 캐나다 수용, 미국 시장에 어떤 파장?",
+          "url": "http://www.newstown.co.kr/news/articleView.html?idxno=697191",
+          "published_at": "2026-03-17T11:03:00+09:00",
+          "description": "지난 가을, 스텔란티스는 지프 컴패스 생산을 온타리오에서 일리노이로 이전하면서 3,000명의 캐나다 자동차 노동자들을 곤경에 빠뜨렸다. 킹스턴은 &quot;우리는 통합된 공급망을 기반으로 산업을 구축해 왔다. 미국의 관세... ",
+          "summary": "",
+          "source": "pending"
+        }
+      ]
+    },
+    {
+      "keyword": "지프",
+      "articles": [
+        {
+          "title": "[데일리픽] 엔비디아 AI 팩토리 플랫폼 확장…삼성전자 HBM4E 첫 선",
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=642001",
+          "published_at": "2026-03-17T17:06:00+09:00",
+          "description": "드라이브 하이페리온 기존 고객사로는 오로라, 누로 같은 자율주행 전문 기업과 소니그룹, 우버 테크놀로지스, 지프 모브랜드 스텔란티스, 전기차 업체 루시드그룹 등이 있다. 자율주행은 엔비디아에게 새로운... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "절치부심 스텔란티스…美 시장 25% 성장 목표 제시",
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=642035",
+          "published_at": "2026-03-17T15:48:00+09:00",
+          "description": "크라이슬러, 피아트, 닷지 브랜드는 오랜 기간 부진을 이어왔으며, 램과 지프 역시 뚜렷한 성장세를 보이지 못하고 있다. 이 같은 판매 부진은 전동화 전환에서의 소극적인 전략과도 맞물려 있다는 분석이 나온다.... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "[호국보훈기념] (41) 워커장군 추모비",
+          "url": "https://www.konas.net/article/article.asp?idx=64154",
+          "published_at": "2026-03-17T11:30:00+09:00",
+          "description": "그러나 안타깝게도 워커 장군은 무언가를 해볼 틈도 없이 1950년 12월 23일, 의정부에서 탑승한 지프가 트럭과 충돌하는 교통사고로 전사했다. 워커 장군이 대한민국 땅을 밟은 기간은 다 합쳐도 채 반년이 되지 않지만... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "중국산 전기차 캐나다 수용, 미국 시장에 어떤 파장?",
+          "url": "http://www.newstown.co.kr/news/articleView.html?idxno=697191",
+          "published_at": "2026-03-17T11:03:00+09:00",
+          "description": "지난 가을, 스텔란티스는 지프 컴패스 생산을 온타리오에서 일리노이로 이전하면서 3,000명의 캐나다 자동차 노동자들을 곤경에 빠뜨렸다. 킹스턴은 &quot;우리는 통합된 공급망을 기반으로 산업을 구축해 왔다. 미국의 관세... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "젠슨 황 &quot;현대차와 로보택시 협업&quot;",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4404043",
+          "published_at": "2026-03-17T08:32:00+09:00",
+          "description": "드라이브 하이페리온 고객에는 오로라와 뉴로 같은 자율주행 기업뿐 아니라 소니 그룹과 우버, 지프의 모회사 스텔란티스 등이 있다. 자율주행차 사업은 인공지능(AI) 외 영역에서 엔비디아의 성장 가능성을... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "엔비디아, 현대차 등과 자율주행 협력 확대…&quot;로보택시의 챗GPT 순간 왔...",
+          "url": "https://www.newspim.com/news/view/20260317000040",
+          "published_at": "2026-03-17T07:56:00+09:00",
+          "description": "엔비디아의 드라이브 하이페리온 플랫폼에는 현대차 외에도 자율주행 스타트업 오로라 이노베이션(Aurora Innovation), 누로(Nuro)와 함께 소니그룹, 우버, 스텔란티스(지프 모회사), 전기차 업체 루시드그룹 등이... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "&quot;원달러 환율 1500원 뉴노멀&quot;…수입차 시장 '수익성 악화' 경고등",
+          "url": "https://www.newsis.com/view/NISX20260316_0003550520",
+          "published_at": "2026-03-17T07:00:00+09:00",
+          "description": "제너럴모터스(GM), 포드, 지프, 테슬라 등 미국 브랜드는 물론, 독일과 일본 브랜드도 미국 생산 차량을 국내로 수입하며 달러로 대금을 치르는 구조다. 예컨대, 풀셀프드라이빙(FSD)로 인기를 끌고 있는 모델S... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "엔비디아, 자율주행차 동맹 확대... 현대차·닛산·이스즈·BYD·지리 합...",
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=641737",
+          "published_at": "2026-03-17T06:44:00+09:00",
+          "description": "드라이브 하이페리온 기존 고객사로는 오로라, 누로 같은 자율주행 전문 기업과 소니그룹, 우버 테크놀로지스, 지프 모브랜드 스텔란티스, 전기차 업체 루시드그룹 등이 있다. 자율주행은 엔비디아에게 새로운 성장... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "양극성 장애 치료 패러다임 '비정형 항정신병약물' 중심으로 변화",
+          "url": "https://www.monews.co.kr/news/articleView.html?idxno=410147",
+          "published_at": "2026-03-17T06:04:00+09:00",
+          "description": "또 지프라시돈은 기존 하위 2차 치료에서 상위 2차 치료로 권고 수준이 올라갔고, 루라시돈 역시 상위 2차... 특히 올란자핀과 쿠에티아핀은 가장 강한 수준으로 권고됐고, 지프라시돈과 루라시돈 역시 상위 2차 치료... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "'톡파원25시' 이찬원 취향 저격 일본 오사카 미식 투어",
+          "url": "https://enter.etoday.co.kr/news/view/294598",
+          "published_at": "2026-03-16T20:46:00+09:00",
+          "description": "먼저 톡파원은 지프차를 타고 일출을 감상할 수 있는 바투르산을 찾는다. 해발 1,717m에서 마주한 환상적인 풍경에 우즈는 &quot;여기 진짜 가보고 싶다&quot;며 입을 다물지 못한다. 이어 보트 위에서 브런치를 즐길 수 있는 우붓의... ",
+          "summary": "",
+          "source": "pending"
+        }
+      ]
+    },
+    {
+      "keyword": "푸조",
+      "articles": [
+        {
+          "title": "푸조, 101마력 신형 'Turbo 100' 엔진 공개, 차세대 208부터 적용",
+          "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=542389",
+          "published_at": "2026-03-17T07:16:00+09:00",
+          "description": "푸조가 새로운 가솔린 파워트레인 'Turbo 100' 엔진을 공개했다. 푸조 엔지니어들이 개발한 Turbo 100 엔진은 주행 감각과 성능을 향상시키면서 효율성과 내구성을 개선한 3세대 가솔린 엔진이다. 이 엔진은 전체... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "희망퇴직 확대 스텔란티스코리아… &quot;韓 사업 축소설 근거 없다&quot;",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092158697",
+          "published_at": "2026-03-16T17:08:00+09:00",
+          "description": "지프와 푸조 등 스텔란티스 브랜드의 국내 판매가 최근 2년 사이 절반 수준으로 감소한 가운데 조직... 16일 업계 소식을 종합하면 스텔란티스코리아는 최근 푸조와 지프 브랜드를 담당하던 내셔널 세일즈 부문 직원 약... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "[시승기] 평범한 도심형 SUV가 싫다면 '푸조 3008'",
+          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=824555",
+          "published_at": "2026-03-16T15:32:00+09:00",
+          "description": "푸조 '3008'의 외관./곽호준 기자 | 서울=한스경제 곽호준 기자 | 넘치는 개성만큼 비범한 면모가 많다. 완전변경(풀체인지)을 거친 푸조 '3008'은 유연한 골격을 밑바탕 삼아 스타일까지 멋진 도심형 스포츠유틸리티차(SUV)... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "아직은 하이브리드?…전기차 캐즘 속 완성차 전략 수정",
+          "url": "https://www.newsway.co.kr/news/view?ud=2026031610443401877",
+          "published_at": "2026-03-16T13:52:00+09:00",
+          "description": "메르세데스-벤츠와 BMW는 플러그인 하이브리드(PHEV) 라인업을 확대하며 전기차 전환 속도를 조절하고 있으며, 스텔란티스(푸조)와 폭스바겐 역시 주요 모델에 하이브리드 파워트레인을 확대 적용하는 방향으로 전략을... ",
+          "summary": "",
+          "source": "pending"
+        }
+      ]
+    },
+    {
+      "keyword": "볼보",
+      "articles": [
+        {
+          "title": "中 지커, 韓 전기차 판 흔들까… BMW·벤츠·제네시스 '정조준'",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092158767",
+          "published_at": "2026-03-17T18:02:00+09:00",
+          "description": "이 경우 볼보, 폴스타, 로터스 등을 포함해 대중 브랜드인 지리를 제외한 그룹 내 주요 프리미엄 브랜드... 여기에 볼보와 폴스타 등 그룹 산하 브랜드가 국내에서 안정적인 수요를 확보하고 있는 점도 긍정적인 요소로... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "금호타이어, 크루젠 GT Pro 출시...프리미엄 SUV ‘정조준’",
+          "url": "https://www.asiatime.co.kr/article/20260317500292",
+          "published_at": "2026-03-17T18:02:00+09:00",
+          "description": "테슬라 모델 Y를 비롯해 메르세데스-벤츠, BMW, 볼보, 포르쉐 등 주요 브랜드의 고급 SUV 판매가 꾸준히 증가하면서 고성능·저소음·고효율을 동시에 요구하는 시장이 빠르게 커지고 있다. 이에 따라 SUV 타이어는 단순... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "현대차, 日서 수소생태계 기술력 과시…HTWO 밸류체인 공개",
+          "url": "http://www.joseilbo.com/news/news_read.php?uid=564781&class=17&grp=",
+          "published_at": "2026-03-17T17:00:00+09:00",
+          "description": "유럽에서는 다임러트럭과 볼보가 합작사 셀센트릭을 통해 장거리 트럭용 연료전지 시스템 개발과 양산 기반 구축에 나섰다. 상용차 분야에서는 실증 사업이 빠르게 늘고 있다. 현대차 수소전기트럭 엑시언트는 2026년... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "가격 인하에 수입 전기차 대중화 ‘쾌속질주’",
+          "url": "https://www.ekn.kr/web/view.php?key=20260317023068411",
+          "published_at": "2026-03-17T16:36:00+09:00",
+          "description": "테슬라는 지난해 말 모델 Y 등 주요 모델 가격을 최대 940만원 인하했고, 르노와 볼보 역시 약 700만원 수준의 할인에 나서며 중저가형 모델 가격을 조정했다. 여기에 비야디(BYD)는 2000만원대 소형 해치백 '돌핀'과... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "한국폴리텍대학 충남캠퍼스, 전기자동차 전문가 초청 특강 개최",
+          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1068187",
+          "published_at": "2026-03-17T15:30:00+09:00",
+          "description": "특강에는 볼보트럭코리아 이문길 상무가 강사로 초청돼 전기자동차 산업의 글로벌 시장 동향과 기술 변화, 친환경 모빌리티 산업의 발전 방향 등을 중심으로 심도 있는 강연을 진행했다. 이날 특강에는 전기자동차과... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "볼보코리아, 다시 달린다…이윤모 대표, EV 상품성 강화 '승부수'",
+          "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=125950",
+          "published_at": "2026-03-17T14:06:00+09:00",
+          "description": "볼보자동차코리아 이윤모 대표. [사진=뉴시스] 볼보자동차코리아(이하 볼보) 이윤모 대표가 고객 만족도를 최우선으로 하는 경영 전략을 바탕으로 성장 궤도를 되찾는다. 지난해 판매량이 소폭 감소했지만, 올해... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "미국서 짐 싸는 볼보 'EX30', 한국은 '가격 파괴'로 승부수",
+          "url": "https://www.livebiz.today/news/articleView.html?idxno=201120",
+          "published_at": "2026-03-17T11:18:00+09:00",
+          "description": "볼보의 소형 전기 SUV 'EX30'이 미국 시장 출시 2년 만에 단종된다. 관세 정책 변화와 전기차 수요 둔화가... 카앤드라이버 등 주요 자동차 매체에 따르면, 볼보는 최근 미국 내 딜러들에게 2026년형 모델을 끝으로 EX30 및... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "중국산 전기차 캐나다 수용, 미국 시장에 어떤 파장?",
+          "url": "http://www.newstown.co.kr/news/articleView.html?idxno=697191",
+          "published_at": "2026-03-17T11:03:00+09:00",
+          "description": "이 공장은 역시 지리 소유의 자동차 제조업체 볼보가 운영하고 있다. 또한 BYD는 캘리포니아에 전기 버스 공장을 운영하고 있다. 향후 캐나다와 중국에서 생산될 전기차는 미국에서 판매되기 위해 모든 신차가 충족해야... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "볼보 EX30, 미국 상륙 실패…전기차 시장 변화 신호탄?",
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=641835",
+          "published_at": "2026-03-17T10:10:00+09:00",
+          "description": "[사진: 볼보] 볼보자동차가 보급형 전기차로 기대를 모았던 EX30의 미국 시장 출시 계획을 취소했다. 16일(현지시간) 전기차 매체 인사이드EV에 따르면, 볼보자동차 대변인은 EX30의 미국 판매 계획이 취소됐다고 확인했다.... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "&quot;비싼 차 안 사고 빌려 탑니다&quot;… 2030 신차 '구독 시대' 활짝",
+          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000026441",
+          "published_at": "2026-03-17T00:00:00+09:00",
+          "description": "쏘카는 수익 구조 개선을 바탕으로 고급화 전략에 집중할 계획으로 올해 '쏘카플랜'을 통해 테슬라, 포르쉐, 볼보 등 프리미엄 수입차 라인업을 대폭 확대해 이용자들의 선택지를 넓힐 예정이라고 밝혔다. 나아가... ",
+          "summary": "",
+          "source": "pending"
+        }
+      ]
+    },
+    {
+      "keyword": "토요타",
+      "articles": [
+        {
+          "title": "한국타이어, WRC 3라운드 '사파리 랠리 케냐' 성료···'다이나프로' 기...",
+          "url": "http://www.finomy.com/news/articleView.html?idxno=251597",
+          "published_at": "2026-03-17T19:42:00+09:00",
+          "description": "치열한 접전 끝에 3라운드 우승 트로피는 '토요타 가주 레이싱 월드 랠리 팀'의 타카모토 카츠타에게 돌아갔다. 그는 1992년 이후 WRC 라운드를 제패한 첫 일본 드라이버로 새 역사를 썼으며, 총점 55점으로 드라이버... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "[NBA] 활짝 웃는 르브론 제임스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3531809",
+          "published_at": "2026-03-17T19:12:00+09:00",
+          "description": "국제뉴스/AFP통신 = LA레이커스의 르브론 제임스가 16일(현지시간) 미국 텍사스 주 휴스턴의 토요타 센터에서 열리는 2025-2026 미국프로농구(NBA) 정규시즌 휴스턴 로케츠와의 경기 전 워밍업을 하고 있다.",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "[NBA] 워밍업하는 르브론 제임스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3531803",
+          "published_at": "2026-03-17T19:10:00+09:00",
+          "description": "국제뉴스/AFP통신 = LA레이커스의 르브론 제임스가 16일(현지시간) 미국 텍사스 주 휴스턴의 토요타 센터에서 열리는 2025-2026 미국프로농구(NBA) 정규시즌 휴스턴 로케츠와의 경기 전 워밍업을 하고 있다.",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "젠슨 황 &quot;AI가 AI 고용하는 세상 온다&quot;···'에이전트 경제' 시대 선언",
+          "url": "http://www.hellodd.com/news/articleView.html?idxno=111181",
+          "published_at": "2026-03-17T18:58:00+09:00",
+          "description": "젠슨 황은 &quot;기존 파트너사인 메르세데스, 토요타, GM을 합하면 연간 생산 규모는 1,800만 대가 될 것&quot;이라고 밝혔다. 현대차그룹은 올 초 신임 AVP본부장 겸 포티투닷(42dot) 대표이사로 박민우 전 엔비디아 부사장을... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "수소에너지·수소차·연료전지 관련주, '웃음꽃' 한화솔루션·대창솔루...",
+          "url": "http://www.finomy.com/news/articleView.html?idxno=251572",
+          "published_at": "2026-03-17T18:10:00+09:00",
+          "description": "국내 완성차업체인 현대자동차·기아와 안정적인 거래관계를 유지하고 있으며, 적극적인 해외 마케팅으로 GM, 폭스바겐, 토요타 등 글로벌 자동차업체에도 수출을 확대하고 있다. 엔지니어링 플라스틱 부품 국내 1위... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "레벨4 로보택시까지 도전…정의선-젠슨황 ‘깐부동맹’ 본격화",
+          "url": "https://www.joongang.co.kr/article/25412453",
+          "published_at": "2026-03-17T17:18:00+09:00",
+          "description": "엔비디아는 중국 비야디(BYD)와 지리, 일본 닛산 등도 합류해 기존 협력사인 메르세데스-벤츠, 토요타, 제너럴모터스(GM) 등과 합하면 엄청난 규모의 로보택시 플랫폼이 될 것이라 예상했다. 현대차와 엔비디아는 꾸준히... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "[카드] 한국타이어 후원, 월드 랠리 챔피언십 '사파리 랠리 케냐' 성료",
+          "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=43762",
+          "published_at": "2026-03-17T16:46:00+09:00",
+          "description": "우수한 내구성을 발휘했다고 회사 측은 설명했다. 경기 결과 '토요타 가주 레이싱 월드 랠리 팀'의 '타카모토 카츠타'가 우승을 차지했다. 현재 '엘핀 에반스'가 66점으로 1위, '올리버 솔베르그'가 58점으로 2위다.",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "한국타이어 ‘다이나프로’, 아프리카 사바나 평정..WRC ‘사파리 랠리...",
+          "url": "https://www.dailycar.co.kr/content/news.html?type=view&autoId=60987",
+          "published_at": "2026-03-17T16:30:00+09:00",
+          "description": "경기 결과, 한국타이어를 장착한 ‘토요타 가주 레이싱’ 팀의 타카모토 카츠타가 우승컵을 들어 올렸다. 카츠타는 1992년 이후 34년 만에 WRC 라운드를 제패한 일본인 드라이버라는 금자탑을 쌓았으며, 이번 우승으로... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "치맥으로 맺은 깐부…현대차·기아, 엔비디아와 자율주행 동맹 본격화",
+          "url": "https://www.newsway.co.kr/news/view?ud=2026031714353438063",
+          "published_at": "2026-03-17T16:10:00+09:00",
+          "description": "황 CEO는 이어 &quot;이들 기업이 생산하는 차량만 연간 1800만대에 달한다&quot;며 &quot;여기에 메르세데스-벤츠와 토요타, GM 등 기존 파트너까지 더해지면 자율주행 차량의 규모는 매우 빠르게 확대될 것&quot;이라고 말했다. 이는... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "전고체 배터리 기술 경쟁 가속…한·일 기업 개발 속도",
+          "url": "https://www.etnews.com/20260317000080",
+          "published_at": "2026-03-17T16:01:00+09:00",
+          "description": "특히 이번 전시회에서는 토요타·파나소닉 등 일본 기업들이 전고체 배터리 로드맵을, 일본 소재 기업들은... 일본에서는 토요타가 전고체 배터리 개발을 주도한다. 토요타는 전고체 배터리 관련 특허 약 1300여건을... ",
+          "summary": "",
+          "source": "pending"
+        }
+      ]
+    },
+    {
+      "keyword": "렉서스",
+      "articles": [
+        {
+          "title": "메디플렉서스, 데이터바우처 공급기업 선정…의료 데이터 활용도↑",
+          "url": "https://www.mt.co.kr/future/2026/03/17/2026031709161978923",
+          "published_at": "2026-03-17T20:00:00+09:00",
+          "description": "통합 의료데이터 기업 메디플렉서스가 과학기술정보통신부와 한국데이터산업진흥원이 주관하는 '2026년... 메디플렉서스는 이번 사업을 통해 고령화와 암 등 사회 현안 분야를 중심으로 의료기관과 임상 연구자를 위한... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "스크린·필드 접수→‘이도류 스타’ 김홍택, 렉서스 탄다…천우모터스...",
+          "url": "https://www.sportsseoul.com/news/read/1594497?ref=naver",
+          "published_at": "2026-03-17T17:10:00+09:00",
+          "description": "KPGA 인기 스타 김홍택, 렉서스 탄다 천우모터스와 공식 후원 계약 “올해 KPGA 투어와 G투어 최선 다하겠다” KPGA 인기 스타 김홍택이 렉서스 공식 딜러사인 천우모터스와 후원 계약을 맺었다. 사진 | 천우모터스... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "KPGA 김홍택, 천우모터스와 차량 후원 계약",
+          "url": "https://www.m-i.kr/news/articleView.html?idxno=1351694",
+          "published_at": "2026-03-17T16:56:00+09:00",
+          "description": "김홍택이 렉서스 공식 딜러사인 천우모터스와 차량 후원 계약을 맺었다. 2026년부터 김홍택은 천우모터스를 통해 렉서스 RX450h+ 차량을 지원받는다. 김홍택은 필드와 스크린 무대를 동시에 섭렵하고 있는 골프... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "김홍택, 렉서스 공식 딜러 천우모터스와 차량 후원 계약..2026시즌 동행",
+          "url": "https://www.mhnse.com/news/articleView.html?idxno=518377",
+          "published_at": "2026-03-17T15:00:00+09:00",
+          "description": "렉서스 공식 딜러사인 천우모터스가 김홍택과 차량 후원 계약을 체결했다. 천우모터스 정세림 대표는 올해부터 한국프로골프(KPGA) 투어와 GTOUR에서 뛰는 김홍택의 공식 차량 후원사로 나서며, 렉서스 RX450h+를... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "볼보코리아, 다시 달린다…이윤모 대표, EV 상품성 강화 '승부수'",
+          "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=125950",
+          "published_at": "2026-03-17T14:06:00+09:00",
+          "description": "시장 점유율 5위인 렉서스와 불과 12대 차이다. 전기차 캐즘(일시적 수요 정체)이 이어지는 가운데 하이브리드 전통 강자인 렉서스가 매섭게 추격했다. 이 대표는 하이브리드와 전기차를 균형 있게 배치한... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "천우모터스, KPGA 김홍택에게 렉서스 RX450h+ 차량 제공",
+          "url": "https://www.dailian.co.kr/news/view/1621808/?sc=Naver",
+          "published_at": "2026-03-17T13:59:00+09:00",
+          "description": "렉서스 공식 딜러사인 천우모터스(대표 정세림)가 17일 한국남자골프(KPGA) 투어 김홍택과 차량 후원 계약을 했다고 밝혔다. 천우모터스는 2026년부터 김홍택에게 렉서스 RX450h+ 차량을 제공하는 등 물심양면 지원할... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "KPGA 투어 프로 김홍택, 천우모터스와 차량 후원 계약",
+          "url": "https://www.thegolftimes.co.kr/news/articleView.html?idxno=80637",
+          "published_at": "2026-03-17T13:50:00+09:00",
+          "description": "(33)이 렉서스 공식 딜러사 천우모터스(정세림 대표)와 차량 후원 계약을 체결했다. 김홍택의 매니지먼트사 비넘버원은 &quot;이번 후원 계약을 통해 김홍택 선수가 천우모터스로부터 렉서스 RX450h+ 차량을 제공받는다... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "KPGA 김홍택, 렉서스 딜러사 '천우모터스'와 후원 계약",
+          "url": "https://www.newspim.com/news/view/20260317000795",
+          "published_at": "2026-03-17T13:11:00+09:00",
+          "description": "렉서스 공식 딜러사인 천우모터스 정세림 대표는 &quot;KPGA투어 김홍택과 차량 후원 계약을 했다&quot;고 17일 밝혔다. 2026년부터 김홍택의 차량 후원사로 천우모터스는 렉서스 RX450h+ 차량을 제공하는 등, 김홍택을 물심... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "KPGA 김홍택, 렉서스 탄다…천우모터스와 후원 계약",
+          "url": "https://www.seoul.co.kr/news/sport/golf/2026/03/17/20260317500038?wlog_tag3=naver",
+          "published_at": "2026-03-17T09:42:00+09:00",
+          "description": "온라인과 오프라인을 넘나드는 한국프로골프(KPGA)투어 인기 선수 김홍택이 렉서스 자동차를 탄다. 렉서스 공식 딜러사인 천우모터스(대표 정세림)는 김홍택과 차량 후원 계약을 했다고 17일 밝혔다. 천우모터스는... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "KPGA 김홍택 프로, 천우모터스와 후원 계약",
+          "url": "https://biz.heraldcorp.com/article/10695783?ref=naver",
+          "published_at": "2026-03-17T09:19:00+09:00",
+          "description": "천우모터스와 차량 후원 계약을 맺은 KPGA 김홍택 프로가 렉서스 차량 앞에서 포즈를 취하고 있다. ‘렉서스’ 공식 딜러사인 천우모터스가 KPGA투어 김홍택 프로와 차량 후원 계약을 했다고 17일 밝혔다. 올 시즌부터... ",
+          "summary": "",
+          "source": "pending"
+        }
+      ]
+    },
+    {
+      "keyword": "혼다",
+      "articles": [
+        {
+          "title": "호르무즈봉쇄에 일본차 '비상'...도요타 이어 닛산 천200대 감산",
+          "url": "https://www.ytn.co.kr/_ln/0104_202603171903512824",
+          "published_at": "2026-03-17T19:03:00+09:00",
+          "description": "혼다도 일부 자동차 출하를 늦춘 것으로 전해졌습니다. 중동 물류 차질 사태가 미국의 관세 조치로 타격을 입은 일본 자동차 업계에 또 다른 악재로 작용할 수도 있습니다. 닛산과 혼다는 모두 2025회계연도에 적자를... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "직원 줄이고 부동산·주식 파는 배터리업계, 이것 하나는 지속 늘린다",
+          "url": "https://news.mtn.co.kr/news-detail/2026031715064656939",
+          "published_at": "2026-03-17T17:54:00+09:00",
+          "description": "다음달 일본 완성차 기업 혼다에 오하이오 공장 건물 자산 일체를 매각하는 LG에너지솔루션, 10조원 규모의 삼성디스플레이 지분 15.2%를 매각하는 삼성SDI가 대표적입니다.이렇게 마련된 대규모 자금은 ESS... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "중동發 나프타 대란…日석화·자동차 공급망 '도미노 타격'",
+          "url": "https://www.hankyung.com/article/2026031776961",
+          "published_at": "2026-03-17T17:51:00+09:00",
+          "description": "나프타 수급이 어려워지자 석유화학 업체들이 잇달아 감산에 나섰고 닛산, 도요타, 혼다 등 자동차업계도... 혼다도 일부 자동차 출하를 늦춘 것으로 전해졌다. 중동 물류 차질 사태가 미국 관세 조치로 타격을 받은 일본... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "이달 1200대 감산 나서는 日 자동차…'중동 물량'은 유지하는 까닭",
+          "url": "https://view.asiae.co.kr/article/2026031717315004209",
+          "published_at": "2026-03-17T17:37:00+09:00",
+          "description": "혼다 역시 일부 자동차 출하를 늦춘 것으로 전해졌다. 중동 물류 차질 사태가 미국의 관세 조치로 타격을 입은 일본 자동차 업계에 또 다른 악재로 작용할 수도 있다. 닛산과 혼다는 모두 2025회계연도에 적자를 기록할... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "호르무즈봉쇄에 일본車 물류 차질…닛산 1200대 감산",
+          "url": "http://www.fnnews.com/news/202603171703190204",
+          "published_at": "2026-03-17T17:09:00+09:00",
+          "description": "혼다 역시 일부 자동차 출하를 늦춘 것으로 전해졌다. 중동 물류 차질 사태가 미국의 관세 조치로 타격을 입은 일본 자동차 업계에 또 다른 악재로 작용할 수도 있다. 닛산과 혼다는 모두 2025회계연도에 적자를 기록할... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "'호르무즈 봉쇄' 직격탄...닛산·도요타 줄줄이 감산 돌입",
+          "url": "https://www.ppss.kr/news/articleView.html?idxno=288514",
+          "published_at": "2026-03-17T16:30:00+09:00",
+          "description": "했으며, 혼다 역시 일부 차량 출하를 지연한 것으로 전해졌다. 중동 물류 차질은 미국의 관세 조치로 타격을 입은 일본 자동차 업계에 추가 부담으로 작용하고 있다. 닛산과 혼다는 2025회계연도 적자가 예상되는 가운데... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "도요타 이어 닛산도 1200대 줄였다…호르무즈 봉쇄에 日 자동차 ‘비상...",
+          "url": "https://biz.heraldcorp.com/article/10696378?ref=naver",
+          "published_at": "2026-03-17T16:19:00+09:00",
+          "description": "혼다도 일부 자동차 출하를 늦춘 것으로 전해졌다. 중동 물류 차질 사태가 미국의 관세 조치로 타격을 입은 일본 자동차 업계에 또 다른 악재로 작용할 수도 있다. 닛산과 혼다는 모두 2025회계연도에 적자를 기록할 것으로... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "호르무즈 봉쇄 장기화…日도요타·닛산 등 줄줄이 '감산'",
+          "url": "https://www.slist.kr/news/articleView.html?idxno=724534",
+          "published_at": "2026-03-17T16:04:00+09:00",
+          "description": "혼다도 일부 자동차 출하를 늦춘 것으로 전해졌다. 중동 물류 차질 사태가 미국의 관세 조치로 타격을 입은 일본 자동차 업계에 또 다른 악재로 작용할 수도 있다. 닛산과 혼다는 모두 2025회계연도에 적자를 기록할 것으로... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "제네시스 G90, 국내 최초 '레벨3 자율주행'…3분기 출시",
+          "url": "https://www.etnews.com/20260317000312",
+          "published_at": "2026-03-17T16:01:00+09:00",
+          "description": "레벨3 자율주행 기술을 탑재해 공식 인증을 받은 차량은 메르세데스-벤츠 S클래스와 일본 혼다 레전드 등 일부 모델에 불과하다. 현대차는 제네시스 G90을 시작으로 다양한 양산 차량에 레벨3 자율주행 시스템을 적용할... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "호르무즈 '동맥경화' 직격탄…일본 車 업계 '초비상'",
+          "url": "https://www.hankyung.com/article/2026031772527",
+          "published_at": "2026-03-17T15:53:00+09:00",
+          "description": "혼다도 일부 자동차 출하를 늦춘 것으로 알려졌다. 미국의 관세 조치로 이미 타격을 입은 일본 자동차 업계에 중동 물류 차질이 또 다른 악재로 겹친 것. 닛산과 혼다는 모두 2025회계연도 적자가 예상되는 상황이다.... ",
+          "summary": "",
+          "source": "pending"
+        }
+      ]
+    },
+    {
+      "keyword": "포드",
+      "articles": [
+        {
+          "title": "“큰 맘 먹고 ‘불가리’ 팝니다”…53초만에 초고가 거래 이뤄진 ‘이...",
+          "url": "https://biz.heraldcorp.com/article/10696187?ref=naver",
+          "published_at": "2026-03-17T20:25:00+09:00",
+          "description": "연령별로 20대는 한정판을 선호하며 델보, 발렌티노, 톰 포드 수요가 높았고 30대는 브랜드의 역사와 신뢰도를 우선시해 샤넬, 루이비통, 프라다 등 검증된 브랜드를 찾았다. ‘찜’ 데이터를 분석한 결과 브랜드별... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "상상 못한 코리안듀오 결성?...토트넘보다 나은 팀이 이강인 노린다, 김...",
+          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=682204",
+          "published_at": "2026-03-17T19:48:00+09:00",
+          "description": "영국 '스포츠 붐'은 12일(이하 한국시간) &quot;브렌트포드 스카우트 팀들이 이강인을 케빈 샤데 대체자로 고려하고 있다. 샤데는 이번 여름 여러 팀들의 관심을 받을 예정인데 브렌트포드를 떠날 가능성이 높아 보인다. 첼시... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "브라질 슈퍼스타 네이마르, ‘월드컵 라스트댄스’ 끝내 무산되나…안...",
+          "url": "https://sports.donga.com/sports/article/all/20260317/133549155/1",
+          "published_at": "2026-03-17T19:16:00+09:00",
+          "description": "여기에 마테우스 쿠냐(27·맨체스터 유나이티드), 이고르 티아고(25·브렌트포드), 신예 엔드릭(30·올랭피크 리옹)까지 가세하며 경쟁은 더욱 치열해졌다. 브라질 역대 최다 득점자(128경기 79골)라는 상징성을 가진... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "'대굴욕' 네이마르, EPL 신예 폭격기에 밀렸다 &quot;월드컵 꿈 산산조각&quot;... ...",
+          "url": "https://www.starnewskorea.com/sports/2026/03/17/2026031718024969397",
+          "published_at": "2026-03-17T19:04:00+09:00",
+          "description": "브렌트포드의 24세 공격수 티아구는 지난 7개월간 눈부신 성장을 이뤘다. 올 시즌 공식전 32경기에 나서 22골을 폭발시켰다. 잉글리시 프리미어리그(EPL)에선 18골을 넣으며 엘링 홀란(맨체스터 시티)에 이어 리그 득점... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "세계 최강 항모 '포드함' 수모… 세탁실 화재 30시간 진화, 승조원 600명...",
+          "url": "https://www.newspim.com/news/view/20260317001289",
+          "published_at": "2026-03-17T18:46:00+09:00",
+          "description": "포드 항공모함이 세탁실에서 발생한 화재를 진압하는 데 30시간 이상 걸린 것으로 밝혀졌다고 미 일간... 포드함. [사진=로이터 뉴스핌] ■ 건조비만 19조원… 기존 니미츠급보다 출격 횟수 25~30% 많아 미 해군 제2함대... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "60세 모델이 런웨이에 등장했다",
+          "url": "https://www.elle.co.kr/article/1898871",
+          "published_at": "2026-03-17T18:38:00+09:00",
+          "description": "61세의 크리스틴 맥메너미가 톰 포드와 미우미우 쇼에 등장했고, 45세의 마리아카를라 보스코노는 구찌와 알라이아 쇼를 장식했습니다. 기네비어 반 시너스 크리스티 털링턴 케이트 모스 하우스의 헤리티지를 고려한... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "[게임뉴스] 스마일게이트 및 컴투스 소식 외",
+          "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=56594",
+          "published_at": "2026-03-17T18:28:00+09:00",
+          "description": "- 게임피아(대표 정종헌)는 팀 테트라포드가 개발 중인 초능력 추리 어드벤처 『스테퍼 레트로: 초능력 추리 퀘스트』의 닌텐도 스위치 버전 개발의 개발을 확정하였으며, Steam 버전과 동시 출시를 예정한다고... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "번개장터, ‘2025 K-럭셔리 세컨핸드 리포트’ 발간…명품 현금화·초고...",
+          "url": "https://www.news2day.co.kr/article/20260317500277",
+          "published_at": "2026-03-17T18:10:00+09:00",
+          "description": "20대는 희소성과 개성을 중시하며 델보, 발렌티노, 톰 포드 등을 선호했고, 30대는 브랜드 신뢰도와 역사성을 고려해 샤넬, 루이비통, 프라다 중심의 소비를 이어갔다. 40대는 자산 가치 보존에 초점을 맞춰 롤렉스, 오메가... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "수소에너지·수소차·연료전지 관련주, '웃음꽃' 한화솔루션·대창솔루...",
+          "url": "http://www.finomy.com/news/articleView.html?idxno=251572",
+          "published_at": "2026-03-17T18:10:00+09:00",
+          "description": "GM·포드 등 북미, BMW·아우디 등 유럽 고객과 장기 파트너십 유지, 신흥시장 수출·거래선 다각화 지속... 폴라리스세원은 다양한 전기차 플랫폼에 대응 가능한 공조 기술력을 바탕으로, 현대차그룹·GM·포드... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "중동 배치 美항모 ‘세탁실 화재’ 30시간 걸려 진화… “승조원들 바닥...",
+          "url": "https://www.chosun.com/international/international_general/2026/03/17/HHKUYJUWRVGNHDDREFUHCHPIDE/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+          "published_at": "2026-03-17T18:07:00+09:00",
+          "description": "중동에 배치된 미국의 최신 핵추진 항공모함 제럴드 포드호에서 최근 화재가 발생해 30시간 이상 진화... 16일(현지 시각) 미국 뉴욕타임스(NYT)는 지난 12일 제럴드 포드호에서 화재가 발생했다고 미 해군 관계자를 인용해... ",
+          "summary": "",
+          "source": "pending"
+        }
+      ]
+    },
+    {
+      "keyword": "테슬라",
+      "articles": [
+        {
+          "title": "대경경자청, 삼광윈테크 국내복귀 투자 MOU",
+          "url": "https://www.ksmnews.co.kr/news/view.php?idx=595476",
+          "published_at": "2026-03-17T20:50:00+09:00",
+          "description": "또 콘티넨탈 오토모티브와 현대모비스 협력사 등록을 기반으로 글로벌 공급망을 확대하고 있으며, 2025년 테슬라 및 르노자동차 1차 협력사 등록을 통해 글로벌 자동차 부품 시장에서 입지를 강화하고 있다. DGFEZ는... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "“중국 떠난 삼광윈테크, 경산으로 돌아왔다”…DGFEZ와 750억 리쇼어링...",
+          "url": "https://www.cnbnews.com/news/article.html?no=784051",
+          "published_at": "2026-03-17T19:50:00+09:00",
+          "description": "또한 콘티넨탈 오토모티브와 현대모비스 협력사로 등록돼 글로벌 공급망을 구축한 데 이어, 2025년에는 테슬라와 르노자동차 1차 협력사로 이름을 올리며 글로벌 자동차 부품 시장에서도 입지를 확대하고 있다. DGFEZ는... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "한화호텔앤드리조트, 8월 '워터밤 속초 2026' 개최",
+          "url": "http://www.lawissue.co.kr/view.php?ud=202603171939347275204ead0791_12",
+          "published_at": "2026-03-17T19:42:00+09:00",
+          "description": "한화호텔앤드리조트는 올해 테슬라 K-라이트쇼도 한화리조트 설악에서 선보인 바 있다. 한화호텔앤드리조트 관계자는 &quot;4년 연속 워터밤 속초 유치에 이어 테슬라 K-라이트쇼도 선보였다&quot;며 &quot;2030세대 고객 유입을 위해... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "[기고] AI 시대의 역설, 뿌리가 무너지면 미래도 없다- 이도영(한국폴리...",
+          "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1484337",
+          "published_at": "2026-03-17T19:28:00+09:00",
+          "description": "테슬라가 자동차 생산의 패러다임을 바꾼 ‘기가캐스팅(Gigacasting)’ 공법 역시 결국은 거대 금형과 주조 기술의 결정체이고, 삼성전자가 최첨단 파운드리 리더십을 유지하는 근간에는 숙련된 뿌리 기술이 집약된 소재... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "&quot;땡큐 삼성&quot;·&quot;♡SK하이닉스&quot;...젠슨황 러브콜에 증시도 '활짝'",
+          "url": "https://www.ytn.co.kr/_ln/0102_202603171923087648",
+          "published_at": "2026-03-17T19:23:00+09:00",
+          "description": "파운드리 사업부가 테슬라에 이어 엔비디아라는 큰손을 확보하면서 삼성전자 주가는 3거래일 만에 19만 전자로 올라섰고 SK하이닉스는 최태원 회장이 예탁 증서, ADR을 이용한 미국 상장을 검토한다는 발언에 100만... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "취임 후 첫 방한 AMD 리사 수, 삼성 평택캠퍼스 찾아 파운드리 협력 논의",
+          "url": "https://view.asiae.co.kr/article/2026031719062415825",
+          "published_at": "2026-03-17T19:06:00+09:00",
+          "description": "삼성전자는 지난해 테슬라, 퀄컴 등 굵직한 글로벌 빅테크로부터 파운드리 수주를 확보했다. 삼성전자 파운드리가 AMD까지 고객사로 확보할 경우 흑자 전환에 청신호가 켜질 것이라는 분석이다. 수 CEO는... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "정의선 젠슨황 '깐부회동', 자율주행 동맹 확대…SDV·로보택시까지 가...",
+          "url": "https://www.g-enews.com/view.php?ud=20260317135428442112616b072_1",
+          "published_at": "2026-03-17T19:06:00+09:00",
+          "description": "자율주행 기술 경쟁이 테슬라와 중국 업체를 중심으로 빠르게 재편되는 상황에서 현대자동차그룹이... 자율주행 시장 주도권 경쟁은 테슬라와 중국 업체를 중심으로 양강 구도로 굳어지는 흐름이다. 테슬라는 자체 AI... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "[GTC 2026] HBM4에 파운드리까지 수주…젠슨 황 &quot;땡큐 삼성&quot;",
+          "url": "https://www.g-enews.com/view.php?ud=2026031715095466896ed0c62d49_1",
+          "published_at": "2026-03-17T19:04:00+09:00",
+          "description": "지난해 7월 미국의 전기차 업체 테슬라로부터 22조 원 규모의 AI칩인 AI6 수주에 성공했고, 같은 해 8월 미국의 애플로부터 이미지센서 생산 계약을 따냈다. 엔비디아의 그록3 생산까지 담당하면서 흑자전환이... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "리사 수 AMD CEO, 18일 삼성 평택캠퍼스 방문…전방위 협력 추진",
+          "url": "https://www.m-i.kr/news/articleView.html?idxno=1351727",
+          "published_at": "2026-03-17T19:02:00+09:00",
+          "description": "삼성전자는 지난해 테슬라, 퀄컴 등 굵직한 글로벌 빅테크로부터 파운드리 수주를 확보했다. 만약 AMD까지 고객사로 확보할 경우 흑자 전환도 기대해볼만 하다는 관측이 나온다. 수 CEO는 평택사업장에서 주요 사업... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "[서평] 애플, 중국 제조 굴기 '최종 병기'",
+          "url": "http://www.hellodd.com/news/articleView.html?idxno=111156",
+          "published_at": "2026-03-17T18:58:00+09:00",
+          "description": "&quot;애플이 채용한 MIT, 칼텍, 스탠포드 출신의 엔지니어들, 또는 테슬라, 델, 모토로라에서 영입한 기술자들은... &quot; 2018년 상하이 당국은 테슬라가 현지 파트너 없이 중국의 제조 공장을 설립하는 것을 최초로 허가했다.... ",
+          "summary": "",
+          "source": "pending"
+        }
+      ]
+    },
+    {
+      "keyword": "폴스타",
+      "articles": [
+        {
+          "title": "中 지커, 韓 전기차 판 흔들까… BMW·벤츠·제네시스 '정조준'",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092158767",
+          "published_at": "2026-03-17T18:02:00+09:00",
+          "description": "이 경우 볼보, 폴스타, 로터스 등을 포함해 대중 브랜드인 지리를 제외한 그룹 내 주요 프리미엄 브랜드... 여기에 볼보와 폴스타 등 그룹 산하 브랜드가 국내에서 안정적인 수요를 확보하고 있는 점도 긍정적인 요소로... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "&quot;GM 줄이고 르노 늘리고&quot;···엇갈린 완성차 '한국 전략'",
+          "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=419847",
+          "published_at": "2026-03-17T15:24:00+09:00",
+          "description": "대표적으로 그랑 콜레오스를 비롯해 필랑트, 폴스타4 등 신규 차종이 해외 판매 확대에 활용될 전망이다. 업계에서는 이러한 모델들이 수출 물량을 늘리는 데 중요한 역할을 할 것으로 보고 있다. 르노 전략에서 한국이... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "중국산 전기차 캐나다 수용, 미국 시장에 어떤 파장?",
+          "url": "http://www.newstown.co.kr/news/articleView.html?idxno=697191",
+          "published_at": "2026-03-17T11:03:00+09:00",
+          "description": "전기차 브랜드 폴스타(Polestar)는 중국 자동차 제조업체 지리(Geely) 소유이며, 사우스캐롤라이나에 있는 공장에서 한 모델을 생산한다. 이 공장은 역시 지리 소유의 자동차 제조업체 볼보가 운영하고 있다. 또한 BYD는... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "폴스타, 3억 달러 투자 유치, 전기차 사업 속도 더욱 가속",
+          "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=542399",
+          "published_at": "2026-03-17T07:26:00+09:00",
+          "description": "폴스타(Polestar)가 글로벌 금융기관의 참여로 3억 달러(약 4,472억 원) 규모의 지분 투자를 유치했다. 폴스타는 크레디 아그리콜 CIB(Crédit Agricole CIB), 비다 파이낸스(Vida Finance S.A.), 이노베이터 리미티드(Innovator... ",
+          "summary": "",
+          "source": "pending"
+        },
+        {
+          "title": "중국판 제네시스 ‘지커’ 한국진출…프리미엄 EV 시장 '지각변동'",
+          "url": "https://www.asiatime.co.kr/article/20260316500293",
+          "published_at": "2026-03-16T15:20:00+09:00",
+          "description": "그룹내 위치한 볼보(Volvo), 링크앤코(Lynk&amp;Co), 폴스타(Polestar) 등보다 높은 포지션이다. 업계 관계자는 “지커코리아는 올해 1~2종의 전략 차종을 출시하며 소비자 반응을 살필 것”이라며 “본격적인 공급은 내년이 될... ",
+          "summary": "",
+          "source": "pending"
         }
       ]
     }
