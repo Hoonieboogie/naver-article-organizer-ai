@@ -3,7 +3,8 @@
     "삼성전자",
     "아모레퍼시픽",
     "벤츠",
-    "bmw"
+    "bmw",
+    "스텔란티스"
   ],
   "articles_per_keyword": 10,
   "schedule": "0 1 * * *"
