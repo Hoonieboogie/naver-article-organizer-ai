@@ -1,11 +1,5 @@
 {
-  "keywords": [
-    "렉서스",
-    "혼다",
-    "포드",
-    "테슬라",
-    "폴스타"
-  ],
+  "keywords": [],
   "articles_per_keyword": 10,
   "schedule": "0 1 * * *"
 }
