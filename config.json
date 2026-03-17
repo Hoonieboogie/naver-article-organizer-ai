@@ -23,7 +23,8 @@
     "플래그십 스토어",
     "팝업",
     "벤츠",
-    "bmw"
+    "bmw",
+    "스텔란티스"
   ],
   "articles_per_keyword": 10,
   "schedule": "0 1 * * *"
