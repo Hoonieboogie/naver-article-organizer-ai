@@ -1,6 +1,6 @@
 {
   "date": "2026-03-24",
-  "generated_at": "2026-03-24T09:11:10.664577+09:00",
+  "generated_at": "2026-03-24T09:48:08.254334+09:00",
   "sections": [
     {
       "name": "골프웨어",
@@ -39,15 +39,7 @@
         },
         {
           "keyword": "핑 어패럴",
-          "articles": [
-            {
-              "title": "핑어패럴, 우아한 실루엣 봄 필드룩 제안",
-              "url": "https://www.fashionbiz.co.kr/article/224772",
-              "published_at": "2026-03-23T09:40:00+09:00",
-              "description": "이 밖에도 핑어패럴은 이번 시즌 핑 오리지널 라인 패턴을 활용한 아우터와 티셔츠를 비롯해 타탄체크, 플라워 패턴 등 다양한 그래픽 스타일을 선보인다. 핑어패럴 봄 컬렉션은 전국 오프라인 매장 및 공식 온라인몰... ",
-              "source_name": "fashionbiz.co.kr"
-            }
-          ]
+          "articles": []
         },
         {
           "keyword": "던롭",
@@ -162,13 +154,6 @@
               "published_at": "2026-03-23T10:00:00+09:00",
               "description": "SMT의 핵심 장비인 칩마운터 분야에서는 한화세미텍, 야마하, 후지, 파나소닉디바이스세일즈코리아 등 글로벌 주요 기업들이 참가해 고속·고정밀·고유연성 생산 환경을 구현하는 최신 장비를 선보인다. 특히 올해... ",
               "source_name": "irobotnews.com"
-            },
-            {
-              "title": "제조 AX 본격화… SSPA 2026서 반도체·전자 트렌드 공개",
-              "url": "http://www.seoulwire.com/news/articleView.html?idxno=712566",
-              "published_at": "2026-03-23T09:46:00+09:00",
-              "description": "표면실장기술(SMT)의 핵심 장비인 칩마운터 분야에서는 한화세미텍, 야마하, 후지, 파나소닉디바이스세일즈코리아 등 글로벌 주요 기업이 참가해 고속·고정밀·고유연성 생산 환경을 구현하는 최신 장비를 선보인다.... ",
-              "source_name": "seoulwire.com"
             }
           ]
         },
@@ -299,6 +284,20 @@
           "keyword": "골프웨어",
           "articles": [
             {
+              "title": "말본, 첫 스파이크 골프화 출시...접지력·안정성 모두 잡았다",
+              "url": "https://www.sportsseoul.com/news/read/1596489?ref=naver",
+              "published_at": "2026-03-24T09:42:00+09:00",
+              "description": "사진ㅣ말본 라이프스타일 골프웨어 브랜드 말본(Malbon)이 브랜드 최초의 스파이크 타입 골프화를 선보이며 퍼포먼스 라인업을 강화했다. ㈜하이라이트브랜즈가 전개하는 말본은 강력한 접지력과 안정적인 착화감을... ",
+              "source_name": "sportsseoul.com"
+            },
+            {
+              "title": "백화점업계, 봄 골프 성수기 맞이 대규모 '골프 이벤트' 진행",
+              "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=297625",
+              "published_at": "2026-03-24T09:30:00+09:00",
+              "description": "프리미엄 퍼터 브랜드 '베티나르디'는 한정판 퍼터와 헤드커버를 선보이고 '마크앤로나', '캘러웨이', '빈폴 골프' 등에서는 디자인과 기능성을 갖춘 퍼포먼스 골프웨어를 신세계백화점 단독 상품으로 출시한다.... ",
+              "source_name": "pointdaily.co.kr"
+            },
+            {
               "title": "접지력 강화한 첫 모델···말본, 스파이크 골프화 내놨다",
               "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2409648",
               "published_at": "2026-03-24T08:49:00+09:00",
@@ -411,13 +410,6 @@
               "source_name": "seoulwire.com"
             },
             {
-              "title": "현대백화점, 골프 테마 행사 '더현대 그린 페스타' 진행",
-              "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=196103",
-              "published_at": "2026-03-23T16:26:00+09:00",
-              "description": "행사에는 인기 골프웨어 브랜드 '테일러메이드', 미국 프리미엄 브랜드 '캘러웨이', 프리미엄 골프화 브랜드 '풋조이' 등 30여 개 브랜드가 참여하며, 행사 진행 브랜드는 점포별로 상이하다. 팝업스토어도 진행된다.... ",
-              "source_name": "thefirstmedia.net"
-            },
-            {
               "title": "롯데홈쇼핑, 러닝 열풍 속 레포츠 브랜드 본격 선봬",
               "url": "http://www.seoulwire.com/news/articleView.html?idxno=712607",
               "published_at": "2026-03-23T16:26:00+09:00",
@@ -425,18 +417,11 @@
               "source_name": "seoulwire.com"
             },
             {
-              "title": "현대백화점, KLPGA와 협업해 골프 페어 ‘그린 마스터 페스타’ 개최",
-              "url": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160292120950601",
-              "published_at": "2026-03-23T16:24:00+09:00",
-              "description": "현대백화점에 따르면 행사에는 인기 골프웨어 브랜드 ‘테일러메이드’, 미국 프리미엄 브랜드 ‘캘러웨이’, 프리미엄 골프화 브랜드 ‘풋조이’ 등 30여 개 브랜드가 참여하며, 행사 진행 브랜드는 점포별로... ",
-              "source_name": "siminilbo.co.kr"
-            },
-            {
-              "title": "“필드 가기 좋은 계절”…대규모 골프페어 여는 백화점들",
-              "url": "https://www.mk.co.kr/article/11995756",
-              "published_at": "2026-03-23T16:19:00+09:00",
-              "description": "압구정본점과 더현대서울 등 주요 점포에서 진행하며, 골프웨어와 용품을 최대 70% 할인한다. 행사에는 테일러메이드, 캘러웨이, 풋조이 등 30여개 브랜드가 참여한다. 골프존 시타실에서는 비거리 측정 이벤트 ‘샷... ",
-              "source_name": "mk.co.kr"
+              "title": "현대백화점, 골프 테마 행사 '더현대 그린 페스타' 진행",
+              "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=196103",
+              "published_at": "2026-03-23T16:26:00+09:00",
+              "description": "행사에는 인기 골프웨어 브랜드 '테일러메이드', 미국 프리미엄 브랜드 '캘러웨이', 프리미엄 골프화 브랜드 '풋조이' 등 30여 개 브랜드가 참여하며, 행사 진행 브랜드는 점포별로 상이하다. 팝업스토어도 진행된다.... ",
+              "source_name": "thefirstmedia.net"
             }
           ]
         },
@@ -756,34 +741,6 @@
               "published_at": "2026-03-23T10:06:00+09:00",
               "description": "W컨셉에는 최근 러닝웨어 브랜드 아틀라스 콜렉티프, 써코니, 룰루레몬, 순토 등 글로벌 브랜드가 입점했다. 디아더생츄어리(TAS), 디써지 등 MZ세대 팬덤을 보유한 국내 러닝 브랜드까지 합류한 상태다. 이번 행사에는... ",
               "source_name": "widedaily.com"
-            },
-            {
-              "title": "W컨셉, 봄 야외활동 증가에 스포츠웨어 매출 2배↑",
-              "url": "https://www.fashionbiz.co.kr/article/224769",
-              "published_at": "2026-03-23T09:30:00+09:00",
-              "description": "최근에는 ‘아틀라스콜렉티브’ ‘써코니’ ‘룰루레몬’ ‘순토’ 등 글로벌 러닝 브랜드가 입점했다. 여기에 ‘디아더생츄어리’ ‘디써지’ 등 MZ세대 팬덤을 보유한 국내 러닝 브랜드까지 더해지며 국내외 균형... ",
-              "source_name": "fashionbiz.co.kr"
-            },
-            {
-              "title": "W컨셉, 애슬레저 전용 기획전 진행",
-              "url": "http://www.apparelnews.co.kr/news/news_view/?idx=224046",
-              "published_at": "2026-03-23T09:26:00+09:00",
-              "description": "대표적으로 최근 러닝웨어 브랜드 아틀라스 콜렉티프, 써코니, 룰루레몬, 순토 등 글로벌 브랜드가 입점했다. 이에 더해 디아더생츄어리(TAS), 디써지 등 MZ세대 팬덤을 보유한 국내 신흥 강자 러닝 브랜드까지 합류해... ",
-              "source_name": "apparelnews.co.kr"
-            },
-            {
-              "title": "W컨셉, 봄 맞아 스포츠웨어 최대 50% 할인 행사",
-              "url": "https://www.newsis.com/view/NISX20260323_0003559118",
-              "published_at": "2026-03-23T09:15:00+09:00",
-              "description": "W컨셉에는 최근 러닝웨어 브랜드 아틀라스 콜렉티프, 써코니, 룰루레몬, 순토 등 글로벌 브랜드가 입점했다. 디아더생츄어리(TAS), 디써지 등 MZ세대 팬덤을 보유한 국내 러닝 브랜드까지 합류한 상태다. 이번 행사에는... ",
-              "source_name": "newsis.com"
-            },
-            {
-              "title": "W컨셉, 애슬레저 전용 기획전 열어…최대 50% 할인",
-              "url": "https://www.dailian.co.kr/news/view/1624102/?sc=Naver",
-              "published_at": "2026-03-23T09:13:00+09:00",
-              "description": "대표적으로 최근 러닝웨어 브랜드 아틀라스 콜렉티프, 써코니, 룰루레몬, 순토 등 글로벌 브랜드가 입점했다. 이에 더해 디아더생츄어리(TAS), 디써지 등 MZ세대 팬덤을 보유한 국내 신흥 강자 러닝 브랜드까지 합류해... ",
-              "source_name": "dailian.co.kr"
             }
           ]
         },
@@ -791,144 +748,144 @@
           "keyword": "플래그십 스토어",
           "articles": [
             {
-              "title": "광고야, 드라마야?&quot;…삼성, 호주서 갤럭시 S26 '세로형 웹드라마'로 승부...",
-              "url": "https://www.abcn.kr/news/articleView.html?idxno=87080",
-              "published_at": "2026-03-24T09:00:00+09:00",
-              "description": "삼성은 멜버른, 브리만, 시드니의 플래그십 스토어에서 AI 사진 체험과 경품 증정 등 다양한 체험형 이벤트를 열어 이러한 열기를 이어가고 있다. ◇ &quot;광고를 보게 하지 말고, 즐기게 하라&quot; 삼성의 이번 호주 마케팅은... ",
-              "source_name": "abcn.kr"
+              "title": "에스파aespa 지젤, 숨길 수 없는 명품 표정 [포토엔HD]",
+              "url": "https://www.newsen.com/news_view.php?uid=202603240946411510",
+              "published_at": "2026-03-24T09:47:00+09:00",
+              "description": "에스파aespa 지젤이 3월24일 오전 서울 성동구 성수동에서 진행된 모 브랜드 플래그십 스토어 오픈 기념 포토월에 참석하여 포즈를 취하고 있다.",
+              "source_name": "newsen.com"
             },
             {
-              "title": "[키워드로 읽는 경제 트렌드] BTS노믹스",
-              "url": "http://woman.chosun.com/news/articleView.html?idxno=125277",
-              "published_at": "2026-03-24T08:00:00+09:00",
-              "description": "LF는 명동에 위치한 헤지스 플래그십스토어 '스페이스 H 서울'의 외관 조명을 아미(팬덤)의 상징색인 보라색으로 연출하고 할인 프로모션을 병행한다. 이런 BTS의 경제적 효과는 앞으로 더 확산될 전망이다. 4월에는... ",
-              "source_name": "woman.chosun.com"
+              "title": "[영상] 에스파(aespa) 지젤, '인간 비타민'",
+              "url": "https://www.cbci.co.kr/news/articleView.html?idxno=562804",
+              "published_at": "2026-03-24T09:46:00+09:00",
+              "description": "캐주얼 브랜드 와키윌리(wackywilly)의 플래그십 스토어를 오픈을 기념하는 포토행사가 24일 오전 서울 성동구 성수동에 위치한 와키윌리 플래그십 스토어에서 진행됐다. 와키윌리 뮤즈로 활동하고 있는... ",
+              "source_name": "cbci.co.kr"
             },
             {
-              "title": "점유율 70~80% 찍은 봄 호캉스…호텔업계, 패키지·다이닝 프로모션으로...",
-              "url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/03/23/2026032380212.html",
-              "published_at": "2026-03-24T08:00:00+09:00",
-              "description": "올리브영 명동 플래그십 스토어 포함 국내 올리브영 매장에서 사용 가능한 기프트카드 2만 원권이 포함되며, 선착순 100객실에 한해 신규 로고가 각인된 미니 양우산을 증정한다. 메리어트 본보이 회원 추가 5% 할인이... ",
-              "source_name": "digitalchosun.dizzo.com"
+              "title": "에스파aespa 지젤, 예쁨의 정석~ [포토엔HD]",
+              "url": "https://www.newsen.com/news_view.php?uid=202603240944281510",
+              "published_at": "2026-03-24T09:45:00+09:00",
+              "description": "에스파aespa 지젤이 3월24일 오전 서울 성동구 성수동에서 진행된 모 브랜드 플래그십 스토어 오픈 기념 포토월에 참석하여 포즈를 취하고 있다.",
+              "source_name": "newsen.com"
             },
             {
-              "title": "왜 '도로롱'이 좋아요? Why do you like Dororong?",
-              "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=107272",
-              "published_at": "2026-03-24T07:58:00+09:00",
-              "description": "레벨 인피니트는 건슈팅 RPG '승리의 여신: 니케'와 카카오프렌즈의 컬래버레이션을 기념해 팝업스토어 '도로와 춘식이의 하루'를 카카오프렌즈 홍대 플래그십 스토어에 오픈했다. 팝업스토어는 4월 2일까지 운영된다.... ",
-              "source_name": "gametoc.co.kr"
+              "title": "에스파 지젤 '사랑스럽냥' [포토]",
+              "url": "https://www.bntnews.co.kr/article/view/bnt202603240109",
+              "published_at": "2026-03-24T09:44:00+09:00",
+              "description": "와키윌리 세번째 플래그십 스토어 오픈기념 포토콜 / 에스파 지젤 와키윌리(wackywilly) 세 번째 플래그십 스토어 오픈기념 포토콜 행사가 24일 오후 서울 성동구 성수동에서 진행됐다. 에스파 지젤이 포토타임을 갖고... ",
+              "source_name": "bntnews.co.kr"
             },
             {
-              "title": "인천 유나이티드, '송현아' 팝업스토어 10일 만에 매출 1억 돌파",
-              "url": "https://www.starnewskorea.com/sports/2026/03/24/2026032407274867926",
-              "published_at": "2026-03-24T07:33:00+09:00",
-              "description": "구단 관계자는 &quot;3월에는 홈경기가 한 차례뿐이고, 신포동 플래그십 스토어의 경우 주차 공간 등의 제약으로 많은 팬들을 한 번에 수용하기 어려운 부분이 있었다&quot;며 &quot;현대 프리미엄 아웃렛 송도점에서 팝업스토어를... ",
-              "source_name": "starnewskorea.com"
+              "title": "에스파aespa 지젤, 사진기자 사이로 입장~ [포토엔HD]",
+              "url": "https://www.newsen.com/news_view.php?uid=202603240942271510",
+              "published_at": "2026-03-24T09:43:00+09:00",
+              "description": "에스파aespa 지젤이 3월24일 오전 서울 성동구 성수동에서 진행된 모 브랜드 플래그십 스토어 오픈 기념 포토월에 참석하여 포즈를 취하고 있다.",
+              "source_name": "newsen.com"
             },
             {
-              "title": "'아미노믹스' 효과 '톡톡'…BTS 특수에 K뷰티·패션은 '함박웃음'",
-              "url": "https://www.dailian.co.kr/news/view/1624413/?sc=Naver",
-              "published_at": "2026-03-24T07:32:00+09:00",
-              "description": "LF의 명동 헤지스 플래그십 스토어 ‘스페이스H 서울’은 20일부터 21일까지 이틀간 방문객 수가 평소 대비 약 3배 증가했다. 전년 동요일 대비로는 약 250% 늘어난 것으로 집계됐다. 이를 통한 매출 상승세도 같은 기간... ",
-              "source_name": "dailian.co.kr"
+              "title": "에스파 지젤, 성수동 접수한 미모…아침부터 예쁨 MAX",
+              "url": "https://www.mydaily.co.kr/page/view/2026032408100386744",
+              "published_at": "2026-03-24T09:42:00+09:00",
+              "description": "그룹 에스파 멤버 지젤이 24일 오전 서울 성동구 성수동에서 진행된 캐주얼 브랜드 와키윌리 성수 플래그십 스토어 오픈 기념 포토월에 참석했다. 지젤은 캐주얼하면서도 감각적인 스타일링으로 글로벌 패션 아이콘다운... ",
+              "source_name": "mydaily.co.kr"
             },
             {
-              "title": "인천의 ‘송현아’ 팝업스토어 인기 폭발… 열흘 만에 매출 1억 돌파",
-              "url": "https://www.sportsworldi.com/newsView/20260324502278",
-              "published_at": "2026-03-24T07:11:00+09:00",
-              "description": "구단 관계자는 “3월에는 홈경기가 한 차례뿐이고, 신포동 플래그십 스토어의 경우 주차 공간 등의 제약으로 많은 팬들을 한 번에 수용하기 어려운 부분이 있었다”며 “현대 프리미엄 아울렛 송도점에서 팝업스토어를... ",
-              "source_name": "sportsworldi.com"
+              "title": "에스파aespa 지젤, 살아있는 인형 [포토엔HD]",
+              "url": "https://www.newsen.com/news_view.php?uid=202603240940111510",
+              "published_at": "2026-03-24T09:41:00+09:00",
+              "description": "에스파aespa 지젤이 3월24일 오전 서울 성동구 성수동에서 진행된 모 브랜드 플래그십 스토어 오픈 기념 포토월에 참석하여 포즈를 취하고 있다.",
+              "source_name": "newsen.com"
             },
             {
-              "title": "게임하며 아이돌 덕질···최애로운 ‘SMiniz’ 세상속으로",
-              "url": "https://sports.khan.co.kr/article/202603240600003?pt=nv",
-              "published_at": "2026-03-24T06:01:00+09:00",
-              "description": "출시 이후에는 SM의 오프라인 플래그십 스토어 ‘SM 광야스토어’와 연계해 ‘SMiniz’ 포토존과 체험존을 마련하고 각종 이벤트를 진행했다. 이용자들은 현장에서 ‘한정판 판 스티커’, ‘실물 포토카드’ 등 게임... ",
-              "source_name": "sports.khan.co.kr"
+              "title": "에스파 지젤 '봄날의 청순미' [포토]",
+              "url": "https://www.bntnews.co.kr/article/view/bnt202603240107",
+              "published_at": "2026-03-24T09:40:00+09:00",
+              "description": "와키윌리 세번째 플래그십 스토어 오픈기념 포토콜 / 에스파 지젤 와키윌리(wackywilly) 세 번째 플래그십 스토어 오픈기념 포토콜 행사가 24일 오후 서울 성동구 성수동에서 진행됐다. 에스파 지젤이 포토타임을 갖고... ",
+              "source_name": "bntnews.co.kr"
             },
             {
-              "title": "SATUR(세터), 세터하우스 북촌 오픈···배우 이민정·가수 최립우 방문",
-              "url": "https://sports.khan.co.kr/article/202603240125003?pt=nv",
-              "published_at": "2026-03-24T01:26:00+09:00",
-              "description": "레시피그룹(대표 주시경)이 전개하는 컨템포러리 브랜드 ‘SATUR(세터)’가 서울 종로구 북촌에 플래그십 스토어 ‘세터하우스 북촌(SATUR HOUSE BUKCHON)’을 오픈했다고 23일 전했다. 매장은 ‘세터가 제안하는 새로운... ",
-              "source_name": "sports.khan.co.kr"
+              "title": "에스파 지젤, 애교스러운 하트",
+              "url": "https://www.thepowernews.co.kr/view.php?ud=2026032409381326312d6fc79969_7",
+              "published_at": "2026-03-24T09:40:00+09:00",
+              "description": "24일 오전 서울 성수동에서 와키윌리 성수 플래그십 스토어 오픈 기념 포토월 행사가 진행되었다. 에스파 지젤이 포토월에서 포즈를 취하고 있다. 최수영 더파워 기자",
+              "source_name": "thepowernews.co.kr"
             },
             {
-              "title": "미세키서울, '일본 소녀 감성' 팬덤 형성…지난해 매출 3배 급성장",
-              "url": "http://www.apparelnews.co.kr/news/news_view/?idx=224060",
-              "published_at": "2026-03-23T22:02:00+09:00",
-              "description": "오프라인 사업은 지난해 10월 오픈한 한남 플래그십 스토어를 시작으로 확대한다. 성수와 명동 등 주요 상권에 직영점을 추가로 선보이고, 백화점 입점도 적극 추진한다. 이를 위해 백화점 주요 점포에서 팝업스토어를... ",
-              "source_name": "apparelnews.co.kr"
+              "title": "에스파aespa 지젤, 예쁨 그 자체 [포토엔HD]",
+              "url": "https://www.newsen.com/news_view.php?uid=202603240937331510",
+              "published_at": "2026-03-24T09:38:00+09:00",
+              "description": "에스파aespa 지젤이 3월24일 오전 서울 성동구 성수동에서 진행된 모 브랜드 플래그십 스토어 오픈 기념 포토월에 참석하여 포즈를 취하고 있다.",
+              "source_name": "newsen.com"
             },
             {
-              "title": "캐주얼 백팩이 돌아왔다",
-              "url": "http://www.apparelnews.co.kr/news/news_view/?idx=224058",
-              "published_at": "2026-03-23T22:00:00+09:00",
-              "description": "스위치컴퍼니의 '스위치'는 100억 대 브랜드로 성장하며, 최근 성수동에 첫 플래그십 스토어를 오픈, 오프라인 확대에 나섰다. 여대생 캐주얼 가방 '마스마룰즈'는 매년 두 자릿 수 이상 상승세를 지속하며 올해 매출... ",
-              "source_name": "apparelnews.co.kr"
+              "title": "에스파 지젤, 눈빛 인사",
+              "url": "https://www.thepowernews.co.kr/view.php?ud=2026032409364687592d6fc79969_7",
+              "published_at": "2026-03-24T09:38:00+09:00",
+              "description": "24일 오전 서울 성수동에서 와키윌리 성수 플래그십 스토어 오픈 기념 포토월 행사가 진행되었다. 에스파 지젤이 포토월에서 포즈를 취하고 있다. 최수영 더파워 기자",
+              "source_name": "thepowernews.co.kr"
             },
             {
-              "title": "MCM, 창립 50주년 기념 케빈 박 협업 전시 진행",
-              "url": "http://www.lawissue.co.kr/view.php?ud=202603232111332984204ead0791_12",
-              "published_at": "2026-03-23T21:14:00+09:00",
-              "description": "서울 청담동 플래그십 스토어 MCM HAUS에서 열리는 이번 전시는 브랜드의 1976년 뮌헨 탄생부터 미래 비전까지 50년 여정을 하나의 서사로 구성했다. 전시는 MCM HAUS의 각 층을 출발, 이동, 도착, 환대로 이어지는... ",
-              "source_name": "lawissue.co.kr"
+              "title": "[포토] 에스파 지젤 '상큼한 인사'",
+              "url": "https://www.mhnse.com/news/articleView.html?idxno=520178",
+              "published_at": "2026-03-24T09:37:00+09:00",
+              "description": "그룹 에스파 지젤이 24일 오전 서울 성수동에서 열린 와키윌리 성수 플래그십 스토어 오픈 포토콜에 참석했다. 에스파 지젤이 포즈를 취하고 있다. 한편, 지젤이 속한 에스파는 '2025-26 aespa LIVE TOUR - SYNK... ",
+              "source_name": "mhnse.com"
             },
             {
-              "title": "아디다스 오리지널스 성수, 'iF 디자인 어워드' 수상...인테리어 아키텍...",
-              "url": "http://www.econonews.co.kr/news/articleView.html?idxno=432261",
-              "published_at": "2026-03-23T21:10:00+09:00",
-              "description": "성수 플래그십 스토어는 브랜드 정체성과 지역의 특성이 만나는 문화적 플랫폼으로 기획됐다는 점에서 높은 평가를 받았다고 아디다스는 설명했다. 아디다스는 성수 플래그십을 비롯해 북촌·도산·서촌 등 지역별... ",
-              "source_name": "econonews.co.kr"
+              "title": "에스파 지젤 '러블리 러블리' [포토]",
+              "url": "https://www.bntnews.co.kr/article/view/bnt202603240105",
+              "published_at": "2026-03-24T09:36:00+09:00",
+              "description": "와키윌리 세번째 플래그십스토어 오픈기념 포토콜 / 에스파 지젤 와키윌리(wackywilly) 세 번째 플래그십 스토어 오픈기념 포토콜 행사가 24일 오후 서울 성동구 성수동에서 진행됐다. 에스파 지젤이 포토타임을 갖고... ",
+              "source_name": "bntnews.co.kr"
             },
             {
-              "title": "K리그1 인천의 '송현아 팝업스토어', 매출 1억원 돌파",
-              "url": "https://www.news1.kr/sports/soccer/6111198",
-              "published_at": "2026-03-23T20:43:00+09:00",
-              "description": "구단 관계자는 &quot;3월에는 홈경기가 한 차례뿐이고, 신포동 플래그십 스토어의 경우 주차 공간 등의 제약으로 많은 팬들을 한 번에 수용하기 어려운 부분이 있었다&quot;면서 &quot;송현아 팝업스토어를 통해 시즌 초반 유니폼 구매... ",
-              "source_name": "news1.kr"
-            },
-            {
-              "title": "포시즌스 호텔 서울, 봄 깨우는 K-뷰티&amp;웰니스 경험 선봬",
-              "url": "https://www.slist.kr/news/articleView.html?idxno=726026",
-              "published_at": "2026-03-23T20:32:00+09:00",
-              "description": "4월 1일부터 5월 31일까지 매주 화요일에는 설화수 북촌 플래그십 스토어 '북촌 설화수의 집'에서 외국 고객 대상 인삼 클래스가 운영된다. 인삼의 역사와 향을 체험하는 구성으로 마련되며 최대 6인까지 참여 가능하고... ",
+              "title": "[포토] 에스파 지젤 '청초한 아름다움'",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=726186",
+              "published_at": "2026-03-24T09:36:00+09:00",
+              "description": "에스파 지젤 ©최은희기자 oso0@slist.kr 에스파 지젤이 24일 오전 서울 성동구 와키윌리 성수 플래그십에서 열린 와키윌리 성수 플래그십 스토어 오픈 기념 포토월에 참석해 포즈를 취하고 있다.",
               "source_name": "slist.kr"
             },
             {
-              "title": "[게시판] 포자랩스, AI 영상 편집 툴 '브루'에 AI 생성 음원 제공 등 단...",
-              "url": "https://www.aitimes.com/news/articleView.html?idxno=208243",
-              "published_at": "2026-03-23T18:54:00+09:00",
-              "description": "웨어러블 기기 '하이퍼쉘X'는 AI를 바탕으로 사용자 움직임에 맞춰 필요한 순간에 파워를 증강, 제어해 준다. 신세계 팝업스토어에는 하이퍼쉘X 시리즈 플래그십 모델인 '울트라'와 보급형 모델 '프로'가 전시된다.",
-              "source_name": "aitimes.com"
+              "title": "[포토] 에스파 지젤 '눈부신 꽃미모'",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=726184",
+              "published_at": "2026-03-24T09:36:00+09:00",
+              "description": "에스파 지젤 ©최은희기자 oso0@slist.kr 에스파 지젤이 24일 오전 서울 성동구 와키윌리 성수 플래그십에서 열린 와키윌리 성수 플래그십 스토어 오픈 기념 포토월에 참석해 포즈를 취하고 있다.",
+              "source_name": "slist.kr"
             },
             {
-              "title": "이민정·최립우 참석 ‘세터하우스 북촌’ 오픈…SATUR 브랜드 공간 공...",
-              "url": "http://www.globalepic.co.kr/view.php?ud=2026032318235599489aeda69934_29",
-              "published_at": "2026-03-23T18:28:00+09:00",
-              "description": "배우 이민정과 가수 최립우가 20일 서울 종로구에 위치한 세터의 플래그십 스토어 ‘세터하우스 북촌’ 오픈 행사에 참석해 현장을 찾았다. 두 사람은 행사에서 세터 제품을 활용한 스타일링을 선보였다. 이민정은 니트와... ",
-              "source_name": "globalepic.co.kr"
+              "title": "에스파 지젤, 예쁜 미소",
+              "url": "https://www.thepowernews.co.kr/view.php?ud=2026032409351337502d6fc79969_7",
+              "published_at": "2026-03-24T09:36:00+09:00",
+              "description": "24일 오전 서울 성수동에서 와키윌리 성수 플래그십 스토어 오픈 기념 포토월 행사가 진행되었다. 에스파 지젤이 포토월에서 포즈를 취하고 있다. 최수영 더파워 기자",
+              "source_name": "thepowernews.co.kr"
             },
             {
-              "title": "이민정·최립우, ‘세터하우스 북촌’ 오픈 현장 참석…SATUR 플래그십 운...",
-              "url": "http://www.beyondpost.co.kr/view.php?ud=2026032318271626659aeda69934_30",
-              "published_at": "2026-03-23T18:28:00+09:00",
-              "description": "배우 이민정과 가수 최립우가 지난 20일 서울 종로구에서 열린 세터 플래그십 스토어 ‘세터하우스 북촌’ 오픈 행사에 참석했다. 행사에서 두 사람은 세터 아이템을 활용한 스타일링을 선보였다. 이민정은 니트와 셔츠를... ",
-              "source_name": "beyondpost.co.kr"
+              "title": "에스파 지젤, 화사한 미모",
+              "url": "https://www.thepowernews.co.kr/view.php?ud=2026032409332356372d6fc79969_7",
+              "published_at": "2026-03-24T09:36:00+09:00",
+              "description": "24일 오전 서울 성수동에서 와키윌리 성수 플래그십 스토어 오픈 기념 포토월 행사가 진행되었다. 에스파 지젤이 포토월에서 포즈를 취하고 있다. 최수영 더파워 기자",
+              "source_name": "thepowernews.co.kr"
             },
             {
-              "title": "이민정·최립우, '세터하우스 북촌' 오픈 행사 참석…SATUR 플래그십 공...",
-              "url": "https://www.gokorea.kr/news/articleView.html?idxno=861302",
-              "published_at": "2026-03-23T18:24:00+09:00",
-              "description": "배우 이민정과 가수 최립우가 지난 20일 레시피그룹이 전개하는 컨템포러리 브랜드 SATUR(세터)의 서울 종로구 플래그십 스토어 '세터하우스 북촌(SATUR HOUSE BUKCHON)' 오픈 기념 행사에 참석했다. 이날 행사에서 이민정과... ",
-              "source_name": "gokorea.kr"
+              "title": "[ST포토] 에스파 지젤, 러블리한 꽃받침",
+              "url": "http://www.stoo.com/article.php?aid=105721373460",
+              "published_at": "2026-03-24T09:36:00+09:00",
+              "description": "에스파 지젤이 24일 오전 서울 성동구 성수동 와키윌리 성수 플래그십 스토어에서 열린 오픈 기념 행사에 참석해 포즈를 취하고 있다. 2026.03.24.",
+              "source_name": "stoo.com"
             },
             {
-              "title": "[패션·뷰티 뉴스픽] 무신사·K2·애경산업·에이피알",
-              "url": "https://www.ajunews.com/view/20260323152842559",
-              "published_at": "2026-03-23T18:06:00+09:00",
-              "description": "com 무신사 명동점, 외국인 비중 56%…K패션 거점으로 부상 지난 1월 오픈한 ‘무신사 스토어 명동’ 매장... 제품은 메디큐브 온라인 공식몰과 주요 플래그십 매장에서 판매한다. 신제품은 기존 부스터 프로의 핵심... ",
-              "source_name": "ajunews.com"
+              "title": "에스파aespa 지젤, 블링블링 표정 [포토엔HD]",
+              "url": "https://www.newsen.com/news_view.php?uid=202603240935101510",
+              "published_at": "2026-03-24T09:36:00+09:00",
+              "description": "에스파aespa 지젤이 3월24일 오전 서울 성동구 성수동에서 진행된 모 브랜드 플래그십 스토어 오픈 기념 포토월에 참석하여 포즈를 취하고 있다.",
+              "source_name": "newsen.com"
+            },
+            {
+              "title": "[포토] 에스파 지젤 '세련된 고급스러움'",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=726188",
+              "published_at": "2026-03-24T09:36:00+09:00",
+              "description": "에스파 지젤 ©최은희기자 oso0@slist.kr 에스파 지젤이 24일 오전 서울 성동구 와키윌리 성수 플래그십에서 열린 와키윌리 성수 플래그십 스토어 오픈 기념 포토월에 참석해 포즈를 취하고 있다.",
+              "source_name": "slist.kr"
             }
           ]
         },
@@ -936,144 +893,144 @@
           "keyword": "팝업",
           "articles": [
             {
-              "title": "휴젤 '웰라쥬', 움직이는 팝업 행사 통해 브랜드 경험 강화",
-              "url": "http://www.press9.kr/news/articleView.html?idxno=73928",
-              "published_at": "2026-03-24T09:10:00+09:00",
-              "description": "웰라쥬는 매거진 '뷰티쁠'과 협업해 지난 19일부터 21일까지 총 3일간 대학교 캠퍼스와 성수동 일대에서 '무빙팝업'을 성황리에 종료했다. '무빙팝업'은 행사의 주요 타깃인 대학생 및 MZ세대를 중심으로 브랜드 경험을... ",
-              "source_name": "press9.kr"
+              "title": "360평 '럭셔리 봄'…롯데百, 반클리프 팝업 독점 개최",
+              "url": "https://www.ddaily.co.kr/page/view/2026032409430756769",
+              "published_at": "2026-03-24T09:47:00+09:00",
+              "description": "롯데백화점이 봄을 맞아 프랑스 하이 주얼리 브랜드 '반클리프 아펠'의 봄 팝업 전시를 독점 공개한다. 24일 롯데백화점은 반클리프 아펠의 전시형 팝업 '스프링 이즈 블루밍'을 오는 27일부터 내달 12일까지 진행한다고... ",
+              "source_name": "ddaily.co.kr"
             },
             {
-              "title": "아웃도어 보이스, 서울 팝업스토어 오픈",
-              "url": "http://www.apparelnews.co.kr/news/news_view/?idx=224072",
-              "published_at": "2026-03-24T09:08:00+09:00",
-              "description": "‘서울 팝업스토어(SEOUL Pop-up)’를 운영하며 고객들의 높은 관심을 모으고 있다. 특히 이번 팝업스토어는 지난 10월 EQL 성수 팝업스토어에 이어, 또 한 번 뜨거운 반응을 이어가고 있는 것으로 전해졌다. 아웃도어... ",
-              "source_name": "apparelnews.co.kr"
+              "title": "연체 풀고 강연 듣고 체험까지…광주 시립도서관 ‘책의 달’ 프로그램...",
+              "url": "https://view.asiae.co.kr/article/2026032409151912576",
+              "published_at": "2026-03-24T09:44:00+09:00",
+              "description": "하남도서관은 ▲'지구를 지키는 업사이클링 팝업북' 체험(4월 14일) ▲김선지 작가 초청 인문학 강연 '시간을 읽는 그림-그림으로 읽는 역사 이야기'(4월 15일) ▲'동시집' 원화 전시(4월 12~30일) 등 6개 행사를 마련했다.... ",
+              "source_name": "asiae.co.kr"
             },
             {
-              "title": "대학교 캠퍼스에 등장한 휴젤 웰라쥬...브랜드 경험 강화 위한 팝업",
-              "url": "http://www.fnnews.com/news/202603240904162298",
-              "published_at": "2026-03-24T09:07:00+09:00",
-              "description": "웰라쥬는 매거진 ‘뷰티쁠’과 협업해 지난 19일부터 21일까지 총 3일간 대학교 캠퍼스와 성수동 일대에서 ‘무빙팝업’을 성황리에 종료했다. ‘무빙팝업’은 행사의 주요 타깃인 대학생 및 MZ세대를 중심으로 브랜드... ",
-              "source_name": "fnnews.com"
+              "title": "광주시립도서관, 도서관주간·책의날 행사 ‘풍성’",
+              "url": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160268054875478",
+              "published_at": "2026-03-24T09:44:00+09:00",
+              "description": "하남도서관은 ▲‘지구를 지키는 업사이클링 팝업북’ 체험(4월 14일) ▲김선지 작가 초청 인문학 강연 ‘시간을 읽는 그림-그림으로 읽는 역사 이야기’(4월 15일) ▲‘동시집’ 원화 전시(4월 12∼30일) 등 총 6개... ",
+              "source_name": "siminilbo.co.kr"
             },
             {
-              "title": "바버, 상하이 ‘바버 페스티벌’ 3일간 1만명 몰리며 성황",
-              "url": "https://www.dailian.co.kr/news/view/1624622/?sc=Naver",
-              "published_at": "2026-03-24T09:06:00+09:00",
-              "description": "체험형 팝업 이벤트 ‘Spring with Barbour’를 성황리에 마쳤다고 24일 밝혔다. 최근 글로벌 패션 시장에서는... 특히 상하이 등 아시아 주요 도시를 중심으로 글로벌 브랜드들이 대형 팝업과 이벤트를 통해 젊은... ",
-              "source_name": "dailian.co.kr"
+              "title": "﻿뱅앤올룹슨, 대전신세계에 Art &amp; Science 팝업스토어 개점",
+              "url": "https://www.itbiznews.com/news/articleView.html?idxno=207574",
+              "published_at": "2026-03-24T09:44:00+09:00",
+              "description": "새로운 팝업스토어를 조성하고 운영에 들어갔다. 브랜드 설립 100주년을 기념하는 비주얼 머천다이징(VM)으로 구성된 이번 팝업스토어는 지역 소비자들이 제품의 청음과 디자인을 직접 확인하도록 마련됐다.... ",
+              "source_name": "itbiznews.com"
             },
             {
-              "title": "'브랜드 경험 강화'...휴젤, 성수동 일대서 '무빙팝업' 진행",
-              "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=310179",
-              "published_at": "2026-03-24T09:06:00+09:00",
-              "description": "휴젤이 지난 19~21일 총 3일간 대학교 캠퍼스와 성수동 일대에서 매거진 '뷰티쁠'과 협업해 '무빙팝업' 행사를 개최했다고 24일 밝혔다. 무빙팝업은 클리니컬 코스메틱 브랜드 '웰라쥬(WELLAGE)'의 오프라인 체험 행사다.... ",
-              "source_name": "wolyo.co.kr"
+              "title": "공군, 내달부터 전국 5개 기지 개방…'스페이스챌린지 2026'로 항공우주...",
+              "url": "https://www.newspim.com/news/view/20260324000291",
+              "published_at": "2026-03-24T09:43:00+09:00",
+              "description": "행사장에는 핸디고무동력기와 에어로켓 날리기, 팝업드론 대결, 모형 위성 전시 등 항공우주 분야를 주제로 한 체험 프로그램이 다양하게 마련된다. 여기에 낙하산 에어바운스, 조종복 착용 체험, 페이스페인팅... ",
+              "source_name": "newspim.com"
             },
             {
-              "title": "휴젤 웰라쥬, 캠퍼스·성수 '무빙팝업'…MZ 접점 확대",
-              "url": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=325046",
-              "published_at": "2026-03-24T09:04:00+09:00",
-              "description": "웰라쥬 ‘리얼 히알루로닉 수딩크림’ 무빙팝업을 성료했다. ©휴젤글로벌 토탈 메디컬 에스테틱 전문 기업... ‘무빙팝업’을 성황리에 종료했다. ‘무빙팝업’은 행사의 주요 타깃인 대학생 및 MZ세대를 중심으로... ",
-              "source_name": "yakup.com"
+              "title": "롯데백화점, 잠실서 '반클리프 아펠' 아트 팝업 단독 개최",
+              "url": "http://www.newsdream.kr/news/articleView.html?idxno=110071",
+              "published_at": "2026-03-24T09:42:00+09:00",
+              "description": "롯데백화점은 프랑스 하이 주얼리 브랜드 '반클리프 아펠(Van Cleef &amp; Arpels)'의 전시형 팝업 '스프링 이즈 블루밍(Spring is Blooming)'을 단독 개최한다고 24일 밝혔다. 이번 행사는 3월 27일부터 4월 12일까지 잠실 롯데월드타워... ",
+              "source_name": "newsdream.kr"
             },
             {
-              "title": "LF 바버, 中 상하이 '바버 페스티벌' 성황리 종료",
-              "url": "https://www.m-i.kr/news/articleView.html?idxno=1357037",
-              "published_at": "2026-03-24T09:04:00+09:00",
-              "description": "체험형 팝업 이벤트를 성료했다고 24일 밝혔다. 최근 글로벌 패션 시장에서는 제품 중심에서 벗어나 공간과... 상하이 등 아시아 주요 도시를 중심으로 글로벌 브랜드가 대형 팝업, 이벤트 등으로 젊은 고객과의 접점을... ",
-              "source_name": "m-i.kr"
+              "title": "4월23일 '세계 책의 날'…광주시립도서관, 독서문화 행사",
+              "url": "https://www.newsis.com/view/NISX20260324_0003560980",
+              "published_at": "2026-03-24T09:42:00+09:00",
+              "description": "하남도서관에서는 '지구를 지키는 업사이클링 팝업북' 체험(4월14일), 김선지 작가 초청 인문학 강연 '시간을 읽는 그림-그림으로 읽는 역사 이야기'(4월15일), 동시집 원화 전시(4월12일∼30일) 등이 펼쳐진다. 총 6개... ",
+              "source_name": "newsis.com"
             },
             {
-              "title": "프로벨르, 도쿄 츠타야 가전 팝업 참가",
-              "url": "https://www.vegannews.co.kr/news/article.html?no=381928",
-              "published_at": "2026-03-24T09:02:00+09:00",
-              "description": "가전에서 팝업을 운영하며 현지 소비자와의 오프라인 접점을 확대한다고 밝혔다. 이번 팝업은 일본 시장에서 브랜드 방향성과 제품 콘셉트를 소개하는 자리로 기획됐다. 본로이는 현지 소비자에게 원료 설계 방식과 브랜드... ",
-              "source_name": "vegannews.co.kr"
+              "title": "뱅앤올룹슨, 대전신세계 Art &amp; Science 팝업스토어 오픈",
+              "url": "https://www.newspim.com/news/view/20260323000754",
+              "published_at": "2026-03-24T09:40:00+09:00",
+              "description": "세계적인 홈 엔터테인먼트 브랜드 뱅앤올룹슨(Bang &amp; Olufsen)이 대전신세계 Art &amp; Science(이하 대전신세계)에 팝업스토어를 열고 지역 고객과의 접점을 확대했다. 이번 팝업스토어는 브랜드 탄생 100주년을 기념한... ",
+              "source_name": "newspim.com"
             },
             {
-              "title": "휴젤 웰라쥬, 대학가·성수 '무빙팝업' 운영···MZ 마케팅 강화",
-              "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2409654",
-              "published_at": "2026-03-24T09:00:00+09:00",
-              "description": "웰라쥬는 매거진 '뷰티쁠'과 협업해 지난 19일부터 21일까지 총 3일간 대학교 캠퍼스와 성수동 일대에서 '무빙팝업'을 종료했다. '무빙팝업'은 행사의 주요 타깃인 대학생 및 MZ세대를 중심으로 브랜드 경험을 강화하기... ",
-              "source_name": "enewstoday.co.kr"
+              "title": "'약국체인 가입할 만 한가?' 휴베이스, 내달 12일 HIC",
+              "url": "https://new.dailypharm.com/user/news/336767?REFERER=NP",
+              "published_at": "2026-03-24T09:38:00+09:00",
+              "description": "2시부터 6시까지 서울 서초구 소재 휴베이스 챌린지스퀘어에서 진행된다. 참여신청은 휴베이스 홈페이지(www.hubasekorea.co.kr) 내 팝업 배너 또는 별도의 신청 링크(https://www.hubasecampus.com/request?seq=59) 에서 할 수 있다.",
+              "source_name": "new.dailypharm.com"
             },
             {
-              "title": "콩제슬래드, 신세계 강남 10층서 팝업…브랜드 경험 공간 선봬",
-              "url": "https://www.kizmom.com/news/articleView.html?idxno=108614",
-              "published_at": "2026-03-24T09:00:00+09:00",
-              "description": "덴마크 프리미엄 키즈 브랜드 콩제슬래드(Konges Sløjd)가 오는 3월 20일부터 4월 9일까지 신세계백화점 강남점 10층에서 팝업스토어를 운영하며 브랜드 경험 공간을 선보인다. 이번 팝업은 콩제슬래드의 공식수입사이자... ",
-              "source_name": "kizmom.com"
+              "title": "광주시립도서관, 도서관주간·책의날 행사 '풍성'",
+              "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000027526",
+              "published_at": "2026-03-24T09:37:00+09:00",
+              "description": "하남도서관은 △'지구를 지키는 업사이클링 팝업북' 체험(4월14일) △김선지 작가 초청 인문학 강연 '시간을 읽는 그림-그림으로 읽는 역사 이야기'(4월15일) △'동시집' 원화 전시(4월12∼30일) 등 총 6개 행사를... ",
+              "source_name": "jnilbo.com"
             },
             {
-              "title": "&quot;아미노믹스 불 붙었다&quot;···유통업계, BTS 공연에 '초대박'",
-              "url": "http://www.todaykorea.co.kr/news/articleView.html?idxno=341201",
-              "published_at": "2026-03-24T09:00:00+09:00",
-              "description": "특히 BTS 팝업스토어를 개최한 신세계백화점 본점은 20일부터 21일까지의 매출이 전년 동기 대비 41% 신장한 것으로 나타났다. 또한 공연 직전 일주일(3월 13~19일) 기준 외국인 매출은 이미 전년 대비 3.2배를... ",
-              "source_name": "todaykorea.co.kr"
+              "title": "[인터뷰] 아나운서 출신 홍민정 &amp; 박신영 '아이백유어파든' 글로벌 도전",
+              "url": "https://www.fashionbiz.co.kr/article/224796",
+              "published_at": "2026-03-24T09:32:00+09:00",
+              "description": "이제 온라인을 넘어 갤러리아 명품관, 신세계 센텀시티점, 뉴욕 팝업스토어까지 보폭을 넓히며 글로벌... 팝업을 진행할 때도 1톤 트럭으로 직접 짐을 옮기고, 비용을 절감하기 위해 가능한 많은 일을 스스로 수행했다.... ",
+              "source_name": "fashionbiz.co.kr"
             },
             {
-              "title": "부천시, '부천 페스타-봄꽃여행' 개최…진달래와 함께하는 도심형 축제",
-              "url": "https://news.tf.co.kr/read/national/2305426.htm",
-              "published_at": "2026-03-24T09:00:00+09:00",
-              "description": "또한 푸드트럭과 식품 팝업스토어, 버스킹 공연, 문화관광 및 웰니스 프로그램 등 다양한 콘텐츠가 운영돼 시민과 관광객이 함께 즐길 수 있는 복합문화 공간으로 조성된다. 올해는 지역 대학이 참여하는 '라이즈존'을... ",
-              "source_name": "tf.co.kr"
+              "title": "휴젤, 웰라쥬 무빙팝업 행사 성료…&quot;소비자 접점 확대&quot;",
+              "url": "https://daily.hankooki.com/news/articleView.html?idxno=1350760",
+              "published_at": "2026-03-24T09:32:00+09:00",
+              "description": "휴젤의 클리니컬 코스메틱 브랜드 웰라쥬는 매거진 뷰티쁠과 협업해 지난 19일부터 21일까지 '무빙팝업'을... 일대에서 '무빙팝업'을 진행했다. 이번 행사는 대학생과 MZ세대를 중심으로 브랜드 경험을 강화하기 위해... ",
+              "source_name": "daily.hankooki.com"
             },
             {
-              "title": "휴베이스, 4월 HIC 개최…약국 체인 선택 기준 제시",
-              "url": "https://www.yakup.com/news/index.html?mode=view&cat=17&nid=325045",
-              "published_at": "2026-03-24T08:58:00+09:00",
-              "description": "6시까지 서울 서초구 방배동 ‘휴베이스 챌린지스퀘어’에서 진행되며, 참가 신청은 휴베이스 홈페이지(www.hubasekorea.co.kr) 내 팝업 배너 또는 별도 신청 페이지(https://www.hubasecampus.com/request?seq=59)를 통해 가능하다.",
-              "source_name": "yakup.com"
+              "title": "광주광역시립도서관, 도서관주간·책의날 행사 '다양한 독서문화 풍성'",
+              "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=426290",
+              "published_at": "2026-03-24T09:30:00+09:00",
+              "description": "하남도서관은 ▲'지구를 지키는 업사이클링 팝업북' 체험(4월 14일) ▲김선지 작가 초청 인문학 강연 '시간을 읽는 그림-그림으로 읽는 역사 이야기'(4월 15일) ▲'동시집' 원화 전시(4월 12∼30일) 등 총 6개 행사를... ",
+              "source_name": "dailysportshankook.co.kr"
             },
             {
-              "title": "“봄 장바구니 잡아라”…대형마트 3사, 초저가·총력전 돌입",
-              "url": "https://www.viva100.com/article/20260324500095",
-              "published_at": "2026-03-24T08:58:00+09:00",
-              "description": "사전 행사와 팝업스토어까지 연계해 고객 접점을 넓힌 점도 특징이다. 롯데마트는 창립 28주년을 맞아 이달 26일부터 2주간 ‘메가통큰’ 행사를 연다. 고물가 부담을 겨냥해 물량을 기존 대비 2배 이상 확대하고... ",
-              "source_name": "viva100.com"
+              "title": "백화점업계, 봄 골프 성수기 맞이 대규모 '골프 이벤트' 진행",
+              "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=297625",
+              "published_at": "2026-03-24T09:30:00+09:00",
+              "description": "더현대 서울 5층 사운즈포레스트에서 'KLPGA 팝업스토어'가 진행되고 있다. 사진=현대백화점 백화점업계가... 팝업스토어도 연다. 같은 기간 더현대 서울 사운즈 포레스트에서 선수 애장품 전시를 비롯해 KLPGA 공식... ",
+              "source_name": "pointdaily.co.kr"
             },
             {
-              "title": "롯데백화점, '반클리프 아펠' 전시형 팝업 독점 공개",
-              "url": "https://www.dailian.co.kr/news/view/1624596/?sc=Naver",
-              "published_at": "2026-03-24T08:54:00+09:00",
-              "description": "롯데백화점은 프랑스 하이 주얼리 브랜드 ‘반클리프 아펠’의 전시형 팝업 ‘스프링 이즈 블루밍’을 독점 공개한다고 24일 밝혔다. 이번 행사는 오는 27일부터 4월12일까지 잠실 롯데월드타워 월드파크 잔디광장에서... ",
-              "source_name": "dailian.co.kr"
+              "title": "바버, 상하이 팝업에 1만명 몰렸다… 체험형 마케팅 강화",
+              "url": "https://www.fashionbiz.co.kr/article/224800",
+              "published_at": "2026-03-24T09:30:00+09:00",
+              "description": "체험형 팝업 이벤트 ‘바버와의 봄(Spring with Barbour)’를 성황리에 마쳤다. 이번 행사는 지난 3월 20일부터... 특히 상하이 등 아시아 주요 도시를 중심으로 글로벌 브랜드들이 대형 팝업과 이벤트를 확대하고 있다.... ",
+              "source_name": "fashionbiz.co.kr"
             },
             {
-              "title": "휴젤 웰라쥬, 움직이는 팝업 행사 성료… &quot;소비자 접점 확대&quot;",
-              "url": "http://www.medisobizanews.com/news/articleView.html?idxno=136214",
-              "published_at": "2026-03-24T08:54:00+09:00",
-              "description": "웰라쥬는 매거진 '뷰티쁠'과 협업해 지난 19일부터 21일까지 총 3일간 대학교 캠퍼스와 성수동 일대에서 '무빙팝업'을 성황리에 종료했다. '무빙팝업'은 행사의 주요 타깃인 대학생 및 MZ세대를 중심으로 브랜드 경험을... ",
-              "source_name": "medisobizanews.com"
+              "title": "[동영상] 니케와 카카오프렌즈가 만났다! 엉뚱 상쾌한 매력의 굿즈들 총...",
+              "url": "https://game.donga.com/121964/",
+              "published_at": "2026-03-24T09:30:00+09:00",
+              "description": "서울 지하철 2호선 홍대역 앞에 있는 카카오프렌즈 팝업스토어가 둘의 콜라보 굿즈들로 가득 채워졌네요! 이번 콜라보 팝업스토어는 '도로와 춘식이의 하루'라는 이름으로 오픈했는데요, 와 정말 매력적인 굿즈들이... ",
+              "source_name": "game.donga.com"
             },
             {
-              "title": "잠실 잔디광장에 핀 '주얼리 정원'···롯데백화점, '반클리프 아펠' 전...",
-              "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2409642",
-              "published_at": "2026-03-24T08:52:00+09:00",
-              "description": "롯데백화점은 프랑스 하이 주얼리 브랜드 '반클리프 아펠(Van Cleef &amp; Arpels)'의 전시형 팝업 '스프링 이즈... 팝업 공간에 부착됀 QR코드로 미션을 완료하면 샬롯 가스토가 디자인한 '씨앗 카드'와 간단한 다과를 제공한다.... ",
-              "source_name": "enewstoday.co.kr"
+              "title": "[포토] 지젤, 참을 수 없는 부끄러움",
+              "url": "http://enews.imbc.com/News/RetrieveNewsInfo/499137",
+              "published_at": "2026-03-24T09:29:00+09:00",
+              "description": "에스파(aespa) 지젤이 24일 오전 서울 성수동에 위치한 한 팝업스토어에서 열린 캐주얼 패션 브랜드 오픈 행사에 참석해 포즈를 취하고 있다. 이날 지젤은 앞머리를 단정하게 빗은 '깻잎' 굵은 웨이브 헤어에 레드 컬러의... ",
+              "source_name": "enews.imbc.com"
             },
             {
-              "title": "뱅앤올룹슨, 대전신세계 Art &amp; Science 팝업스토어 오픈… 프리미엄 사운...",
-              "url": "https://www.etoday.co.kr/news/view/2568461",
-              "published_at": "2026-03-24T08:50:00+09:00",
-              "description": "이투데이=윤이나 기자 | 세계적인 홈 엔터테인먼트 브랜드 뱅앤올룹슨(Bang &amp; Olufsen)이 대전신세계 Art &amp; Science(이하 대전신세계)에 새로운 팝업스토어를 오픈하고 지역 고객과의 접점을 확대했다. 이번 팝업스토어는... ",
-              "source_name": "etoday.co.kr"
+              "title": "휴젤 웰라쥬, 대학교 캠퍼스 순회 '체험형 무빙 팝업' 마쳐",
+              "url": "https://www.pharmnews.com/news/articleView.html?idxno=302305",
+              "published_at": "2026-03-24T09:28:00+09:00",
+              "description": "웰라쥬는 매거진 '뷰티쁠'과 협업해 지난 19일부터 21일까지 3일간 대학교 캠퍼스와 성수동 일대에서 '무빙 팝업' 행사를 진행했다. 이번 행사는 대학생과 MZ세대를 대상으로 제품 체험 기회를 제공하기 위해 기획됐다.... ",
+              "source_name": "pharmnews.com"
             },
             {
-              "title": "휴젤, '웰라쥬' 무빙팝업 행사 성료…&quot;오프라인 브랜드 경험 강화&quot;",
-              "url": "https://www.mt.co.kr/thebio/2026/03/24/2026032408394578886",
-              "published_at": "2026-03-24T08:49:00+09:00",
-              "description": "웰라쥬는 매거진 '뷰티쁠'과 협업해 지난 19일부터 21일까지 총 3일간 대학교 캠퍼스와 성수동 일대에서 '무빙팝업'을 성료했다. 무빙팝업은 행사의 주요 타깃인 대학생 및 MZ세대를 중심으로 브랜드 경험을 강화하기... ",
-              "source_name": "mt.co.kr"
+              "title": "항저우에서 한강라면을? K-푸드 페어에 22만 명 몰려",
+              "url": "https://www.weeklytrade.co.kr/news/view.html?section=1&category=3&item=&no=99021",
+              "published_at": "2026-03-24T09:28:00+09:00",
+              "description": "또한, 단순 체험을 넘어 실제 K-푸드 소비로 이어지도록 식품, 화장품, 생활용품을 판매하는 중국의 대표 라이프스타일매장인 KKV와 협업해 ▷KKV 팝업스토어 ▷왕홍 초청 온라인 한국관 라이브존 등을 운영해... ",
+              "source_name": "weeklytrade.co.kr"
             },
             {
-              "title": "롯데백화점, '반클리프 아펠' 전시형 팝업 단독 개최",
-              "url": "http://www.newslock.co.kr/news/articleView.html?idxno=127370",
-              "published_at": "2026-03-24T08:48:00+09:00",
-              "description": "롯데백화점이 프랑스 하이 주얼리 브랜드 '반클리프 아펠(Van Cleef &amp; Arpels)'의 전시형 팝업 '스프링 이즈... 팝업 공간에 부착돼 있는 QR코드를 통해 간단한 미션을 완료하면 샬롯 가스토가 디자인한 '씨앗 카드'와 간단한... ",
-              "source_name": "newslock.co.kr"
+              "title": "롯데百, 반클리프 아펠 전시 팝업 '스프링 이즈 블루밍' 공개",
+              "url": "https://www.seoulfn.com/news/articleView.html?idxno=624391",
+              "published_at": "2026-03-24T09:28:00+09:00",
+              "description": "롯데백화점은 반클리프 아펠의 체험형 전시 팝업 '스프링 이즈 블루밍(Spring is Blooming)'을 단독으로 선보인다고 24일 밝혔다. 이번 행사는 오는 27일부터 다음 달 12일까지 롯데월드타워 월드파크 잔디광장에서... ",
+              "source_name": "seoulfn.com"
             }
           ]
         }
@@ -1085,6 +1042,27 @@
         {
           "keyword": "벤츠",
           "articles": [
+            {
+              "title": "부산지법, 지인 회사명의 리스 차량 반환요구에도 임의 처분 50대 벌금형",
+              "url": "http://www.lawissue.co.kr/view.php?ud=202603240928007089a8c8bf58f_12",
+              "published_at": "2026-03-24T09:30:00+09:00",
+              "description": "10.경 피해자가 피고인의 부탁을 받고 피해자가 운영하는 C 회사 명의로 리스 계약을 체결한 벤츠 E220 차량을 피해자로부터 인도받아 벤츠 차량을 점유하며 계속 운행했다. 피고인은 2020. 10. 19.경 피해자로부터 차량... ",
+              "source_name": "lawissue.co.kr"
+            },
+            {
+              "title": "도심형 콤팩트부터 7인승 여유까지",
+              "url": "https://www.mk.co.kr/article/11996375",
+              "published_at": "2026-03-24T09:23:00+09:00",
+              "description": "디 올-뉴 메르세데스-벤츠 GLB 가장 합리적인 벤츠, 콤팩트한 패밀리 SUV 벤츠가 새롭게 선보인 ‘디 올-뉴 GLB’는 단순한 세대교체를 넘어 브랜드의 전동화와 디지털 전환 의지를 집약한 모델이다. 우선 눈에 띄는... ",
+              "source_name": "mk.co.kr"
+            },
+            {
+              "title": "[해외브리핑] 美정부-토탈에너지, 해상풍력 예산 원유·가스 증산 '유턴",
+              "url": "https://www.esgeconomy.com/news/articleView.html?idxno=14894",
+              "published_at": "2026-03-24T09:22:00+09:00",
+              "description": "https://www.reuters.com/sustainability/cop/un-weather-agency-confirms-hottest-decade-record-2026-03-23/ 독일 연방법원, 벤츠·BMW 신규 내연기관차 판매금지 소송 기각 독일 법원이 환경단체들이 제기한 메르세데스-벤츠 및... ",
+              "source_name": "esgeconomy.com"
+            },
             {
               "title": "독일 대법원 &quot;기업에 탄소 감축 의무화 불가&quot;...환경단체의 '2030년 내연...",
               "url": "https://www.ikbc.co.kr/article/view/kbc202603240006",
@@ -1149,17 +1127,17 @@
               "source_name": "ebn.co.kr"
             },
             {
-              "title": "질주본능",
-              "url": "https://www.seoul.co.kr/news/economy/car/2026/03/24/20260324016001?wlog_tag3=naver",
-              "published_at": "2026-03-24T05:02:00+09:00",
-              "description": "메르세데스-벤츠 역시 고성능 스포츠유틸리티차(SUV)를 중심으로 시장 영향력을 확대하며 브랜드 경쟁력을 과시하고 있다. 실용성을 강조한 SUV 시장도 빠르게 확대되고 있다. 르노 ‘필랑트’는 높은 연비를 내세워... ",
-              "source_name": "seoul.co.kr"
-            },
-            {
               "title": "벤츠, GLS 고성능 모델 첫 선… 612마력 ‘괴물 SUV’",
               "url": "https://www.seoul.co.kr/news/economy/car/2026/03/24/20260324017001?wlog_tag3=naver",
               "published_at": "2026-03-24T05:02:00+09:00",
               "description": "메르세데스-벤츠 코리아가 ‘SUV의 S클래스’로 불리는 GLS에 고성능 AMG의 DNA를 심은 ‘메르세데스-AMG GLS... 차량에 대한 보다 상세한 정보는 전국 메르세데스-벤츠 공식 전시장 및 공식 홈페이지를 통해 확인할 수... ",
+              "source_name": "seoul.co.kr"
+            },
+            {
+              "title": "질주본능",
+              "url": "https://www.seoul.co.kr/news/economy/car/2026/03/24/20260324016001?wlog_tag3=naver",
+              "published_at": "2026-03-24T05:02:00+09:00",
+              "description": "메르세데스-벤츠 역시 고성능 스포츠유틸리티차(SUV)를 중심으로 시장 영향력을 확대하며 브랜드 경쟁력을 과시하고 있다. 실용성을 강조한 SUV 시장도 빠르게 확대되고 있다. 르노 ‘필랑트’는 높은 연비를 내세워... ",
               "source_name": "seoul.co.kr"
             },
             {
@@ -1203,33 +1181,54 @@
               "published_at": "2026-03-23T23:46:00+09:00",
               "description": "독일 연방대법원 민사6부는 23일(현지시간) 시민단체 독일환경보호협회(DUH)가 2030년 11월부터 내연차 판매를 금지해달라며 자동차업체 BMW와 메르세데스-벤츠를 상대로 낸 소송에서 원고 패소로 판결했다. 법원은 개별... ",
               "source_name": "yna.co.kr"
-            },
-            {
-              "title": "중국, 이란 전쟁 속 '경제 양회'...미국 대안 부각",
-              "url": "https://www.ytn.co.kr/_ln/0104_202603232251326619",
-              "published_at": "2026-03-23T22:51:00+09:00",
-              "description": "[올라 칼레니우스 / 메르세데스-벤츠 그룹 AG 이사회 의장 : 인공지능은 제품 자체뿐만 아니라 제조 현장 전반에 걸쳐 매우 중요한 역할을 할 것이며, 중국의 &quot;제15차 5개년 계획&quot;과 비교해 우리 기업의 방향과 매우... ",
-              "source_name": "ytn.co.kr"
-            },
-            {
-              "title": "中산업장관, 애플·SK하이닉스 등 CEO 잇달아 접견",
-              "url": "https://view.asiae.co.kr/article/2026032321573139537",
-              "published_at": "2026-03-23T21:57:00+09:00",
-              "description": "23일 중국 공업정보화부에 따르면 리러청 공업정보화부장은 팀 쿡 애플 CEO, 크리스티아노 아몬 퀄컴 CEO, 곽노정 SK하이닉스 대표이사 사장, 올리버 블루메 폭스바겐 CEO, 올라 칼레니우스 메르세데스-벤츠 회장, 롤란드... ",
-              "source_name": "asiae.co.kr"
-            },
-            {
-              "title": "中산업장관, 애플·SK하이닉스 등 CEO 접견…&quot;中시장 다지길&quot;",
-              "url": "https://www.yna.co.kr/view/AKR20260323167400083?input=1195m",
-              "published_at": "2026-03-23T21:19:00+09:00",
-              "description": "공업정보화부에 따르면 리러청 부장은 팀 쿡 애플 CEO와 크리스티아노 아몬 퀄컴 CEO, 곽노정 SK하이닉스 대표이사 사장, 올리버 블루메 폭스바겐 CEO, 올라 칼레니우스 메르세데스-벤츠 회장, 롤란드 부시 지멘스 회장을... ",
-              "source_name": "yna.co.kr"
             }
           ]
         },
         {
           "keyword": "bmw",
           "articles": [
+            {
+              "title": "현대차 팰리세이드 전동시트 결함 5만 7987대 리콜",
+              "url": "https://www.newscj.com/news/articleView.html?idxno=3387652",
+              "published_at": "2026-03-24T09:46:00+09:00",
+              "description": "KG모빌리티 토레스 등 3개 차종 7만 8293대는 냉각팬 저항 코일 과열로 화재 가능성이 있어 지난 16일부터 리콜되고, BMW 520i 등 18개 차종 2만 9678대는 에어컨 배선 설계 미흡으로 필터 교체 과정 중 배선 손상 시 화재... ",
+              "source_name": "newscj.com"
+            },
+            {
+              "title": "전동시트 결함 현대차 팰리세이드 5만7987대 리콜",
+              "url": "http://www.newstomato.com/ReadNews.aspx?no=1295275&inflow=N",
+              "published_at": "2026-03-24T09:44:00+09:00",
+              "description": "팰리세이드 전동시트 관련 리콜 내용(출처=국토부) 국토교통부는 현대차·기아·KGM·BMW코리아가 제작 또는... BMW 520i 등 18개 차종 2만9678대와 관련해 에어컨 배선 설계 결함으로 필터 교체 시 배선 손상에 의한 단락... ",
+              "source_name": "newstomato.com"
+            },
+            {
+              "title": "[르포] &quot;BMW 성지이자 놀이터&quot;, BMW 벨트에 가다",
+              "url": "http://autotimes.co.kr/detail.php?number=687045&thread=27",
+              "published_at": "2026-03-24T09:32:00+09:00",
+              "description": "-소유가 아닌 경험으로 받아들이는 브랜드 -자연스럽게 BMW 팬이 될 수 있는 지름길 독일 뮌헨 BMW 본사와 올림픽 공원이 맞닿은 그 중심에 자리한 BMW 벨트는 처음 마주하는 순간부터 ‘건물’이라는 단어를 무색하게... ",
+              "source_name": "autotimes.co.kr"
+            },
+            {
+              "title": "현대차 펠리세이드, 5만여대 리콜…美 끼임 사고 여파",
+              "url": "https://www.mydaily.co.kr/page/view/2026032409303113895",
+              "published_at": "2026-03-24T09:31:00+09:00",
+              "description": "국토교통부는 현대차 팰리세이드를 비롯해 기아 카니발, KG모빌리티 토레스, BMW 520i 등 총 24개 차종... BMW 520i 등 18개 차종 2만9678대는 에어컨 배선 설계 미흡으로 필터 교체 과정에서 배선이 손상돼 단락이 발생할 경우... ",
+              "source_name": "mydaily.co.kr"
+            },
+            {
+              "title": "현대차 '팰리세이드', 기아 '카니발', KGM 3개·BMW 18개 차종...40만9천대...",
+              "url": "https://hbnpress.com/news/view/1065572132014229",
+              "published_at": "2026-03-24T09:24:00+09:00",
+              "description": "과열, BMW 520i 등 18개 차종은 에어컨 배선 설계 미흡 등 결함으로 대규모 자발적 시정조치(리콜)가... BMW 520i 등 18개 차종 2만9678대는 에어컨 배선 설계 미흡으로 필터 교체 과정에서 배선이 손상돼 단락이 발생할 경우... ",
+              "source_name": "hbnpress.com"
+            },
+            {
+              "title": "[해외브리핑] 美정부-토탈에너지, 해상풍력 예산 원유·가스 증산 '유턴",
+              "url": "https://www.esgeconomy.com/news/articleView.html?idxno=14894",
+              "published_at": "2026-03-24T09:22:00+09:00",
+              "description": "com/sustainability/cop/un-weather-agency-confirms-hottest-decade-record-2026-03-23/ 독일 연방법원, 벤츠·BMW 신규 내연기관차 판매금지 소송 기각 독일 법원이 환경단체들이 제기한 메르세데스-벤츠 및 BMW의 신규... ",
+              "source_name": "esgeconomy.com"
+            },
             {
               "title": "현대차 팰리세이드 전동시트 결함 확인…40만8942대 시정조치",
               "url": "https://www.sisajournal.com/news/articleView.html?idxno=366799",
@@ -1327,54 +1326,19 @@
               "published_at": "2026-03-24T08:49:00+09:00",
               "description": "토레스, BMW 520i 등 총 24개 차종 40만8,942대가 자발적 시정조치, 리콜에 들어다고 오늘(24일) 밝혔습니다.... BMW 520i 등 18개 차종 2만9,678대는 에어컨 배선 설계 미흡으로 필터 교체 과정에서 배선이 손상돼 단락이 발생할... ",
               "source_name": "yonhapnewstv.co.kr"
-            },
-            {
-              "title": "현대·기아차 자발적 리콜..팰리세이드 5만여대 국내 리콜 실시",
-              "url": "https://kpenews.com/View.aspx?No=4014570",
-              "published_at": "2026-03-24T08:48:00+09:00",
-              "description": "한국정경신문 문상혁 기­자 nasa7457@naver.com [한국정경신문=문상혁 기자]현대차가 팰리세이드(SUV)와 하이브리드 등 총 5만7987대에 대한 자발적 리콜이 이뤄진다.국토교통부는 현대차와 기아, KG모빌리티(KGM), BMW코리아... ",
-              "source_name": "kpenews.com"
-            },
-            {
-              "title": "현대차 팰리세이드 5만7987대 국내 리콜…&quot;전동시트 기능 개선&quot;",
-              "url": "http://www.fnnews.com/news/202603240831013812",
-              "published_at": "2026-03-24T08:41:00+09:00",
-              "description": "24일 국토교통부는 현대차와 기아, KG모빌리티(KGM), BMW코리아에서 제작하거나 수입해 판매한 총 24개 차종... BMW 520i 등 18개 차종 2만9678대는 에어컨 배선 설계 미흡으로 필터 교체 과정에서 배선이 손상돼 단락이 발생할... ",
-              "source_name": "fnnews.com"
-            },
-            {
-              "title": "전동시트 결함 팰리세이드 리콜…기능 해제 쉽게 변경",
-              "url": "https://www.busan.com/view/busan/view.php?code=2026032408365564945",
-              "published_at": "2026-03-24T08:38:00+09:00",
-              "description": "국토교통부는 현대차 기아 KG모빌리티 BMW코리아에서 제작·수입·판매한 24개 차종 40만 8942대에서 제작 결함이 발견돼 자발적으로 시정조치(리콜)한다고 24일 밝혔다. 우선, 최근 발생한 전동시트 관련 사고와 관련해... ",
-              "source_name": "busan.com"
-            },
-            {
-              "title": "'전동시트 결함' 현대차 팰리세이드 5만7987대 리콜",
-              "url": "https://www.m-i.kr/news/articleView.html?idxno=1357028",
-              "published_at": "2026-03-24T08:38:00+09:00",
-              "description": "국토교통부는 24일 현대차를 비롯해 기아, KG모빌리티(KGM), BMW코리아에서 제작하거나 수입해 판매한 총 24개... BMW는 520i 등 18개 차종 2만9678대의 에어컨 배선 설계 미흡으로 이날부터 시정조치에 들어간다. 차량의 리콜... ",
-              "source_name": "m-i.kr"
-            },
-            {
-              "title": "&quot;노이어 클라쎄 첫 발&quot; BMW iX3, 사흘 만에 2천대 사전계약…전기차 선택...",
-              "url": "https://www.gpkorea.com/news/articleView.html?idxno=141150",
-              "published_at": "2026-03-24T08:36:00+09:00",
-              "description": "BMW 코리아의 차세대 전기차 '더 뉴 BMW iX3'가 사전예약 시작 사흘 만에 계약 대수 2000대를 돌파하며 수입 전기차 시장의 판도 변화를 예고했다. 약 9000만원에 육박하는 고가 모델임에도 혁신적인 주행 성능과 차세대... ",
-              "source_name": "gpkorea.com"
-            },
-            {
-              "title": "현대차 팰리세이드 5만7987대 국내 리콜…&quot;전동시트 안전 강화&quot;",
-              "url": "https://www.ajunews.com/view/20260324083104954",
-              "published_at": "2026-03-24T08:36:00+09:00",
-              "description": "국토교통부는 현대차와 기아, KG모빌리티(KGM), BMW코리아에서 제작하거나 수입해 판매한 총 24개 차종... BMW 520i 등 18개 차종 2만9678대는 에어컨 배선 설계 미흡으로 필터 교체 과정에서 배선이 손상돼 단락이 발생할... ",
-              "source_name": "ajunews.com"
             }
           ]
         },
         {
           "keyword": "스텔란티스",
           "articles": [
+            {
+              "title": "도심형 콤팩트부터 7인승 여유까지",
+              "url": "https://www.mk.co.kr/article/11996375",
+              "published_at": "2026-03-24T09:23:00+09:00",
+              "description": "‘알뤼르(4890만원)’와 ‘GT(5590만원)’ 등 2가지 트림 모두 스텔란티스의 차세대 전동화 플랫폼 ‘STLA 미디엄’을 기반으로 완전 변경을 거친 3세대 모델로 거듭났다. 크기부터 달라졌다. 전장 4810㎜, 전폭 1875... ",
+              "source_name": "mk.co.kr"
+            },
             {
               "title": "[월드 e-브리핑] &quot;당장 전쟁 끝나도 에너지 시장 정상화에 넉 달 걸려&quot;",
               "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1518267",
@@ -1479,27 +1443,6 @@
               "published_at": "2026-03-23T10:06:00+09:00",
               "description": "메르세데스 벤츠, 포드, 스텔란티스, 볼보도 전기차 전면 생산 목표를 수정했습니다. FT는 도널드 트럼프 미국 대통령 취임 이후 전기차 구매자에 대한 미국 연방 세제 혜택이 종료됐고 전기차 충전 기반 시설에 대한... ",
               "source_name": "biz.sbs.co.kr"
-            },
-            {
-              "title": "&quot;휘발유 엔진 '으르렁' 소리 포기 강요 못해&quot;...전기차 계획 줄줄이 축소",
-              "url": "http://www.yonhapnewstv.co.kr/AKR20260323094415Qs5",
-              "published_at": "2026-03-23T09:45:00+09:00",
-              "description": "메르세데스 벤츠, 포드, 스텔란티스, 볼보도 전기차 전면 생산 목표를 수정했습니다. 롤스로이스도 전략을 바꿔 2030년 이후에도 휘발유 엔진 차량을 계속 생산하겠다고 지난주 발표했습니다. 크리스 브라운리지... ",
-              "source_name": "yonhapnewstv.co.kr"
-            },
-            {
-              "title": "NH證 “삼성SDI, 하반기 흑자 전환 기대...목표가 49만 원으로 상향”[줍...",
-              "url": "https://www.sedaily.com/article/20022667?ref=naver",
-              "published_at": "2026-03-23T09:30:00+09:00",
-              "description": "삼성SDI와 스텔란티스의 북미 합작법인(JV) 스타플러스에너지(SPE)의 2·3 라인 가동 확대에 힘입어 올해 ESS 매출이 전년 대비 53% 증가할 것으로 내다봤다. 2026년 전체 출하량은 75기가와트시(GWh), 이 가운데 ESS... ",
-              "source_name": "sedaily.com"
-            },
-            {
-              "title": "포·람·페도 &quot;엔진 못 잃어&quot;…전세계 전기차 후퇴 비용 113조",
-              "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=02420646645386272",
-              "published_at": "2026-03-23T09:29:00+09:00",
-              "description": "벤츠, 포드, 스텔란티스, 볼보, 아우디, 포르쉐도 전기차 전면 생산 목표를 수정했다. 상당수 업체가 순수 전기차 대신 플러그인 하이브리드차 라인업을 강화하기로 했다. 롤스로이스도 최근 기존 전략을 바꿔 2030년... ",
-              "source_name": "edaily.co.kr"
             }
           ]
         },
@@ -1510,6 +1453,13 @@
         {
           "keyword": "푸조",
           "articles": [
+            {
+              "title": "도심형 콤팩트부터 7인승 여유까지",
+              "url": "https://www.mk.co.kr/article/11996375",
+              "published_at": "2026-03-24T09:23:00+09:00",
+              "description": "푸조, 올 뉴 5008 스마트 하이브리드 10년 만에 풀체인지된 실용주의 프렌치 감성 기획부터 설계, 디자인, 생산까지 모든 과정이 프랑스에서 시작돼 마무리됐다. ‘올 뉴 5008’이 국내 출시 차량 중 유일한 ‘리얼... ",
+              "source_name": "mk.co.kr"
+            },
             {
               "title": "잇몸병 무시하다 큰코 다친다… 식도·대장암 위험 높여",
               "url": "https://www.kmib.co.kr/article/view.asp?arcid=1774239392&code=14130000&cp=nv",
@@ -1522,6 +1472,97 @@
         {
           "keyword": "볼보",
           "articles": [
+            {
+              "title": "볼보자동차코리아, 순수 전기 플래그십 'EX90' 사전계약 진행",
+              "url": "http://www.paxetv.com/news/articleView.html?idxno=266499",
+              "published_at": "2026-03-24T09:38:00+09:00",
+              "description": "볼보자동차코리아, 순수 전기 플래그십 'EX90' [사진=볼보자동차코리아] 볼보자동차코리아가 형태와 기능, 그리고 기술적 혁신이 완벽한 조화를 이룬 차세대 순수 전기 플래그십 SUV 'EX90'의 사전 계약을... ",
+              "source_name": "paxetv.com"
+            },
+            {
+              "title": "볼보차코리아, ‘EX90’ 사전 계약...합리적 가격 주목",
+              "url": "http://autotimes.co.kr/detail.php?number=687046&thread=27",
+              "published_at": "2026-03-24T09:38:00+09:00",
+              "description": "-차세대 순수 전기 플래그십 SUV -PHEV 대비 약 1,000만 원 낮아 볼보차코리아가 차세대 순수 전기 플래그십 SUV EX90의 사전 계약을 진행한다고 24일 밝혔다. 새 차는 볼보차가 약 100년간 쌓아온 안전 헤리티지와 첨단... ",
+              "source_name": "autotimes.co.kr"
+            },
+            {
+              "title": "인도 중장비 및 기계산업, 인프라 투자 확대로 성장 모멘텀 지속",
+              "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=239929",
+              "published_at": "2026-03-24T09:37:00+09:00",
+              "description": "JCB, 타타 히타치, 캐터필러, 볼보 등이 주요 공급업체로 활동하고 있다. 자재 운반 장비는 크레인, 지게차... 볼보 건설장비는 2002년 현지 진출 이후 벵갈루루에 제조 공장을 운영하고 있으며, 굴삭기, 휠 로더... ",
+              "source_name": "dream.kotra.or.kr"
+            },
+            {
+              "title": "볼보, 'EX90' 사전 계약 실시…합리적 가격, 전동화 전략 가속",
+              "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=03060246645386600",
+              "published_at": "2026-03-24T09:37:00+09:00",
+              "description": "볼보자동차코리아가 형태와 기능, 기술적 혁신이 완벽한 조화를 이룬 차세대 순수 전기 플래그십 SUV ‘EX90’의 사전 계약을 실시한다. EX90은 볼보자동차가 약 100년간 쌓아온 안전 헤리티지와 첨단 기술을... ",
+              "source_name": "edaily.co.kr"
+            },
+            {
+              "title": "볼보 전기 SUV 'EX90' 24일부터 사전계약… &quot;XC90 T8보다 1000만원 ↓&quot;",
+              "url": "https://news.tf.co.kr/read/economy/2305460.htm",
+              "published_at": "2026-03-24T09:35:00+09:00",
+              "description": "볼보의 차세대 순수 전기 플래그십 SUV 모델 글로벌 경쟁력 고려한 전략적 가격 포지셔닝 볼보자동차코리아는 차세대 순수 전기 플래그십 SUV 'EX90'의 사전 계약을 실시한다고 24일 밝혔다. EX90의 사전 계약은... ",
+              "source_name": "tf.co.kr"
+            },
+            {
+              "title": "볼보코리아, ‘EX90’ 사전 계약 실시⋯ PHEV 모델 대비 1000만원 가격 인...",
+              "url": "https://www.viva100.com/article/20260324500242",
+              "published_at": "2026-03-24T09:32:00+09:00",
+              "description": "볼보자동차코리아(볼보코리아)가 차세대 순수 전기 플래그십 SUV EX90의 사전 계약을 실시한다고 24일 밝혔다. 볼보코리아는 국내에 판매되는 EX90의 시작가는 XC90 T8(PHEV) 대비 약 1000만 원 낮은 합리적인 수준으로... ",
+              "source_name": "viva100.com"
+            },
+            {
+              "title": "볼보코리아, ‘플래그십 전기차’ EX90 사전 계약…내달 1일 가격 공개",
+              "url": "https://www.sportsseoul.com/news/read/1596483?ref=naver",
+              "published_at": "2026-03-24T09:28:00+09:00",
+              "description": "볼보 플래그십 전기 SUV EX90. 사진 | 볼보코리아 볼보자동차코리아가 24일부터 ‘플래그십 전기차’ 스포츠유틸리티차량(SUV) EX90의 사전 계약을 진행한다. 볼보는 EX90를 통해 지난 100년간 쌓아 온 ‘안전’과... ",
+              "source_name": "sportsseoul.com"
+            },
+            {
+              "title": "볼보자동차코리아, 'EX90' 사전계약 실시",
+              "url": "http://www.press9.kr/news/articleView.html?idxno=73936",
+              "published_at": "2026-03-24T09:26:00+09:00",
+              "description": "볼보자동차코리아(대표 이윤모)가 형태와 기능, 그리고 기술적 혁신이 완벽한 조화를 이룬 차세대 순수 전기 플래그십 SUV, EX90의 사전 계약을 실시한다. EX90은 볼보자동차가 약 100년간 쌓아온 안전... ",
+              "source_name": "press9.kr"
+            },
+            {
+              "title": "PHEV보다 싼 &quot;1억 초반&quot;… 볼보 EX90 사전계약 돌입",
+              "url": "https://www.wikitree.co.kr/articles/1127185",
+              "published_at": "2026-03-24T09:24:00+09:00",
+              "description": "볼보자동차코리아가 순수 전기 플래그십 SUV인 EX90의 사전 계약을 24일부터 실시한다고 밝혔다. 출시 차량의 세부 정보 및 가격은 오는 4월 1일 공개 예정이지만, 볼보자동차코리아에 따르면 플러그인 하이브리드... ",
+              "source_name": "wikitree.co.kr"
+            },
+            {
+              "title": "볼보자동차, 순수 전기 SUV 'EX90' 사전 계약 시작",
+              "url": "https://www.ajunews.com/view/20260324091827046",
+              "published_at": "2026-03-24T09:24:00+09:00",
+              "description": "안전성 강화한 모델…합리적인 가격, 4월 국내 출시 아주경제=김수지 기자 sujiq@ajunews.com 볼보자동차코리아의 차세대 순수 전기 플래그십 스포츠유틸리티차(SUV) ‘EX90’ [사진=볼보] 볼보자동차코리아는 24일... ",
+              "source_name": "ajunews.com"
+            },
+            {
+              "title": "볼보자동차코리아, ‘EX90’ 사전 계약 실시…PHEV 대비 1000만원↓",
+              "url": "https://biz.heraldcorp.com/article/10701066?ref=naver",
+              "published_at": "2026-03-24T09:21:00+09:00",
+              "description": "[볼보자동차코리아 제공] [헤럴드경제=권제인 기자] 볼보자동차코리아가 차세대 순수 전기 플래그십 스포츠유틸리티차(SUV) EX90의 사전 계약을 실시한다고 24일 밝혔다. EX90은 볼보자동차가 약 100년간 쌓아온 안전... ",
+              "source_name": "biz.heraldcorp.com"
+            },
+            {
+              "title": "&quot;역시 볼보다운 결정&quot; 파격적 가격 내세운 볼보 EX90, 사전 계약 시작",
+              "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=542611",
+              "published_at": "2026-03-24T09:16:00+09:00",
+              "description": "볼보자동차코리아가 차세대 플래그십 전기 SUV EX90의 사전 계약에 돌입했다. 전동화 시대를 겨냥한 핵심 모델로, 안전과 기술을 중심으로 한 브랜드 방향성이 집약된 차량이다. EX90은 볼보가 오랜 기간 구축해온 안전... ",
+              "source_name": "autodaily.co.kr"
+            },
+            {
+              "title": "볼보 'EX90' 사전계약 시작…XC90 대비 1000만원 낮춰",
+              "url": "https://view.asiae.co.kr/article/2026032409104259028",
+              "published_at": "2026-03-24T09:10:00+09:00",
+              "description": "볼보자동차코리아는 차세대 순수 전기 플래그십 스포츠유틸리티차(SUV) 'EX90'의 사전 계약을 실시한다고 24일 밝혔다. EX90은 볼보자동차가 약 100년간 쌓아온 안전 헤리티지와 첨단 기술을 집약한 모델로, '충돌... ",
+              "source_name": "asiae.co.kr"
+            },
             {
               "title": "볼보, 순수 전기 플래그십 'EX90' 사전계약 개시",
               "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3058735",
@@ -1570,103 +1611,75 @@
               "published_at": "2026-03-23T17:42:00+09:00",
               "description": "사진=볼보차  볼보자동차는 S&amp;P 글로벌 모빌리티가 실시한 자동차 제조업체 소프트웨어 정의 역량 평가에서 최고 등급인 '레벨 5 SDV'를 획득했다고 23일 밝혔다. 회사 측은 &quot;이번 인증을 통해 볼보차는 차량의 수명 주기... ",
               "source_name": "weekly.hankooki.com"
-            },
-            {
-              "title": "볼보자동차, S&amp;P 글로벌 모빌리티 평가서 '레벨 5 SDV'",
-              "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=439229",
-              "published_at": "2026-03-23T17:38:00+09:00",
-              "description": "볼보자동차 준대형 전기 SUV 'EX90'. 사진=볼보차코리아 제공. 볼보자동차가 S&amp;P 글로벌 모빌리티의 소프트웨어 정의 차량(SDV) 평가에서 '레벨 5'를 받았다고 23일 밝혔다. S&amp;P 글로벌의 계열사인 S&amp;P 글로벌 모빌리티가... ",
-              "source_name": "pinpointnews.co.kr"
-            },
-            {
-              "title": "&quot;車업계 최초&quot;… 볼보자동차, S&amp;P 글로벌 모빌리티 평가 '레벨 5 SDV' 획득",
-              "url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/03/23/2026032380196.html",
-              "published_at": "2026-03-23T16:58:00+09:00",
-              "description": "성열휘 기자 | 볼보자동차가 글로벌 3대 신용평가사 S&amp;P 글로벌의 계열사인 S&amp;P 글로벌 모빌리티가 실시한... 전 세계 자동차 제조업체 중 해당 등급을 획득한 것은 볼보자동차가 유일하다. 이번 인증을 통해... ",
-              "source_name": "digitalchosun.dizzo.com"
-            },
-            {
-              "title": "볼보, S&amp;P 글로벌 모빌리티 평가서 최고 등급 획득...휴긴 코어 기반 SDV...",
-              "url": "http://www.sisacast.kr/news/articleView.html?idxno=93914",
-              "published_at": "2026-03-23T16:42:00+09:00",
-              "description": "볼보자동차가 S&amp;P 글로벌 모빌리티 평가에서 최고 등급인 '레벨 5 SDV'를 획득했다. 사진=볼보자동차 볼보자동차는 S&amp;P 글로벌 모빌리티의 소프트웨어 정의 역량 평가에서 최고 등급인 '레벨 5 SDV'를 획득했다고 23일... ",
-              "source_name": "sisacast.kr"
-            },
-            {
-              "title": "내연기관 '원복'에, 전기차업계 '110조원' 날렸다",
-              "url": "http://www.seoulwire.com/news/articleView.html?idxno=712732",
-              "published_at": "2026-03-23T16:30:00+09:00",
-              "description": "메르세데스-벤츠, 포드, 스텔란티스, 볼보도 전기차로 완전히 전환하겠다고 선언한 바 있지만 이 목표를 잇따라 수정했다. 지난주에는 최고급 브랜드인 롤스로이스가 당초 2030년까지 전기차 위주로 모델 라인업을... ",
-              "source_name": "seoulwire.com"
-            },
-            {
-              "title": "[Car &amp; Now] 현대차·기아, 삼성전자와 '카투홈' 서비스 개시 등",
-              "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1703133",
-              "published_at": "2026-03-23T16:28:00+09:00",
-              "description": "◆볼보자동차, S&amp;P 글로벌 모빌리티 평가서 '레벨 5 SDV' 획득 볼보자동차가 글로벌 3대 신용평가사 'S&amp;P 글로벌' 계열사 'S&amp;P 글로벌 모빌리티'가 실시한 자동차 제조업체 소프트웨어 정의 역량 평가에서 최고... ",
-              "source_name": "ebn.co.kr"
-            },
-            {
-              "title": "볼보, S&amp;P ‘레벨 5 SDV’ 획득…글로벌 유일 소프트웨어 경쟁력 입증",
-              "url": "https://www.thedrive.co.kr/news/newsview.php?ncode=1065597297605277",
-              "published_at": "2026-03-23T16:18:00+09:00",
-              "description": "▲ 볼보자동차, S&amp;P 글로벌 모빌리티 평가에서 최고 등급인 ‘레벨 5 SDV’ 획득 볼보자동차가 ‘소프트웨어 정의 자동차(SDV)’ 분야에서 글로벌 최고 수준의 기술력을 인정받았다. 볼보자동차는 S&amp;P 글로벌 모빌리티가... ",
-              "source_name": "thedrive.co.kr"
-            },
-            {
-              "title": "볼보, 소프트웨어 중심차 평가서 최고 등급",
-              "url": "https://it.chosun.com/news/articleView.html?idxno=2023092159054",
-              "published_at": "2026-03-23T16:16:00+09:00",
-              "description": "볼보자동차가 소프트웨어 역량 평가에서 최고 등급을 획득했다. 볼보자동차는 23일 S&amp;P 글로벌 모빌리티가 실시한 자동차 제조업체 소프트웨어 정의 차량(SDV) 역량 평가에서 최고 등급인 '레벨 5'를 획득했다고... ",
-              "source_name": "it.chosun.com"
-            },
-            {
-              "title": "코오롱, 첨단소재·바이오·수소탱크…고부가 신산업에 투자 확대",
-              "url": "https://www.mk.co.kr/article/11995701",
-              "published_at": "2026-03-23T16:15:00+09:00",
-              "description": "BMW, 볼보, 미니 등 핵심 딜러십과 롤스로이스, 폴스타, 로터스 등 신규 브랜드의 유통권을 바탕으로 전국 100여 개의 네트워크를 운영 중이다. 지난해 가을 론칭한 프리미엄 수입 중고차 온라인 플랫폼 '702 코오롱... ",
-              "source_name": "mk.co.kr"
-            },
-            {
-              "title": "볼보, S&amp;P 글로벌 모빌리티 평가에서 최고 등급 획득",
-              "url": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005795071",
-              "published_at": "2026-03-23T16:10:00+09:00",
-              "description": "볼보자동차가 글로벌 3대 신용평가사 S&amp;P 글로벌(S&amp;P Global)의 계열사인 S&amp;P 글로벌 모빌리티(S&amp;P Global... 전 세계 자동차 제조업체 중 해당 등급을 획득한 것은 볼보자동차가 유일합니다. 볼보자동차는 무선... ",
-              "source_name": "mbnmoney.mbn.co.kr"
-            },
-            {
-              "title": "볼보자동차, S&amp;P 글로벌 모빌리티 평가에서 최고 등급인 '레벨 5 SDV' 획득",
-              "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2409405",
-              "published_at": "2026-03-23T16:07:00+09:00",
-              "description": "볼보자동차는 S&amp;P 글로벌 모빌리티(S&amp;P Global Mobility)가 실시한 자동차 제조업체 소프트웨어 정의 역량... 이번 인증을 통해 볼보자동차는 차량의 수명 주기 전반에 걸쳐 거의 모든 기능을 개선하고 고객에게 더... ",
-              "source_name": "enewstoday.co.kr"
-            },
-            {
-              "title": "볼보차, SDV 역량 평가서 최고 등급 '레벨 5' 획득…車업계 유일",
-              "url": "https://www.gpkorea.com/news/articleView.html?idxno=141123",
-              "published_at": "2026-03-23T16:00:00+09:00",
-              "description": "볼보자동차가 소프트웨어 정의 자동차(SDV) 분야에서 글로벌 최고 수준의 기술력을 입증했다. 볼보자동차는 S&amp;P 글로벌의 계열사인 S&amp;P 글로벌 모빌리티가 실시한 자동차 제조업체 소프트웨어 정의 역량 평가에서 최고... ",
-              "source_name": "gpkorea.com"
-            },
-            {
-              "title": "볼보, 바퀴달린 컴퓨터시대 주도… ‘글로벌 소프트웨어’ 평가서 1위",
-              "url": "https://www.donga.com/news/Economy/article/all/20260323/133587145/1",
-              "published_at": "2026-03-23T15:46:00+09:00",
-              "description": "볼보자동차가 세계적 권위의 신용평가 기관으로부터 소프트웨어 역량을 인정받으며 업계 선두 주자로 우뚝... 볼보는 무선 소프트웨어 갱신(OTA) 기술을 적극 활용해 안전 사양을 보강하고 조작 편의성을 높이는 것은 물론... ",
-              "source_name": "donga.com"
-            },
-            {
-              "title": "볼보자동차, SDV 최고 레벨5 인증…소프트웨어 경쟁력 입증",
-              "url": "https://www.newspim.com/news/view/20260323000911",
-              "published_at": "2026-03-23T15:40:00+09:00",
-              "description": "볼보자동차는 글로벌 3대 신용평가사 S&amp;P 글로벌(S&amp;P Global)의 계열사인 S&amp;P 글로벌 모빌리티(S&amp;P Global... 전 세계 자동차 제조업체 중 해당 등급을 획득한 것은 볼보자동차가 유일하다. 볼보 EX90 [사진= 볼보자동차... ",
-              "source_name": "newspim.com"
             }
           ]
         },
         {
           "keyword": "토요타",
           "articles": [
+            {
+              "title": "7메달 역대 최고 동계패럴림픽 대표팀···삼성·현대·LG 등 글로벌 기...",
+              "url": "https://www.globale.co.kr/news/articleView.html?idxno=37089",
+              "published_at": "2026-03-24T09:46:00+09:00",
+              "description": "한국토요타는 이번 대회를 앞두고 대한장애인체육회에 1억 원을 후원했다. 한국토요타의 후원은 2017년 대한장애인탁구협회를 시작으로 2023년 대한장애인체육회와 업무협약을 맺으며 범위를 넓혔다. 프로스펙스는 이번... ",
+              "source_name": "globale.co.kr"
+            },
+            {
+              "title": "한국토요타, 25년째 암환자 지원...누적 10억원 넘어",
+              "url": "http://autotimes.co.kr/detail.php?number=687047&thread=27",
+              "published_at": "2026-03-24T09:42:00+09:00",
+              "description": "한국토요타가 소아·청소년 및 취약계층 암 환자 치료 지원을 위해 지난 3월23일 국립암센터에 기부금 8,000만 원을 전달했다고 24일 밝혔다. 이날 전달식에는 이병진 한국토요타자동차 부사장과 국립암센터 양한광 원장 등... ",
+              "source_name": "autotimes.co.kr"
+            },
+            {
+              "title": "토요타, 美공장에 10억달러 투자...신형 EV·HV 생산",
+              "url": "https://www.newspim.com/news/view/20260324000281",
+              "published_at": "2026-03-24T09:40:00+09:00",
+              "description": "토요타자동차가 23일, 미국 켄터키주와 인디애나주 공장에 총 10억 달러(약 1조5000억 원)를 투자한다고... 앞서 토요타는 미국 내 5개 공장에 약 9억1200만 달러를 투자해 차세대 하이브리드 엔진 생산을 늘리는 계획도... ",
+              "source_name": "newspim.com"
+            },
+            {
+              "title": "현대차-GM 픽업 동맹, 양사에 윈윈 결과 나을까?",
+              "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=252696",
+              "published_at": "2026-03-24T09:40:00+09:00",
+              "description": "현대가 개발 중인 중형 픽업은 토요타 타코마와 포드 레인저의 경쟁 모델이 될 것으로 예측된다. 호세 무뇨스 현대차 CEO는 포드 브롱코나 토요타 4러너와 경쟁하기 위해 개발 중인 픽업 기반의 SUV를 추가할 수도 있음을... ",
+              "source_name": "financialpost.co.kr"
+            },
+            {
+              "title": "[게시판] 한국토요타자동차, 25년째 국립암센터 암환자 지원",
+              "url": "https://www.yna.co.kr/view/AKR20260324046300003?input=1195m",
+              "published_at": "2026-03-24T09:32:00+09:00",
+              "description": "▲ 한국토요타자동차는 소아·청소년 및 취약계층 암 환자 치료 지원을 위해 지난 23일 국립암센터에 기부금... 한국토요타자동차는 2001년부터 국립암센터와 함께 소아암 환자의 학습 환경 조성과 의료비 지원을... ",
+              "source_name": "yna.co.kr"
+            },
+            {
+              "title": "쿠팡플레이, F1 일본 그랑프리 전 세션 4K 생중계",
+              "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=02988086645386600",
+              "published_at": "2026-03-24T09:29:00+09:00",
+              "description": "윤재수 해설위원은 “이번 대회는 하스의 타이틀 스폰서 토요타 가주 레이싱과 애스턴마틴의 파워유닛 공급사 혼다의 홈 그랑프리”라며 “메르세데스의 3연승 도전과 함께 공격적 업데이트를 준비한 페라리의 반격... ",
+              "source_name": "edaily.co.kr"
+            },
+            {
+              "title": "한국토요타자동차, 국립암센터와 25년 동행…누적 10억4000만원 후원",
+              "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065572726095134",
+              "published_at": "2026-03-24T09:26:00+09:00",
+              "description": "한국토요타자동차가 소아·청소년 및 취약계층 암 환자 지원을 이어가고 있다고 24일 밝혔다. 2001년부터 지속된 사회공헌 활동을 통해 누적 기부금은 약 10억4천만 원에 달한다. 한국토요타자동차는 지난 23일 국립암센터에... ",
+              "source_name": "megaeconomy.co.kr"
+            },
+            {
+              "title": "한국토요타, 25년째 국립암센터 암환자 지원…누적 후원금 10억",
+              "url": "https://view.asiae.co.kr/article/2026032409165123174",
+              "published_at": "2026-03-24T09:16:00+09:00",
+              "description": "한국토요타자동차는 소아·청소년 및 취약계층 암 환자 치료 지원을 위해 국립암센터에 기부금 8000만원을 전달했다고 24일 밝혔다. 이병진 한국토요타자동차 부사장과 국립암센터 양한광 원장 등 주요 관계자들이 23일... ",
+              "source_name": "asiae.co.kr"
+            },
+            {
+              "title": "쿠팡플레이, 'F1 2026 일본 그랑프리' 4K 전 세션 생중계",
+              "url": "https://www.topstarnews.net/news/articleView.html?idxno=16014612",
+              "published_at": "2026-03-24T09:12:00+09:00",
+              "description": "윤재수 해설위원은 &quot;이번 대회는 하스의 타이틀 스폰서이자 기술 파트너 토요타 가주 레이싱(TGR)과 애스턴마틴의 파워유닛 공급자 혼다의 홈 그랑프리로, 최적의 셋업을 찾기 위한 팀들의 경쟁이 예상된다&quot;라며... ",
+              "source_name": "topstarnews.net"
+            },
             {
               "title": "한국토요타, 국립암센터에 8000만원 기부…25년째 사회공헌",
               "url": "https://www.m-i.kr/news/articleView.html?idxno=1357084",
@@ -1743,69 +1756,6 @@
               "published_at": "2026-03-24T06:06:00+09:00",
               "description": "특히 현대자동차그룹, 토요타 등 글로벌 OEM과 삼성SDI, SK온, LG엔솔, CATL, 파나소닉 등 글로벌 배터리 소재 업체 경영진들의 방문도 있었다. 마지막으로 K-배터리 산업이 성장하기 위해서는 핵심 인력 양성이 필요하다.... ",
               "source_name": "viva100.com"
-            },
-            {
-              "title": "토요타, 美 켄터키·인디애나에 10억달러 투…배터리 공장도 병행 추진",
-              "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1703156",
-              "published_at": "2026-03-24T04:30:00+09:00",
-              "description": "토요타가 미국 켄터키와 인디애나 생산시설에 총 10억달러를 투자한다. 전기차와 하이브리드 차량 생산 확대를 통해 미국 시장 내 현지화 전략을 강화하기 위한 조치다. 23일(현지시간) 토요타는 켄터키 공장에... ",
-              "source_name": "ebn.co.kr"
-            },
-            {
-              "title": "노스리지 토요타 딜러십 화재…차량 8대 전소",
-              "url": "https://www.radiokorea.com/news/article.php?uid=491952",
-              "published_at": "2026-03-23T21:50:00+09:00",
-              "description": "어제(22일) 새벽 노스리지에 있는 한 토요타 딜러십에서 불이 나 차량 8대가 전소됐다. 소방 당국은 이번... 위치한 토요타 딜러십에서 발생했다. 현장에 출동한 소방대원들은 딜러십 야외 주차장에 세워진 차량들과 인근... ",
-              "source_name": "radiokorea.com"
-            },
-            {
-              "title": "고유가에 하이브리드 수요 확대…현대차·기아, 누적 500만대 판매",
-              "url": "https://www.news1.kr/industry/auto-industry/6111168",
-              "published_at": "2026-03-23T19:04:00+09:00",
-              "description": "HEV 500만대 판매를 기록한 브랜드는 토요타를 제외하면 현대차·기아가 유일하다. 토요타는 지난 1997년 말 첫 양산형 HEV 프리우스를 출시한 이후 15년 만인 2013년 초 판매량 500만 대를 달성했다.... ",
-              "source_name": "news1.kr"
-            },
-            {
-              "title": "'국내 최초 드라이버 매니지먼트 출범'...MIK, 이정우 1호 영입하며 파격...",
-              "url": "https://www.ppss.kr/news/articleView.html?idxno=289247",
-              "published_at": "2026-03-23T16:35:00+09:00",
-              "description": "슈퍼레이스 토요타 가주 레이싱 6000 클래스에서 오네 레이싱 소속으로 드라이버 랭킹 3위에 오르며 경쟁력을 입증했다. 이번 시즌 이정우는 금호 SLM 소속으로 슈퍼레이스 토요타 가주 레이싱 6000 클래스와 현대 N... ",
-              "source_name": "ppss.kr"
-            },
-            {
-              "title": "‘통산 3만 2294점’ 조던 넘어선 듀란트 “조던은 농구 그 자체보다 더...",
-              "url": "https://m.sports.naver.com/basketball/article/065/0000294889",
-              "published_at": "2026-03-23T14:23:00+09:00",
-              "description": "22일(한국시간) 미국 텍사스주 휴스턴의 토요타 센터에서 열린 NBA 2025-2026시즌 정규리그 휴스턴 로케츠와 마이애미 히트의 맞대결. 케빈 듀란트가 NBA 역대 통산 득점 5위에 등극했다. 이날 경기 전까지 듀란트는 통산... ",
-              "source_name": "sports.naver.com"
-            },
-            {
-              "title": "&quot;드라이버 1호 영입&quot; MIK, 이정우와 매니지먼트 계약",
-              "url": "https://www.topstarnews.net/news/articleView.html?idxno=16013761",
-              "published_at": "2026-03-23T13:50:00+09:00",
-              "description": "같은 시기 이정우는 슈퍼레이스 토요타 가주 레이싱 6000 클래스에서 오네 레이싱 소속으로 출전해 지난... 슈퍼레이스에서는 금호 SLM으로 복귀해 토요타 가주 레이싱 6000 클래스와 현대 N 페스티벌 eN1 클래스에서... ",
-              "source_name": "topstarnews.net"
-            },
-            {
-              "title": "MIK, 드라이버 매니지먼트 사업 첫 진출…이정우 '1호 영입'",
-              "url": "https://www.yna.co.kr/view/AKR20260323090800007?input=1195m",
-              "published_at": "2026-03-23T13:35:00+09:00",
-              "description": "슈퍼레이스 토요타 가주 레이싱 6000 클래스에서 오네 레이싱 소속으로 드라이버 랭킹 3위에 올랐다. 이정우는 이번 시즌 슈퍼레이스에선 금호 SLM으로 복귀해 토요타 가주 레이싱 6000 클래스와 현대 N 페스티벌 eN1... ",
-              "source_name": "yna.co.kr"
-            },
-            {
-              "title": "신흥타이어 강웅 대표 “‘K-타이어로 세계 카트 타이어시장 석권하겠다...",
-              "url": "https://biz.heraldcorp.com/article/10700488?ref=naver",
-              "published_at": "2026-03-23T13:18:00+09:00",
-              "description": "신흥은 지난해 10월 일본의 최대 자동차 메이커인 토요타의 GR 카트에 오피셜 타이어 공급 계약을 맺었다.... 레이서 출신 답게 카트 타이어에 대한 기술적인 조언을 하고 있으며 다양한 국제적 인맥을 바탕으로 토요타의... ",
-              "source_name": "biz.heraldcorp.com"
-            },
-            {
-              "title": "현대자동차-쉐보레, 중형 하이브리드 픽업트럭 공동 개발…2028년 출시 ...",
-              "url": "https://www.thedrive.co.kr/news/newsview.php?ncode=1065584714718681",
-              "published_at": "2026-03-23T12:48:00+09:00",
-              "description": "▲ 타코마 &lt;출처=토요타&gt; 플랫폼은 공유하지만 디자인은 브랜드별로 차별화된다. 외관과 실내 모두 각각 개성을 살릴 예정이며, 현대자동차는 탈착식 루프 등 새로운 요소를 적용할 가능성도 있다. 출시 이후엔 토요타... ",
-              "source_name": "thedrive.co.kr"
             }
           ]
         },
@@ -1873,6 +1823,55 @@
         {
           "keyword": "혼다",
           "articles": [
+            {
+              "title": "'11년 만의 귀환' 김효주, 코르다도 막지 못한 우승…세계랭킹 4위 복귀",
+              "url": "http://www.maniareport.com/view.php?ud=2026032409162027636cf2d78c68_19",
+              "published_at": "2026-03-24T09:45:00+09:00",
+              "description": "올 시즌 김효주는 혼다 타일랜드 단독 3위로 출발해 세 번째 출전 대회인 포티넷 파운더스컵에서 시즌 첫 승을 거뒀다. 국내 선수들 중에는 이번 대회 공동 3위 김세영이 한 계단 오른 9위, 유해란 13위, 최혜진 15위를... ",
+              "source_name": "maniareport.com"
+            },
+            {
+              "title": "&quot;통산 3승 재도전&quot; 임성재, PGA 휴스턴 오픈 출격",
+              "url": "https://www.topstarnews.net/news/articleView.html?idxno=16014653",
+              "published_at": "2026-03-24T09:36:00+09:00",
+              "description": "2020년 혼다 클래식, 2021년 슈라이너스 칠드런스오픈 우승으로 증명한 정상급 경쟁력을 다시 보여줬다. 연합뉴스 보도에 따르면 임성재는 2020년 3월 혼다 클래식에서 PGA 투어 첫 승을 거뒀고, 2021년 10월 슈라이너스... ",
+              "source_name": "topstarnews.net"
+            },
+            {
+              "title": "쿠팡플레이, F1 일본 그랑프리 전 세션 4K 생중계",
+              "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=02988086645386600",
+              "published_at": "2026-03-24T09:29:00+09:00",
+              "description": "윤재수 해설위원은 “이번 대회는 하스의 타이틀 스폰서 토요타 가주 레이싱과 애스턴마틴의 파워유닛 공급사 혼다의 홈 그랑프리”라며 “메르세데스의 3연승 도전과 함께 공격적 업데이트를 준비한 페라리의 반격... ",
+              "source_name": "edaily.co.kr"
+            },
+            {
+              "title": "임성재, 다시 한번 우승 도전…PGA 투어 휴스턴 오픈 출격",
+              "url": "https://www.yna.co.kr/view/AKR20260324041300007?input=1195m",
+              "published_at": "2026-03-24T09:22:00+09:00",
+              "description": "2020년 3월 혼다 클래식에서 첫 우승, 2021년 10월 슈라이너스 칠드런스오픈에서 두 번째 우승을 차지한 임성재는 최근 열린 발스파 챔피언십 3라운드까지 2위에 2타 앞선 단독 선두를 달리며 통산 3승을 눈앞에 뒀다.... ",
+              "source_name": "yna.co.kr"
+            },
+            {
+              "title": "11년 만에 돌아온 트로피, 11년 만에 되찾은 '세계 4위' 김효주",
+              "url": "https://isplus.com/article/view/isp202603240028",
+              "published_at": "2026-03-24T09:16:00+09:00",
+              "description": "올 시즌에도 첫 출전 대회인 LPGA 투어 혼다 타일랜드에서 단독 3위를 차지한 데 이어 세 번째 출전 대회인 파운더스컵에서 우승하며 쾌조의 컨디션을 다랑했다. 한편, 이번 대회에서 공동 3위에 오른 김세영은... ",
+              "source_name": "isplus.com"
+            },
+            {
+              "title": "쿠팡플레이, 'F1 2026 일본 그랑프리' 4K 전 세션 생중계",
+              "url": "https://www.topstarnews.net/news/articleView.html?idxno=16014612",
+              "published_at": "2026-03-24T09:12:00+09:00",
+              "description": "윤재수 해설위원은 &quot;이번 대회는 하스의 타이틀 스폰서이자 기술 파트너 토요타 가주 레이싱(TGR)과 애스턴마틴의 파워유닛 공급자 혼다의 홈 그랑프리로, 최적의 셋업을 찾기 위한 팀들의 경쟁이 예상된다&quot;라며... ",
+              "source_name": "topstarnews.net"
+            },
+            {
+              "title": "LPGA 김효주, 파운더스컵 우승으로 세계랭킹 4위 안착",
+              "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000027520",
+              "published_at": "2026-03-24T09:11:00+09:00",
+              "description": "올 시즌에도 첫 출전 대회인 LPGA 투어 혼다 타일랜드에서 단독 3위를 차지한 데 이어 세 번째 출전 대회인 포티넷 파운더스컵에서 시즌 첫 승을 거뒀다. 그는 최종 합계 16언더파 272타로 넬리 코르다(미국)를 한 타... ",
+              "source_name": "jnilbo.com"
+            },
             {
               "title": "'파운더스컵 우승' 김효주, 여자 골프 세계랭킹 4위로 점프",
               "url": "https://www.hankookilbo.com/news/article/A2026032409050003909?did=NA",
@@ -1963,61 +1962,47 @@
               "published_at": "2026-03-23T20:24:00+09:00",
               "description": "특히 BYD와 지리그룹의 신차 판매량은 모두 혼다와 닛산을 넘어섰다. EU의 정책 변화는 중국 업체에 부담으로 작용할 전망이다. 중국 내수 시장이 포화 상태에 가까워진 데다 정부의 전기차 보조금도 축소되고 있기... ",
               "source_name": "it.chosun.com"
-            },
-            {
-              "title": "전기차 전환 '주춤'…정책 변수에 완성차업계 '숨고르기'",
-              "url": "https://www.asiatoday.co.kr/view.php?key=20260323010006890",
-              "published_at": "2026-03-23T18:54:00+09:00",
-              "description": "혼다·포드·벤츠 등 최소 12곳 EV 계획 조정…전략 수정 비용 110조원 EU 규제 완화·미국 정책 변화 영향... 대표적인 사례는 '혼다'다. 2040년까지 내연기관 차량 생산을 중단하겠다는 기존 계획을 사실상 철회하고 전동화... ",
-              "source_name": "asiatoday.co.kr"
-            },
-            {
-              "title": "[손성진 칼럼] 중국의 습격",
-              "url": "http://www.fnnews.com/news/202603231851282804",
-              "published_at": "2026-03-23T18:53:00+09:00",
-              "description": "중국 BYD와 지리그룹의 신차 판매량은 도요타에는 뒤지지만 혼다와 닛산을 넘어섰다. 조선은 이미 한국을 물리치고 세계 1위를 굳힌 지 오래다. 조선업의 3대 지표로 볼 때 중국은 16년 연속 세계 1위를 지키고 있다. 선박... ",
-              "source_name": "fnnews.com"
-            },
-            {
-              "title": "中 자동차, 첫 세계 판매 1위…25년 만에 日 추월",
-              "url": "https://www.sentv.co.kr/article/view/sentv202603230153",
-              "published_at": "2026-03-23T18:10:00+09:00",
-              "description": "비야디와 지리그룹이 각각 6위, 8위로 순위를 끌어올리며 9위 혼다, 10위 스즈키 같은 일본 업체들을 앞질렀습니다. 반면 닛산은 20년 만에 10위권 밖으로 밀려났습니다. 이번 순위 역전은 한두 개 기업의 약진만으론... ",
-              "source_name": "sentv.co.kr"
-            },
-            {
-              "title": "LG엔솔, 북미 ESS 생산 거점 5곳으로 확대⋯주도권 확보 ‘속도’",
-              "url": "https://www.viva100.com/article/20260323501455",
-              "published_at": "2026-03-23T17:30:00+09:00",
-              "description": "오하이오 혼다 합작공장 등 총 5개의 ESS 생산 네트워크를 확보하게 됐다. 미시간 홀랜드 공장은 지난해... 오하이오에 위치한 혼다와의 합작법인 L-H Battery Company에서도 EV 배터리 생산라인 일부를 ESS 생산라인으로... ",
-              "source_name": "viva100.com"
-            },
-            {
-              "title": "'한국 5vs5 일본' 손흥민·차범근·박지성·홍명보·김민재 포함!...아시...",
-              "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=805136",
-              "published_at": "2026-03-23T16:36:00+09:00",
-              "description": "포메이션으로 구분하자면 최전방 3명은 손흥민, 차범근, 혼다 다이스케가 구성했다. 손흥민은 아시아를 넘어 전 세계 축구 레전드 중 한 명으로 꼽힌다. 전성기 시절 토트넘 훗스퍼에서만 454경기 173골 101도움을 올린... ",
-              "source_name": "spotvnews.co.kr"
-            },
-            {
-              "title": "내연기관 '원복'에, 전기차업계 '110조원' 날렸다",
-              "url": "http://www.seoulwire.com/news/articleView.html?idxno=712732",
-              "published_at": "2026-03-23T16:30:00+09:00",
-              "description": "먼저 일본 혼다는 지난 12일 오는 2040년부터 전기차와 연료전지차만 판매한다는 전기차 전략을 완전히 포기했다. 이로 인해 혼다는 지난해 일본 증시 상장 이래 최초로 적자 전환했다. 혼다는 &quot;앞으로 2년간 대규모... ",
-              "source_name": "seoulwire.com"
-            },
-            {
-              "title": "LG엔솔, 차별화된 기술력으로 미래 배터리 시장 선도한다",
-              "url": "https://www.news1.kr/industry/general-industry/6110841",
-              "published_at": "2026-03-23T16:02:00+09:00",
-              "description": "LG에너지솔루션은 미시간 홀랜드, 미시간 랜싱 공장, 캐나다 넥스트스타 에너지는 물론 얼티엄셀즈 테네시 공장, 오하이오 혼다 합작공장 등 북미에만 ESS 생산 거점 5곳을 확보하며 생산 역량을 한층 강화했다. 실제... ",
-              "source_name": "news1.kr"
             }
           ]
         },
         {
           "keyword": "포드",
           "articles": [
+            {
+              "title": "'파운더스컵 우승' 김효주, 세계랭킹 4위 도약…韓 선수 최고 순위",
+              "url": "http://www.stoo.com/article.php?aid=105721724783",
+              "published_at": "2026-03-24T09:44:00+09:00",
+              "description": "이로써 김효주는 지난해 3월 포드 챔피언십 이후 1년 만에 LPGA 투어 통산 8승을 달성했다. 아울러 김효주는 1-4라운드 내내 선두를 지키며 와이어 투 와이어 우승으로 시즌 첫 승을 수확했다. 한편 이 대회에서 공동... ",
+              "source_name": "stoo.com"
+            },
+            {
+              "title": "현대차-GM 픽업 동맹, 양사에 윈윈 결과 나을까?",
+              "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=252696",
+              "published_at": "2026-03-24T09:40:00+09:00",
+              "description": "싼타크루즈의 경쟁차인 포드 매버릭은 가장 작은 블루 오벌 트럭이 지난해 15만5000대 판매됐는데, 이는... 현대가 개발 중인 중형 픽업은 토요타 타코마와 포드 레인저의 경쟁 모델이 될 것으로 예측된다. 호세 무뇨스... ",
+              "source_name": "financialpost.co.kr"
+            },
+            {
+              "title": "자라, 디자이너 윌리 차바리아와 ‘바티시모’ 컬렉션 공개",
+              "url": "https://www.fashionbiz.co.kr/article/224803",
+              "published_at": "2026-03-24T09:30:00+09:00",
+              "description": "캠페인도 주목할 만하다. 세계적인 사진작가 글렌 러치포드와 윌리 차바리아가 연출을 맡았으며, 슈퍼모델 크리스티 털링턴과 배우 알베르토 게라가 참여해 컬렉션의 메시지를 한층 강화했다.",
+              "source_name": "fashionbiz.co.kr"
+            },
+            {
+              "title": "11년 만에 돌아온 트로피, 11년 만에 되찾은 '세계 4위' 김효주",
+              "url": "https://isplus.com/article/view/isp202603240028",
+              "published_at": "2026-03-24T09:16:00+09:00",
+              "description": "1라운드부터 한 번도 선두를 내주지 않은 '와이어 투 와이어' 우승이자, 지난해 3월 포드 챔피언십 이후 1년 만에 추가한 LPGA 투어 통산 8승째다. 특히 이번 대회는 김효주가 정회원 자격으로 데뷔한 2015년 시즌, 첫... ",
+              "source_name": "isplus.com"
+            },
+            {
+              "title": "김효주 파운더스컵 우승으로 세계랭킹 4위 도약",
+              "url": "https://biz.heraldcorp.com/article/10701039?ref=naver",
+              "published_at": "2026-03-24T09:11:00+09:00",
+              "description": "지난해 3월 포드 챔피언십 이후 1년 만의 우승으로 투어 통산 8승째다. 세계 랭킹 1~3위에는 변화가 없었다. 세계 랭킹 1위는 지노 티티쿤(태국), 2위는 넬리 코다, 3위는 찰리 헐(잉글랜드)이다. 김효주의 상승으로... ",
+              "source_name": "biz.heraldcorp.com"
+            },
             {
               "title": "환율 1517원·유가 112달러 '더블 쇼크'…수입차 가격 인상 초읽기",
               "url": "https://www.gpkorea.com/news/articleView.html?idxno=141151",
@@ -2122,41 +2107,6 @@
               "published_at": "2026-03-24T06:02:00+09:00",
               "description": "포르쉐‧메르세데스-벤츠·BMW·포드 등 주요 글로벌 완성차 업체에 전기차 전용 타이어를 공급해온 기조를 계속해서 유지하겠다는 전략이다. 이와 함께 중장거리 고속버스용 프리미엄 타이어 ‘스마트 투어링 AL31’... ",
               "source_name": "kukinews.com"
-            },
-            {
-              "title": "스크린 속 악역→현실은 애국자…유명 男배우, 떠난 지 어느덧 18년 [할...",
-              "url": "https://www.tvreport.co.kr/world/article/1017869/",
-              "published_at": "2026-03-24T06:01:00+09:00",
-              "description": "당시 존 웨인과 '알라모'에서 열연한 그는 존 포드 감독의 '투 로드 투게더'에서는 제임스 스튜어트와 함께 열연했고, 로버트 미첨·커크 더글러스와 출연한 '서부로 가는 길'도 관객들에게 깊은 인상을 남겼다. 생전 40여... ",
-              "source_name": "tvreport.co.kr"
-            },
-            {
-              "title": "이그잭트 사이언스 삼킨 애보트…암 진단 시장 진출 본격화",
-              "url": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1167876&ref=naverpc",
-              "published_at": "2026-03-24T05:32:00+09:00",
-              "description": "애보트 로버트 B. 포드(Robert B. Ford) CEO는 &quot;이번 인수를 통해 애보트도 급성장하는 암 검진 및 진단 분야에 진출하게 됐다&quot;며 &quot;한자리수 성장률 전망에 새로운 성장동력을 추가하는 주요 결정이 될 것&quot;이라고 밝혔다.",
-              "source_name": "medicaltimes.com"
-            },
-            {
-              "title": "신인상 포인트 1위 지킨 황유민, 포드챔피언십 나오나?…'스페인 신인'...",
-              "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019459",
-              "published_at": "2026-03-24T05:14:00+09:00",
-              "description": "투어 포드 챔피언십(총상금 225만달러)행 티켓을 획득했다. 24일(한국시간) 공개된 포드 챔피언십 엔트리에는 황유민을 비롯해 이동은, 에리카 하라, 헬렌 브림(독일) 등의 신인 여러 명이 이름을 올렸다. 이동은은... ",
-              "source_name": "golfhankook.hankooki.com"
-            },
-            {
-              "title": "김효주 ‘17번홀의 마법’… 11년 만에 트로피 탈환",
-              "url": "https://www.seoul.co.kr/news/sport/golf/2026/03/24/20260324034001?wlog_tag3=naver",
-              "published_at": "2026-03-24T05:12:00+09:00",
-              "description": "지난해 포드 챔피언십을 제패한 뒤 1년 만에 우승 트로피를 보탠 김효주는 이날 우승으로 통산 8승 고지에 올랐다. 김효주가 이 대회에서 우승한 건 2015년에 이어 두 번째다. 우승 상금은 45만 달러다. 김효주는 이번... ",
-              "source_name": "seoul.co.kr"
-            },
-            {
-              "title": "김효주 세계랭킹 4위로 우뚝… 11년 만에 생애 최고 타이로 복귀",
-              "url": "https://www.smartbizn.com/news/articleView.html?idxno=140020",
-              "published_at": "2026-03-24T04:46:00+09:00",
-              "description": "이어지는 포드 챔피언십에서 선전한다면 3위를 넘어 2위도 압박할 수 있게 된다. 야마시타 미유(일본), 해나 그린(호주), 리디아 고(뉴질랜드)가 6~8위에 올랐고 파운더스컵 공동 3위 김세영이 9위로 한계단 올라섰다.... ",
-              "source_name": "smartbizn.com"
             }
           ]
         },
@@ -2164,150 +2114,234 @@
           "keyword": "테슬라",
           "articles": [
             {
-              "title": "NH투자증권 &quot;에코프로비엠, 하반기 모멘텀 기대&quot;",
-              "url": "https://www.cstimes.com/news/articleView.html?idxno=698935",
-              "published_at": "2026-03-24T09:10:00+09:00",
-              "description": "연초 테슬라의 유럽 내 판매 회복도 같은 맥락에서 해석 가능하다&quot;고 설명했다. 이어 &quot;EV2, 아이오닉3는 삼성SDI의 각형 전지, 에코프로비엠의 NCA(니켈·코발트·알루미늄) 양극재가 탑재될 예정으로 26년 2분기 배터리... ",
+              "title": "“로보택시 시대 앞당기나”..미국, 자율주행 규제 완화",
+              "url": "https://www.dailycar.co.kr/content/news.html?type=view&autoId=61061",
+              "published_at": "2026-03-24T09:46:00+09:00",
+              "description": "행사에는 테슬라, 웨이모, 주옥스, 오로라 등 주요 자율주행 기업 경영진이 참석했다. 쟁점은 기존 자동차... “미국 정부의 정책은 특히 테슬라가 개발 중인 로보택시 사업에 큰 영향을 줄 것”이라고 분석했다.",
+              "source_name": "dailycar.co.kr"
+            },
+            {
+              "title": "[특징주] 엘앤에프, 1분기 호실적 전망에 '급등'",
+              "url": "https://www.cstimes.com/news/articleView.html?idxno=698956",
+              "published_at": "2026-03-24T09:46:00+09:00",
+              "description": "주민우 NH투자증권 연구원은 &quot;엘엔에프는 유럽 내 판매 환경 변화로 테슬라의 판매량이 회복될 전망임에 따라 N95 양극재 독점 공급사인 동사의 수혜가 예상된다&quot;며 &quot;N95  독점 체제도 올해 유지되며 하반기 판매량에... ",
               "source_name": "cstimes.com"
             },
             {
-              "title": "뉴욕증시, 미·이란 협상 기대에 저가 매수 '상승'...WTI 10% 급락",
-              "url": "https://www.asiatime.co.kr/article/20260324500038",
-              "published_at": "2026-03-24T09:10:00+09:00",
-              "description": "브로드컴과 테슬라는 4% 안팎으로 뛰었다. 트럼프 발언에 대한 의구심 속에서도 낙관론이 힘을 받으면서 금리 인상 베팅은 약해졌다. 이란 전쟁이 조기에 끝나면 유가가 빠르게 내려가 인플레이션도 약해질 수 있다는... ",
-              "source_name": "asiatime.co.kr"
+              "title": "[N2 특징주] 엘앤에프, 1분기 호실적 전망에 장 초반 7%대 '급등'",
+              "url": "https://www.news2day.co.kr/article/20260324500081",
+              "published_at": "2026-03-24T09:46:00+09:00",
+              "description": "주민우 NH투자증권 연구원은 보고서에서 “테슬라의 유럽 판매가 12개월 만에 플러스로 전환했고, 하반기 판매는 더 가파르게 회복될 수 있다”며 “현재 엘앤에프의 N95 양극재 독점 공급이 유지될 가능성에 주목할... ",
+              "source_name": "news2day.co.kr"
             },
             {
-              "title": "중동전쟁 협상 기대 속...코스피·코스닥 '급등 출발'",
-              "url": "http://www.choicenews.co.kr/news/articleView.html?idxno=162712",
-              "published_at": "2026-03-24T09:10:00+09:00",
-              "description": "기술주에선 엔비디아(+1.70%), 애플(+1.41%), 아마존(+2.32%), 메타(+1.75%), 테슬라(+3.50%) 등이 상승했다. 미국 달러화 가치는 내려갔다. ICE선물거래소에서 주요 6개 통화에 대한 달러 가치를 반영하는 달러인덱스는... ",
-              "source_name": "choicenews.co.kr"
+              "title": "[특징주] 엘앤에프, 실적 기대감에 장 초반 강세…9%↑",
+              "url": "http://www.issuenbiz.com/news/articleView.html?idxno=74594",
+              "published_at": "2026-03-24T09:44:00+09:00",
+              "description": "주민우 NH투자증권 연구원은 엘앤에프에 관한 보고서에서 &quot;테슬라의 유럽 판매가 12개월 만에 플러스로 전환했고, 하반기 판매는 더 가파르게 회복될 수 있다&quot;며 &quot;또한 현재 엘앤에프의 N95 양극재 독점 공급이 유지될... ",
+              "source_name": "issuenbiz.com"
             },
             {
-              "title": "삼성전자·SK하이닉스 4거래일 만에 드디어 상승",
-              "url": "https://www.mt.co.kr/stock/2026/03/24/2026032409054518334",
-              "published_at": "2026-03-24T09:07:00+09:00",
+              "title": "IPO 앞둔 '챗GPT' 오픈AI의 최대 리스크는 무엇일까",
+              "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=03096326645386600",
+              "published_at": "2026-03-24T09:44:00+09:00",
+              "description": "머스크는 테슬라와의 합병을 추진하려다 뜻을 이루지 못하고 2018년 오픈AI를 떠났으며, 2024년부터... 수는 9억명이며, 2025년 매출은 131억달러(약 19조6000억원)를 기록했다. 일론 머스크 테슬라 최고경영자(CEO)(사진=AFP)",
+              "source_name": "edaily.co.kr"
+            },
+            {
+              "title": "테슬라 주가, 380.85달러 3.50% 상승 마감",
+              "url": "https://www.topstarnews.net/news/articleView.html?idxno=16014657",
+              "published_at": "2026-03-24T09:40:00+09:00",
+              "description": "24일(미국 동부 기준 23일) 기준, 네이버페이 증권에 따르면 테슬라 주가는 지난 종가인 367.96달러 대비 12.89달러 상승한 380.85달러로 거래를 마쳤으며, 3.50%의 상승률을 보였다. 테슬라 주가는 373.... ",
+              "source_name": "topstarnews.net"
+            },
+            {
+              "title": "[특징주] 삼성전자·SK하이닉스, 4거래일만 '빨간 불'.. 美 M7 상승 영향",
+              "url": "https://www.g-enews.com/view.php?ud=2026032409092583644093b5d4e_1",
+              "published_at": "2026-03-24T09:40:00+09:00",
               "description": "간밤 미국 증시에서 엔비디아, 테슬라 등 M7(매그니피센트7)이 상승하자 국내 증시에서도 반도체... 엔비디아(1.7%), 테슬라(3.5%), 메타(1.8%) 등 M7주들도 일제히 반등했다. 필라델피아 반도체 지수는 1.3%대... ",
-              "source_name": "mt.co.kr"
+              "source_name": "g-enews.com"
             },
             {
-              "title": "[뉴욕 브리핑] 트럼프 '이란과 대화'에 美증시 반등…유가 11% 급락",
-              "url": "https://news.dealsitetv.com/articles/167341",
-              "published_at": "2026-03-24T09:06:00+09:00",
-              "description": "◇오늘의 특징주 - 테슬라는 일론 머스크 CEO가 인공지능(AI) 칩을 생산할 테라팹을 건설하겠다고 선언하면서 주가는 3.50% 오른 380.85달러로 장을 마감했다. - 조기 종전 기대감과 유가 하락으로 델타 2.14... ",
-              "source_name": "dealsitetv.com"
-            },
-            {
-              "title": "코스피, 트럼프 이란 타격 보류 발언에 상승 출발…5580.15 개장",
-              "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=297682",
-              "published_at": "2026-03-24T09:06:00+09:00",
-              "description": "엔비디아(1.70%), 테슬라(3.50%), 아마존(2.32%) 등 주요 기술주 상당수는 올랐지만, 마이크론은 4.39% 급락했다. 필라델피아반도체지수는 1.34% 강세를 보였다. 국제 유가는 10% 이상 내리며 다시 안정세를 보였다.... ",
-              "source_name": "pointdaily.co.kr"
-            },
-            {
-              "title": "보스턴다이나믹스, 美 로보틱스 전략 수립 민간 '싱크탱크' 참여",
-              "url": "https://view.asiae.co.kr/article/2026032409063413797",
-              "published_at": "2026-03-24T09:06:00+09:00",
-              "description": "이 자리에는 보스턴다이나믹스를 비롯한 엔비디아, 오픈AI, 테슬라 등 주요 기업의 핵심 관계자들이 대거 참여해 다양한 의견을 교환한 것으로 알려진다. 회의에 참석한 브랜던 슐만 보스턴다이나믹스 부사장은... ",
-              "source_name": "asiae.co.kr"
-            },
-            {
-              "title": "엘앤에프, 테슬라 유럽 회복·N95 독점 지속",
-              "url": "http://www.newsprime.co.kr/news/article.html?no=727925",
-              "published_at": "2026-03-24T09:04:00+09:00",
-              "description": "NH투자증권은 24일 엘앤에프(066970)에 대해 테슬라의 유럽 판매 회복과 N95 양극재의 독점적 지위 유지가 기대된다며 투자의견 '매수'와 목표주가 16만원을 유지했다. 주민우 NH투자증권 연구원은 테슬라의 유럽 내 판매... ",
-              "source_name": "newsprime.co.kr"
-            },
-            {
-              "title": "보스턴다이나믹스, 美 차세대 로봇 정책 설계하는 핵심 '싱크탱크' 합류",
-              "url": "http://www.finomy.com/news/articleView.html?idxno=251924",
-              "published_at": "2026-03-24T09:04:00+09:00",
-              "description": "미 상무부는 지난 10일 보스턴다이나믹스, 엔비디아, 오픈AI, 테슬라 등 로봇 제조 기업 관계자들을 소집해 산업 현주소를 점검하고 정부 지원 방안을 모색하는 회의를 가졌다. 회의에 참석한 보스턴다이나믹스 브랜던... ",
-              "source_name": "finomy.com"
-            },
-            {
-              "title": "현대차그룹 보스턴다이나믹스, 美 로보틱스 '싱크탱크'서 목소리 낸다",
-              "url": "https://www.mt.co.kr/industry/2026/03/24/2026032408513689822",
-              "published_at": "2026-03-24T09:03:00+09:00",
-              "description": "보스턴다이나믹스를 비롯해 엔비디아, 오픈AI, 테슬라 등 주요 기업 핵심 관계자가 참여했다. 이 자리에서 보스턴다이나믹스의 브랜던 슐만 부사장은 &quot;로보틱스 산업에 대한 정부의 적극적인 지원을 통해 빠른 시일 내... ",
-              "source_name": "mt.co.kr"
-            },
-            {
-              "title": "보스턴다이나믹스, 美 로봇 국가정책 설계 참여 '핵심 플레이어'",
-              "url": "https://www.news1.kr/industry/auto-industry/6111410",
-              "published_at": "2026-03-24T09:02:00+09:00",
-              "description": "이 자리에는 보스턴다이나믹스를 비롯한 엔비디아, 오픈AI, 테슬라 등 주요 기업의 핵심 관계자들이 대거 참여해 다양한 의견을 교환한 것으로 알려졌다. 회의에 참석한 보스턴다이나믹스 브랜던 슐만 부사장은... ",
+              "title": "코스피 3.75% 올라 5600선 회복…SK하닉, 6%대 상승 [개장시황]",
+              "url": "https://www.news1.kr/finance/market-exr/6111554",
+              "published_at": "2026-03-24T09:40:00+09:00",
+              "description": "엔비디아(1.7%), 테슬라(3.5%), 메타(1.8%) 등 주요 기술주가 동반 상승했다. 코스피200 야간선물도 급등했고 달러·원 환율과 국제유가는 큰 폭 하락했다. 한지영 키움증권 연구원은 원유시장이 전쟁 종료... ",
               "source_name": "news1.kr"
             },
             {
-              "title": "보스턴다이나믹스, 美 로봇 국가전략 싱크탱크 합류",
-              "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3058732",
-              "published_at": "2026-03-24T09:00:00+09:00",
-              "description": "미국 상무부도 최근 산업용·휴머노이드 로봇 기업 및 엔비디아·오픈AI·테슬라 등과 회의를 열고 로봇 산업 지원 방안을 논의하는 등 로봇을 차세대 패권 경쟁 핵심 기술로 육성하고 있습니다. 슐만 부사장은 &quot;정부의... ",
-              "source_name": "newsclaim.co.kr"
+              "title": "[마켓무버] 트럼프 “미국·이란 협상 진전”…美 증시 일제히 상승",
+              "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=03066806645386600",
+              "published_at": "2026-03-24T09:39:00+09:00",
+              "description": "아마존은 2% 넘게 상승했고, 테슬라는 자율주행(FSD) 관련 추가 업데이트 소식에 3%대 강세를 보였다. 이날 장을 주도한 축은 기술주와 소비주였다는 평가다. 시장의 핵심 재료는 트럼프 대통령의 대이란 발언이었다.... ",
+              "source_name": "edaily.co.kr"
             },
             {
-              "title": "현대차그룹 보스턴다이나믹스, 美 로봇 국가안보위원회 핵심 플레이어로...",
-              "url": "http://www.newslock.co.kr/news/articleView.html?idxno=127375",
-              "published_at": "2026-03-24T08:58:00+09:00",
-              "description": "미 상무부는 지난 10일(현지시각) 보스턴다이나믹스, 엔비디아, 오픈AI, 테슬라 등 주요 로봇·AI 기업 관계자들을 불러 모아 미국 로봇 산업 현황을 점검하고 정부 지원 방안을 논의하는 회의를 열었다. 슐만... ",
-              "source_name": "newslock.co.kr"
+              "title": "[특징주] 엘앤에프, 실적 개선 기대에 장 초반 7%대↑",
+              "url": "https://www.ajunews.com/view/20260324093343078",
+              "published_at": "2026-03-24T09:36:00+09:00",
+              "description": "주민우 NH투자증권 연구원은 리포트에서 엘앤에프에 대해 &quot;테슬라의 유럽 판매가 12개월 만에 플러스로 전환했다&quot;며 &quot;네덜란드에서의 FSD 승인을 받게 되면 하반기 판매는 더 가파르게 회복될 수 있다&quot;고 분석했다.... ",
+              "source_name": "ajunews.com"
             },
             {
-              "title": "보스턴다이나믹스, 美 로봇 전략 싱크탱크 참여...정책 영향력 확대",
-              "url": "https://www.joongangenews.com/news/articleView.html?idxno=505211",
-              "published_at": "2026-03-24T08:58:00+09:00",
-              "description": "이 자리에는 보스턴다이나믹스를 비롯한 엔비디아, 오픈AI, 테슬라 등 주요 기업의 핵심 관계자들이 대거 참여해 다양한 의견을 교환한 것으로 알려졌다. 회의에 참석한 보스턴다이나믹스 브랜던 슐만 부사장은... ",
-              "source_name": "joongangenews.com"
+              "title": "‘양초’ 성분으로 배터리 만든다",
+              "url": "https://www.naeil.com/news/read/582396?ref=naver",
+              "published_at": "2026-03-24T09:36:00+09:00",
+              "description": "실제로 미국 테슬라는 올해 1월 양극과 음극에 건식 전극 공정을 적용한 ‘4680 배터리셀’ 양산 계획을 밝힌 바 있다. LG에너지솔루션도 2028년 상용화를 목표로 관련 기술 개발을 추진 중이다. 하지만 기존 건식 공정에... ",
+              "source_name": "naeil.com"
             },
             {
-              "title": "뉴욕증시 3대 지수 모두 상승, 미국-이란 협상 기류에 매수세 유입",
-              "url": "https://www.businesspost.co.kr/BP?command=article_view&num=433786",
-              "published_at": "2026-03-24T08:58:00+09:00",
-              "description": "미국 증시 대표 기술주인 'M7(마이크로소프트·메타·아마존·알파벳·애플·엔비디아·테슬라)' 주가도 모두 올랐다. 상승폭은 테슬라(3.5%) 아마존(2.32%) 메타(1.75%) 엔비디아(1.7%) 애플(1.41%) 알파벳(0.35... ",
-              "source_name": "businesspost.co.kr"
+              "title": "IBK투자증권 &quot;현대차, '완성차'를 넘어 'AI 플랫폼'으로&quot;",
+              "url": "http://www.press9.kr/news/articleView.html?idxno=73940",
+              "published_at": "2026-03-24T09:34:00+09:00",
+              "description": "보고서는 현대차그룹과 테슬라를 사실상 유일한 사례로 지목했다. 현대차는 보스턴다이내믹스를 통해 로봇 기술을 확보했고, 이를 생산 및 물류 현장에 적용하고 있다. 이는 외부 로봇 기업과 협력에 의존하는 타... ",
+              "source_name": "press9.kr"
             },
             {
-              "title": "컬리서 봄 수면용품 할인전…프로젝트슬립, 최대 75% 특가",
-              "url": "https://biz.heraldcorp.com/article/10701015?ref=naver",
-              "published_at": "2026-03-24T08:58:00+09:00",
-              "description": "테슬라와 현대자동차 주요 SUV 모델과 호환돼 봄철 캠핑 시즌 차박 매트로도 활용할 수 있다. 함께 선보이는 ‘퍼펙션 매트리스’는 사용자의 체형과 취향에 따라 부드러운 소프트 감도와 탄탄한 하드 감도를 선택할 수... ",
-              "source_name": "biz.heraldcorp.com"
+              "title": "엘앤에프, 증권가 호실적 전망에 7%대 급등",
+              "url": "https://www.hankyung.com/article/2026032418846",
+              "published_at": "2026-03-24T09:30:00+09:00",
+              "description": "주민우 NH투자증권 연구원은 &quot;테슬라의 유럽 판매가 12개월 만에 플러스로 전환했고, 하반기 판매는 더 가파르게 회복될 수 있다&quot;며 &quot;또 현재 엘앤에프의 N95 양극재 독점 공급이 유지될 가능성에 주목할 필요가 있다... ",
+              "source_name": "hankyung.com"
             },
             {
-              "title": "보스턴다이나믹스, 美 로봇 국가전략 설계 참여",
-              "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2409661",
-              "published_at": "2026-03-24T08:58:00+09:00",
-              "description": "최근 미 상무부가 주관한 로봇 산업 점검 회의에는 보스턴다이나믹스를 비롯해 엔비디아, 오픈AI, 테슬라 등이 참여해 정책 방향을 논의한 것으로 알려졌다. 브랜던 슐만 부사장은 &quot;로보틱스 산업에 대한 정부의... ",
-              "source_name": "enewstoday.co.kr"
+              "title": "보스턴다이나믹스, 美 '로봇 국가안보위원회' 핵심 플레이어로…피지컬...",
+              "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=56592",
+              "published_at": "2026-03-24T09:30:00+09:00",
+              "description": "이 자리에는 보스턴다이나믹스를 비롯해 엔비디아, 오픈AI, 테슬라 등 주요 기업 핵심 인사들이 참석해 다양한 의견을 교환한 것으로 알려졌다. 회의에 참석한 브랜던 슐만 보스턴다이나믹스 부사장은 &quot;로보틱스... ",
+              "source_name": "newsroad.co.kr"
             },
             {
-              "title": "보스턴다이나믹스, 美 로봇 전략 ‘싱크탱크’ 참여…엔비디아 등과 전...",
-              "url": "https://www.sentv.co.kr/article/view/sentv202603240014",
-              "published_at": "2026-03-24T08:54:00+09:00",
-              "description": "미 상무부는 최근 산업용 및 휴머노이드 로봇 기업들과 회의를 열고 지원 방안을 논의했으며, 보스턴다이나믹스를 비롯해 엔비디아, 오픈AI, 테슬라 등이 참석한 것으로 전해졌다. 보스턴다이나믹스는 최근 약 30조원... ",
-              "source_name": "sentv.co.kr"
+              "title": "'19만전자·98만닉스' 회복...공습 연기에 투심 회복 [특징주]",
+              "url": "http://www.fnnews.com/news/202603240910134507",
+              "published_at": "2026-03-24T09:30:00+09:00",
+              "description": "테슬라는 전장 대비 3.5% 급등했고, 엔비디아도 1.7% 상승한 가격에 장을 마감했다. 한지영 키움증권 연구원은 “국내 증시도 미·이란의 협상 기대감에 따른 유가 급락, 금리 하락 등 지정학 및 매크로 부담 완화에... ",
+              "source_name": "fnnews.com"
             },
             {
-              "title": "협상 기대감에 뉴욕·서울 동반 랠리···유가 90달러 하회",
-              "url": "https://www.smartbizn.com/news/articleView.html?idxno=140023",
-              "published_at": "2026-03-24T08:54:00+09:00",
-              "description": "엔비디아 1.70%, 테슬라 3.50%, 아마존 2.32% 등 주요 기술주가 반등했고, 필라델피아 반도체지수도 1.34% 올랐다. 국제유가 급락도 위험자산 선호를 자극했다. ICE선물거래소에서 브렌트유 5월물은 10.92% 내린 배럴당 99.... ",
-              "source_name": "smartbizn.com"
+              "title": "보스턴다이나믹스, 美 로보틱스 전략 수립 민간 싱크탱크 참여",
+              "url": "https://www.hankyung.com/article/202603241803g",
+              "published_at": "2026-03-24T09:29:00+09:00",
+              "description": "그는 &quot;로보틱스산업에 대한 정부의 적극적인 지원을 통해 이른 시일 내 정책 방향이 수립될 것으로 기대한다&quot;고 말했다. 회의에는 엔비디아, 오픈AI, 테슬라 등 주요 기업 핵심 관계자가 참석했다.",
+              "source_name": "hankyung.com"
             },
             {
-              "title": "[매아리] 트럼프 &quot;이란과 생산적 대화&quot; 이란은 &quot;없었다&quot;…증시 반등·유...",
-              "url": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005795544",
-              "published_at": "2026-03-24T08:50:00+09:00",
-              "description": "테슬라가 3.5% 가장 크게 뛰었습니다. 아마존도 2.3% 엔비디아와 애플 메타는 1%대 오름세 나타냈습니다. 3. 트럼프 &quot;이란과 합의&quot;…발전소 공격 유예 트럼프 대통령은 갑자기 이란의 발전소를 공격하는 계획을 미루겠다고... ",
-              "source_name": "mbnmoney.mbn.co.kr"
+              "title": "보스턴다이나믹스, 美 로보틱스 '싱크탱크' 핵심 플레이어 참여",
+              "url": "http://autotimes.co.kr/detail.php?number=687044&thread=27",
+              "published_at": "2026-03-24T09:28:00+09:00",
+              "description": "이 자리에는 보스턴다이나믹스를 비롯한 엔비디아, 오픈AI, 테슬라 등 주요 기업의 핵심 관계자들이 대거 참여해 다양한 의견을 교환한 것으로 알려졌다. 브랜던 슐만 부사장은 “로보틱스 산업에 대한 정부의 적극적인... ",
+              "source_name": "autotimes.co.kr"
+            },
+            {
+              "title": "[비즈+]보스턴다이나믹스, 美 로보틱스 전략 싱크탱크 참여…정책 영향...",
+              "url": "https://www.businessplus.kr/news/articleView.html?idxno=109331",
+              "published_at": "2026-03-24T09:28:00+09:00",
+              "description": "이 자리에는 보스턴다이나믹스를 비롯해 엔비디아, 오픈AI, 테슬라 등 주요 기업 관계자들이 참석해 다양한 의견을 교환한 것으로 알려졌다. 브랜던 슐만 보스턴다이나믹스 부사장은 &quot;로보틱스 산업에 대한 정부의... ",
+              "source_name": "businessplus.kr"
+            },
+            {
+              "title": "보스턴다이나믹스, 美 로봇 전략 싱크탱크 참여…정책 영향력 확대",
+              "url": "https://www.newspim.com/news/view/20260324000216",
+              "published_at": "2026-03-24T09:27:00+09:00",
+              "description": "이 자리에는 보스턴다이나믹스를 비롯해 엔비디아, 오픈AI, 테슬라 등 주요 기업들이 참여한 것으로 전해졌다. 브랜던 슐만 보스턴다이나믹스 부사장은 &quot;정부의 적극적인 지원을 통해 로보틱스 산업 정책 방향이 조속히... ",
+              "source_name": "newspim.com"
+            },
+            {
+              "title": "보스턴다이나믹스, 美 로보틱스 전략 설계 참여…정책 영향력 확대 기대",
+              "url": "https://www.ezyeconomy.com/news/articleView.html?idxno=233793",
+              "published_at": "2026-03-24T09:26:00+09:00",
+              "description": "이 회의에는 보스턴다이나믹스, 엔비디아, 오픈AI, 테슬라 등 주요 기업이 참여했다. 보스턴다이나믹스 측은 정부의 적극적 지원을 통해 빠른 시일 내 정책 방향이 구체화될 것으로 기대하고 있다. 최근 투자 분석에 따르면... ",
+              "source_name": "ezyeconomy.com"
             }
           ]
         },
         {
           "keyword": "폴스타",
           "articles": [
+            {
+              "title": "르노코리아, 부산공장에 전동화 생산시설 신규 투자",
+              "url": "https://www.etnews.com/20260324000071",
+              "published_at": "2026-03-24T09:46:00+09:00",
+              "description": "현재 부산공장에서는 '필랑트', '그랑 콜레오스', '아르카나' 등 하이브리드 모델과 순수 전기차 '폴스타 4'도 생산 중이다. 부산공장은 하나의 생산 라인에서 최대 4개 플랫폼, 8개 차종을 혼류 생산할 수 있는 구조를... ",
+              "source_name": "etnews.com"
+            },
+            {
+              "title": "'르노 핵심' 부산공장 추가 투자…르노코리아, 부산시와 MOU",
+              "url": "https://www.hankyung.com/article/202603241954g",
+              "published_at": "2026-03-24T09:45:00+09:00",
+              "description": "현재 부산공장에서는 필랑트, 그랑 콜레오스, 아르카나 등과 전기차 폴스타4를 생산하고 있다. 이번 추가 설비 투자가 완료되면 부산공장의 전동화 모델 생산 역량은 더욱 강화될 것으로 전망된다. 부산시는 부산에서... ",
+              "source_name": "hankyung.com"
+            },
+            {
+              "title": "르노코리아, 부산 공장에 전동화 설비 추가 투자",
+              "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202603240260&t=NN",
+              "published_at": "2026-03-24T09:45:00+09:00",
+              "description": "실제로 필랑트, 그랑 콜레오스, 아르카나는 물론 순수 전기차인 폴스타 4도 함께 생산 중이다. 회사 측은 이번 투자로 부산 공장의 전동화 모델 생산 역량이 더욱 강화될 것으로 기대했다. 한편 이번 협약에서 부산시는... ",
+              "source_name": "wowtv.co.kr"
+            },
+            {
+              "title": "르노코리아, 부산시와 전동화 설비 추가 투자 업무협약 체결",
+              "url": "https://www.newspim.com/news/view/20260324000232",
+              "published_at": "2026-03-24T09:42:00+09:00",
+              "description": "이를 통해 현재 부산공장에서는 '필랑트', '그랑 콜레오스', '아르카나' 등 하이브리드 모델들을 중심으로 순수 전기차인 '폴스타 4'도 함께 생산 중에 있다. 이번 추가 설비 투자가 완료되면 부산공장의 전동화 모델... ",
+              "source_name": "newspim.com"
+            },
+            {
+              "title": "르노코리아, 부산시와 전동화 설비 추가 투자 위한 업무협약 체결",
+              "url": "https://www.ziksir.com/news/articleView.html?idxno=128200",
+              "published_at": "2026-03-24T09:36:00+09:00",
+              "description": "현재 부산공장에서는 ▲필랑트 ▲그랑 콜레오스 ▲아르카나 등 하이브리드 모델들과 순수 전기차 폴스타 4도 생산하고 있다. 추가 설비 투자가 완료되면 부산공장의 전동화 모델 생산 역량이 강화될 전망이다.... ",
+              "source_name": "ziksir.com"
+            },
+            {
+              "title": "르노코리아, 부산시와 전동화 투자 협약…부산 '글로벌 생산 허브' 강화",
+              "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065573241095488",
+              "published_at": "2026-03-24T09:36:00+09:00",
+              "description": "현재 부산공장에서는 ‘필랑트’, ‘그랑 콜레오스’, ‘아르카나’ 등 하이브리드 모델과 함께 전기차 ‘폴스타 4’도 생산 중이다. 부산공장은 최대 4개 플랫폼, 8개 차종을 동시에 생산할 수 있는 유연한 생산... ",
+              "source_name": "megaeconomy.co.kr"
+            },
+            {
+              "title": "&quot;생산시설 구축·필랑트 관용차&quot; 르노코리아, 부산시와 투자 협약",
+              "url": "https://www.econovill.com/news/articleView.html?idxno=734475",
+              "published_at": "2026-03-24T09:32:00+09:00",
+              "description": "현재 필랑트, 그랑 콜레오스, 아르카나 등 하이브리드 모델과 전기차 폴스타 4를 함께 생산하고 있다. 추가 투자가 완료되면 부산공장의 전동화 생산 역량은 더욱 강화될 전망이다. 해당 공장은 최대 4개 플랫폼, 8개... ",
+              "source_name": "econovill.com"
+            },
+            {
+              "title": "르노코리아, 부산 공장 ‘전기차‘ 핵심 거점으로…부산시와 투자 협약",
+              "url": "https://www.dailian.co.kr/news/view/1624669/?sc=Naver",
+              "published_at": "2026-03-24T09:31:00+09:00",
+              "description": "현재 부산공장에서는 ‘필랑트’, ‘그랑 콜레오스’, ‘아르카나’ 등 하이브리드 모델들을 중심으로 순수 전기차인 ‘폴스타 4’도 함께 생산 중에 있다. 이번 추가 설비 투자가 완료되면 부산공장의 전동화 모델 생산... ",
+              "source_name": "dailian.co.kr"
+            },
+            {
+              "title": "르노코리아, 부산시와 전기차 생산시설 구축 협약…부산공장 전동화 확...",
+              "url": "https://www.g-enews.com/view.php?ud=20260324084839992324debea800_1",
+              "published_at": "2026-03-24T09:22:00+09:00",
+              "description": "현재 부산공장에서는 ‘필랑트’, ‘그랑 콜레오스’, ‘아르카나’ 등 하이브리드 모델과 함께 순수 전기차 ‘폴스타 4’도 생산 중이다. 추가 설비 투자가 완료되면 전동화 모델 생산 역량은 더욱 강화될 전망이다.... ",
+              "source_name": "g-enews.com"
+            },
+            {
+              "title": "르노코리아, 전동화 설비 추가 투자 위해 부산시와 협력",
+              "url": "http://autotimes.co.kr/detail.php?number=687042&thread=27",
+              "published_at": "2026-03-24T09:14:00+09:00",
+              "description": "이를 통해 현재 부산공장에서는 ‘필랑트’, ‘그랑 콜레오스’, ‘아르카나’ 등 하이브리드를 중심으로 순수 전기차인 ‘폴스타 4’도 함께 생산 중에 있다. 이번 추가 설비 투자가 완료되면 부산공장의 전동화 생산... ",
+              "source_name": "autotimes.co.kr"
+            },
+            {
+              "title": "르노코리아, 부산시와 전동화 설비 추가투자 위한 업무협약 체결",
+              "url": "http://www.press9.kr/news/articleView.html?idxno=73930",
+              "published_at": "2026-03-24T09:14:00+09:00",
+              "description": "이를 통해 현재 부산공장에서는 '필랑트', '그랑 콜레오스', '아르카나' 등 하이브리드 모델들을 중심으로 순수 전기차인 '폴스타 4'도 함께 생산 중에 있다. 이번 추가 설비 투자가 완료되면 부산공장의 전동화 모델... ",
+              "source_name": "press9.kr"
+            },
+            {
+              "title": "르노코리아, 부산시와 '전동화 설비 추가 투자' 업무협약 체결",
+              "url": "https://www.mt.co.kr/industry/2026/03/24/2026032408481112659",
+              "published_at": "2026-03-24T09:13:00+09:00",
+              "description": "현재 부산공장에서는 '필랑트', '그랑 콜레오스', '아르카나' 등 하이브리드 모델들을 중심으로 순수 전기차인 '폴스타 4'도 함께 생산 중이다. 이번 추가 설비 투자가 완료되면 부산공장의 전동화 모델 생산 역량은 더욱... ",
+              "source_name": "mt.co.kr"
+            },
             {
               "title": "르노코리아, 부산시와 전동화 설비 추가 투자 업무협약 체결",
               "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=02853606645386600",
@@ -2363,90 +2397,6 @@
               "published_at": "2026-03-24T08:45:00+09:00",
               "description": "이를 통해 현재 부산공장에서는 '필랑트', '그랑 콜레오스', '아르카나' 등 하이브리드 모델과 순수 전기차인 '폴스타 4'를 함께 생산하고 있다. 이번 추가 설비 투자가 완료되면 부산공장의 전동화 모델 생산 역량은 더욱... ",
               "source_name": "news1.kr"
-            },
-            {
-              "title": "르노코리아, 부산공장 전동화 설비 투자 확대",
-              "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2409646",
-              "published_at": "2026-03-24T08:40:00+09:00",
-              "description": "현재는 '필랑트', '그랑 콜레오스', '아르카나' 등 하이브리드 모델과 전기차 '폴스타 4'를 함께 생산하고 있다. 이번 추가 투자로 전동화 모델 생산 능력이 한층 강화될 것으로 전망된다. 부산공장은 단일 라인에서 최대... ",
-              "source_name": "enewstoday.co.kr"
-            },
-            {
-              "title": "르노코리아, 부산공장 추가 설비 투자 예정...부산시와 투자 협약",
-              "url": "https://www.joongangenews.com/news/articleView.html?idxno=505199",
-              "published_at": "2026-03-24T08:38:00+09:00",
-              "description": "이를 통해 현재 부산공장에서는 '필랑트', '그랑 콜레오스', '아르카나' 등 하이브리드 모델들을 중심으로 순수 전기차인 '폴스타 4'도 함께 생산 중에 있다. 이번 추가 설비 투자가 완료되면 부산공장의 전동화 모델... ",
-              "source_name": "joongangenews.com"
-            },
-            {
-              "title": "르노코리아, 부산공장 전동화 설비에 투자 확대",
-              "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=298287",
-              "published_at": "2026-03-24T08:38:00+09:00",
-              "description": "이를 통해 현재 부산공장에서는 '필랑트', '그랑 콜레오스', '아르카나' 등 하이브리드 모델을 중심으로 순수 전기차인 '폴스타 4'도 함께 생산 중이다. 이번 추가 설비투자가 완료되면 부산공장의 전동화 모델 생산... ",
-              "source_name": "straightnews.co.kr"
-            },
-            {
-              "title": "르노코리아, 부산공장 전동화 투자 확대…부산시와 MOU 체결",
-              "url": "https://news.tf.co.kr/read/economy/2305419.htm",
-              "published_at": "2026-03-24T08:32:00+09:00",
-              "description": "이를 통해 현재 부산공장에서는 '필랑트', '그랑 콜레오스', '아르카나' 등 하이브리드 모델들을 중심으로 순수 전기차인 '폴스타 4'도 함께 생산 중에 있다. 이번 추가 설비 투자가 완료되면 부산공장의 전동화 모델 생산... ",
-              "source_name": "tf.co.kr"
-            },
-            {
-              "title": "르노코리아, 부산공장에 추가 설비 투자…&quot;전동화 모델 생산성 강화&quot;",
-              "url": "https://www.newsis.com/view/NISX20260324_0003560730",
-              "published_at": "2026-03-24T08:28:00+09:00",
-              "description": "이를 통해 현재 부산공장에서는 '필랑트', '그랑 콜레오스', '아르카나' 등 하이브리드 모델과 순수 전기차인 '폴스타 4'를 함께 생산 중이다. 이번 추가 설비 투자가 완료되면 부산공장의 전동화 모델 생산 역량은 더욱... ",
-              "source_name": "newsis.com"
-            },
-            {
-              "title": "르노코리아, 부산시와 전동화 설비 추가 투자 업무협약 체결",
-              "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7156324",
-              "published_at": "2026-03-24T08:24:00+09:00",
-              "description": "이를 통해 현재 부산공장에서는 '필랑트' 등 하이브리드 모델들을 중심으로 순수 전기차인 '폴스타 4'도 함께 생산 중에 있다. 이번 추가 설비 투자가 완료되면 부산공장의 전동화 모델 생산 역량은 더욱 강화될... ",
-              "source_name": "weekly.hankooki.com"
-            },
-            {
-              "title": "르노코리아, 부산시와 맞손...&quot;전동화 설비 투자 MOU 체결&quot;",
-              "url": "http://www.fnnews.com/news/202603240818031222",
-              "published_at": "2026-03-24T08:24:00+09:00",
-              "description": "이를 통해 현재 부산공장에서는 ‘필랑트’, ‘그랑 콜레오스’, ‘아르카나’ 등 하이브리드 모델들을 중심으로 순수 전기차인 ‘폴스타 4’도 함께 생산 중에 있다. 이번 추가 설비 투자가 완료되면 부산공장의... ",
-              "source_name": "fnnews.com"
-            },
-            {
-              "title": "르노코리아, 부산시와 전동화 설비 추가 투자 업무협약 체결",
-              "url": "https://biz.heraldcorp.com/article/10700966?ref=naver",
-              "published_at": "2026-03-24T08:19:00+09:00",
-              "description": "이를 통해 현재 부산공장에서는 ‘필랑트’, ‘그랑 콜레오스’, ‘아르카나’ 등 하이브리드 모델들을 중심으로 순수 전기차인 ‘폴스타 4’도 함께 생산 중이다. 이번 추가 설비 투자가 완료되면 부산공장의 전동화... ",
-              "source_name": "biz.heraldcorp.com"
-            },
-            {
-              "title": "르노코리아, 부산공장에 전기차 생산시설 신규 투자",
-              "url": "https://view.asiae.co.kr/article/2026032408153773338",
-              "published_at": "2026-03-24T08:15:00+09:00",
-              "description": "이를 통해 현재 '필랑트'와 '그랑 콜레오스', '아르카나' 등 하이브리드 모델들을 중심으로 순수 전기차인 '폴스타 4'도 함께 생산 중이다. 향후 전동화 모델의 생산 확대를 위한 추가 설비 투자를 진행할 예정이며, 추가... ",
-              "source_name": "asiae.co.kr"
-            },
-            {
-              "title": "르노코리아, 부산공장 전동화 투자 확대…부산시와 투자 업무협약 체결",
-              "url": "https://www.sentv.co.kr/article/view/sentv202603240002",
-              "published_at": "2026-03-24T08:04:00+09:00",
-              "description": "이를 통해 현재 부산공장에서는 ‘필랑트’, ‘그랑 콜레오스’, ‘아르카나’ 등 하이브리드 모델들을 중심으로 순수 전기차인 ‘폴스타 4’도 함께 생산 중에 있다. 이번 추가 설비 투자가 완료되면 부산공장의... ",
-              "source_name": "sentv.co.kr"
-            },
-            {
-              "title": "방탄소년단 진, 일본이 왜 ‘석진 시대’ 외치나",
-              "url": "https://sports.donga.com/ent/article/all/20260324/133592054/1",
-              "published_at": "2026-03-24T07:18:00+09:00",
-              "description": "‘달려라 석진 투어’는 폴스타 글로벌 투어 Top 20에 진입했고, 빌보드 톱 투어 월간 차트 신기록을 연속으로 세웠다. 북미 투어 평균 관객 동원에서는 솔로 1위도 기록했다. 진은 일본 차트와 공연 성과를 동시에... ",
-              "source_name": "sports.donga.com"
-            },
-            {
-              "title": "방탄소년단 진, 日 연말 차트 석권…K팝 솔로 新 기록 행진",
-              "url": "https://www.topstarnews.net/news/articleView.html?idxno=16014509",
-              "published_at": "2026-03-24T07:06:00+09:00",
-              "description": "투어 실적을 집계하는 폴스타 글로벌 콘서트 투어 Top 20에서 진은 역대 아시아 솔로이스트 가운데 최고 신기록을 세웠다. 이어 빌보드 톱 투어 월간 차트에도 여러 차례 이름을 올리며 유럽 투어 수익 기준 한국... ",
-              "source_name": "topstarnews.net"
             }
           ]
         },
@@ -2529,20 +2479,6 @@
               "published_at": "2026-03-23T10:06:00+09:00",
               "description": "람보르기니는 2030년까지 순수 전기차 란자도르를 출시하는 계획을 철회하고 대신에 플러그인 하이브리드 모델을 내놓기로 했습니다. 페라리는 지난해 2030년 전기차 생산 목표치를 절반으로 낮췄습니다.",
               "source_name": "biz.sbs.co.kr"
-            },
-            {
-              "title": "&quot;휘발유 엔진 '으르렁' 소리 포기 강요 못해&quot;...전기차 계획 줄줄이 축소",
-              "url": "http://www.yonhapnewstv.co.kr/AKR20260323094415Qs5",
-              "published_at": "2026-03-23T09:45:00+09:00",
-              "description": "람보르기니는 2030년까지 순수 전기차 란자도르를 출시하는 계획을 철회하고 대신에 플러그인 하이브리드 모델을 내놓기로 했습니다. 슈테판 빈켈만 CEO는 &quot;순수 전기차에 대한 거부감이 늘고 있다&quot;며 &quot;차의 진동... ",
-              "source_name": "yonhapnewstv.co.kr"
-            },
-            {
-              "title": "포·람·페도 &quot;엔진 못 잃어&quot;…전세계 전기차 후퇴 비용 113조",
-              "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=02420646645386272",
-              "published_at": "2026-03-23T09:29:00+09:00",
-              "description": "람보르기니는 2030년까지 순수 전기차 란자도르를 출시하는 계획을 철회하고 플러그인 하이브리드 모델을 내놓기로 했다. 슈테판 빈켈만 CEO는 “차의 진동, 핸들링, 제동 등 내연차만의 감성적 요소가 있다”며 “순수... ",
-              "source_name": "edaily.co.kr"
             }
           ]
         }
