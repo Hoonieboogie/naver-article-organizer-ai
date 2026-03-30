@@ -1,6 +1,6 @@
 {
   "date": "2026-03-30",
-  "generated_at": "2026-03-30T09:19:02.532816+09:00",
+  "generated_at": "2026-03-30T09:20:29.523100+09:00",
   "sections": [
     {
       "name": "골프웨어",
@@ -52,6 +52,13 @@
         {
           "keyword": "미즈노",
           "articles": [
+            {
+              "title": "금호타이어, 日 ‘슈퍼 포뮬러 라이츠 선수권’ 공식 타이어 독점 공급...",
+              "url": "https://biz.heraldcorp.com/article/10705210?ref=naver",
+              "published_at": "2026-03-30T09:19:00+09:00",
+              "description": "어소시에이션 미즈노 대표이사가 후원 조인식에서 기념 촬영을 하고 있다. [금호타이어 제공] [헤럴드경제... 어소시에이션 미즈노 대표이사를 비롯한 양측 관계자들이 참석했다. 슈퍼 포뮬러 라이츠 챔피언십은 F1을... ",
+              "source_name": "biz.heraldcorp.com"
+            },
             {
               "title": "금호타이어, 일본 '슈퍼 포뮬러 라이츠' 타이어 독점 공급 연장",
               "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3059300",
@@ -151,17 +158,17 @@
               "source_name": "sedaily.com"
             },
             {
-              "title": "챌린저 2026 봄·여름 펑셔널 아키텍처 컬렉션[필드소식]",
-              "url": "https://www.sedaily.com/article/20025544?ref=naver",
-              "published_at": "2026-03-30T07:22:00+09:00",
-              "description": "유틸리티 골프웨어 브랜드 챌린저가 2026년 S/S(봄·여름) 시즌을 맞아 선보인 펑셔널 아키텍처 컬렉션은 브랜드가 추구하는 철학을 구체화한 라인업이다. 챌린저가 기치로 내건 한 줄은 ‘스타일은 완벽한 기능성으로부터... ",
-              "source_name": "sedaily.com"
-            },
-            {
               "title": "황유민·플리트우드가 입는 매드캐토스[필드소식]",
               "url": "https://www.sedaily.com/article/20025543?ref=naver",
               "published_at": "2026-03-30T07:22:00+09:00",
               "description": "이 브랜드는 2023년 론칭한 국내 골프웨어 브랜드 매드캐토스다. 시니어 무대인 PGA 투어 챔피언스에서 활약 중인 양용은을 비롯해 일본여자프로골프(JLPGA) 투어의 신지애, 미국여자프로골프(LPGA) 투어의 유해란, 황유민... ",
+              "source_name": "sedaily.com"
+            },
+            {
+              "title": "챌린저 2026 봄·여름 펑셔널 아키텍처 컬렉션[필드소식]",
+              "url": "https://www.sedaily.com/article/20025544?ref=naver",
+              "published_at": "2026-03-30T07:22:00+09:00",
+              "description": "유틸리티 골프웨어 브랜드 챌린저가 2026년 S/S(봄·여름) 시즌을 맞아 선보인 펑셔널 아키텍처 컬렉션은 브랜드가 추구하는 철학을 구체화한 라인업이다. 챌린저가 기치로 내건 한 줄은 ‘스타일은 완벽한 기능성으로부터... ",
               "source_name": "sedaily.com"
             },
             {
@@ -297,18 +304,18 @@
               "source_name": "digitaltoday.co.kr"
             },
             {
-              "title": "영풍-고려아연 '이그니오 투자 배임 공방' 소송전 막 오른다",
-              "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=420092",
-              "published_at": "2026-03-29T10:00:00+09:00",
-              "description": "이번 사건은 미국 법원의 디스커버리(증거개시) 절차가 병행되고 있다는 점이 특징이다. 영풍은 외국 소송 지원을 위한 미국 연방법 제1782조에 따라 뉴욕 남부지방법원에 증거개시를 신청해 관련 자료 확보에 나섰다.... ",
-              "source_name": "sisajournal-e.com"
-            },
-            {
               "title": "&quot;증거 확보…공정성 위해 디스커버리 도입 필요&quot;",
               "url": "https://www.junggi.co.kr/news/articleView.html?idxno=35689",
               "published_at": "2026-03-29T10:00:00+09:00",
               "description": "위해 디스커버리(증거개시) 제도를 도입해야 한다는 주장이 나오고 있다. 특히 문서제출명령 제도 강화와 증언녹취 제도 도입 등 한국 민사소송 체계에 맞춘 '한국형 디스커버리' 제도가 필요하다는 것이다. 김주영... ",
               "source_name": "junggi.co.kr"
+            },
+            {
+              "title": "영풍-고려아연 '이그니오 투자 배임 공방' 소송전 막 오른다",
+              "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=420092",
+              "published_at": "2026-03-29T10:00:00+09:00",
+              "description": "이번 사건은 미국 법원의 디스커버리(증거개시) 절차가 병행되고 있다는 점이 특징이다. 영풍은 외국 소송 지원을 위한 미국 연방법 제1782조에 따라 뉴욕 남부지방법원에 증거개시를 신청해 관련 자료 확보에 나섰다.... ",
+              "source_name": "sisajournal-e.com"
             }
           ]
         },
@@ -480,11 +487,11 @@
               "source_name": "apparelnews.co.kr"
             },
             {
-              "title": "[더벨][i-point] SAMG엔터, 롯데마트 토이저러스에 ‘더티니핑 미니’ 매...",
-              "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202603300728376500108247",
+              "title": "SAMG엔터, 롯데마트 토이저러스에 ‘더티니핑 미니’ 오픈",
+              "url": "http://www.apparelnews.co.kr/news/news_view/?idx=224231",
               "published_at": "2026-03-30T08:58:00+09:00",
               "description": "이번 매장은 지난해 12월 서울 성수동에 문을 연 약 80평 규모 플래그십 스토어 ‘더티니핑 성수’의 운영 경험을 바탕으로 기획된 리테일 확장 모델이다. 업계에서는 ‘더티니핑 성수’가 마이핑 커스터마이징 존과... ",
-              "source_name": "thebell.co.kr"
+              "source_name": "apparelnews.co.kr"
             },
             {
               "title": "'더티니핑 미니' 롯데마트 토이저러스 입점…오프라인망 확대",
@@ -494,11 +501,11 @@
               "source_name": "slist.kr"
             },
             {
-              "title": "SAMG엔터, 롯데마트 토이저러스에 ‘더티니핑 미니’ 오픈",
-              "url": "http://www.apparelnews.co.kr/news/news_view/?idx=224231",
+              "title": "[더벨][i-point] SAMG엔터, 롯데마트 토이저러스에 ‘더티니핑 미니’ 매...",
+              "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202603300728376500108247",
               "published_at": "2026-03-30T08:58:00+09:00",
               "description": "이번 매장은 지난해 12월 서울 성수동에 문을 연 약 80평 규모 플래그십 스토어 ‘더티니핑 성수’의 운영 경험을 바탕으로 기획된 리테일 확장 모델이다. 업계에서는 ‘더티니핑 성수’가 마이핑 커스터마이징 존과... ",
-              "source_name": "apparelnews.co.kr"
+              "source_name": "thebell.co.kr"
             },
             {
               "title": "SAMG엔터, 롯데마트 토이저러스에 '더티니핑 미니' 매장 오픈",
@@ -515,18 +522,18 @@
               "source_name": "popcornnews.net"
             },
             {
-              "title": "신세계인터 '브루넬로 쿠치넬리', 26 SS 프레젠테이션 개최",
-              "url": "http://www.apparelnews.co.kr/news/news_view/?idx=224229",
-              "published_at": "2026-03-30T08:46:00+09:00",
-              "description": "공간‧패션‧미식 결합한 럭셔리 체험 콘텐츠 강화 신세계인터내셔날(대표 김덕주)이 수입하는 이탈리아 럭셔리 브랜드 브루넬로 쿠치넬리(Brunello Cucinelli)가 서울 청담 플래그십 스토어에서 브랜드의 헤리티지가 담긴... ",
-              "source_name": "apparelnews.co.kr"
-            },
-            {
               "title": "SAMG엔터, 롯데마트 토이저러스에 '더티니핑 미니' 출점…오프라인 IP 확...",
               "url": "https://view.asiae.co.kr/article/2026033008464112868",
               "published_at": "2026-03-30T08:46:00+09:00",
               "description": "이번 매장은 지난해 12월 서울 성수동에 오픈한 약 80평 규모의 플래그십 스토어 '더티니핑 성수' 운영 경험을 토대로 기획된 리테일 확장 모델이다. 업계에서는 '더티니핑 성수'가 마이핑 커스터마이징 존과 캐릭터... ",
               "source_name": "asiae.co.kr"
+            },
+            {
+              "title": "신세계인터 '브루넬로 쿠치넬리', 26 SS 프레젠테이션 개최",
+              "url": "http://www.apparelnews.co.kr/news/news_view/?idx=224229",
+              "published_at": "2026-03-30T08:46:00+09:00",
+              "description": "공간‧패션‧미식 결합한 럭셔리 체험 콘텐츠 강화 신세계인터내셔날(대표 김덕주)이 수입하는 이탈리아 럭셔리 브랜드 브루넬로 쿠치넬리(Brunello Cucinelli)가 서울 청담 플래그십 스토어에서 브랜드의 헤리티지가 담긴... ",
+              "source_name": "apparelnews.co.kr"
             },
             {
               "title": "숫자로 입증된 글로벌 '아미'의 힘...BTS 공연 전후 외국인 카드 사용액...",
@@ -536,18 +543,18 @@
               "source_name": "livebiz.today"
             },
             {
-              "title": "&quot;5월 연휴, 미리 예약하세요&quot;…여행업계, 올 상반기 성수기 시장선점 '치...",
-              "url": "https://www.youthdaily.co.kr/news/article.html?no=216314",
-              "published_at": "2026-03-30T08:00:00+09:00",
-              "description": "이 상품은 상하이의 랜드마크로 불리는 동방명주탑을 비롯해 상하이 대한민국 임시정부청사·신천지 등의 핵심 관광지와 와이탄·판롱티엔디·디즈니 차이나 플래그십 스토어 등을 방문한다. 또한 천고정쇼를 비롯해 현지... ",
-              "source_name": "youthdaily.co.kr"
-            },
-            {
               "title": "‘K대표 관광지’ 노린다…명동 한복판에 170종 라면 모은 이마트24 [편...",
               "url": "https://economist.co.kr/article/view/ecn202603250074",
               "published_at": "2026-03-30T08:00:00+09:00",
               "description": "이마트24는 지난해 11월 플래그십스토어 ‘트렌드랩 성수점’을 시작으로 지난 13일 디저트 특화 점포 ‘디저트랩 서울숲점’을 선보이며 MZ세대를 공략한 이색 점포를 잇따라 열었다. 디저트, K-푸드 외 새로운 주제의... ",
               "source_name": "economist.co.kr"
+            },
+            {
+              "title": "&quot;5월 연휴, 미리 예약하세요&quot;…여행업계, 올 상반기 성수기 시장선점 '치...",
+              "url": "https://www.youthdaily.co.kr/news/article.html?no=216314",
+              "published_at": "2026-03-30T08:00:00+09:00",
+              "description": "이 상품은 상하이의 랜드마크로 불리는 동방명주탑을 비롯해 상하이 대한민국 임시정부청사·신천지 등의 핵심 관광지와 와이탄·판롱티엔디·디즈니 차이나 플래그십 스토어 등을 방문한다. 또한 천고정쇼를 비롯해 현지... ",
+              "source_name": "youthdaily.co.kr"
             },
             {
               "title": "황유민·플리트우드가 입는 매드캐토스[필드소식]",
@@ -610,6 +617,13 @@
         {
           "keyword": "팝업",
           "articles": [
+            {
+              "title": "극장서 느끼는 아날로그 감성…롯데시네마, ‘인스탁스’ 팝업 오픈",
+              "url": "https://isplus.com/article/view/isp202603300034",
+              "published_at": "2026-03-30T09:18:00+09:00",
+              "description": "시네마’ 팝업스토어를 개최한다고 30일 밝혔다. 극장에서 느끼는 설렘과 감동을 사진으로 기록하고 간직할 수 있는 자리로, 차별화된 ‘체험형 문화 공간’으로서 경험을 선사한다는 취지다. 팝업 공간에서는 다양한 체험... ",
+              "source_name": "isplus.com"
+            },
             {
               "title": "프리미엄 카드 커버 '고스티', 서울숲 쇼룸 2호점 오픈",
               "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4074839",
@@ -681,18 +695,18 @@
               "source_name": "m-i.kr"
             },
             {
-              "title": "롯데百, '롯데백화점 앰배서더 1기' 모집",
-              "url": "https://www.cstimes.com/news/articleView.html?idxno=699887",
-              "published_at": "2026-03-30T09:00:00+09:00",
-              "description": "이 중 최우수 앰배서더로 선정된 인플루언서와는 롯데백화점 팝업 개최를 비롯해 브랜드와의 협업 등 공동 사업 추진도 검토할 계획이다. 최성철 롯데백화점 AI STUDIO장은 &quot;개인별 콘텐츠 소비 방식이 세분화되며 '취향... ",
-              "source_name": "cstimes.com"
-            },
-            {
               "title": "[한밭도서관] 엄유진·곽민수·조현영·김시천…작가와의 만남, 인문학...",
               "url": "https://www.lecturernews.com/news/articleView.html?idxno=199533",
               "published_at": "2026-03-30T09:00:00+09:00",
               "description": "또한 세계 각국의 그림책 원화를 감상하고 참여형 팝업도서관 운영을 통해 시민 소통과 화합의 장을 마련하는'그림책으로 떠나는 세계여행 with 도서관주간 展'도 함께 운영한다 이 밖에도 연계 행사로 4월 16일 오전... ",
               "source_name": "lecturernews.com"
+            },
+            {
+              "title": "롯데百, '롯데백화점 앰배서더 1기' 모집",
+              "url": "https://www.cstimes.com/news/articleView.html?idxno=699887",
+              "published_at": "2026-03-30T09:00:00+09:00",
+              "description": "이 중 최우수 앰배서더로 선정된 인플루언서와는 롯데백화점 팝업 개최를 비롯해 브랜드와의 협업 등 공동 사업 추진도 검토할 계획이다. 최성철 롯데백화점 AI STUDIO장은 &quot;개인별 콘텐츠 소비 방식이 세분화되며 '취향... ",
+              "source_name": "cstimes.com"
             },
             {
               "title": "전국민 크리에이터 시대...롯데百, 롯데백화점 앰배서더 모집",
@@ -709,13 +723,6 @@
               "source_name": "economist.co.kr"
             },
             {
-              "title": "[유통딜리버리] 롯데百ㆍ쿠팡ㆍ롯데마트ㆍCUㆍ이마트24ㆍGS더프레시ㆍ무...",
-              "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202603300837460990081",
-              "published_at": "2026-03-30T09:00:00+09:00",
-              "description": "최우수 앰배서더에게는 롯데백화점 팝업 개최 등 공동 사업 기회도 제공한다. ▲쿠팡, 으뜸효율가전 환급사업 단일 채널 최대 실적 쿠팡이 정부의 ‘으뜸효율가전 환급사업’에서 환급액 227억5000만원을 기록했다.... ",
-              "source_name": "dnews.co.kr"
-            },
-            {
               "title": "LG전자 베스트샵 롯데 메종 동부산점, 'LG전자 X 한샘가구' 협업 팝업스...",
               "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1052464",
               "published_at": "2026-03-30T09:00:00+09:00",
@@ -730,6 +737,13 @@
               "source_name": "fashionbiz.co.kr"
             },
             {
+              "title": "[유통딜리버리] 롯데百ㆍ쿠팡ㆍ롯데마트ㆍCUㆍ이마트24ㆍGS더프레시ㆍ무...",
+              "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202603300837460990081",
+              "published_at": "2026-03-30T09:00:00+09:00",
+              "description": "최우수 앰배서더에게는 롯데백화점 팝업 개최 등 공동 사업 기회도 제공한다. ▲쿠팡, 으뜸효율가전 환급사업 단일 채널 최대 실적 쿠팡이 정부의 ‘으뜸효율가전 환급사업’에서 환급액 227억5000만원을 기록했다.... ",
+              "source_name": "dnews.co.kr"
+            },
+            {
               "title": "성수에 띄운 '샌드사운드'···삼성물산 패션, 신생 브랜드 육성 공식 ...",
               "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2412117",
               "published_at": "2026-03-30T08:59:00+09:00",
@@ -742,13 +756,6 @@
               "published_at": "2026-03-30T08:58:00+09:00",
               "description": "일회성 팝업이 아닌 지역 고유의 분위기와 이야기가 살아 있는 골목 상권을 무대로 삼아 소비자가 걷고, 들르고, 마시는 흐름 속에서 한맥의 생맥주 경험을 자연스럽게 쌓도록 유도한다는 계획이다. 오는 4월 19일까지인... ",
               "source_name": "bizwnews.com"
-            },
-            {
-              "title": "화폐 속 위인들, 현금없는 세상에 맞서 환생",
-              "url": "https://www.sedaily.com/article/20025576?ref=naver",
-              "published_at": "2026-03-30T08:57:00+09:00",
-              "description": "또한 최근 큰 인기를 얻고 있는 ‘화폐굿즈’ 제품 일환으로 ‘캐릭터 굿즈’를 제작하고 팝업 행사 등을 통해 고객 접점을 넓히는 등 고객층 또한 한층 확대될 것으로 기대하고 있다. 조폐공사 성창훈 사장은 “화폐는... ",
-              "source_name": "sedaily.com"
             }
           ]
         }
@@ -873,10 +880,10 @@
               "source_name": "sidae.com"
             },
             {
-              "title": "더 똑똑해진 벤츠 … 차량흐름 분석해 알아서 차선변경",
-              "url": "https://www.mk.co.kr/article/12001602",
+              "title": "아우디, 외관부터 실내까지 … 세련美의 정석",
+              "url": "https://www.mk.co.kr/article/12001603",
               "published_at": "2026-03-29T16:16:00+09:00",
-              "description": "메르세데스-벤츠 '디 올 뉴 일렉트릭 GLC' AI 기반 전기차로 재탄생 충전·자율주행·인포테인먼트 하나의 플랫폼서 통합 제어 내연기관차보다 넓어진 공간 1회 충전해 최대 715㎞ 주행 메르세데스-벤츠의 스테디셀러... ",
+              "description": "다른 독일 3사 수입차인 메르세데스-벤츠가 품격, BMW가 달리는 재미를 앞세울 때 아우디는 우아한 감각을 강조해왔다. 이번에 시승한 3세대 '더 뉴 아우디 Q5 40 TDI 콰트로'는 그 기대를 그대로 충족시켰다. 예쁜 외관... ",
               "source_name": "mk.co.kr"
             },
             {
@@ -887,10 +894,10 @@
               "source_name": "mk.co.kr"
             },
             {
-              "title": "아우디, 외관부터 실내까지 … 세련美의 정석",
-              "url": "https://www.mk.co.kr/article/12001603",
+              "title": "더 똑똑해진 벤츠 … 차량흐름 분석해 알아서 차선변경",
+              "url": "https://www.mk.co.kr/article/12001602",
               "published_at": "2026-03-29T16:16:00+09:00",
-              "description": "다른 독일 3사 수입차인 메르세데스-벤츠가 품격, BMW가 달리는 재미를 앞세울 때 아우디는 우아한 감각을 강조해왔다. 이번에 시승한 3세대 '더 뉴 아우디 Q5 40 TDI 콰트로'는 그 기대를 그대로 충족시켰다. 예쁜 외관... ",
+              "description": "메르세데스-벤츠 '디 올 뉴 일렉트릭 GLC' AI 기반 전기차로 재탄생 충전·자율주행·인포테인먼트 하나의 플랫폼서 통합 제어 내연기관차보다 넓어진 공간 1회 충전해 최대 715㎞ 주행 메르세데스-벤츠의 스테디셀러... ",
               "source_name": "mk.co.kr"
             },
             {
@@ -948,17 +955,17 @@
               "source_name": "dailycar.co.kr"
             },
             {
-              "title": "BMW, 글로벌 어워즈 싹쓸이 배경…전기차 올인 아닌 '균형 전략'",
-              "url": "https://www.asiatoday.co.kr/view.php?key=20260329010008680",
-              "published_at": "2026-03-30T07:42:00+09:00",
-              "description": "업체 BMW가 글로벌 자동차 시장의 혼란 속에서 '잡식성' 전략으로 경쟁력을 키우고 있다. 전기차 전환의... 결과는 BMW의 '멀티 파워트레인' 전략이 글로벌 표준으로 인정받았음을 시사한다. 내연기관에만 머물지도... ",
-              "source_name": "asiatoday.co.kr"
-            },
-            {
               "title": "BMW M, 반세기 기술 축적…트랙 DNA로 완성된 고성능 브랜드",
               "url": "https://www.asiatoday.co.kr/view.php?key=20260329010008711",
               "published_at": "2026-03-30T07:42:00+09:00",
               "description": "1972년 BMW 모터스포츠 GmbH 출범 1978년 첫 독자 양산 BMW M1 출시 국내에는 1999년 M5로 처음 도입돼 전동화 흐름 대응…2023년 XM 출시 모터스포츠에서 출발한 BMW M이 반세기 넘는 시간 동안 기술 진화를 거듭하며... ",
+              "source_name": "asiatoday.co.kr"
+            },
+            {
+              "title": "BMW, 글로벌 어워즈 싹쓸이 배경…전기차 올인 아닌 '균형 전략'",
+              "url": "https://www.asiatoday.co.kr/view.php?key=20260329010008680",
+              "published_at": "2026-03-30T07:42:00+09:00",
+              "description": "업체 BMW가 글로벌 자동차 시장의 혼란 속에서 '잡식성' 전략으로 경쟁력을 키우고 있다. 전기차 전환의... 결과는 BMW의 '멀티 파워트레인' 전략이 글로벌 표준으로 인정받았음을 시사한다. 내연기관에만 머물지도... ",
               "source_name": "asiatoday.co.kr"
             },
             {
@@ -969,18 +976,18 @@
               "source_name": "sedaily.com"
             },
             {
-              "title": "[단독] 지커, 5월 초 대치동 '1호 전시장' 오픈…BMW·벤츠·렉서스에 도...",
-              "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1703786",
-              "published_at": "2026-03-30T06:56:00+09:00",
-              "description": "지커 1호 전시장이 들어서는 해당 지역은 메르세데스-벤츠, BMW, 포르쉐, 재규어랜드로버, 애스턴마틴, 현대차·기아 등 브랜드의 전시장이 밀접해 있다. 프리미엄 브랜드라는 이미지를 각인시키기 위해 전략적으로... ",
-              "source_name": "ebn.co.kr"
-            },
-            {
               "title": "파라다이스 호텔 부산, '수안커피컴퍼니' 객실 패키지 출시",
               "url": "https://www.slist.kr/news/articleView.html?idxno=727616",
               "published_at": "2026-03-30T06:56:00+09:00",
               "description": "오션스파 씨메르와 야외 오션스파 풀을 무제한으로 이용 가능하며 BMW 키즈 드라이빙, 플레이 랩, 하바 키즈 라운지와 웅진 북클럽 등 다채로운 가족 단위 프로그램도 제공된다.",
               "source_name": "slist.kr"
+            },
+            {
+              "title": "[단독] 지커, 5월 초 대치동 '1호 전시장' 오픈…BMW·벤츠·렉서스에 도...",
+              "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1703786",
+              "published_at": "2026-03-30T06:56:00+09:00",
+              "description": "지커 1호 전시장이 들어서는 해당 지역은 메르세데스-벤츠, BMW, 포르쉐, 재규어랜드로버, 애스턴마틴, 현대차·기아 등 브랜드의 전시장이 밀접해 있다. 프리미엄 브랜드라는 이미지를 각인시키기 위해 전략적으로... ",
+              "source_name": "ebn.co.kr"
             },
             {
               "title": "‘안방 내주면 끝’⋯ 정의선 칼 빼든 제네시스, 수뇌부 갈아엎고 전면...",
@@ -1450,17 +1457,17 @@
               "source_name": "dailycar.co.kr"
             },
             {
-              "title": "[포토] 이수혁 '젠틀한 블랙앤화이트룩'",
-              "url": "https://www.slist.kr/news/articleView.html?idxno=727635",
-              "published_at": "2026-03-30T07:24:00+09:00",
-              "description": "kr이수혁 ©최은희기자 oso0@slist.kr 배우 이수혁이 26일 오후 서울 종로구 푸투라 서울에서 열린 '톰 포드 뷰티' 블랙 오키드 리저브 코리아 행사 포토월 행사에 참석했다.",
-              "source_name": "slist.kr"
-            },
-            {
               "title": "[포토] 이수혁 '안경 하나로 완성한 지적인 긱시크 무드'",
               "url": "https://www.slist.kr/news/articleView.html?idxno=727636",
               "published_at": "2026-03-30T07:24:00+09:00",
               "description": "이수혁 ©최은희기자 oso0@slist.kr이수혁 ©최은희기자 oso0@slist.kr이수혁 ©최은희기자 oso0@slist.kr이수혁 ©최은희기자 oso0@slist.kr 배우 이수혁이 26일 오후 서울 종로구 푸투라 서울에서 열린 '톰 포드... ",
+              "source_name": "slist.kr"
+            },
+            {
+              "title": "[포토] 이수혁 '젠틀한 블랙앤화이트룩'",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=727635",
+              "published_at": "2026-03-30T07:24:00+09:00",
+              "description": "kr이수혁 ©최은희기자 oso0@slist.kr 배우 이수혁이 26일 오후 서울 종로구 푸투라 서울에서 열린 '톰 포드 뷰티' 블랙 오키드 리저브 코리아 행사 포토월 행사에 참석했다.",
               "source_name": "slist.kr"
             },
             {
@@ -1595,18 +1602,18 @@
               "source_name": "asiae.co.kr"
             },
             {
-              "title": "채비, 캐나다 '포시즌'에 초급속 충전기 연간 100기 공급",
-              "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=01990966645388568",
-              "published_at": "2026-03-30T08:16:00+09:00",
-              "description": "초기 비용 없이 주요 부지를 선점할 수 있다는 점이 테슬라 등 경쟁사 대비 핵심 강점으로 꼽힌다. 이번 계약에 따라 채비는 포시즌에 400kW 초급속 충전기(CCS1·NACS 커넥터 지원)를 공급하며, 초기 3개월간 기술 교육... ",
-              "source_name": "edaily.co.kr"
-            },
-            {
               "title": "[개장] 뉴욕증시, 이란 핵시설 공습으로 급락",
               "url": "https://mdtoday.co.kr/news/view/1065568130640751",
               "published_at": "2026-03-30T08:16:00+09:00",
               "description": "62% 하락했으며, 엔비디아와 테슬라도 각각 2% 넘게 내렸다. 메타는 4% 가량 급락했다. 금융투자업계에 따르면 지난 23~27일 5거래일 동안 엔비디아, 애플, 알파벳(구글), 마이크로소프트, 아마존, 메타, 테슬라로... ",
               "source_name": "mdtoday.co.kr"
+            },
+            {
+              "title": "채비, 캐나다 '포시즌'에 초급속 충전기 연간 100기 공급",
+              "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=01990966645388568",
+              "published_at": "2026-03-30T08:16:00+09:00",
+              "description": "초기 비용 없이 주요 부지를 선점할 수 있다는 점이 테슬라 등 경쟁사 대비 핵심 강점으로 꼽힌다. 이번 계약에 따라 채비는 포시즌에 400kW 초급속 충전기(CCS1·NACS 커넥터 지원)를 공급하며, 초기 3개월간 기술 교육... ",
+              "source_name": "edaily.co.kr"
             },
             {
               "title": "채비, 캐나다 포시즌에 초급속 충전기 공급",
@@ -1623,18 +1630,18 @@
               "source_name": "biz.sbs.co.kr"
             },
             {
-              "title": "K-배터리의 역습… LG엔솔, 美 전력망 배터리 ‘자급자족’ 시대 개막의...",
-              "url": "https://www.g-enews.com/view.php?ud=2026033008000458140c8c1c064d_1",
-              "published_at": "2026-03-30T08:02:00+09:00",
-              "description": "LG엔솔은 미시간 랜싱 공장을 전력망 배터리 전용으로 전환하며 테슬라와 43억 달러(약 6조 5,000억 원)... 테슬라와의 대규모 계약은 한국 배터리의 품질과 양산 능력이 세계 최고임을 재입증했다. 향후 삼성SDI와 SK온... ",
-              "source_name": "g-enews.com"
-            },
-            {
               "title": "'LG엔솔 덕분' 美 ESS 자립 첫 발",
               "url": "https://www.theguru.co.kr/news/article.html?no=99836",
               "published_at": "2026-03-30T08:02:00+09:00",
               "description": "삼성SDI와 SK온, 테슬라 등 글로벌 기업들도 ESS 시장에 진출했다. 삼성SDI는 글로벌 완성차 업체 스텔란티스와 합작해 구축한 배터리 공장을 ESS용 LFP로 활용하고, SK온은 올해 하반기부터 미국에서 ESS용 LFP... ",
               "source_name": "theguru.co.kr"
+            },
+            {
+              "title": "K-배터리의 역습… LG엔솔, 美 전력망 배터리 ‘자급자족’ 시대 개막의...",
+              "url": "https://www.g-enews.com/view.php?ud=2026033008000458140c8c1c064d_1",
+              "published_at": "2026-03-30T08:02:00+09:00",
+              "description": "LG엔솔은 미시간 랜싱 공장을 전력망 배터리 전용으로 전환하며 테슬라와 43억 달러(약 6조 5,000억 원)... 테슬라와의 대규모 계약은 한국 배터리의 품질과 양산 능력이 세계 최고임을 재입증했다. 향후 삼성SDI와 SK온... ",
+              "source_name": "g-enews.com"
             },
             {
               "title": "뉴욕증시 3대 지수, 7개월래 최저...M7 시총 3,300억 달러 증발-[글로벌...",
@@ -1651,11 +1658,11 @@
               "source_name": "sbs.co.kr"
             },
             {
-              "title": "머스크의 xAI, 공동창업자 전원 이탈…3년 만에 ‘창업 멤버 0명’",
-              "url": "https://economist.co.kr/article/view/ecn202603300001",
+              "title": "기업들 모두 잠잠한데...스트래티지, 나홀로 비트코인 공격적 매수",
+              "url": "http://coinreaders.com/227526",
               "published_at": "2026-03-30T07:46:00+09:00",
-              "description": "노딘은 테슬라 자율주행 팀에서 기술 프로그램 매니저로 일하다가 2023년 xAI 창업에 합류한 인물로, 머스크에게 직접 보고하던 핵심 측근으로 꼽혀왔다. 또 구글 출신인 크로이스는 AI 모델의 사전 학습과 코딩 모델 개선... ",
-              "source_name": "economist.co.kr"
+              "description": "테슬라(Tesla)와 블록(Block) 등 한때 시장을 주도했던 기업들이 거시 경제적 불확실성과 규제 압박 속에서... 반면 테슬라는 9,720BTC를 보유한 이후 수분기 동안 추가 매수나 매도를 진행하지 않으며 보수적인 태도를... ",
+              "source_name": "coinreaders.com"
             }
           ]
         },
@@ -1682,19 +1689,19 @@
               "published_at": "2026-03-29T14:28:00+09:00",
               "description": "최근 찾은 스웨덴 전기차 브랜드 폴스타의 공식 전시장 '스페이스 대구'는 단순 판매 공간을 넘어 브랜드... 폴스타의 대표 모델 '폴스타4'는 지난해 국내에서 2천대 이상 판매되며 존재감을 입증했다. 영남권에서... ",
               "source_name": "imaeil.com"
-            },
-            {
-              "title": "“멍청이나 타는 포르쉐”…욕 먹을 수록 좋단다, ‘혼쭐 대신 돈쭐’ ...",
-              "url": "https://www.mk.co.kr/article/11998959",
-              "published_at": "2026-03-29T09:20:00+09:00",
-              "description": "타이칸은 벤츠, BMW, 아우디, 마세라티, 폴스타, 제네시스, 현대차, 기아에 ‘고성능 전기차’ 화두를 던졌습니다. 슈퍼 SUV 시대를 연 카이엔처럼 말이죠. 배신→혁신, K-배터리도 품었다 포르쉐는 전동화 리더 자리를... ",
-              "source_name": "mk.co.kr"
             }
           ]
         },
         {
           "keyword": "람보르기니",
           "articles": [
+            {
+              "title": "람보르기니 서울, 창립 10주년 기념 갈라 디너 성료",
+              "url": "http://www.press9.kr/news/articleView.html?idxno=74225",
+              "published_at": "2026-03-30T09:20:00+09:00",
+              "description": "람보르기니 서울은 창립 10주년을 기념해 지난 25일 서울 삼성동에 위치한 웨스틴 서울 파르나스에서 개최한 '람보르기니 서울 10주년 갈라 디너'를 성황리에 마쳤다. 이번 행사는 람보르기니 서울이 걸어온 지난 10년을... ",
+              "source_name": "press9.kr"
+            },
             {
               "title": "[모빌리티리포트] 비틀서 골프까지 89년...‘괴물 해치백’ 전설은 계속...",
               "url": "https://www.sedaily.com/article/20025385?ref=naver",
@@ -1708,13 +1715,6 @@
               "published_at": "2026-03-29T11:28:00+09:00",
               "description": "도끼는 롤스로이스, 벤틀리, 람보르기니, BMW i8, 페라리 등 슈퍼카를 7대 이상 보유하며 차 값만 총 20억 원 이상을 자랑하기도 했다. 2016년 당시 도끼의 1년 저작권료 수입은 10억 원, 연 수입은 50억 원으로 알려졌다.... ",
               "source_name": "starnewskorea.com"
-            },
-            {
-              "title": "“멍청이나 타는 포르쉐”…욕 먹을 수록 좋단다, ‘혼쭐 대신 돈쭐’ ...",
-              "url": "https://www.mk.co.kr/article/11998959",
-              "published_at": "2026-03-29T09:20:00+09:00",
-              "description": "포르쉐보다 한 수 위라고 뽐냈던 람보르기니, 페라리, 벤틀리 등 슈퍼카·럭셔리 브랜드들도 처음에는 ‘안... 람보르기니 우루스, 마세라티 르반떼, 벤틀리 벤테이가, 롤스로이스 컬리넌, 페라리 푸로산게 등도 카이엔... ",
-              "source_name": "mk.co.kr"
             }
           ]
         }
