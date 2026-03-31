@@ -1,6 +1,6 @@
 {
   "date": "2026-03-31",
-  "generated_at": "2026-03-31T09:02:32.578071+09:00",
+  "generated_at": "2026-03-31T09:08:50.772546+09:00",
   "sections": [
     {
       "name": "골프웨어",
@@ -427,17 +427,17 @@
               "source_name": "hansbiz.co.kr"
             },
             {
-              "title": "[로펌] AI 융합 컴플라이언스 컨설팅 통해 기업 리스크 차단",
-              "url": "https://www.joongang.co.kr/article/25416198",
-              "published_at": "2026-03-31T05:31:00+09:00",
-              "description": "최근 변호사와 의뢰인 간 비밀유지권 명문화, 한국형 디스커버리 도입 등 법률과 제도의 변화는 기업에... 특히 변호사-의뢰인 간 비밀유지권(ACP)과 한국형 디스커버리 이슈와 관련해 비밀유지권이 단순히 조사 대응... ",
-              "source_name": "joongang.co.kr"
-            },
-            {
               "title": "[로펌] 증거 개시 제도 대응부터 소송까지 원스톱 해결",
               "url": "https://www.joongang.co.kr/article/25416189",
               "published_at": "2026-03-31T05:31:00+09:00",
               "description": "율촌, 디스커버리 센터 운영 포렌식 전문가 등 분야별 드림팀 소송 전 과정 융합형 법률서비스 IFC 분쟁 승소, 2830억원 받아내 법무법인 율촌은 2021년부터 디스커버리 센터를 운영했다. 디스커버리 제도의 본토 미국에서... ",
+              "source_name": "joongang.co.kr"
+            },
+            {
+              "title": "[로펌] AI 융합 컴플라이언스 컨설팅 통해 기업 리스크 차단",
+              "url": "https://www.joongang.co.kr/article/25416198",
+              "published_at": "2026-03-31T05:31:00+09:00",
+              "description": "최근 변호사와 의뢰인 간 비밀유지권 명문화, 한국형 디스커버리 도입 등 법률과 제도의 변화는 기업에... 특히 변호사-의뢰인 간 비밀유지권(ACP)과 한국형 디스커버리 이슈와 관련해 비밀유지권이 단순히 조사 대응... ",
               "source_name": "joongang.co.kr"
             },
             {
@@ -610,6 +610,13 @@
           "keyword": "플래그십 스토어",
           "articles": [
             {
+              "title": "설화수, 신제품 '윤조아이세럼' 출시",
+              "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=266506",
+              "published_at": "2026-03-31T09:02:00+09:00",
+              "description": "설화수의 신제품 '윤조아이세럼'은 오는 4월부터 아모레퍼시픽 공식 온라인몰, 설화수 플래그십 스토어, 전국 주요 백화점 및 면세점에서 만나볼 수 있다. 비지니스코리아",
+              "source_name": "businesskorea.co.kr"
+            },
+            {
               "title": "DJI 국내 확장 비결… 체험·교육·브랜딩 삼박자 통했다",
               "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=56961",
               "published_at": "2026-03-31T09:00:00+09:00",
@@ -741,19 +748,19 @@
               "published_at": "2026-03-30T18:44:00+09:00",
               "description": "▲ 브루넬로 쿠치넬리 26SS 프레젠테이션 개최 신세계인터내셔날, 브루넬로 쿠치넬리 청담 플래그십서 26SS 컬렉션 프레젠테이션 신세계인터내셔날 브루넬로 쿠치넬리(Brunello Cucinelli)가 서울 청담 플래그십 스토어에... ",
               "source_name": "weeklytoday.com"
-            },
-            {
-              "title": "신세계인터내셔날 브루넬로 쿠치넬리, SS시즌 컬렉션 프레젠테이션 진행",
-              "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7157433",
-              "published_at": "2026-03-30T18:34:00+09:00",
-              "description": "신세계인터내셔날 브루넬로 쿠치넬리는 청담 플래그십 스토어에서 SS시즌 컬렉션 프레젠테이션을 진행했다. 사진=신세계인터내셔날 제공  신세계인터내셔날 브루넬로 쿠치넬리는 청담 플래그십 스토어에서 SS시즌 컬렉션... ",
-              "source_name": "weekly.hankooki.com"
             }
           ]
         },
         {
           "keyword": "팝업",
           "articles": [
+            {
+              "title": "성북구, 4월 3일부터 성북천서 ‘책읽는 성북천’·문화공연 '다시, 봄'...",
+              "url": "https://weekly.cnbnews.com/news/article.html?no=210485",
+              "published_at": "2026-03-31T09:08:00+09:00",
+              "description": "이미지=성북구청 서울 성북구(구청장 이승로)가 주민참여형 복합문화행사인 문화가 흐르는 성북천 「다시, 봄」과 팝업 야외도서관 「책읽는 성북천」을 오는 4월 3일부터 12일까지 10일간 성북구청 앞 성북천... ",
+              "source_name": "weekly.cnbnews.com"
+            },
             {
               "title": "성수동고릴라, 4월 성수 팝업 총정리…무신사·킥플립·SSG 랜더스 '눈길...",
               "url": "https://www.slist.kr/news/articleView.html?idxno=728054",
@@ -762,18 +769,18 @@
               "source_name": "slist.kr"
             },
             {
-              "title": "라부르켓, 메종 나비 첫 번째 끼리끼리 팝업 전시 '대비, 그 사이의 시학...",
-              "url": "http://www.sisunnews.co.kr/news/articleView.html?idxno=236115",
-              "published_at": "2026-03-31T09:00:00+09:00",
-              "description": "스웨덴 자연주의 라이프스타일 브랜드 라부르켓(L:A BRUKET)이 글로벌 크리에이티브 협업 플랫폼 메종 나비(MAISON NAVIE)의 첫 번째 끼리끼리 [KILIKILI] 플래그십 팝업 전시 《CONTRASTS — The Poetics of the In-Between (대비... ",
-              "source_name": "sisunnews.co.kr"
-            },
-            {
               "title": "성북구, '책읽는 성북천'·문화공연 '다시, 봄' 운영...4월 3일부터",
               "url": "https://www.gukjenews.com/news/articleView.html?idxno=3544242",
               "published_at": "2026-03-31T09:00:00+09:00",
               "description": "사진=성북천 수변활력거점에서 진행된 문화공연 모습/성북구청  성북구에서 「다시, 봄」과 팝업 야외도서관 「책읽는 성북천」을 오는 4월 3일부터 12일까지 10일간 성북구청 앞 성북천 수변활력거점 일대에서 진행한다.... ",
               "source_name": "gukjenews.com"
+            },
+            {
+              "title": "라부르켓, 메종 나비 첫 번째 끼리끼리 팝업 전시 '대비, 그 사이의 시학...",
+              "url": "http://www.sisunnews.co.kr/news/articleView.html?idxno=236115",
+              "published_at": "2026-03-31T09:00:00+09:00",
+              "description": "스웨덴 자연주의 라이프스타일 브랜드 라부르켓(L:A BRUKET)이 글로벌 크리에이티브 협업 플랫폼 메종 나비(MAISON NAVIE)의 첫 번째 끼리끼리 [KILIKILI] 플래그십 팝업 전시 《CONTRASTS — The Poetics of the In-Between (대비... ",
+              "source_name": "sisunnews.co.kr"
             },
             {
               "title": "기장군, ‘2026년 도서관의 날·도서관주간’ 행사 운영",
@@ -886,13 +893,6 @@
               "published_at": "2026-03-31T07:08:00+09:00",
               "description": "지난해 코치와 함께 서울 성수동에서 팝업스토어를 열었고, 톰브라운은 온라인 쇼케이스를 진행했다. 무신사 관계자는 &quot;명품은 단순히 상품을 판매하는 것뿐만 아니라 브랜드의 서사를 전파하는 것이 중요하다&quot;며 &quot;단순... ",
               "source_name": "fnnews.com"
-            },
-            {
-              "title": "[단독]中 불닭 인지도 꺾은 농심…'한강 라면' 앞세워 보폭 넓힌다",
-              "url": "https://view.asiae.co.kr/article/2026033009370612633",
-              "published_at": "2026-03-31T07:01:00+09:00",
-              "description": "31일 식품업계에 따르면 농심은 지난 27~29일 충칭 차오톈만 광장에서 '강변라면' 팝업스토어 행사를 진행했다. 중국 강변에 설치된 팝업스토어 부스에는 한강에서 주로 사용되는 라면 즉석조리기가 설치돼 강변에서... ",
-              "source_name": "asiae.co.kr"
             }
           ]
         }
@@ -1071,18 +1071,18 @@
               "source_name": "news1.kr"
             },
             {
-              "title": "한국타이어 '벤투스 에보', 유럽 타이어 테스트 잇단 1위",
-              "url": "https://www.joongangenews.com/news/articleView.html?idxno=507318",
-              "published_at": "2026-03-31T08:36:00+09:00",
-              "description": "한국타이어를 포함한 미쉐린(Michelin), 굿이어(Goodyear), 피렐리(Pirelli) 등 50개 브랜드 245/45R19 규격 제품을 BMW '5 시리즈' 차량에 장착해 마른 노면, 젖은 노면에서 10여 개 평가 항목에 대한 성능을 종합적으로... ",
-              "source_name": "joongangenews.com"
-            },
-            {
               "title": "한국타이어, 유럽 전문지 초고성능 타이어 테스트서 1위",
               "url": "https://www.busan.com/view/busan/view.php?code=2026033108302035286",
               "published_at": "2026-03-31T08:36:00+09:00",
               "description": "한국타이어를 포함한 미쉐린, 굿이어, 피렐리 등 50개 브랜드 245/45R19 규격 제품을 BMW 5시리즈 차량에 장착해 마른 노면, 젖은 노면에서 10여 개 평가 항목에 대한 성능을 종합적으로 테스트했다. 테스트 결과, 벤투스... ",
               "source_name": "busan.com"
+            },
+            {
+              "title": "한국타이어 '벤투스 에보', 유럽 타이어 테스트 잇단 1위",
+              "url": "https://www.joongangenews.com/news/articleView.html?idxno=507318",
+              "published_at": "2026-03-31T08:36:00+09:00",
+              "description": "한국타이어를 포함한 미쉐린(Michelin), 굿이어(Goodyear), 피렐리(Pirelli) 등 50개 브랜드 245/45R19 규격 제품을 BMW '5 시리즈' 차량에 장착해 마른 노면, 젖은 노면에서 10여 개 평가 항목에 대한 성능을 종합적으로... ",
+              "source_name": "joongangenews.com"
             },
             {
               "title": "한국타이어, 유럽 車 전문지 타이어 테스트서 최상위 성적 거둬",
@@ -1462,6 +1462,27 @@
           "keyword": "볼보",
           "articles": [
             {
+              "title": "기아 EV9, 볼보 제쳤다…북미·유럽서 어워즈 '싹쓸이'",
+              "url": "https://www.dailian.co.kr/news/view/1627388/?sc=Naver",
+              "published_at": "2026-03-31T09:05:00+09:00",
+              "description": "볼보의 플래그십 전기차 EX90(565점)을 18점 차로 제치고 1위를 차지했다. EV9 GT는 508마력의 강력한 성능을... 항목에서 볼보 EX90를 앞섰다. 글로벌 주요 어워즈에서의 수상 행진도 이어지고 있다. EV9은 최근 캐나다... ",
+              "source_name": "dailian.co.kr"
+            },
+            {
+              "title": "기아, EV9 북미·유럽서 연이은 수상 및 안전성 입증",
+              "url": "http://www.srtimes.kr/news/articleView.html?idxno=199979",
+              "published_at": "2026-03-31T09:04:00+09:00",
+              "description": "EV9 GT는 독일 자동차 전문 매체 '아우토빌트(Auto Bild)'가 최근 실시한 전기차 비교 평가에서 총점 583점을 획득하며 볼보의 플래그십 전기차 EX90(565점)을 제치고 1위를 차지했다. EV9 GT는 508마력의 강력한 성능을... ",
+              "source_name": "srtimes.kr"
+            },
+            {
+              "title": "기아 EV9, 해외 테스트서 연이은 '승전보'",
+              "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=253644",
+              "published_at": "2026-03-31T09:04:00+09:00",
+              "description": "획득, 볼보의 플래그십 전기차 EX90(565점)을 18점 차로 제치고 1위를 차지했다. EV9 GT는 508마력의 강력한... 항목에서 볼보 EX90를 앞섰다. 이는 아우토빌트 비교 평가에서 지난해 5월 EV9 GT-line이 볼보 EX90 트윈... ",
+              "source_name": "financialpost.co.kr"
+            },
+            {
               "title": "기아 EV9, 북미·유럽서 잇단 호평…전동화 SUV 존재감 키웠다",
               "url": "https://www.insightkorea.co.kr/news/articleView.html?idxno=243778",
               "published_at": "2026-03-31T09:00:00+09:00",
@@ -1579,27 +1600,6 @@
               "published_at": "2026-03-30T15:41:00+09:00",
               "description": "볼보자동차코리아 공식 딜러 아이언모터스(대표 김민규)가 롯데 자이언츠 김원중, 윤동희 선수를 공식... 두 선수는 아이언모터스 홍보대사로서 볼보의 플래그십 SUV인 XC90 B6 모델을 직접 운행하며, 다양한 대외 활동과... ",
               "source_name": "joongang.co.kr"
-            },
-            {
-              "title": "진해군항제 무료 셔틀버스에 관광객들 박수갈채",
-              "url": "https://www.sidae.com/article/2026033013552741612",
-              "published_at": "2026-03-30T15:01:00+09:00",
-              "description": "두산볼보에서 셔틀버스를 이용한 한 관광객은 &quot;진해로 향하는 터널을 지나며 기사님이 지역 안내와 벚꽃 투어 코스를 설명해 줬다&quot;며 &quot;버스 안에서 자연스럽게 박수가 나올 만큼 인상 깊었고 덕분에 초행길이 더욱 즐거운... ",
-              "source_name": "sidae.com"
-            },
-            {
-              "title": "BYD 이어 지커도 국내 상륙… '중국차 돌풍' 올까?",
-              "url": "http://www.seoulwire.com/news/articleView.html?idxno=714021",
-              "published_at": "2026-03-30T14:20:00+09:00",
-              "description": "전통의 수입차 강자인 아우디, 볼보, 폭스바겐도 제쳤다. 1월은 보조금 확정 시기라 보통 전기차 판매가... 같은 지리자동차그룹의 볼보, 폴스타와 플랫폼을 공유하는 기술 기반도 강점이다. 7X는 폴스타4와 동일한 'SEA... ",
-              "source_name": "seoulwire.com"
-            },
-            {
-              "title": "“전국 사업장 1시간 소등”…볼보그룹코리아, ‘어스아워 캠페인’ 동...",
-              "url": "https://www.mk.co.kr/article/12002234",
-              "published_at": "2026-03-30T14:17:00+09:00",
-              "description": "볼보그룹코리아(볼보건설기계코리아)가 글로벌 자연보전 캠페인 ‘어스아워 2026’에 참여하기 위해 지난 28일 오후 8시 30분부터 1시간 동안 서울 본사와 창원공장 등 국내 전 사업장 조명을 소등했다고 30일 밝혔다.... ",
-              "source_name": "mk.co.kr"
             }
           ]
         },
@@ -1689,19 +1689,33 @@
               "published_at": "2026-03-30T10:18:00+09:00",
               "description": "이어 올리 베어만(토요타 가주 레이싱 하스)의 사고로 세이프티카가 투입되면서 레이스는 또 한 번... 메르세데스는 135점을 기록하며 페라리(90점)에 45점 앞서 있으며, 맥라렌(46점), 토요타 가주 레이싱 하스(18점), 알핀... ",
               "source_name": "autotimes.co.kr"
-            },
-            {
-              "title": "[2026수입차리더] 한국토요타 &quot;역동적인 韓시장, '멀티 패스웨이' 전략으...",
-              "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7157170",
-              "published_at": "2026-03-30T09:06:00+09:00",
-              "description": "사진=한국토요타자동차  한국토요타자동차는 한국을 '소비자들이 트렌드에 매우 민감하고 역동적으로 반응하는 시장'이라고 분석했다. 2023년 부임한 콘야마 마나부 사장은 취임 당시부터 한국 시장의 역동성에... ",
-              "source_name": "weekly.hankooki.com"
             }
           ]
         },
         {
           "keyword": "렉서스",
           "articles": [
+            {
+              "title": "렉서스 '커넥트투', 봄 시즌 한정 메뉴 출시…벚꽃 음료·게이샤 커피",
+              "url": "https://www.news1.kr/industry/auto-industry/6119472",
+              "published_at": "2026-03-31T09:03:00+09:00",
+              "description": "렉서스 복합문화공간 '커넥트투'(CONNECT TO)가 봄을 맞아 시즌 한정 음료와 렉서스 영파머스 협업 메뉴, 프리미엄 드립 커피를 새롭게 선보인다. 렉서스는 커넥트투가 벚꽃 테마 음료 3종과 라이프 케어 음료 1종, 프리미엄... ",
+              "source_name": "news1.kr"
+            },
+            {
+              "title": "렉서스 커넥트투, 벚꽃 음료·게이샤 커피 선보여",
+              "url": "https://www.newspim.com/news/view/20260331000181",
+              "published_at": "2026-03-31T09:02:00+09:00",
+              "description": "렉서스코리아가 운영하는 복합문화공간 '커넥트투(CONNECT TO)'가 봄 시즌을 맞아 한정 음료와 프리미엄 드립 커피를 출시하며 라이프스타일 콘텐츠 강화에 나섰다. 렉서스 '커넥트투'에 봄 시즌 스페셜 음료·프리미엄... ",
+              "source_name": "newspim.com"
+            },
+            {
+              "title": "&quot;봄 감성 한 잔에 담았다&quot; 렉서스 커넥트투, 영파머스 음료·프리미엄 커...",
+              "url": "https://www.gpkorea.com/news/articleView.html?idxno=141367",
+              "published_at": "2026-03-31T09:02:00+09:00",
+              "description": "렉서스코리아가 운영하는 복합문화공간 커넥트투가 봄 시즌을 맞아 한정 음료와 프리미엄 커피 라인업을... 또한 렉서스 '영파머스' 프로그램에 참여 중인 김세환 농부와 협업한 '앙버터 밀크티'를 통해 건강한 식재료와... ",
+              "source_name": "gpkorea.com"
+            },
             {
               "title": "렉서스, 커넥트투서 봄 시즌 스페셜 음료·프리미엄 커피 출시",
               "url": "https://www.viva100.com/article/20260331500121",
@@ -1743,13 +1757,6 @@
               "published_at": "2026-03-30T10:50:00+09:00",
               "description": "장학금 전달식과 함께 '토요타/렉서스 익스피리언스 데이(TOYOTA &amp; LEXUS EXPERIENCE DAY)'도 진행됐다. 모터스포츠/수입자동차서비스 전공 학생 약 80명이 참여한 이번 체험 프로그램은 ▲브랜드/전동화 기술 교육... ",
               "source_name": "veritas-a.com"
-            },
-            {
-              "title": "[2026수입차리더] 한국토요타 &quot;역동적인 韓시장, '멀티 패스웨이' 전략으...",
-              "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7157170",
-              "published_at": "2026-03-30T09:06:00+09:00",
-              "description": "렉서스 ES 300h. 사진=한국토요타자동차  한국토요타자동차는 한국을 '소비자들이 트렌드에 매우 민감하고... 2023년 부임한 콘야마 마나부 사장은 취임 당시부터 한국 시장의 역동성에 주목하며 렉서스, 토요타 고객의... ",
-              "source_name": "weekly.hankooki.com"
             }
           ]
         },
@@ -1799,17 +1806,17 @@
               "source_name": "hankyung.com"
             },
             {
-              "title": "[ASIA BIZ] 소니·혼다 연합, EV 생산 중단… 1억 원대 아피라의 허망한...",
-              "url": "https://www.ajunews.com/view/20260329121032542",
-              "published_at": "2026-03-31T06:02:00+09:00",
-              "description": "소프트웨어 경쟁력 한계 창업주 '동반 퇴진' 정신 사라진 혼다, '블랙 스완' 탓하며 책임 회피 급급 아주경제=도쿄(일본)=이경 통신원 dorami@ajunews.com 미즈노 야스히데 소니·혼다모빌리티 최고경영자(CEO)가 지난 1월 미국... ",
-              "source_name": "ajunews.com"
-            },
-            {
               "title": "[ASIA BIZ] 22조 원 날린 혼다의 'EV 올인'… 하이브리드 유턴",
               "url": "https://www.ajunews.com/view/20260329120744540",
               "published_at": "2026-03-31T06:02:00+09:00",
               "description": "한 혼다 딜러 매장[사진=AFP연합뉴스] 글로벌 전기차(EV) 시장의 수요 둔화와 정책 변화로 인해 일본 자동차 업계에서 가장 급진적인 '탈엔진' 노선을 걸어온 혼다가 멈춰섰다. 혼다는 지난 12일 주력 전기차(EV) 모델의... ",
+              "source_name": "ajunews.com"
+            },
+            {
+              "title": "[ASIA BIZ] 소니·혼다 연합, EV 생산 중단… 1억 원대 아피라의 허망한...",
+              "url": "https://www.ajunews.com/view/20260329121032542",
+              "published_at": "2026-03-31T06:02:00+09:00",
+              "description": "소프트웨어 경쟁력 한계 창업주 '동반 퇴진' 정신 사라진 혼다, '블랙 스완' 탓하며 책임 회피 급급 아주경제=도쿄(일본)=이경 통신원 dorami@ajunews.com 미즈노 야스히데 소니·혼다모빌리티 최고경영자(CEO)가 지난 1월 미국... ",
               "source_name": "ajunews.com"
             },
             {
@@ -1901,6 +1908,13 @@
         {
           "keyword": "포드",
           "articles": [
+            {
+              "title": "LPGA 투어 2연승 김효주, 세계랭킹 3위까지 도약",
+              "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000028450",
+              "published_at": "2026-03-31T09:05:00+09:00",
+              "description": "김효주는 30일 미국 애리조나주 피닉스의 월윈드 골프 클럽에서 막을 내린 포드 챔피언십에서 정상에 올라 직전 대회인 포티넷 파운더스컵에 이어 LPGA 투어에서 2주 연속 우승을 차지하고 통산 9승째를 올렸다. 포드... ",
+              "source_name": "jnilbo.com"
+            },
             {
               "title": "김효주, 2주 연속 정상…LPGA 54홀 최저타까지 갈아치웠다",
               "url": "https://m.skyedaily.com/news_view.html?ID=301411",
@@ -2014,13 +2028,6 @@
               "source_name": "slist.kr"
             },
             {
-              "title": "김효주, 세계랭킹 1위도 보인다…3위로 도약",
-              "url": "https://www.seoul.co.kr/news/sport/golf/2026/03/31/20260331500009?wlog_tag3=naver",
-              "published_at": "2026-03-31T07:13:00+09:00",
-              "description": "김효주는 30일 미국 애리조나주 피닉스의 월윈드 골프 클럽에서 막을 내린 포드 챔피언십에서 정상에 올라 직전 대회인 포티넷 파운더스컵에 이어 LPGA 투어에서 2주 연속 우승을 차지했다. 현재 김효주의 랭킹... ",
-              "source_name": "seoul.co.kr"
-            },
-            {
               "title": "서른에 '제2전성기' 김효주, 세계랭킹 3위로…개인 최고 순위",
               "url": "https://news.tvchosun.com/site/data/html_dir/2026/03/31/2026033190044.html",
               "published_at": "2026-03-31T07:13:00+09:00",
@@ -2028,24 +2035,31 @@
               "source_name": "tvchosun.com"
             },
             {
+              "title": "김효주, 세계랭킹 1위도 보인다…3위로 도약",
+              "url": "https://www.seoul.co.kr/news/sport/golf/2026/03/31/20260331500009?wlog_tag3=naver",
+              "published_at": "2026-03-31T07:13:00+09:00",
+              "description": "김효주는 30일 미국 애리조나주 피닉스의 월윈드 골프 클럽에서 막을 내린 포드 챔피언십에서 정상에 올라 직전 대회인 포티넷 파운더스컵에 이어 LPGA 투어에서 2주 연속 우승을 차지했다. 현재 김효주의 랭킹... ",
+              "source_name": "seoul.co.kr"
+            },
+            {
               "title": "'LPGA 2주 연속 우승' 김효주, 세계랭킹 3위 도약 '개인 최고 순위'",
               "url": "https://www.starnewskorea.com/sports/2026/03/31/2026033106585730371",
               "published_at": "2026-03-31T07:10:00+09:00",
               "description": "김효주는 앞서 지난 30일 미국 애리조나주 피닉스의 월윈드 골프 클럽에서 열린 LPGA 포드 챔피언십에서... 포티넷 파운더스컵 우승으로 세계 랭킹 8위에서 4위까지 올라섰던 김효주는 포드 챔피언십 우승으로... ",
               "source_name": "starnewskorea.com"
-            },
-            {
-              "title": "'2주 연속 LPGA 우승' 김효주, 세계 랭킹 '3위' 등극 …개인 최고 순위",
-              "url": "https://www.newdaily.co.kr/site/data/html/2026/03/31/2026033100017.html",
-              "published_at": "2026-03-31T07:08:00+09:00",
-              "description": "김효주는 30일 미국 애리조나주 피닉스의 월윈드 골프 클럽에서 막을 내린 포드 챔피언십에서 정상에 올라 직전 대회인 포티넷 파운더스컵에 이어 LPGA 투어에서 2주 연속 우승을 차지하고 통산 9승째를 올렸다. 현재... ",
-              "source_name": "newdaily.co.kr"
             }
           ]
         },
         {
           "keyword": "테슬라",
           "articles": [
+            {
+              "title": "지앤비에스 에코, 고효율 태양전지 기술력 주목…&quot;맥스웰 파트너십 따른...",
+              "url": "http://www.newsprime.co.kr/news/article.html?no=728640",
+              "published_at": "2026-03-31T09:06:00+09:00",
+              "description": "이러한 가운데 최근 테슬라는 맥스웰 태양광 제조 장비 구입을 위한 협상을 진행하고 있는 것으로 알려졌다. 이는 맥스웰의 HJT 제조 장비로 추정돼 지앤비에스 에코의 수주 가능성을 높이는 원인으로 작용하고 있다는... ",
+              "source_name": "newsprime.co.kr"
+            },
             {
               "title": "[모닝 리포트] &quot;LG에너지솔루션, 1분기를 바닥으로 분기별 증익 흐름 예...",
               "url": "https://www.newspim.com/news/view/20260331000145",
@@ -2096,18 +2110,18 @@
               "source_name": "shinailbo.co.kr"
             },
             {
-              "title": "한국기술교육대 경영학부 출신 박태경씨, 미국 명문 주립대 박사과정 합...",
-              "url": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=880690",
-              "published_at": "2026-03-31T08:34:00+09:00",
-              "description": "오스틴은 오라클, 테슬라, 델 등 세계적인 빅테크 기업들이 모여 있어 '실리콘 힐스'라 불리는 혁신 생태계의 중심지다. 주인공은 한국기술교육대 18학번 박태경씨(26세)다. 박 씨는 학사 졸업 후  서울대 일반대학원... ",
-              "source_name": "chungnamilbo.co.kr"
-            },
-            {
               "title": "[개장] 전쟁 불확실성에 뉴욕증시 혼조",
               "url": "https://mdtoday.co.kr/news/view/1065568710467294",
               "published_at": "2026-03-31T08:34:00+09:00",
               "description": "반면 애플은 0.87% 하락했고 엔비디아는 1.40%, 테슬라는 1.81%, 팔란티어는 3.8% 내렸습니다. 마이크론은 구글의 ‘터보퀀트’가 인공지능 메모리 수요 둔화로 이어질 수 있다는 우려에 9% 넘게 급락했습니다.... ",
               "source_name": "mdtoday.co.kr"
+            },
+            {
+              "title": "한국기술교육대 경영학부 출신 박태경씨, 미국 명문 주립대 박사과정 합...",
+              "url": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=880690",
+              "published_at": "2026-03-31T08:34:00+09:00",
+              "description": "오스틴은 오라클, 테슬라, 델 등 세계적인 빅테크 기업들이 모여 있어 '실리콘 힐스'라 불리는 혁신 생태계의 중심지다. 주인공은 한국기술교육대 18학번 박태경씨(26세)다. 박 씨는 학사 졸업 후  서울대 일반대학원... ",
+              "source_name": "chungnamilbo.co.kr"
             },
             {
               "title": "마이크론, 터보퀀트 영향에 10% 폭락…삼성·SK도 프리마켓서 하락세",
@@ -2178,13 +2192,6 @@
               "published_at": "2026-03-31T08:04:00+09:00",
               "description": "테슬라가 중국 시장을 겨냥한 저가형 모델 3 출시설을 공식 부인했다. 현지 보도에 따르면 테슬라는 중국 시장에 더 저렴한 모델 3를 출시할 계획이 없으며, 이를 위한 신규 생산라인 역시 구축하지 않았다고 밝혔다.... ",
               "source_name": "autodaily.co.kr"
-            },
-            {
-              "title": "급락장 속 이차전지 ETF만 웃었다… ESS가 살렸다",
-              "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=441324",
-              "published_at": "2026-03-31T08:02:00+09:00",
-              "description": "LG에너지솔루션이 테슬라와 약 6조원 규모의 ESS 배터리 공급 계약을 체결한 데 이어, 삼성SDI 역시 미국에서 대규모 ESS용 배터리 수주를 잇달아 확보하며 기대감을 키웠다. 소재 기업들도 강세 흐름에 동참했다.... ",
-              "source_name": "pinpointnews.co.kr"
             }
           ]
         },
@@ -2274,18 +2281,18 @@
               "source_name": "m-i.kr"
             },
             {
-              "title": "람보르기니 서울 10년, 누적 2400대 판매…&quot;판매 넘어 경험으로 간다&quot;",
-              "url": "https://www.thepublic.kr/news/articleView.html?idxno=299169",
-              "published_at": "2026-03-30T15:30:00+09:00",
-              "description": "람보르기니 서울이 출범 10주년을 맞아 고객 중심 브랜드 전략을 강화하고 있다. 단순 판매를 넘어 라이프스타일 경험을 확대하는 방향으로 사업 구조를 넓히는 모습이다. 람보르기니 서울은 지난 25일 서울 삼성동... ",
-              "source_name": "thepublic.kr"
-            },
-            {
               "title": "람보르기니 서울, '10주년 갈라 디너' 개최…브랜드 방향성 제시",
               "url": "http://www.newscape.co.kr/news/articleView.html?idxno=121290",
               "published_at": "2026-03-30T15:30:00+09:00",
               "description": "김종복 람보르기니 서울 대표가 10주년 갈라 디너 현장에서 지난 10년간의 주요 성과를 소개하고 있다. (사진=람보르기니 서울)  람보르기니 서울은 창립 10주년을 기념해 지난 25일 서울 삼성동에 위치한 웨스틴 서울... ",
               "source_name": "newscape.co.kr"
+            },
+            {
+              "title": "람보르기니 서울 10년, 누적 2400대 판매…&quot;판매 넘어 경험으로 간다&quot;",
+              "url": "https://www.thepublic.kr/news/articleView.html?idxno=299169",
+              "published_at": "2026-03-30T15:30:00+09:00",
+              "description": "람보르기니 서울이 출범 10주년을 맞아 고객 중심 브랜드 전략을 강화하고 있다. 단순 판매를 넘어 라이프스타일 경험을 확대하는 방향으로 사업 구조를 넓히는 모습이다. 람보르기니 서울은 지난 25일 서울 삼성동... ",
+              "source_name": "thepublic.kr"
             },
             {
               "title": "람보르기니 서울, 창립 10주년 기념 갈라 디너 성료…브랜드 방향성 제...",
