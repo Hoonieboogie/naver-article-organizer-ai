@@ -1,6 +1,6 @@
 {
   "date": "2026-04-02",
-  "generated_at": "2026-04-02T23:36:27.198596+09:00",
+  "generated_at": "2026-04-02T23:51:07.602433+09:00",
   "sections": [
     {
       "name": "골프웨어",
@@ -700,18 +700,18 @@
               "source_name": "mediapen.com"
             },
             {
-              "title": "신세계백화점, 외국인 고객 대상 ‘글로벌 쇼핑 페스타’ 열어",
-              "url": "https://www.segye.com/newsView/20260402506363?OutUrl=naver",
-              "published_at": "2026-04-02T10:07:00+09:00",
-              "description": "신세계백화점은 12일까지 외국인 고객들을 대상으로 스포츠·아웃도어 브랜드들이 참여하는 ‘글로벌 쇼핑 페스타’를 연다고 2일 밝혔다. 이번 행사에는 K2, 피엘라벤, 휠라 등 총 61개 브랜드가 참여하며, 구매... ",
-              "source_name": "segye.com"
-            },
-            {
               "title": "신세계百, '글로벌 쇼핑 페스타' 개최",
               "url": "https://www.seoulfn.com/news/articleView.html?idxno=625374",
               "published_at": "2026-04-02T10:07:00+09:00",
               "description": "신세계백화점은 오는 12일까지 외국인 고객을 대상으로 스포츠·아웃도어 브랜드 행사 '글로벌 쇼핑 페스타'를 진행한다고 2일 밝혔다. 이번 행사에는 K2, 휠라 등 총 61개 브랜드가 참여하며, 구매 금액대별로 10% 상당의... ",
               "source_name": "seoulfn.com"
+            },
+            {
+              "title": "신세계백화점, 외국인 고객 대상 ‘글로벌 쇼핑 페스타’ 열어",
+              "url": "https://www.segye.com/newsView/20260402506363?OutUrl=naver",
+              "published_at": "2026-04-02T10:07:00+09:00",
+              "description": "신세계백화점은 12일까지 외국인 고객들을 대상으로 스포츠·아웃도어 브랜드들이 참여하는 ‘글로벌 쇼핑 페스타’를 연다고 2일 밝혔다. 이번 행사에는 K2, 피엘라벤, 휠라 등 총 61개 브랜드가 참여하며, 구매... ",
+              "source_name": "segye.com"
             },
             {
               "title": "신세계백화점, K-등산 인기에 외국인 대상 '글로벌 쇼핑 페스타'",
@@ -1159,6 +1159,13 @@
           "keyword": "플래그십 스토어",
           "articles": [
             {
+              "title": "일본 흔드는 K-소비재 '팝업' 열풍…코트라, 체험형 마케팅 지원 사격",
+              "url": "https://www.cstimes.com/news/articleView.html?idxno=700629",
+              "published_at": "2026-04-02T23:36:00+09:00",
+              "description": "뒤 플래그십 스토어를 여는 단계적 전략을 구사했다. 코트라의 '지사화사업'을 통한 중소·중견기업들의 약진도 두드러진다. 농업회사법인 밭의 '감자빵'은 이세탄 신주쿠 백화점 베이커리 팝업 부문에서 역대 최고 매출을... ",
+              "source_name": "cstimes.com"
+            },
+            {
               "title": "프로야구 SSG, '가나디'와 컬래버 MD 출시",
               "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=830010",
               "published_at": "2026-04-02T22:12:00+09:00",
@@ -1243,18 +1250,18 @@
               "source_name": "celuvmedia.com"
             },
             {
-              "title": "[셀럽포토]장원영 '비현실적인 미모'",
-              "url": "http://www.celuvmedia.com/article.php?aid=1775113539517805009",
-              "published_at": "2026-04-02T16:06:00+09:00",
-              "description": "그룹 아이브 멤버 장원영이 1일 서울 종로구 한 매장에서 열린 플래그십 스토어 오픈 기념 포토월에 참석해 포즈를 취하고 있다.",
-              "source_name": "celuvmedia.com"
-            },
-            {
               "title": "카린, 신제품 ‘로엔’ 선글라스 공개",
               "url": "https://www.ekn.kr/web/view.php?key=20260402020463693",
               "published_at": "2026-04-02T16:06:00+09:00",
               "description": "카린은 로엔 선글라스 출시를 기념해 공식 홈페이지와 직영 매장(카린 성수 플래그십 스토어, 카린 홍대, 카린 한남)에서 다양한 프로모션을 진행할 예정이다. 한편 카린은 신라 서울점 시내 면세점에 입점하며 유통... ",
               "source_name": "ekn.kr"
+            },
+            {
+              "title": "[셀럽포토]장원영 '비현실적인 미모'",
+              "url": "http://www.celuvmedia.com/article.php?aid=1775113539517805009",
+              "published_at": "2026-04-02T16:06:00+09:00",
+              "description": "그룹 아이브 멤버 장원영이 1일 서울 종로구 한 매장에서 열린 플래그십 스토어 오픈 기념 포토월에 참석해 포즈를 취하고 있다.",
+              "source_name": "celuvmedia.com"
             },
             {
               "title": "롯데마트 토이저러스, '더티니핑 미니' 매장 오픈",
@@ -1290,19 +1297,19 @@
               "published_at": "2026-04-02T14:39:00+09:00",
               "description": "카린은 로엔 선글라스 출시를 기념해 공식 홈페이지와 직영 매장(성수 플래그십 스토어, 홍대, 한남)에서 관련 프로모션을 진행한다. 한편 카린은 4월 1일 신라 서울점 시내 면세점에 입점하며 유통 채널을 확대했다.... ",
               "source_name": "ppss.kr"
-            },
-            {
-              "title": "[위클리오늘] 산업일반 소식_신세계인터내셔날, 시몬스, 한샘, 아모레퍼...",
-              "url": "http://www.weeklytoday.com/news/articleView.html?idxno=768853",
-              "published_at": "2026-04-02T14:34:00+09:00",
-              "description": "▲ 비디비치 도쿄 하라주쿠에 첫 공식 팝업오픈 비디비치, 도쿄 하라주쿠에 첫 팝업스토어…일본 시장 공략... ▲ 한샘, 플래그십 논현 오피스 가구 전용 쇼룸 한샘, 오피스 가구 '이머전' 시리즈 출시…사무용 시장 공략... ",
-              "source_name": "weeklytoday.com"
             }
           ]
         },
         {
           "keyword": "팝업",
           "articles": [
+            {
+              "title": "일본 흔드는 K-소비재 '팝업' 열풍…코트라, 체험형 마케팅 지원 사격",
+              "url": "https://www.cstimes.com/news/articleView.html?idxno=700629",
+              "published_at": "2026-04-02T23:36:00+09:00",
+              "description": "일본 신주쿠 이세탄 팝업 행사 현장의 모습(사진제공=코트라) 컨슈머타임스=안우진 기자 | 일본 시장에 진출하는 국내 소비재 기업들 사이에서 단기 오프라인 매장인 '팝업'을 활용한 체험형 마케팅이 필승 전략으로... ",
+              "source_name": "cstimes.com"
+            },
             {
               "title": "익산시, 14개 선정 기업 홈쇼핑 홍보 지원",
               "url": "http://www.newstnt.com/news/articleView.html?idxno=603545",
@@ -1435,13 +1442,6 @@
               "published_at": "2026-04-02T18:58:00+09:00",
               "description": "꿈돌이를 활용한 굿즈 판매와 팝업스토어 흥행은 캐릭터 기반 로컬 브랜드의 성장 가능성을 확인시켰고, SNS·유튜브 콘텐츠 조회 수 1728만회, 구글 트렌드 검색량 전국 1위는 0시 축제가 온라인에서도 강한 파급력을... ",
               "source_name": "cctoday.co.kr"
-            },
-            {
-              "title": "믿고 보는 데이식스, 믿고 듣는 원필..솔로 앨범도 1위",
-              "url": "https://www.starnewskorea.com/music/2026/04/02/2026040218333676354",
-              "published_at": "2026-04-02T18:48:00+09:00",
-              "description": "리스닝 팝업은 청음존부터 앨범 관련 사진을 관람할 수 있는 공간, 원필이 직접 조향한 비누를 기프트로 제공하며 시각, 청각, 후각을 아우르는 공감각적 연출이 돋보였다. 오는 4월 5일에는 Sing-Along Day(싱어롱... ",
-              "source_name": "starnewskorea.com"
             }
           ]
         }
@@ -1496,18 +1496,18 @@
               "source_name": "worktoday.co.kr"
             },
             {
-              "title": "페라리 로마 스파이더 사고차 유통 논란… 1억 감가 감정 결과 두고 소...",
-              "url": "https://www.stardailynews.co.kr/news/articleView.html?idxno=530249",
-              "published_at": "2026-04-02T16:26:00+09:00",
-              "description": "한편, 최근 페라리뿐만 아니라 벤츠에서도 유사 피해자들이 속출하면서, 소비자들은 제조사와 수입사 모두가 차량 하자 고지에 대해 책임 회피로 일관하는 것에 대해 비판적이다. 또한 게시글에서는 해당 페라리 로마... ",
-              "source_name": "stardailynews.co.kr"
-            },
-            {
               "title": "[데일리 IT 단신] 카카오모빌리티, 아주대와 첨단 모빌리티 분야 인재양...",
               "url": "https://biz.newdaily.co.kr/site/data/html/2026/04/02/2026040200315.html",
               "published_at": "2026-04-02T16:26:00+09:00",
               "description": "◆NHN KCP, 메르세데스 벤츠 코리아 결제 인프라 지원 NHN KCP는 메르세데스-벤츠 핀테크 부문 자회사 Mercedes pay와 전략적 파트너십을 체결하고 통합 디지털 결제 인프라를 지원한다. 이번 협력을 통해 NHN KCP는... ",
               "source_name": "biz.newdaily.co.kr"
+            },
+            {
+              "title": "페라리 로마 스파이더 사고차 유통 논란… 1억 감가 감정 결과 두고 소...",
+              "url": "https://www.stardailynews.co.kr/news/articleView.html?idxno=530249",
+              "published_at": "2026-04-02T16:26:00+09:00",
+              "description": "한편, 최근 페라리뿐만 아니라 벤츠에서도 유사 피해자들이 속출하면서, 소비자들은 제조사와 수입사 모두가 차량 하자 고지에 대해 책임 회피로 일관하는 것에 대해 비판적이다. 또한 게시글에서는 해당 페라리 로마... ",
+              "source_name": "stardailynews.co.kr"
             },
             {
               "title": "벤츠, 13일부터 판매 방식 바꾼다… 전국 어디든 동일한 가격, 할인은 본...",
@@ -1718,18 +1718,18 @@
               "source_name": "ikld.kr"
             },
             {
-              "title": "현대차 아이오닉 6N, '세계 올해의 고성능 자동차' 수상",
-              "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=44411",
-              "published_at": "2026-04-02T17:36:00+09:00",
-              "description": "현대차 고성능 세단 EV 아이오닉 6N은 BMW M2 CS, 쉐보레 콜벳 E-Ray를 제치며 세계 올해의 고성능 자동차에 선정됐다. 아이오닉 6N은 강력한 동력성능, 고속 주행 안정성과 일상 주행의 편의성을 동시에 확보한 차체... ",
-              "source_name": "smarttimes.co.kr"
-            },
-            {
               "title": "SFG 송도갈비, 수원 인계동에 3일 오픈…“대통령 오찬 품격 잇는다”",
               "url": "https://hbnpress.com/news/view/1065589165889674",
               "published_at": "2026-04-02T17:36:00+09:00",
               "description": "먼저 BMW 미니(1등)와 크루즈 커플 여행권(2등)을 경품으로 내건 ‘SFG 대박 경품 이벤트’에 참여할 수 있고, 오는 6월 30일까지(5월 사용 제외)는 한돈양념구이, 국밥, 냉면 등의 식사 쿠폰을 제공하는 50% 당첨 확률의... ",
               "source_name": "hbnpress.com"
+            },
+            {
+              "title": "현대차 아이오닉 6N, '세계 올해의 고성능 자동차' 수상",
+              "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=44411",
+              "published_at": "2026-04-02T17:36:00+09:00",
+              "description": "현대차 고성능 세단 EV 아이오닉 6N은 BMW M2 CS, 쉐보레 콜벳 E-Ray를 제치며 세계 올해의 고성능 자동차에 선정됐다. 아이오닉 6N은 강력한 동력성능, 고속 주행 안정성과 일상 주행의 편의성을 동시에 확보한 차체... ",
+              "source_name": "smarttimes.co.kr"
             },
             {
               "title": "세계가 놀란 현대차…최고 고성능차 수상 [뉴스+현장]",
@@ -1854,13 +1854,6 @@
               "published_at": "2026-04-02T01:41:00+09:00",
               "description": "미국 내 판매 5위 자동차 제조 업체 스텔란티스가 엔진 화재 위험으로 미국 등 세계 시장에 판매된 하이브리드 차 약 70만 대를 리콜했습니다. 이번 리콜 대상 차량은 푸조 208·2008, 시트로엥 C3·C4·C3 에어크로스, 피아트... ",
               "source_name": "ytn.co.kr"
-            },
-            {
-              "title": "스텔란티스, 엔진 화재위험에 푸조 등 약 70만대 리콜",
-              "url": "https://www.yna.co.kr/view/AKR20260401197500081?input=1195m",
-              "published_at": "2026-04-01T23:43:00+09:00",
-              "description": "소형 하이브리드 모델 대상…프랑스서 21만대 리콜 송진원 특파원 = 푸조, 피아트, 시트로엥 등 14개 자동차 브랜드를 보유한 다국적 자동차 제조업체 스텔란티스가 엔진 화재 위험으로 하이브리드 차 약 70만대를 전... ",
-              "source_name": "yna.co.kr"
             }
           ]
         },
@@ -1978,13 +1971,6 @@
               "published_at": "2026-04-02T01:41:00+09:00",
               "description": "이번 리콜 대상 차량은 푸조 208·2008, 시트로엥 C3·C4·C3 에어크로스, 피아트 그란데 판다, 알파로메오 주니어, 지프 어벤저라고 AFP 통신은 전했습니다. 크라이슬러와 지프와 램, 닷지, 푸조, 피아트, 시트로엥 등 14개... ",
               "source_name": "ytn.co.kr"
-            },
-            {
-              "title": "스텔란티스, 엔진 화재위험에 푸조 등 약 70만대 리콜",
-              "url": "https://www.yna.co.kr/view/AKR20260401197500081?input=1195m",
-              "published_at": "2026-04-01T23:43:00+09:00",
-              "description": "독일 연방도로교통청(KBA)에 따르면 리콜 대상 차량은 푸조 208·2008, 시트로엥 C3·C4·C3 에어크로스, 피아트 그란데 판다, 알파로메오 주니어, 지프 어벤저라고 AFP 통신이 1일(현지시간) 전했다. 스텔란티스는 이 문제와... ",
-              "source_name": "yna.co.kr"
             }
           ]
         },
@@ -2011,13 +1997,6 @@
               "published_at": "2026-04-02T01:41:00+09:00",
               "description": "이번 리콜 대상 차량은 푸조 208·2008, 시트로엥 C3·C4·C3 에어크로스, 피아트 그란데 판다, 알파로메오 주니어, 지프 어벤저라고 AFP 통신은 전했습니다. 크라이슬러와 지프와 램, 닷지, 푸조, 피아트, 시트로엥 등 14개... ",
               "source_name": "ytn.co.kr"
-            },
-            {
-              "title": "스텔란티스, 엔진 화재위험에 푸조 등 약 70만대 리콜",
-              "url": "https://www.yna.co.kr/view/AKR20260401197500081?input=1195m",
-              "published_at": "2026-04-01T23:43:00+09:00",
-              "description": "소형 하이브리드 모델 대상…프랑스서 21만대 리콜 송진원 특파원 = 푸조, 피아트, 시트로엥 등 14개 자동차... 독일 연방도로교통청(KBA)에 따르면 리콜 대상 차량은 푸조 208·2008, 시트로엥 C3·C4·C3 에어크로스, 피아트... ",
-              "source_name": "yna.co.kr"
             }
           ]
         },
@@ -2053,18 +2032,18 @@
               "source_name": "sisaweek.com"
             },
             {
-              "title": "&quot;스텔란티스, 캐나다 공장서 중국 전기차 생산 논의&quot;",
-              "url": "https://www.yna.co.kr/view/AKR20260402136300009?input=1195m",
-              "published_at": "2026-04-02T16:00:00+09:00",
-              "description": "성사되면 첫 대규모 중국 자동차 투자 사례 &quot;미국·캐나다 무역갈등 요인 될수도&quot; 지리는 볼보 유럽 사업장서... 파이낸셜타임스(FT)는 중국의 주요 전기차 업체인 지리자동차가 볼보의 종전 스웨덴·벨기에·슬로바키아... ",
-              "source_name": "yna.co.kr"
-            },
-            {
               "title": "전기는 시장, 수소는 정책…상용차 탈탄소 '구도 굳었다'",
               "url": "http://www.impacton.net/news/articleView.html?idxno=18430",
               "published_at": "2026-04-02T16:00:00+09:00",
               "description": "볼보트럭은 수소 내연기관 기반 트럭의 도로 주행 테스트를 시작했으며, 2030년 상용화를 목표로 하고 있다.... 볼보는 장거리 운송이나 충전 인프라가 부족한 지역에서 수소트럭이 보완적으로 활용될 것으로 보고 있다.... ",
               "source_name": "impacton.net"
+            },
+            {
+              "title": "&quot;스텔란티스, 캐나다 공장서 중국 전기차 생산 논의&quot;",
+              "url": "https://www.yna.co.kr/view/AKR20260402136300009?input=1195m",
+              "published_at": "2026-04-02T16:00:00+09:00",
+              "description": "성사되면 첫 대규모 중국 자동차 투자 사례 &quot;미국·캐나다 무역갈등 요인 될수도&quot; 지리는 볼보 유럽 사업장서... 파이낸셜타임스(FT)는 중국의 주요 전기차 업체인 지리자동차가 볼보의 종전 스웨덴·벨기에·슬로바키아... ",
+              "source_name": "yna.co.kr"
             },
             {
               "title": "[볼보 신차②] 800V 배터리·듀얼 모터 갖춘 EX90…주요 성능 살펴보니",
@@ -2102,17 +2081,17 @@
               "source_name": "autotimes.co.kr"
             },
             {
-              "title": "볼보, &quot;우리가 폴스타·지커와 다른 점은...&quot;",
-              "url": "http://autotimes.co.kr/detail.php?number=687189&thread=27",
-              "published_at": "2026-04-02T13:28:00+09:00",
-              "description": "-&quot;플랫폼은 공유하지만 철학은 분리..프리미엄 강조&quot; -&quot;소프트웨어와 안전 중심 접근으로 차별화&quot; 볼보자동차... 볼보자동차코리아 관계자는 이에 대해 “각 브랜드는 명확한 정체성과 소비층을 기반으로 서로 다른... ",
-              "source_name": "autotimes.co.kr"
-            },
-            {
               "title": "&quot;볼보에게 한국은 핵심 시장&quot;",
               "url": "http://autotimes.co.kr/detail.php?number=687188&thread=27",
               "published_at": "2026-04-02T13:28:00+09:00",
               "description": "-에릭 세베린손 볼보자동차 CCO -&quot;한국은 아시아 선도 시장..전기차 확대 거점&quot; -&quot;지역 중심 전략 전환..현지 대응 강화&quot; 볼보자동차가 EX90을 공개하며 한국 시장의 전략적 중요성을 재차 강조했다. 에릭 세베린손... ",
+              "source_name": "autotimes.co.kr"
+            },
+            {
+              "title": "볼보, &quot;우리가 폴스타·지커와 다른 점은...&quot;",
+              "url": "http://autotimes.co.kr/detail.php?number=687189&thread=27",
+              "published_at": "2026-04-02T13:28:00+09:00",
+              "description": "-&quot;플랫폼은 공유하지만 철학은 분리..프리미엄 강조&quot; -&quot;소프트웨어와 안전 중심 접근으로 차별화&quot; 볼보자동차... 볼보자동차코리아 관계자는 이에 대해 “각 브랜드는 명확한 정체성과 소비층을 기반으로 서로 다른... ",
               "source_name": "autotimes.co.kr"
             },
             {
@@ -2191,18 +2170,18 @@
               "source_name": "hansbiz.co.kr"
             },
             {
-              "title": "미-이란 전쟁에 글로벌 기업들도 에너지 절감 나서",
-              "url": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=85362",
-              "published_at": "2026-04-02T17:26:00+09:00",
-              "description": "토요타(Toyota)와 파나소닉(Panasonic) 등은 공장 가동 시간을 분산해 전력 피크를 피하거나 일부 생산 설비를 조정하는 방식으로 대응하고 있다. 미국에서는 물류 중심 기업들이 즉각적인 운영 효율화에 나섰다. 아마존... ",
-              "source_name": "ekoreanews.co.kr"
-            },
-            {
               "title": "신형 나오기도 전인데… ‘구형 RAV4’ 완판 사태 이유는?",
               "url": "https://www.thedrive.co.kr/news/newsview.php?ncode=1065601282445410",
               "published_at": "2026-04-02T17:26:00+09:00",
               "description": "▲ 신형 RAV4 &lt;출처=토요타&gt; 미국 시장에서 이례적인 흐름이 나타나고 있다. 신형 모델 공개를 앞두고 오히려 구형 모델이 빠르게 팔려나가는 ‘역주행 소비’ 현상이 벌어진 것이다. 토요타가 2026년형 RAV4 출시를 준비... ",
               "source_name": "thedrive.co.kr"
+            },
+            {
+              "title": "미-이란 전쟁에 글로벌 기업들도 에너지 절감 나서",
+              "url": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=85362",
+              "published_at": "2026-04-02T17:26:00+09:00",
+              "description": "토요타(Toyota)와 파나소닉(Panasonic) 등은 공장 가동 시간을 분산해 전력 피크를 피하거나 일부 생산 설비를 조정하는 방식으로 대응하고 있다. 미국에서는 물류 중심 기업들이 즉각적인 운영 효율화에 나섰다. 아마존... ",
+              "source_name": "ekoreanews.co.kr"
             },
             {
               "title": "'기름값 공포' 뚫은 르노 필랑트… 성공적인 출발",
@@ -2500,6 +2479,13 @@
           "keyword": "포드",
           "articles": [
             {
+              "title": "日 축구 초대박!...PL 뒤흔들 '초특급' MF 등장했다→'이미 문의 시작했...",
+              "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=89926",
+              "published_at": "2026-04-02T23:45:00+09:00",
+              "description": "이적료가 책정되는 것은 이상한 일이 아닐 것이다&quot;라고 보도했다. 이어 &quot;브렌트포드가 그에게 강력한 관심을 가지고 있다. 또한 앞으로 몇 주 동안 여러 PL 구단들의 스카우터가 그를 지켜볼 예정이다&quot;라고 덧붙였다.",
+              "source_name": "fourfourtwo.co.kr"
+            },
+            {
               "title": "‘통산 10승+3주 연속 우승’ 김효주, 아람코와의 인연까지 보탠다",
               "url": "https://www.dailian.co.kr/news/view/1628875/?sc=Naver",
               "published_at": "2026-04-02T21:34:00+09:00",
@@ -2631,19 +2617,19 @@
               "published_at": "2026-04-02T14:59:00+09:00",
               "description": "◇[서]치프스타(5전 4/1/0, 레이팅 62, 밤색, 부마: 섀클포드, 모마: 한라축제, 마주: 김길리, 조교사: 문병기)... 루나스테이크스는 그의 첫 1600m 경주지만, 부마 섀클포드와 모마 한라축제의 혈통을 이어받아 우승 가능성이... ",
               "source_name": "sportsseoul.com"
-            },
-            {
-              "title": "[경마] 제6회 루나Stakes(L) 5일 개최, 국산 3세 암말 '여왕의 왕관' 쟁탈...",
-              "url": "https://www.sportschosun.com/life/2026-04-02/202604020100018020000935",
-              "published_at": "2026-04-02T14:54:00+09:00",
-              "description": "▶[서]치프스타(5전 4/1/0, 레이팅 62, 밤색, 부마: 섀클포드, 모마: 한라축제, 마주: 김길리, 조교사: 문병기)... 이번 루나스테이크스는 치프스타의 첫 1600m 경주지만, 부마 섀클포드와 모마 한라축제의 혈통을 이어받아... ",
-              "source_name": "sportschosun.com"
             }
           ]
         },
         {
           "keyword": "테슬라",
           "articles": [
+            {
+              "title": "테슬라 1분기 인도량 35만8000대…2분기 연속 전망치 하회",
+              "url": "https://view.asiae.co.kr/article/2026040223454103684",
+              "published_at": "2026-04-02T23:45:00+09:00",
+              "description": "미국 전기차 업체 테슬라의 올해 1분기(1~3월) 차량 인도량이 시장 기대에 미치지 못한 것으로 나타났다. 전기차 세제 혜택이 차량 판매에 영향을 미치는 것으로 보인다. 2일(현지시간) 테슬라에 따르면 올해 1분기... ",
+              "source_name": "asiae.co.kr"
+            },
             {
               "title": "테슬라 1분기 인도량 35만8천대…예상 못 미쳐",
               "url": "https://www.yna.co.kr/view/AKR20260402185000072?input=1195m",
@@ -2776,13 +2762,6 @@
               "published_at": "2026-04-02T17:52:00+09:00",
               "description": "삼성전자는 엔비디아를 비롯해 테슬라와 구글, AMD 등 주요 빅테크와의 협력을 확대하며, TSMC의 확실한 대안책으로 부상하고 있습니다. 최근에는 2나노 수율이 60%를 넘어섰다는 이야기도 나오면서, 업계에선 삼성... ",
               "source_name": "mtn.co.kr"
-            },
-            {
-              "title": "[기자의눈] 테슬라 ‘FSD 탈옥’ 파장…車 산업 보안 리스크 ‘경고등’",
-              "url": "https://www.asiatoday.co.kr/view.php?key=20260402010000602",
-              "published_at": "2026-04-02T17:52:00+09:00",
-              "description": "최근 테슬라의 감독형 주행보조 기능(FSD)을 불법으로 활성화하는 이른바 '탈옥'이 온라인에서 거래되며 논란이 일고 있다. 차량의 지역 설정을 바꿔 기능 제한을 우회하는 방식이다. 국토교통부는 이를 불법 개조에... ",
-              "source_name": "asiatoday.co.kr"
             }
           ]
         },
@@ -2851,13 +2830,6 @@
               "published_at": "2026-04-02T06:00:00+09:00",
               "description": "기존 볼보와 폴스타에 더해 지커까지 가세하면서, 프리미엄 전기차 시장을 세분화한 '3각 포트폴리오... 지리그룹은 이미 국내에서 볼보와 폴스타를 통해 프리미엄 전기차 시장에 안착한 상태다. 특히 볼보는 대형 전기... ",
               "source_name": "ebn.co.kr"
-            },
-            {
-              "title": "[ASL] '나와 이영호, 김택용'...'폭군' 이제동, F조 1위로 16강행(종합)",
-              "url": "http://www.osen.co.kr/article/G1112772319",
-              "published_at": "2026-04-01T23:38:00+09:00",
-              "description": "김명운(저그, 1시) [옥타곤] 이제동(저그, 7시) 승 승자전 신상문(테란, 8시) [제인 도] 이제동(저그, 2시) 패자전 김명운(저그, 8시) 승 [제인 도] 도재욱(프로토스, 2시) 최종전 김명운(저그, 7시) [폴스타] 신상문(테란, 5시)",
-              "source_name": "osen.co.kr"
             }
           ]
         },
@@ -2883,6 +2855,13 @@
         {
           "keyword": "미니",
           "articles": [
+            {
+              "title": "클로즈 유어 아이즈, 데뷔 6일만 음방 1위→누적 판매량 120만→신인상 ...",
+              "url": "https://sports.khan.co.kr/article/202604022342003?pt=nv",
+              "published_at": "2026-04-02T23:43:00+09:00",
+              "description": "반전의 계절에 자유로운 유령이 된 소년들의 이야기를 유쾌하고 재치 있게 풀어낸 미니 2집 ‘스노이... 미니 2집 또한 발매 당일에만 20만 장 이상의 높은 판매량을 기록해 화제를 모았다. 이들은 스포티파이(Spotify)... ",
+              "source_name": "sports.khan.co.kr"
+            },
             {
               "title": "[자정 뉴스브리핑] 미국 증시 급락, 시가총액 7770억달러 증발 外",
               "url": "https://www.tokenpost.kr/news/briefing/345781",
@@ -3015,13 +2994,6 @@
               "published_at": "2026-04-02T19:36:00+09:00",
               "description": "기초 터치와 움직임 훈련을 시작으로 드리블, 패스 등 축구 기본기를 익히고 수업 말미에는 미니게임을 통해 배운 내용을 직접 적용해보는 시간을 가졌다. 현장을 찾은 학부모의 반응도 뜨거웠다. 한 학부모는 평소... ",
               "source_name": "besteleven.com"
-            },
-            {
-              "title": "[올댓차이나] 홍콩 증시, 이란전쟁 종식 기대 후퇴에 반락 마감…H주 0....",
-              "url": "https://www.newsis.com/view/NISX20260402_0003576033",
-              "published_at": "2026-04-02T19:28:00+09:00",
-              "description": "인공지능(AI) 기술주 미니맥스가 10.43%, 화훙반도체 5.14%, 중신국제 3.50%, 스마트폰주 샤오미 3.56%, 전자상거래주 알리바바 3.42%, 생활 사이트주 메이퇀 뎬핑, 결산 실적이 부진한 부동산주 완커기업 3.36... ",
-              "source_name": "newsis.com"
             }
           ]
         },
@@ -3301,13 +3273,6 @@
               "published_at": "2026-04-02T06:13:00+09:00",
               "description": "쉐보레, 뷰익, GMC, 캐딜락 등을 보유한 GM은 1분기 차량 판매량이 전년 동기보다 9.7% 급감했다. [게티 이미지] 전쟁으로 인한 유가 상승과 경제 불확실성이 커지면서 주요 자동차 제조사의 1분기 미국 내 신차 판매가... ",
               "source_name": "biz.heraldcorp.com"
-            },
-            {
-              "title": "BMW iX3는 ‘세계 올해의 차’..현대차 아이오닉6 N은 ‘세계 올해의 고...",
-              "url": "https://www.dailycar.co.kr/content/news.html?type=view&autoId=61203",
-              "published_at": "2026-04-01T23:48:00+09:00",
-              "description": "그래비티는 캐딜락 비스티크, 볼보 ES90을 제쳤다. 이와 함께 현대차 아이오닉 6 N은 전 세계 20개 후보 모델 중 최종 결선에 오른 BMW M2 CS, 쉐보레 콜벳 E-레이 등 쟁쟁한 모델을 따돌리고 ‘세계 올해의... ",
-              "source_name": "dailycar.co.kr"
             }
           ]
         },
