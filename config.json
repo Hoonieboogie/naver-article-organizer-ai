@@ -54,6 +54,10 @@
         "마세라티",
         "애스턴마틴"
       ]
+    },
+    {
+      "name": "새 섹션",
+      "keywords": []
     }
   ],
   "articles_per_keyword": 20
