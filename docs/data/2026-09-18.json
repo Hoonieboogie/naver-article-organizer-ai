@@ -1,6 +1,6 @@
 {
   "date": "2026-09-18",
-  "generated_at": "2026-09-18T09:37:33.768232+09:00",
+  "generated_at": "2026-09-18T09:53:16.343554+09:00",
   "sections": [
     {
       "name": "골프웨어",
@@ -64,6 +64,13 @@
         {
           "keyword": "골프웨어",
           "articles": [
+            {
+              "title": "'D-1' 아시안게임 … 유통업계, '팀코리아' 응원전 달아오른다",
+              "url": "https://biz.newdaily.co.kr/site/data/html/2026/09/18/2026091800065.html",
+              "published_at": "2026-09-18T09:46:00+09:00",
+              "description": "골프웨어 브랜드 왁은 골프 국가대표 선수단과 캐디, 코치진에 셔츠와 바지, 스커트, 모자, 벨트, 골프백 등을 지원한다. 고온다습한 현지 날씨를 고려해 흡습속건과 스트레치 기능을 강화했다. 뉴데일리 김보라",
+              "source_name": "biz.newdaily.co.kr"
+            },
             {
               "title": "KAIST가 연 '그래핀' 연구의 문…15년 뒤 세계가 만든 고성능 섬유",
               "url": "https://www.tjb.co.kr/news05/bodo/view/id/103794",
@@ -505,6 +512,20 @@
           "keyword": "네파",
           "articles": [
             {
+              "title": "네파, 종로직영점 리뉴얼 오픈… 도심형 거점 '모이다 스테이션' 공간 ...",
+              "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1101997",
+              "published_at": "2026-09-18T09:46:00+09:00",
+              "description": "네파 종로직영점 외관 [사진=네파]  아웃도어 브랜드 네파가 서울 종로구에 위치한 종로직영점을 리뉴얼 오픈하고 도심형 거점 매장으로 재단장했다. 네파 종로직영점은 '모이면, 길이 된다'라는 의미를 담은 '모이다... ",
+              "source_name": "discoverynews.kr"
+            },
+            {
+              "title": "네파 종로직영점, 도심 아웃도어 거점으로 새단장",
+              "url": "https://www.fnnews.com/news/202609180934233539",
+              "published_at": "2026-09-18T09:38:00+09:00",
+              "description": "아웃도어 브랜드 네파가 서울 종로직영점을 새단장하고 고객 접점을 확대한다. 18일 네파에 따르면 종로직영점은 '모이면 길이 된다'는 의미의 '모이다 스테이션'을 주제로 정통 아웃도어 상권의 상징성을 현대적으로... ",
+              "source_name": "fnnews.com"
+            },
+            {
               "title": "네파, 산행 거점으로 재단장···&quot;'아웃도어 거리' 종로에 초점&quot;",
               "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2472042",
               "published_at": "2026-09-18T09:30:00+09:00",
@@ -559,13 +580,6 @@
               "published_at": "2026-09-17T11:06:00+09:00",
               "description": "2026년 9월 레저용품 브랜드평판 1위부터 15위까지는 데카트론, 스탠리, 노스페이스, 스노우피크, 헬리녹스, 블랙야크, K2, 코오롱, 파세코, 다이소, 네파, 코베아, 제로그램, 밀레, 버팔로 순으로 집계됐다.... ",
               "source_name": "cbci.co.kr"
-            },
-            {
-              "title": "데카트론, 9월 레저용품 브랜드평판 1위...스탠리, 노스페이스 뒤이어",
-              "url": "http://www.popcornnews.net/news/articleView.html?idxno=133243",
-              "published_at": "2026-09-17T09:46:00+09:00",
-              "description": "9월 레저용품 브랜드평판 순위는 데카트론, 스탠리, 노스페이스, 스노우피크, 헬리녹스, 블랙야크, K2, 코오롱, 파세코, 다이소, 네파, 코베아, 제로그램, 밀레, 버팔로, 캠핑문, 스노우라인, 로티캠프... ",
-              "source_name": "popcornnews.net"
             }
           ]
         },
