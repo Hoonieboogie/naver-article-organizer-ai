@@ -1,6 +1,6 @@
 {
   "date": "2026-09-30",
-  "generated_at": "2026-09-30T01:16:52.411711+09:00",
+  "generated_at": "2026-09-30T09:35:18.705958+09:00",
   "sections": [
     {
       "name": "골프웨어",
@@ -11,15 +11,7 @@
         },
         {
           "keyword": "테일러메이드 어패럴",
-          "articles": [
-            {
-              "title": "'장비 같은 골프웨어' 승부…퍼포먼스 차별화 강화한 테일러메이드 어패...",
-              "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260928010009760",
-              "published_at": "2026-09-29T06:02:00+09:00",
-              "description": "아시아투데이 이철현 기자 = 테일러메이드 어패럴이 골프웨어 시장 둔화 속에서 기존의 퍼포먼스 중심 전략을 유지하면서 디자인과 상품 구성을 세분화하는 방식으로 하반기 시장 대응에 나선다. 기능성을 핵심... ",
-              "source_name": "asiatoday.co.kr"
-            }
-          ]
+          "articles": []
         },
         {
           "keyword": "타이틀리스트 어패럴",
@@ -35,15 +27,7 @@
         },
         {
           "keyword": "던롭",
-          "articles": [
-            {
-              "title": "윤이나·리디아고 제친 이와이·구와키…최혜진·황유민은? [LPGA]",
-              "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20022044",
-              "published_at": "2026-09-29T07:28:00+09:00",
-              "description": "또한 일본여자프로골프(JLPGA) 투어가 주 무대인 구와키 시호는 지난주 일본 미야기현에서 진행된 제53회 미야기TV컵 던롭 여자오픈 골프토너먼트에서 마지막 날 역전 우승하면서 JLPGA 투어 시즌 3승 및 통산 6승을... ",
-              "source_name": "golfhankook.hankooki.com"
-            }
-          ]
+          "articles": []
         },
         {
           "keyword": "PXG 어패럴",
@@ -53,24 +37,31 @@
           "keyword": "골프어패럴",
           "articles": [
             {
+              "title": "'나이키 키즈' 음바페 품었다…축구·골프로 달리는 '온'",
+              "url": "https://news.bizwatch.co.kr/article/consumer/2026/09/29/0033",
+              "published_at": "2026-09-30T07:00:00+09:00",
+              "description": "기다려라 나이키 온은 골프와 축구 시장 진출을 통해 기존 3대 핵심 부문인 러닝·스니커즈·어패럴의 뒤를 잇는 신성장동력을 발굴한다는 계획이다. 이를 통해 오는 2029년까지 매출을 최소 56억 스위스프랑(약 9조원)... ",
+              "source_name": "bizwatch.co.kr"
+            },
+            {
               "title": "[똑똑한패션] 29CM, LF 헤지스, 와이드앵글, 스와치, 내셔널지오그래픽...",
               "url": "https://www.ekn.kr/web/view.php?key=20260929029109843",
               "published_at": "2026-09-29T12:00:00+09:00",
               "description": "◇ 와이드앵글 '혼디어' 이모티콘·팝업 30일 선봬 골프웨어 브랜드 와이드앵글이 오는 30일 브랜드 캐릭터... ◇ 더네이쳐홀딩스 내셔널지오그래픽 어패럴 “코스토니 플리스 출시 당일 완판&quot; 더네이쳐홀딩스가... ",
               "source_name": "ekn.kr"
-            },
-            {
-              "title": "'장비 같은 골프웨어' 승부…퍼포먼스 차별화 강화한 테일러메이드 어패...",
-              "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260928010009760",
-              "published_at": "2026-09-29T06:02:00+09:00",
-              "description": "아시아투데이 이철현 기자 = 테일러메이드 어패럴이 골프웨어 시장 둔화 속에서 기존의 퍼포먼스 중심 전략을 유지하면서 디자인과 상품 구성을 세분화하는 방식으로 하반기 시장 대응에 나선다. 기능성을 핵심... ",
-              "source_name": "asiatoday.co.kr"
             }
           ]
         },
         {
           "keyword": "골프웨어",
           "articles": [
+            {
+              "title": "'나이키 키즈' 음바페 품었다…축구·골프로 달리는 '온'",
+              "url": "https://news.bizwatch.co.kr/article/consumer/2026/09/29/0033",
+              "published_at": "2026-09-30T07:00:00+09:00",
+              "description": "스포츠웨어 시장의 두 축인 축구과 골프를 동시에 공략하겠다는 의미다. 온은 이미 테니스 시장에도 진출해 있다. 온은 2019년 테니스 황제 로저 페더러가 투자에 나서며 테니스 시장에 진출했고 이듬해 테니스화 브랜드... ",
+              "source_name": "bizwatch.co.kr"
+            },
             {
               "title": "와이드앵글, 브랜드 캐릭터 '혼디어'로 온·오프라인 접점 확대",
               "url": "https://www.slist.kr/news/articleView.html?idxno=769702",
@@ -147,47 +138,19 @@
               "published_at": "2026-09-29T10:00:00+09:00",
               "description": "이어 같은 달 9~15일에는 테일러메이드, 닥스골프, 핑 등 대표 골프웨어 브랜드가 참여하는 '가을 라운딩 골프웨어 특집전'을 선보인다. 광복점은 가을철 야외 활동과 산행을 즐기는 레저족을 위한 기획전을 마련했다.... ",
               "source_name": "fnnews.com"
-            },
-            {
-              "title": "와이드앵글, 브랜드 캐릭터 ‘혼디어’로 온·오프라인 접점 확대",
-              "url": "https://www.fashionbiz.co.kr/article/229841",
-              "published_at": "2026-09-29T09:30:00+09:00",
-              "description": "에프씨지코리아(대표 정영훈)에서 전개하는 퍼포먼스 골프웨어 브랜드 ‘와이드앵글’이 오는 30일 혼디어 카카오톡 브랜드 이모티콘 배포 및 도곡 플래그십스토어에서 혼디어 팝업을 오픈하며 브랜드 캐릭터 ‘혼디어... ",
-              "source_name": "fashionbiz.co.kr"
-            },
-            {
-              "title": "[클로즈업] 골프 덕후 지소영 대표, '챌린저'로 필드 · 일상 쌍끌이",
-              "url": "https://www.fashionbiz.co.kr/article/229816",
-              "published_at": "2026-09-29T09:24:00+09:00",
-              "description": "현재는 골프웨어 ‘챌린저’로 마켓에 새바람을 일으킨 그는 덕업일치의 성공 케이스를 제대로 보여주고 있다. 24세에 골프를 접하고 20여 년간 골프 마켓에서 다양한 시도를 해 온 지 대표를 만났다. 지소영... ",
-              "source_name": "fashionbiz.co.kr"
-            },
-            {
-              "title": "부산 롯데 4개점, '롯데 액티브 위크' 개최",
-              "url": "https://www.newsis.com/view/NISX20260929_0003806252",
-              "published_at": "2026-09-29T08:23:00+09:00",
-              "description": "먼저 부산본점 지하1층 특설매장에서는 내달 2~8일 '노스페이스 에디션 슈퍼 위크', 같은 달 9~15일 '가을 라운딩 골프웨어 특집전'을 잇달아 개최한다. 광복점은 다음 달 1~11일 레저 브랜드의 바람막이, 트레킹 의류... ",
-              "source_name": "newsis.com"
-            },
-            {
-              "title": "몸값 낮아진 테일러메이드…F&amp;F, ‘인수냐 회수냐’ 깊어진 고민",
-              "url": "https://www.dailian.co.kr/news/view/1695169/?sc=Naver",
-              "published_at": "2026-09-29T07:33:00+09:00",
-              "description": "F&amp;F는 MLB와 디스커버리 익스페디션 등을 중심으로 패션 사업을 확대해왔지만 현재 골프웨어나 골프용품 등 골프를 주력으로 하는 브랜드는 보유하고 있지 않다. 테일러메이드는 골프웨어 뿐 아니라 드라이버와 아이언... ",
-              "source_name": "dailian.co.kr"
-            },
-            {
-              "title": "'장비 같은 골프웨어' 승부…퍼포먼스 차별화 강화한 테일러메이드 어패...",
-              "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260928010009760",
-              "published_at": "2026-09-29T06:02:00+09:00",
-              "description": "아시아투데이 이철현 기자 = 테일러메이드 어패럴이 골프웨어 시장 둔화 속에서 기존의 퍼포먼스 중심 전략을 유지하면서 디자인과 상품 구성을 세분화하는 방식으로 하반기 시장 대응에 나선다. 기능성을 핵심... ",
-              "source_name": "asiatoday.co.kr"
             }
           ]
         },
         {
           "keyword": "아웃도어 k2",
           "articles": [
+            {
+              "title": "K2-네파 결합, 아웃도어 판 흔든다…노스페이스와 '양강' 구도 재편",
+              "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=366288",
+              "published_at": "2026-09-30T09:24:00+09:00",
+              "description": "네파 관계자는 &quot;현재로서는 네파 인수 절차를 원활히 마무리하고 국내 시장에서 브랜드 경쟁력 강화와 안정적인 성장 기반을 마련하는 데 집중할 계획&quot;이라며 &quot;K2코리아그룹이 축적해 온 아웃도어 사업 전문성과... ",
+              "source_name": "ftoday.co.kr"
+            },
             {
               "title": "부산 롯데百 4개 점포, ‘액티브 위크’로 가을 레저 시즌 공략",
               "url": "https://www.viva100.com/article/20260929500665",
@@ -243,6 +206,27 @@
           "keyword": "알로",
           "articles": [
             {
+              "title": "“천안 최고 토마토 생산이 꿈”… 청년농부 도전에 사다리 놔준 NH농협...",
+              "url": "https://www.munhwa.com/article/11620375?ref=naver",
+              "published_at": "2026-09-30T09:11:00+09:00",
+              "description": "뒷맛이 깔끔해 자연스레 다음 알로 손이 갔다. 우 대표는 “새콤한 맛이 있어야 단맛이 살아나고 계속 먹게 된다”며 “가공품인 스테비아 토마토는 달아도 몇 개 먹으면 물리지만, 천연 당도를 끌어올린 토마토는 앉은... ",
+              "source_name": "munhwa.com"
+            },
+            {
+              "title": "[GAM]마이크로원자로 기대주 NNE ② '연 19%' 차세대 에너지 성장 주도",
+              "url": "https://www.newspim.com/news/view/20260929000623",
+              "published_at": "2026-09-30T08:01:00+09:00",
+              "description": "알로 아토믹스 등 마이크로원자로 업체들이 데이터센터 연계와 오지 전력 공급을 위한 최초의 실제 상업 가동을 목표로 공장 건설 및 규제 승인 절차를 밟는 상황이다. 인공지능(AI) 모델을 이용해 미... ",
+              "source_name": "newspim.com"
+            },
+            {
+              "title": "[Who Is ?] 김석환 한세예스24홀딩스 대표이사 부회장",
+              "url": "https://www.businesspost.co.kr/BP?command=article_view&num=447641",
+              "published_at": "2026-09-30T07:02:00+09:00",
+              "description": "글로벌 스포츠 브랜드 뉴발란스, 캐주얼 브랜드 챔피온, 아웃도어 브랜드 파타고니아, 애슬레저 패션 브랜드 알로 요가 등을 주요 고객사로 뒀다. 한세실업은 이번 인수로 특히 중남미 지역에서 확산하는... ",
+              "source_name": "businesspost.co.kr"
+            },
+            {
               "title": "“나는 너를 살았고, 너는 나를 그린다”…그림으로 나눈 모자의 가장 ...",
               "url": "https://www.kyeonggi.com/article/20260929580581",
               "published_at": "2026-09-29T19:53:00+09:00",
@@ -255,13 +239,6 @@
               "published_at": "2026-09-29T16:04:00+09:00",
               "description": "압박골절 치료는 진통제 몇 알로 끝나지 않는다. 통증 조절, 자세 관리, 근력 회복까지 최소 3개월, 끊김이 없는 치료가 필요하다. 열 시간의 외출로는 검사 한 번 제대로 받기도 벅차다. 바닥에 앉는 것조차 위험한 몸이다.... ",
               "source_name": "tournews21.com"
-            },
-            {
-              "title": "방탄소년단 진, 아이돌픽 71주 연속 1위..위클리 최다 득표 '전 부문 통...",
-              "url": "https://www.starnewskorea.com/music/2026/09/29/2026092907592155499",
-              "published_at": "2026-09-29T08:01:00+09:00",
-              "description": "진은 구찌, 프레드, 알로, 라네즈의 글로벌 앰버서더와 동원참치 광고 모델로 활동하고 있다. 방탄소년단의 'BTS WORLD TOUR 'ARIRANG''을 통해 전 세계 팬들과 만나고 있으며, 다음 달 3일과 4일 한국시간 콜롬비아... ",
-              "source_name": "starnewskorea.com"
             }
           ]
         },
@@ -269,150 +246,157 @@
           "keyword": "디스커버리",
           "articles": [
             {
-              "title": "[미국 특징주] 넷플릭스에 등 돌리는 월가…성장 둔화 우려 확산",
-              "url": "https://www.newspim.com/news/view/20260930000008",
-              "published_at": "2026-09-30T00:53:00+09:00",
-              "description": "올해 초 철회한 워너브라더스디스커버리 인수 시도 역시 일부 투자자들에게는 자체 성장 능력에 대한 자신감 부족으로 비쳤다. 넷플릭스 측은 논평을 거부했다. 이는 올해 에미상을 휩쓴 애플의 스트리밍 서비스나... ",
-              "source_name": "newspim.com"
+              "title": "부산 의료기기 기업 10개 社, 싱가포르서 68억 원 규모 상담",
+              "url": "https://www.gukjenews.com/news/articleView.html?idxno=3708960",
+              "published_at": "2026-09-30T09:34:00+09:00",
+              "description": "부산시는 또 부산에 연구개발(R&amp;D) 허브인 '이노베이티브 디스커버리 센터(IDC)'를 운영하는 프레스티지 바이오파마 본사를 방문해 지역 바이오헬스 산업 발전을 위한 협력 방안을 논의했다. 부산시와 프레스티지... ",
+              "source_name": "gukjenews.com"
             },
             {
-              "title": "[사랑방] 더불어민주당 AI 금융·경제추진단",
-              "url": "https://www.joongang.co.kr/article/25465756",
-              "published_at": "2026-09-30T00:01:00+09:00",
-              "description": "◆더불어민주당 AI 금융·경제추진단(단장 이용우 경제더하기연구소 대표)·K-자본시장특별위원회는 30일 여의도 한국거래소 홍보관에서 ‘자본시장 제도개선: 공시와 디스커버리’ 토론회를 연다.",
-              "source_name": "joongang.co.kr"
+              "title": "동남아 최대 의료기기 전시회에서 부산 공동관 운영…해외판로 개척 지...",
+              "url": "https://www.busan.com/view/busan/view.php?code=2026093008024168142",
+              "published_at": "2026-09-30T09:34:00+09:00",
+              "description": "양측은 부산 이노베이티브 디스커버리센터가 지역 바이오헬스 클러스터 앵커기업으로 성장할 수 있도록 지속적으로 협력하기로 하고, 시 차원의 행정적 지원 방안도 논의했다. 시 김동현 AI산업혁신국장은 “특히... ",
+              "source_name": "busan.com"
             },
             {
-              "title": "대구지역 롯데백화점, 스포츠·아웃도어 행사 개최",
-              "url": "https://www.hidomin.com/news/articleView.html?idxno=723050",
-              "published_at": "2026-09-29T19:12:00+09:00",
-              "description": "상인점은 4층 행사장에서 노스페이스·디스커버리가 참여하는 '롯데 슈퍼위크'와 헤지스 '맨즈 패션위크'를 동시에 전개해 가을 의류를 특가 판매한다. 대구점은 '여성 가을 패션 특집전'을 열고 대구를 기반으로 성장한... ",
-              "source_name": "hidomin.com"
+              "title": "한화푸드테크, 산토리 글로벌 스피리츠와 '히비키 페어링 프로모션' 진...",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=769847",
+              "published_at": "2026-09-30T09:34:00+09:00",
+              "description": "히비키·하쿠슈·야마자키 3종을 비교하는 '산토리 디스커버리 플라이트'도 마련한다. 더 플라자 다이닝 3개 매장은 히비키 하모니와 야마자키 12년, 히비키 21년으로 구성한 위스키 플라이트를 운영한다. 파블로... ",
+              "source_name": "slist.kr"
             },
             {
-              "title": "&quot;한국남자랑 결혼할래요&quot;…결정사 찾는 日여성 '급증'한 이유",
-              "url": "http://www.inews24.com/view/2010122",
-              "published_at": "2026-09-29T18:27:00+09:00",
-              "description": "소셜 디스커버리 서비스 위피(WIPPY)를 운영하는 엔라이즈가 발표한 2025년 '한일 연애·만남 인식' 조사 결과에 따르면 한국 남성의 85%가 일본 여성과의 만남에 적극적으로 참여하고 싶다고 답했으며, 실제 만남 의향은... ",
-              "source_name": "inews24.com"
+              "title": "한화푸드테크, 산토리와 협업… '히비키 페어링 프로모션'",
+              "url": "http://www.whitepaper.co.kr/news/articleView.html?idxno=267331",
+              "published_at": "2026-09-30T09:32:00+09:00",
+              "description": "히비키·하쿠슈·야마자키를 각각 맛보는 'SUNTORY 디스커버리 플라이트'는 6만5000원이다. 더 플라자 다이닝 3개 매장에서는 히비키 하모니와 야마자키 12년, 히비키 21년으로 구성한 플라이트를 12만원에 판매한다. 위스키... ",
+              "source_name": "whitepaper.co.kr"
             },
             {
-              "title": "글로벌 OTT 공룡 하나 더… 토종 OTT 고사 빨라지나",
-              "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171052",
-              "published_at": "2026-09-29T17:50:00+09:00",
-              "description": "파라마운트와 워너브라더스 디스커버리(WBD)가 합병하면 영화·드라마·예능 제작부터 유통까지 아우르는 대형 미디어 기업이 탄생한다. 콘텐츠와 온라인동영상서비스(OTT)를 앞세워 넷플릭스·디즈니와 경쟁할... ",
-              "source_name": "it.chosun.com"
+              "title": "K2-네파 결합, 아웃도어 판 흔든다…노스페이스와 '양강' 구도 재편",
+              "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=366288",
+              "published_at": "2026-09-30T09:24:00+09:00",
+              "description": "이외에는 K2, 디스커버리, 코오롱스포츠 등이 연 매출 3000억원대에 머물러 있다. 네파가 합류한 K2코리아그룹은 K2를 비롯해 아이더, 노르디스크 등 아웃도어 브랜드를 다수 보유하고 있다. 네파를 흡수하게 되면... ",
+              "source_name": "ftoday.co.kr"
             },
             {
-              "title": "&quot;中, 최첨단 암 면역치료제 개발 중심지로…전세계 82% 차지&quot;",
-              "url": "https://www.dongascience.com/news/view/80103",
-              "published_at": "2026-09-29T17:46:00+09:00",
-              "description": "존 우 미국 보스턴컨설팅그룹 매니징디렉터 연구팀은 전세계 체내 CAR-T세포 치료제 개발 동향을 분석해 지난달 28일 국제학술지 '네이처 리뷰 드러그 디스커버리'에 발표했다. CAR-T 치료는 환자 본인의 면역세포인... ",
-              "source_name": "dongascience.com"
-            },
-            {
-              "title": "롯데百 대구점·상인점 정기세일에 추가 혜택까지! '액티브 위크' 진행",
-              "url": "https://www.nocutnews.co.kr/news/6584671?utm_source=naver&utm_medium=article&utm_campaign=20260929045449",
-              "published_at": "2026-09-29T16:55:00+09:00",
-              "description": "10월 2일부터 8일까지 대구점은 여성 가을 패션 특집전에서 디자이너 브랜드 최복호, 쉬즈미스, 비너스 인기 상품을 할인 판매하고 같은 기간 상인점은 노스페이스, 디스커버리 제품 할인과 헤지스 특별전을 진행한다.... ",
-              "source_name": "nocutnews.co.kr"
-            },
-            {
-              "title": "[재계 인사이드] SK바이오팜을 통해 엿보는 SK그룹의 미래",
-              "url": "https://www.news2day.co.kr/article/20260929500015",
-              "published_at": "2026-09-29T15:14:00+09:00",
-              "description": "SK디스커버리 대표이사 부회장 계열이다. 그룹의 첫 제약 바이오 계열사인 SK케미칼은 동신제약과... SK케미칼의 지분 40.79%는 최창원 부회장의 지주회사라 할 수 있는 SK디스커버리가 쥐고 있다. 2018년에는 SK케미칼의... ",
-              "source_name": "news2day.co.kr"
-            },
-            {
-              "title": "&quot;한국은 좁다&quot;…K패션, 중화권 공략 '잰걸음'",
-              "url": "https://news.mtn.co.kr/news-detail/2026092914141625224",
-              "published_at": "2026-09-29T15:04:00+09:00",
-              "description": "모자·신발 등 MLB 제품이 현지 젊은 소비자를 중심으로 인기를 얻으면서 올해 중국 시장에서만 1조원 규모의 매출을 거둘 것으로 전망된다.지난달 미국 디스커버리커뮤니케이션즈로부터 디스커버리 익스페디션의 패션... ",
-              "source_name": "mtn.co.kr"
-            },
-            {
-              "title": "LG생활건강·아모레퍼시픽, 더후 '더 파워 오브 NAD' 팝업 스토어 오픈·...",
-              "url": "http://www.wsobi.com/news/articleView.html?idxno=318898",
-              "published_at": "2026-09-29T14:18:00+09:00",
-              "description": "파운데이션 공병 수거 이벤트도 함께 진행하며, 참여 고객에게는 헤라 파운데이션 20% 할인 쿠폰과 디스커버리 키트 샘플을 제공한다. '리플렉션 스킨 글로우 파운데이션'과 신제품 '리플렉션 스킨 글로우 파우더'는... ",
+              "title": "롯데온, 경동나비엔 얼리특가전 진행·9월 패세라 행사 전개",
+              "url": "http://www.wsobi.com/news/articleView.html?idxno=318940",
+              "published_at": "2026-09-30T09:22:00+09:00",
+              "description": "행사 기간 나이키를 시작으로 헤지스ㆍ닥스, 쥬아르, 코오롱스포츠, 게스, 타미힐피거, 디스커버리 등 매일... 간절기 아우터로는 파렌하이트 점퍼, 마리끌레르 패딩, 디스커버리 바람막이, 커버낫 경량 아우터, 헨리코튼... ",
               "source_name": "wsobi.com"
             },
             {
-              "title": "파라마운트·워너브라더스 결합 임박… 글로벌 OTT판 재편",
-              "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171014",
-              "published_at": "2026-09-29T14:18:00+09:00",
-              "description": "파라마운트의 워너브라더스 디스커버리(WBD) 인수가 자금 조달과 소송 합의로 속도를 내고 있다. 인수가 마무리되면 영화·TV 제작과 방송, 온라인동영상서비스(OTT)를 아우르는 대형 미디어 기업이 탄생한다.... ",
-              "source_name": "it.chosun.com"
+              "title": "민주당 AI 금융경제추진단 출범…'공시 강화·디스커버리' 첫 과제로",
+              "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=312187",
+              "published_at": "2026-09-30T09:22:00+09:00",
+              "description": "강화와 디스커버리 도입' 토론회를 개최한다고 밝혔다. 이용우 경제더하기연구소 대표가 단장을 맡고 국회... 김 대표가 정기국회 대표연설에서 언급한 공시 강화와 디스커버리 도입 방안을 구체적으로 논의한다. 추진단은... ",
+              "source_name": "straightnews.co.kr"
             },
             {
-              "title": "인천시 재정개혁 TF 80일 활동 결과 3749억 절감 제시... 결과치 숫자로...",
-              "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1102804",
-              "published_at": "2026-09-29T13:38:00+09:00",
-              "description": "지난 7월 기자실에서 차담회를 하고 있는 송현석 재정예산개혁TF 단장[사진=디스커버리뉴스] 인천시가 재정 위기 대응을 위해 가동한 재정예산개혁TF가 80여일간의 활동을 마무리하고 재정 운용의 틀을 바꾸기 위한... ",
-              "source_name": "discoverynews.kr"
+              "title": "'해리 포터: 금지된 숲 체험' 국내 첫 상륙…12월 제주서 열린다",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=769830",
+              "published_at": "2026-09-30T09:12:00+09:00",
+              "description": "콘텐츠 기반 공간 솔루션 기업 닷밀은 워너브라더스 디스커버리 글로벌 익스피리언스(WBDGE), 글로벌 라이브 엔터테인먼트 플랫폼 피버와 함께 '해리 포터™: 금지된 숲 체험(Harry Potter™: A Forbidden Forest Experience)'을... ",
+              "source_name": "slist.kr"
             },
             {
-              "title": "[증권가 이모저모] 오기형과 이용우…與 자본시장 간판들 묘한 신경전",
-              "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436909",
-              "published_at": "2026-09-29T13:10:00+09:00",
-              "description": "오는 30일 서울 여의도 한국거래소에서 '자본시장 제도개선: 공시와 디스커버리' 간담회를 진행할 예정이다. 이 전 의원은 자리에서 공시제도 강화와 디스커버리(증거개시·신청제도) 도입 필요성을 강조할 예정이다.... ",
+              "title": "美 국채시장 덮친 '3대 악재'…30년물 금리 24년 만에 최고",
+              "url": "https://www.newsway.co.kr/news/view?ud=2026093008502801053",
+              "published_at": "2026-09-30T09:00:00+09:00",
+              "description": "이번 발행은 워너 브라더스 디스커버리 인수를 위해 마련한 520억달러 규모의 신디케이트 자금 조달 패키지 가운데 가장 큰 부분을 차지한다. 회사는 이번 채권 발행을 통해 약 320억달러를 조달할 계획이다. 몬티 간디... ",
+              "source_name": "newsway.co.kr"
+            },
+            {
+              "title": "中企 &quot;납품대금 30일로 단축해야&quot;…변리사 비밀유지권도 요구",
+              "url": "https://www.m-i.kr/news/articleView.html?idxno=2000922",
+              "published_at": "2026-09-30T08:50:00+09:00",
+              "description": "2028년 한국형 증거수집제도(K-디스커버리) 시행을 앞두고 중소기업 기술 보호를 위한 변리사 비밀유지권... 2028년 시행 예정인 K-디스커버리에 대비한 중소기업 기술 보호 장치 마련 요구도 제기됐다. 정광천... ",
+              "source_name": "m-i.kr"
+            },
+            {
+              "title": "중기 옴부즈만, 김성원 산자중기위원장과 '성장사다리 포럼'",
+              "url": "https://view.asiae.co.kr/article/2026093008371028777",
+              "published_at": "2026-09-30T08:37:00+09:00",
+              "description": "이노비즈협회 정광천 회장은 &quot;2028년 시행되는 한국형 증거수집제도(K-디스커버리)로 인해 국내 중소기업들은 앞으로 특허기술 분쟁 발생 시 법원이 요청하면 변리사와의 상담을 포함한 모든 기술자료를 공개해야 한다&quot;며... ",
+              "source_name": "asiae.co.kr"
+            },
+            {
+              "title": "[미국 특징주] 파라마운트, WBD 인수 지체 사이 금리 급등...차입 부담 어...",
+              "url": "https://www.newspim.com/news/view/20260930000141",
+              "published_at": "2026-09-30T08:36:00+09:00",
+              "description": "파라마운트스카이댄스(PSKY)는 워너브러더스디스커버리(WBD) 인수 자금 마련을 위한 부채 발행을 두고... 워너가 2022년 디스커버리를 인수할 때 비슷한 계획을 택했지만 지난해 회사 분할을 검토하는 과정에서 무디스... ",
+              "source_name": "newspim.com"
+            },
+            {
+              "title": "비투비 이민혁, 뮤지와 'EDC KOREA 2026' 메인 스테이지 오른다",
+              "url": "https://www.topstarnews.net/news/articleView.html?idxno=16228642",
+              "published_at": "2026-09-30T08:24:00+09:00",
+              "description": "한편 비투비 이민혁(HUTA)이 스페셜 게스트로 참여하는 'EDC KOREA 2026' 뮤지의 '키네틱 필드' 스테이지는 10월 3일 오후 7시 인천 인스파이어 엔터테인먼트 리조트 디스커버리 파크에서 펼쳐진다.",
+              "source_name": "topstarnews.net"
+            },
+            {
+              "title": "[오늘의 국회]2026년 9월 30일",
+              "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609300812014980831",
+              "published_at": "2026-09-30T08:20:00+09:00",
+              "description": "경북 영주시이어야 하는가?(의원회관 제2소회의실) 14:00 박민규 의원실 등, 자본시장 제도개선: 공시와 디스커버리(여의도 한국거래소 홍보관) 14:00 김윤 의원실, 중증질환 신약 접근성 확대와 건강보험... ",
+              "source_name": "dnews.co.kr"
+            },
+            {
+              "title": "[뉴욕마켓워치] 불 끄러 나온 뉴욕의 윌리엄스…주식↓달러↑채권 혼조",
+              "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4437004",
+              "published_at": "2026-09-30T08:18:00+09:00",
+              "description": "파라마운트는 워너브러더스 디스커버리(워너브러더스) 인수·합병 자금 마련의 일환으로 2년에서 40년 만기까지 8개 트렌치로 약 320억달러 규모의 선순위 담보 회사채 발행에 나섰다. 이번 회사채는 미국 투자등급... ",
               "source_name": "einfomax.co.kr"
             },
             {
-              "title": "아웃도어, 비수기 7월 이어 8월 매출 약세…9월 들어 반등",
-              "url": "http://www.ktnews.com/news/articleView.html?idxno=148894",
-              "published_at": "2026-09-29T12:18:00+09:00",
-              "description": "업계 자료에 따르면 주요 9개 브랜드(노스페이스, 코오롱스포츠, 디스커버리 익스페디션, K2, 네파... K2(-12.4%)와 디스커버리(-10.0%)도 두 자릿수 역신장했다. 코오롱스포츠는 -9.5%, 아이더는 –6.9%를 기록했고... ",
-              "source_name": "ktnews.com"
+              "title": "비투비 이민혁, 'EDC KOREA 2026' 뜬다…뮤지와 스페셜 무대",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=769780",
+              "published_at": "2026-09-30T08:18:00+09:00",
+              "description": "이민혁은 오는 10월 3일 인천 인스파이어 엔터테인먼트 리조트 디스커버리 파크에서 열리는 일렉트로닉 댄스 뮤직 페스티벌 'EDC KOREA 2026'에 출연한다. 이날 이민혁은 메인 스테이지인 '키네틱 필드(KINETIC... ",
+              "source_name": "slist.kr"
             },
             {
-              "title": "[기획] &quot;기대 이상&quot;…한미 '투스페티닙', 생존율 5% 빗장 열까",
-              "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3043115",
-              "published_at": "2026-09-29T11:34:00+09:00",
-              "description": "글로벌 학술지 네이처 리뷰 드럭 디스커버리는 최근 한미약품을 매출 대비 평균 17% 이상의 R&amp;D 투자를 이어온 '혁신 리더'로 조명했다. 글로벌 빅파마에 필적하는 이러한 전투적 R&amp;D 투자는 최근 대형 기술수출 성과로... ",
-              "source_name": "docdocdoc.co.kr"
+              "title": "'어드벤처 타임: 사이드 퀘스트', 내달 국내 공개....핀·제이크→버블...",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=769775",
+              "published_at": "2026-09-30T08:14:00+09:00",
+              "description": "바네사 브룩먼 워너브러더스 디스커버리 인터내셔널 키즈·애니메이션·프랜차이즈 총괄은 &quot;'어드벤처 타임'은 재치와 독창성, 예측 불가한 매력이 담긴 가장 카툰네트워크다운 작품&quot;이라며 &quot;이번 신작을 통해 우랜드의... ",
+              "source_name": "slist.kr"
             },
             {
-              "title": "[템터뷰] &quot;신약개발은 데이터 산업&quot;...노보렉스가 연구실 밖 눈 돌린 이...",
-              "url": "https://www.techm.kr/news/articleView.html?idxno=155649",
-              "published_at": "2026-09-29T11:28:00+09:00",
-              "description": "지난해에는 신약 설계와 예측에 활용하는 '디스커버리 스튜디오' 등 전문 도구를 지원받았다. 올해는 다쏘시스템 3D익스피리언스 플랫폼을 기반으로 프로젝트관리시스템(PMS)을 도입하고 있다. 현재는 파이프라인 하나를... ",
-              "source_name": "techm.kr"
+              "title": "이민혁, ‘EDC KOREA 2026’ 출격",
+              "url": "https://www.bntnews.co.kr/article/view/bnt202609300066",
+              "published_at": "2026-09-30T08:04:00+09:00",
+              "description": "비투비 이민혁이 스페셜 게스트로 참여하는 뮤지의 ‘EDC KOREA 2026’ ‘키네틱 필드’ 무대는 오는 10월 3일 오후 7시 인천 인스파이어 엔터테인먼트 리조트 디스커버리 파크에서 펼쳐진다. 사진제공=비투비컴퍼니",
+              "source_name": "bntnews.co.kr"
             },
             {
-              "title": "카멜레온어린이미술관, 2027 랑카위 아트&amp;창의 해외 캠프 개최",
-              "url": "https://www.lecturernews.com/news/articleView.html?idxno=211264",
-              "published_at": "2026-09-29T10:30:00+09:00",
-              "description": "이와 함께 랑카위 디스커버리 센터 견학, 맹그로브 심기, 당리 섬 스노클링, 선셋 요트 크루즈 등 현지 자연과 문화를 체험하는 프로그램도 진행한다. 캠프는 보호자 동행형으로 운영하며, 교육 프로그램은 어린이만... ",
-              "source_name": "lecturernews.com"
+              "title": "부산 의료기기 기업, 싱가포르 전시회 성과…상담액 492만 달러",
+              "url": "https://www.newspim.com/news/view/20260930000066",
+              "published_at": "2026-09-30T08:03:00+09:00",
+              "description": "시는 싱가포르에 연구개발 허브인 이노베이티브 디스커버리 센터를 운영하는 프레스티지 바이오파마 본사도 방문했다. 양측은 센터가 지역 바이오헬스 클러스터의 핵심 거점으로 성장할 수 있도록 협력하기로... ",
+              "source_name": "newspim.com"
             },
             {
-              "title": "대구지역 롯데백화점, '스포츠·아웃도어' 액티브 위크",
-              "url": "https://www.newsis.com/view/NISX20260929_0003806586",
-              "published_at": "2026-09-29T10:00:00+09:00",
-              "description": "상인점은 4층 행사장에서 노스페이스·디스커버리의 롯데 슈퍼위크와 헤지스 맨즈 패션위크를 함께 운영한다. 같은 기간 대구점은 여성 가을 패션 특집전을 마련한다. 대구에서 성장한 디자이너 브랜드 최복호와... ",
-              "source_name": "newsis.com"
-            },
-            {
-              "title": "가을 넘어서는 패션·뷰티 업계…'기능성 라이프웨어'부터 '맞춤형 안티...",
-              "url": "http://www.dailypop.kr/news/articleView.html?idxno=102936",
-              "published_at": "2026-09-29T09:56:00+09:00",
-              "description": "10월 6일부터는 일부 백화점 매장에서 피부톤별 컬러 매치 및 터치업 서비스를 제공하며, 파운데이션 공병 수거 참여 고객에게 20% 할인 쿠폰과 디스커버리 키트 샘플을 증정하는 현장 프로모션도 병행한다.... ",
-              "source_name": "dailypop.kr"
-            },
-            {
-              "title": "소송 합의한 파라마운트-WBD 합병...美상원의원 &quot;법원 다시 따져야&quot;",
-              "url": "https://zdnet.co.kr/view/?no=20260929092914",
-              "published_at": "2026-09-29T09:35:00+09:00",
-              "description": "파라마운트와 워너브라더스디스커버리(WBD) 인수합병을 둘러싼 주 법무장관 연합과의 반독점 소송이 합의로 마무리됐으나 최종 법원 승인을 앞두고 논란이 이어지고 있다. 미국 상원의원이 합의안의 실효성에 의문을... ",
-              "source_name": "zdnet.co.kr"
+              "title": "중기 옴부즈만, 김성원 산자중기위장 초청 ‘성장사다리 포럼’ 개최",
+              "url": "https://biz.chosun.com/industry/business-venture/2026/09/30/GIOURQN7EJCBLEIWNRZNH63JEI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+              "published_at": "2026-09-30T08:01:00+09:00",
+              "description": "정광천 이노비즈협회장은 2028년 시행 예정인 한국형 증거수집제도(K-디스커버리)를 언급하며 변리사 비밀유지권의 필요성을 강조했다. 정 회장은 “특허기술 분쟁이 발생하면 법원이 요청한 기술자료를 폭넓게 공개해야... ",
+              "source_name": "biz.chosun.com"
             }
           ]
         },
         {
           "keyword": "네파",
           "articles": [
+            {
+              "title": "K2-네파 결합, 아웃도어 판 흔든다…노스페이스와 '양강' 구도 재편",
+              "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=366288",
+              "published_at": "2026-09-30T09:24:00+09:00",
+              "description": "아웃도어 브랜드 네파(NEPA)의 최대주주가 MBK파트너스에서 K2코리아그룹으로 변경되면서 아웃도어 시장이... 네파가 합류한 K2코리아그룹은 K2를 비롯해 아이더, 노르디스크 등 아웃도어 브랜드를 다수 보유하고 있다.... ",
+              "source_name": "ftoday.co.kr"
+            },
             {
               "title": "[유통 &amp; NOW] 롯데·신세계·현대백화점, 가을 정기 세일 등",
               "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1726074",
@@ -488,6 +472,20 @@
         {
           "keyword": "룰루레몬",
           "articles": [
+            {
+              "title": "[Who Is ?] 김석환 한세예스24홀딩스 대표이사 부회장",
+              "url": "https://www.businesspost.co.kr/BP?command=article_view&num=447641",
+              "published_at": "2026-09-30T07:02:00+09:00",
+              "description": "미국 룰루레몬에서 일한 임원을 영입해 액티브웨어 카테고리를 확대하는 한편 수익률 강화에 나서고 있다. △한세실업, 미국 섬유 제조업체 텍솔리니 인수 한세예스24그룹의 의류 주문자상표부착생산(OEM) 및... ",
+              "source_name": "businesspost.co.kr"
+            },
+            {
+              "title": "예일처럼 '입고 싶은 대학'으로…무신사의 '캠퍼스 IP' 실험 [MTN픽]",
+              "url": "https://news.mtn.co.kr/news-detail/2026092916563443590",
+              "published_at": "2026-09-30T06:08:00+09:00",
+              "description": "나이키와 룰루레몬, 챔피온 등 젊은 브랜드와의 협업도 잦다.무신사는 국내 대학의 IP가 가진 가능성에 주목했다. 지금까지 본격적으로 상품화되지 않았을 뿐, 대학에는 재학생과 졸업생을 하나로 묶는 '팬덤'과 소속감... ",
+              "source_name": "mtn.co.kr"
+            },
             {
               "title": "오클리, 26FW 컬렉션 공개...룰루레몬, 기능성 아우터웨어 출시",
               "url": "https://www.slist.kr/news/articleView.html?idxno=769694",
@@ -578,20 +576,6 @@
               "published_at": "2026-09-29T10:00:00+09:00",
               "description": "◇ 룰루레몬, 보온·발수 기능 강화한 아우터웨어 컬렉션 출시 룰루레몬이 보온성과 발수·방풍 기능을 적용한 새로운 아우터웨어 컬렉션을 출시했다. 이번 컬렉션은 옷을 입었을 때 느끼는 감각과 경험을 중시하는... ",
               "source_name": "ekn.kr"
-            },
-            {
-              "title": "룰루레몬, 착용감·퍼포먼스 갖춘 신규 아우터 라인업 공개",
-              "url": "https://www.fashionbiz.co.kr/article/229844",
-              "published_at": "2026-09-29T09:32:00+09:00",
-              "description": "룰루레몬의 새로운 아우터웨어 컬렉션 룰루레몬애틀라티카코리아(지사장 데이비드 드라벡)의 글로벌 스포츠웨어 브랜드 '룰루레몬'이 새로운 아우터웨어 컬렉션을 공개했다. 이번 컬렉션은 가볍고 따뜻한 보온... ",
-              "source_name": "fashionbiz.co.kr"
-            },
-            {
-              "title": "룰루레몬, 가볍고 따뜻한 아우터 승부수…루이스 해밀턴도 입었다",
-              "url": "https://www.mk.co.kr/article/12163396",
-              "published_at": "2026-09-29T09:27:00+09:00",
-              "description": "페더웨이트·써모젠·원더 퍼프 선봬 발수·방풍에 보온성 강화…활용도 높여 F1 드라이버 해밀턴 앞세워 글로벌 캠페인 글로벌 스포츠웨어 브랜드 룰루레몬이 가벼운 착용감과 보온·방풍 기능을 강화한 2026... ",
-              "source_name": "mk.co.kr"
             }
           ]
         },
