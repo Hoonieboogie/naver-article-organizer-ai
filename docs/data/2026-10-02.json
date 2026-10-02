@@ -1,6 +1,6 @@
 {
   "date": "2026-10-02",
-  "generated_at": "2026-10-02T01:25:35.116711+09:00",
+  "generated_at": "2026-10-02T09:37:46.426793+09:00",
   "sections": [
     {
       "name": "골프웨어",
@@ -28,33 +28,20 @@
               "published_at": "2026-10-01T14:37:00+09:00",
               "description": "캘러웨이 어패럴이 배우 유인영과 함께한 2026 가을·겨울(FW) 화보를 공개했다. 이번 화보는 ‘Play on, Stay Warm’을 테마로 계절감 있는 컬러와 레이어링을 활용해 FW 골프웨어 스타일을 선보였다. 퍼포먼스 중심의... ",
               "source_name": "mhnse.com"
-            },
-            {
-              "title": "캘러웨이어패럴, 배우 유인영과 F/W 화보 공개… 레이어링 스타일 눈길",
-              "url": "https://www.fashionbiz.co.kr/article/229925",
-              "published_at": "2026-10-01T09:36:00+09:00",
-              "description": "캘러웨이골프코리아(대표 제임스황)에서 전개하는 ‘캘러웨이어패럴’이 배우 유인영과 함께한 2026 F/W 화보를 공개한다. 이번 화보는 ‘플레이 온, 스테이 웜(Play on, Stay Warm)’을 테마로, 계절감이 느껴지는 컬러와... ",
-              "source_name": "fashionbiz.co.kr"
-            },
-            {
-              "title": "캘러웨이 어패럴, 유인영과 26FW 화보… &quot;플레이 온, 스테이 웜&quot;",
-              "url": "https://www.greened.kr/news/articleView.html?idxno=351181",
-              "published_at": "2026-10-01T09:35:00+09:00",
-              "description": "캘러웨이 어패럴 제공 배우 유인영이 가을·겨울 골프웨어 화보로 돌아왔다. 캘러웨이 어패럴은 1일 유인영과 함께한 2026 가을·겨울(FW) 화보를 공개했다. 이번 화보는 '플레이 온, 스테이 웜(Play on, Stay Warm)'을 테마로... ",
-              "source_name": "greened.kr"
-            },
-            {
-              "title": "캘러웨이 어패럴, 유인영과 함께한 가을·겨울 화보 공개",
-              "url": "https://biz.heraldcorp.com/article/10889832?ref=naver",
-              "published_at": "2026-10-01T08:56:00+09:00",
-              "description": "캘러웨이 어패럴이 배우 유인영과 함께한 2026 가을·겨울(FW) 화보를 1일 공개했다. ‘플레이온, 스테이웜(Play on, Stay Warm’을 주제로 한 이번 화보에서는 가을·겨울 컬러와 레이어링을 활용한 골프웨어 스타일을... ",
-              "source_name": "biz.heraldcorp.com"
             }
           ]
         },
         {
           "keyword": "테일러메이드 어패럴",
-          "articles": []
+          "articles": [
+            {
+              "title": "골프존, 윤이나와 스크린골프 동반 라운드...최대 2000명 참여",
+              "url": "http://www.popcornnews.net/news/articleView.html?idxno=134769",
+              "published_at": "2026-10-02T09:28:00+09:00",
+              "description": "전국 골프존 매장에서 회원 로그인 후 방 이름 '테일러메이드어패럴프로대아마'를 검색해 접속하면 된다. 윤이나는 KLPGA 투어 통산 2승을 기록한 선수다. 2024시즌에는 대상과 상금, 평균타수 부문에서 1위를 차지하며... ",
+              "source_name": "popcornnews.net"
+            }
+          ]
         },
         {
           "keyword": "타이틀리스트 어패럴",
@@ -89,19 +76,18 @@
         },
         {
           "keyword": "PXG 어패럴",
-          "articles": [
-            {
-              "title": "PXG, 매드포갈릭과 아동보호시설 향진원 후원 동행",
-              "url": "https://www.m-i.kr/news/articleView.html?idxno=2001534",
-              "published_at": "2026-10-01T08:50:00+09:00",
-              "description": "매일일보 = 성승환 기자   |  PXG의 공식 수입원인 ㈜카네와 PXG어패럴을 전개하는 ㈜로저나인이 인천 미추홀구에 위치한 아동양육시설 향진원에 기부금 1000만원을 전달하고, 엠에프지 코리아가 운영하는 다이닝 브랜드... ",
-              "source_name": "m-i.kr"
-            }
-          ]
+          "articles": []
         },
         {
           "keyword": "골프어패럴",
           "articles": [
+            {
+              "title": "골프존, 윤이나와 스크린골프 동반 라운드...최대 2000명 참여",
+              "url": "http://www.popcornnews.net/news/articleView.html?idxno=134769",
+              "published_at": "2026-10-02T09:28:00+09:00",
+              "description": "한성에프아이의 골프웨어 브랜드 테일러메이드 어패럴과 함께 기획한 행사로 브랜드 앰배서더인 윤이나 프로가 참여한다. 윤이나가 골프존 라이브 방송에 출연하는 것은 이번이 처음이다. 경기는 골프존 네트워크... ",
+              "source_name": "popcornnews.net"
+            },
             {
               "title": "배우 유인영, 골프웨어 입고 우아한 매력 뽐내… 세련된 스타일링 눈길",
               "url": "https://www.mk.co.kr/article/12166314",
@@ -122,40 +108,68 @@
               "published_at": "2026-10-01T14:37:00+09:00",
               "description": "캘러웨이 어패럴이 배우 유인영과 함께한 2026 가을·겨울(FW) 화보를 공개했다. 이번 화보는 ‘Play on, Stay Warm’을 테마로 계절감 있는 컬러와 레이어링을 활용해 FW 골프웨어 스타일을 선보였다. 퍼포먼스 중심의... ",
               "source_name": "mhnse.com"
-            },
-            {
-              "title": "캘러웨이어패럴, 배우 유인영과 F/W 화보 공개… 레이어링 스타일 눈길",
-              "url": "https://www.fashionbiz.co.kr/article/229925",
-              "published_at": "2026-10-01T09:36:00+09:00",
-              "description": "캘러웨이골프코리아(대표 제임스황)에서 전개하는 ‘캘러웨이어패럴’이 배우 유인영과 함께한 2026 F/W 화보를 공개한다. 이번 화보는 ‘플레이 온, 스테이 웜(Play on, Stay Warm)’을 테마로, 계절감이 느껴지는 컬러와... ",
-              "source_name": "fashionbiz.co.kr"
-            },
-            {
-              "title": "캘러웨이 어패럴, 유인영과 26FW 화보… &quot;플레이 온, 스테이 웜&quot;",
-              "url": "https://www.greened.kr/news/articleView.html?idxno=351181",
-              "published_at": "2026-10-01T09:35:00+09:00",
-              "description": "캘러웨이 어패럴 제공 배우 유인영이 가을·겨울 골프웨어 화보로 돌아왔다. 캘러웨이 어패럴은 1일 유인영과 함께한 2026 가을·겨울(FW) 화보를 공개했다. 이번 화보는 '플레이 온, 스테이 웜(Play on, Stay Warm)'을 테마로... ",
-              "source_name": "greened.kr"
-            },
-            {
-              "title": "“일하는 방식 바꿨다” 패션업계, AX 전환 로드맵은?",
-              "url": "https://www.fashionbiz.co.kr/article/229908",
-              "published_at": "2026-10-01T09:30:00+09:00",
-              "description": "위비스(대표 도상현)는 여성복 ‘지센’과 골프웨어 ‘볼빅어패럴’의 타깃층과 시장 특성에 맞춘 브랜드 전략에 AI 기반 마케팅을 결합해 성과를 내고 있다. 특히 비주얼 콘텐츠 제작팀을 신설해 기획부터 제작과... ",
-              "source_name": "fashionbiz.co.kr"
-            },
-            {
-              "title": "캘러웨이 어패럴, 유인영과 함께한 가을·겨울 화보 공개",
-              "url": "https://biz.heraldcorp.com/article/10889832?ref=naver",
-              "published_at": "2026-10-01T08:56:00+09:00",
-              "description": "크림 등 계절감을 살린 색상과 다양한 아우터를 활용해 가을부터 겨울까지 이어지는 스타일링을 담았다. 캘러웨이 어패럴 관계자는 “골프웨어의 기능성과 세련된 디자인을 함께 보여주는 데 중점을 뒀다”고 밝혔다.",
-              "source_name": "biz.heraldcorp.com"
             }
           ]
         },
         {
           "keyword": "골프웨어",
           "articles": [
+            {
+              "title": "골프존, 윤이나와 스크린골프 동반 라운드...최대 2000명 참여",
+              "url": "http://www.popcornnews.net/news/articleView.html?idxno=134769",
+              "published_at": "2026-10-02T09:28:00+09:00",
+              "description": "한성에프아이의 골프웨어 브랜드 테일러메이드 어패럴과 함께 기획한 행사로 브랜드 앰배서더인 윤이나 프로가 참여한다. 윤이나가 골프존 라이브 방송에 출연하는 것은 이번이 처음이다. 경기는 골프존 네트워크... ",
+              "source_name": "popcornnews.net"
+            },
+            {
+              "title": "까스텔바작, F/W 신상품 판매량 3배↑…상품 경쟁력 강화 통했다",
+              "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065571899321795",
+              "published_at": "2026-10-02T09:12:00+09:00",
+              "description": "형지글로벌의 골프웨어 브랜드 까스텔바작이 상품 경쟁력 강화를 앞세워 2026년 가을·겨울(F/W) 시즌 판매 확대에 나서고 있다. 상품 기획 방향을 전면 재정비한 가운데 신상품 판매량이 전년 대비 약 3배 증가하면서... ",
+              "source_name": "megaeconomy.co.kr"
+            },
+            {
+              "title": "까스텔바작, 가을 신상 판매 전년比 3배 증가…상품 경쟁력 ↑",
+              "url": "https://www.news1.kr/industry/distribution/6308489",
+              "published_at": "2026-10-02T09:09:00+09:00",
+              "description": "형지글로벌이 전개하는 프랑스 오리진 골프웨어 브랜드 까스텔바작이 상품 경쟁력을 높이면서 올해 FW(가을·겨울) 시즌 신상품 판매량이 전년 대비 약 3배 증가했다고 2일 밝혔다. 특히 감각적인 컬러 배색의 프리미엄... ",
+              "source_name": "news1.kr"
+            },
+            {
+              "title": "까스텔바작의 변신 통했다…가을 신상품 판매량 3배↑",
+              "url": "https://www.etoday.co.kr/news/view/2631831",
+              "published_at": "2026-10-02T09:04:00+09:00",
+              "description": "까스텔바작은 골프웨어 수요가 집중되는 10~11월을 겨냥해 인기 상품의 추가 물량을 확보하고 필드와 일상을 아우르는 고기능성 라이프스타일 제품군을 확대할 계획이다. 형지글로벌 관계자는 “브랜드 방향성을 명확히... ",
+              "source_name": "etoday.co.kr"
+            },
+            {
+              "title": "롯데하이마트-마리오아울렛 '이사·웨딩 페스티벌' '청소기 브랜드 대전...",
+              "url": "http://www.wsobi.com/news/articleView.html?idxno=319118",
+              "published_at": "2026-10-02T08:38:00+09:00",
+              "description": "2관 1층 이벤트홀에서는 나이키골프 티셔츠를 35,400원부터, 아이더 바람막이를 99,000원부터 판매한다.... 1관 3층에는 베이스웨어 브랜드 '샌디즈(Sandys)'가 입점해 신규 오픈을 기념한 최대 30% 세일에 돌입한다.",
+              "source_name": "wsobi.com"
+            },
+            {
+              "title": "까스텔바작, 2026 F/W 신상품 판매량 전년比 3배 증가",
+              "url": "http://www.beyondpost.co.kr/view.php?ud=20261002081304988846a9e4dd7f_30",
+              "published_at": "2026-10-02T08:16:00+09:00",
+              "description": "형지글로벌의 골프웨어 브랜드 까스텔바작이 2026년 가을·겨울(F/W) 시즌 신상품 판매량이 전년보다 약 3배 증가했다고 2일 밝혔다. 형지글로벌은 올해 초 까스텔바작의 상품 기획 방향을 재정비하고 디자인과 기능성... ",
+              "source_name": "beyondpost.co.kr"
+            },
+            {
+              "title": "K-골프의 쾌거…홍천 카스카디아CC, 美 골프매거진 ‘세계 100대 골프 리...",
+              "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000019255&cp=nv",
+              "published_at": "2026-10-02T06:10:00+09:00",
+              "description": "강원특별자치도 홍천의 럭셔리 골프장 카스카디아CC(대표이사 김동환)가 세계 골프계의 가장 권위 있는... 서비스 측면에서도 올 발렛 파킹 서비스, 전용 6인승 리무진 카트 도입, 전용 캐디웨어 자체 디자인 및 전문... ",
+              "source_name": "kmib.co.kr"
+            },
+            {
+              "title": "마리오아울렛, 가을 신상 탐색전…패션·스포츠 최대 80% 할인",
+              "url": "https://www.news1.kr/industry/distribution/6308196",
+              "published_at": "2026-10-02T06:00:00+09:00",
+              "description": "2관과 야외 행사장에서는 나이키골프와 아이더, 블랙야크, K2, 노스페이스, 네파 등 골프·아웃도어 브랜드... 1관 3층에는 애슬레저 감성의 베이스웨어 브랜드 '샌디즈'가 문을 열고 최대 30% 할인 행사를 진행한다.... ",
+              "source_name": "news1.kr"
+            },
             {
               "title": "2027년 유럽 모객 벌써 시작…최대 100만원 할인 승부 [주간 여행산업 동...",
               "url": "https://www.traveltimes.co.kr/news/articleView.html?idxno=500490",
@@ -192,18 +206,18 @@
               "source_name": "golfjournal.co.kr"
             },
             {
-              "title": "2026 학생 골프선수의 골프용품 선택",
-              "url": "https://www.golfjournal.co.kr/news/articleView.html?idxno=11079",
-              "published_at": "2026-10-01T17:00:00+09:00",
-              "description": "타이틀리스트, 학생 선수들이 가장 많이 입는 골프웨어 브랜드 학생 선수들이 가장 많이 입는 골프웨어는 어떤 브랜드일까? 설문 결과 학생 선수들이 가장 많이 입는 골프웨어 브랜드는 24.2%의 점유율을 기록한... ",
-              "source_name": "golfjournal.co.kr"
-            },
-            {
               "title": "와이드앵글, 도곡 플래그십 '혼디어' 팝업 오픈",
               "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1068700",
               "published_at": "2026-10-01T17:00:00+09:00",
               "description": "골프웨어 브랜드 와이드앵글이 브랜드 캐릭터 '혼디어(HORN DEER)'를 직접 만나볼 수 있는 '혼디어 팝업스토어'를 와이드앵글 도곡 플래그십 스토어에 오픈했다고 밝혔다. 앞서 9월 30일에는 혼디어를 활용한 카카오톡... ",
               "source_name": "ksilbo.co.kr"
+            },
+            {
+              "title": "2026 학생 골프선수의 골프용품 선택",
+              "url": "https://www.golfjournal.co.kr/news/articleView.html?idxno=11079",
+              "published_at": "2026-10-01T17:00:00+09:00",
+              "description": "타이틀리스트, 학생 선수들이 가장 많이 입는 골프웨어 브랜드 학생 선수들이 가장 많이 입는 골프웨어는 어떤 브랜드일까? 설문 결과 학생 선수들이 가장 많이 입는 골프웨어 브랜드는 24.2%의 점유율을 기록한... ",
+              "source_name": "golfjournal.co.kr"
             },
             {
               "title": "와이드앵글, 도곡 플래그십에 ‘혼디어’ 팝업 오픈…체험형 이벤트 운...",
@@ -239,68 +253,26 @@
               "published_at": "2026-10-01T15:12:00+09:00",
               "description": "FFC와 클래식 골프웨어를 재해석한 BSC(브리티시 스포츠 클럽) 등 전략 라인이 신규 고객층을 끌어들이며 매출 성장을 이끌었다. 헨리코튼은 이 밖에도 빈티지 피싱 점퍼에서 착안한 고밀도 나일론 점퍼 '옥타'와 레더... ",
               "source_name": "inews24.com"
-            },
-            {
-              "title": "“원하는 장면 말하면 영상으로”…웨이브, 골프 ‘AI 시청’ 도입",
-              "url": "https://www.sentv.co.kr/article/view/sentv202610010148",
-              "published_at": "2026-10-01T15:06:00+09:00",
-              "description": "골프웨어나 대회 필드 전경, 우천 경기 등 경기 외적인 요소를 중심으로 영상을 만드는 기능도 지원한다. 라운드당 4~5시간, 대회 전체로는 약 20시간에 달하는 골프 중계를 이용자의 관심사와 시청 가능 시간에 맞춰... ",
-              "source_name": "sentv.co.kr"
-            },
-            {
-              "title": "“필드와 일상을 한 번에”..유인영이 선보인 캘러웨이 어패럴 FW 골프룩",
-              "url": "https://mhnse.com/news/articleView.html?idxno=1566833",
-              "published_at": "2026-10-01T14:37:00+09:00",
-              "description": "이번 화보는 ‘Play on, Stay Warm’을 테마로 계절감 있는 컬러와 레이어링을 활용해 FW 골프웨어 스타일을 선보였다. 퍼포먼스 중심의 골프웨어부터 필드와 일상에서 함께 활용할 수 있는 ‘골프 앤 데일리’ 스타일을... ",
-              "source_name": "mhnse.com"
-            },
-            {
-              "title": "내 취향에 맞춘 '맞춤형 골프 하이라이트' 생성, 웨이브, 국내 OTT 최초 ...",
-              "url": "https://gamefocus.co.kr/detail.php?number=179512",
-              "published_at": "2026-10-01T14:26:00+09:00",
-              "description": "&quot;시원한 장타 모음&quot;, &quot;올해 홀인원 명장면&quot; 같은 플레이 유형별 요청은 물론, “선수들의 골프웨어 보여줘”, “이번 대회 필드 전경 모음”, &quot;비 오는 날 했던 경기 보여줘&quot; 같은 색다른 관점의 요청도 가능하다.... ",
-              "source_name": "gamefocus.co.kr"
-            },
-            {
-              "title": "“오늘 베스트샷 모아줘”...웨이브, 국내 OTT 최초 골프 ‘AI 시청 에이...",
-              "url": "https://www.mk.co.kr/article/12165979",
-              "published_at": "2026-10-01T14:00:00+09:00",
-              "description": "“시원한 장타 모음”, “올해 홀인원 명장면” 같은 플레이 유형별 요청은 물론, “선수들의 골프웨어 보여줘”, “이번 대회 필드 전경 모음”, “비 오는 날 했던 경기 보여줘” 같은 색다른 관점의 요청도 가능하다.... ",
-              "source_name": "mk.co.kr"
-            },
-            {
-              "title": "웨이브, 국내 OTT 최초로 골프 'AI 시청 에이전트' 도입",
-              "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=855308",
-              "published_at": "2026-10-01T13:58:00+09:00",
-              "description": "또 &quot;시원한 장타 모음&quot;, &quot;올해 홀인원 명장면&quot; 같은 플레이 유형별 요청은 물론, &quot;선수들의 골프웨어 보여줘&quot;, &quot;이번 대회 필드 전경 모음&quot;, &quot;비 오는 날 했던 경기 보여줘&quot; 같은 색다른 관점의 요청도 가능하다. 라운드당 4... ",
-              "source_name": "newsworks.co.kr"
-            },
-            {
-              "title": "효성티앤씨·골프존, 러닝 행사 'SMTOWN RUN CLUB 26' 의류 스폰서 참여....",
-              "url": "http://www.wsobi.com/news/articleView.html?idxno=319071",
-              "published_at": "2026-10-01T13:52:00+09:00",
-              "description": "효성티앤씨가 러닝 행사 'SMTOWN RUN CLUB 26'에 공식 의류 스폰서로 참여하며 골프존은 '2026 S-OIL SEVEN GTOUR... 행사 참가자들이 효성티앤씨의 섬유가 적용된 러닝웨어를 실제로 착용하는 만큼 기존 B2B 중심의 소재... ",
-              "source_name": "wsobi.com"
-            },
-            {
-              "title": "“서교림 퍼팅만 보여줘” 웨이브…국내 OTT 최초 골프 ‘AI 시청’ 상용...",
-              "url": "https://www.dailian.co.kr/news/view/1696842/?sc=Naver",
-              "published_at": "2026-10-01T13:36:00+09:00",
-              "description": "&quot;시원한 장타 모음&quot;, &quot;올해 홀인원 명장면&quot; 같은 특정 플레이 유형은 물론, &quot;선수들의 골프웨어 모음&quot;, &quot;비 오는 날 경기 장면&quot;처럼 이색적인 관점의 요청까지 정교하게 구현해낸다. 골프 팬들의 원포인트 레슨 자료로의... ",
-              "source_name": "dailian.co.kr"
-            },
-            {
-              "title": "&quot;홀인원 명장면 보여줘&quot; 웨이브, 'AI 시청' 서비스 도입...콘텐츠 시청 ...",
-              "url": "https://www.techm.kr/news/articleView.html?idxno=155756",
-              "published_at": "2026-10-01T11:34:00+09:00",
-              "description": "&quot;시원한 장타 모음&quot;, &quot;올해 홀인원 명장면&quot; 같은 플레이 유형별 요청은 물론, &quot;선수들의 골프웨어 보여줘&quot;, &quot;이번 대회 필드 전경 모음&quot;, &quot;비 오는 날 했던 경기 보여줘&quot; 같은 색다른 관점의 요청도 가능하다. 라운드당 4... ",
-              "source_name": "techm.kr"
             }
           ]
         },
         {
           "keyword": "아웃도어 k2",
           "articles": [
+            {
+              "title": "롯데하이마트-마리오아울렛 '이사·웨딩 페스티벌' '청소기 브랜드 대전...",
+              "url": "http://www.wsobi.com/news/articleView.html?idxno=319118",
+              "published_at": "2026-10-02T08:38:00+09:00",
+              "description": "마리오광장에서는 블랙야크 롱다운을 149,000원부터 만나볼 수 있으며, 마르페광장에서는 K2, 하이드로겐, 노스페이스, 액티브, 네파 등 아웃도어 브랜드들이 참여한다. 3관 지하 1층 이벤트홀에서는 언더아머... ",
+              "source_name": "wsobi.com"
+            },
+            {
+              "title": "마리오아울렛, 가을 신상 탐색전…패션·스포츠 최대 80% 할인",
+              "url": "https://www.news1.kr/industry/distribution/6308196",
+              "published_at": "2026-10-02T06:00:00+09:00",
+              "description": "2관과 야외 행사장에서는 나이키골프와 아이더, 블랙야크, K2, 노스페이스, 네파 등 골프·아웃도어 브랜드 특가전을 진행한다. 3관에서는 언더아머와 스케쳐스 등을 최대 50% 할인한다. 다품목 구매 혜택도 마련했다.... ",
+              "source_name": "news1.kr"
+            },
             {
               "title": "K2, 아웃도어 최초 '알파카 파카 다운' 출시",
               "url": "https://www.slist.kr/news/articleView.html?idxno=770351",
@@ -370,19 +342,26 @@
               "published_at": "2026-10-01T09:44:00+09:00",
               "description": "아웃도어 브랜드 K2가 알파카 소재를 충전재와 겉감에 적용한 '알파카 파카(AL-PACA PARKA) 다운'을 출시한다고 밝혔다. 신제품에는 K2와 이탈리아 임보텍스(Imbotex)가 공동 개발한 '에어로 알파카 플록(AERO ALPACA FLOCK)... ",
               "source_name": "beyondpost.co.kr"
-            },
-            {
-              "title": "롯데도 신세계도 아니다…백화점 관심도 1위 찍은 '이곳' 어디?",
-              "url": "https://www.wikitree.co.kr/articles/1163061",
-              "published_at": "2026-10-01T09:18:00+09:00",
-              "description": "보니스팍스, 손정완, 바버, 컨버스, 커버낫을 비롯해 나이키, 푸마, 안다르, K2 등 인기 패션 및 아웃도어 브랜드가 대거 포함됐다. 리빙 분야에서는 세사, 씰리, 마테라소가 참여하며 키친 및 다이닝 분야에서는 휘슬러... ",
-              "source_name": "wikitree.co.kr"
             }
           ]
         },
         {
           "keyword": "알로",
           "articles": [
+            {
+              "title": "순천만에서 확인된 국가정원 효과... 34만평 정원 인접 '쌍용 더 플래티...",
+              "url": "https://www.rcast.co.kr/news/articleView.html?idxno=31753",
+              "published_at": "2026-10-02T09:36:00+09:00",
+              "description": "국가정원은 환경을 지키는 동시에 경제를 살리는 황금알로 불린다. 순천만국제정원박람회는 2023년 당시 관람객 1,000만 명에 가까운 약 981만 명이 방문했다. 대외경제정책연구원에 따르면, 당시 생산 유발 효과는 1조5... ",
+              "source_name": "rcast.co.kr"
+            },
+            {
+              "title": "&quot;요가복 안 입는다더니&quot;…'20만원 레깅스' 불티나게 팔린 까닭",
+              "url": "https://www.hankyung.com/article/2026100185131",
+              "published_at": "2026-10-02T08:01:00+09:00",
+              "description": "룰루레몬을 비롯해 알로, 뷰오리 등 신흥 글로벌 프리미엄 브랜드가 약진하며 애슬레저(일상복으로도... 또 다른 미국 요가복 브랜드 알로 카드 결제액도 지난달 첫째 주 전년 동기 대비 99%, 둘째 주 102% 늘며 눈에 띄는... ",
+              "source_name": "hankyung.com"
+            },
             {
               "title": "알로, 中 상하이 대규모 체험공간 조성…글로벌 거점 확장 전략",
               "url": "https://www.donga.com/news/Economy/article/all/20261001/134770751/1",
@@ -417,40 +396,82 @@
               "published_at": "2026-10-01T11:56:00+09:00",
               "description": "알로요가코리아(대표 마르코 데 조지)의 프리미엄 라이프스타일 브랜드 '알로(ALO)'가 글로벌 시장에서 브랜드 접점을 확대하며 새로운 브랜드 경험을 선보인다. '알로'는 상하이 장위안(张园)에 3층 규모의 대규모... ",
               "source_name": "apparelnews.co.kr"
-            },
-            {
-              "title": "[모닝 리포트] 영원무역, 환율 역풍에도 OEM 독주…알로가 새 성장축",
-              "url": "https://www.newspim.com/news/view/20261001000100",
-              "published_at": "2026-10-01T09:23:00+09:00",
-              "description": "원화 강세가 단기 실적에는 부담이지만, 아크테릭스 등 핵심 고객사 수주와 알로 요가(Alo Yoga) 등 신규 고객 확대가 중장기 성장 동력으로 부각될 것이란 분석이다. 정지윤 NH투자증권 연구원은 1일 리포트에서... ",
-              "source_name": "newspim.com"
-            },
-            {
-              "title": "영원무역, 알로 등 신규 고객 성장…목표가 10만5000원",
-              "url": "https://www.fnnews.com/news/202610010807130796",
-              "published_at": "2026-10-01T08:19:00+09:00",
-              "description": "NH투자증권은 영원무역이 글로벌 애슬레저 브랜드 알로(Alo)를 비롯한 신규 고객사를 확보하며... 정 연구원은 &quot;온러닝의 의류 부문이 새로운 성장 동력으로 발전하고 있고 알로 역시 글로벌 애슬레저 트렌드를... ",
-              "source_name": "fnnews.com"
-            },
-            {
-              "title": "[주인공과의 대화] 미션! 사라진 아기 고양이를 찾아라",
-              "url": "https://kids.donga.com/news/articleView.html?idxno=169884",
-              "published_at": "2026-10-01T08:00:00+09:00",
-              "description": "친한 고양이와는 몸이나 얼굴을 비비는 '알로러빙(allorubbing)' 으로 냄새를 나누고, 서로의 털을 핥는 '알로그루밍 (allogrooming)'으로 친밀감을 나타내지. 꼬리와 귀의 움직임, 자세, 울음 소리로도 기분이나 의사를 전해.... ",
-              "source_name": "kids.donga.com"
-            },
-            {
-              "title": "LA 베니스 고급 의류매장 새벽털이…유리 깨고 물품 훔쳐 도주",
-              "url": "https://www.radiokorea.com/news/article.php?uid=505504",
-              "published_at": "2026-10-01T02:26:00+09:00",
-              "description": "LAPD에 따르면 경찰은 오늘(30일) 오전 4시 15분쯤 애벗 키니 블러버드 1300블록에 있는 ‘알로(Alo)’ 매장에 절도범들이 침입하고 있다는 신고를 받고 출동했다. 경찰이 도착했을 때 용의자들은 이미 달아난 뒤였다. 매장... ",
-              "source_name": "radiokorea.com"
             }
           ]
         },
         {
           "keyword": "디스커버리",
           "articles": [
+            {
+              "title": "[2026 3Q 리그테이블] [M&amp;A재무자문] 외국계 IB에 밀렸던 빅4 토종 회계법...",
+              "url": "https://dealsite.co.kr/articles/169936",
+              "published_at": "2026-10-02T09:06:00+09:00",
+              "description": "삼일PwC는 올해 3분기 ▲IMM프라이빗에쿼티의 이화다이아몬드공업 인수 ▲미래에셋컨설팅의 코빗 지분 인수 ▲SK디스커버리의 SK디앤디 매각 ▲클로봇의 두산로지스틱스솔루션 인수 등 다양한 거래에 참여하면서... ",
+              "source_name": "dealsite.co.kr"
+            },
+            {
+              "title": "[한국건설, 80년의 기록]⑨ 석유플랜트 짓던 SK에코플랜트, 환경 대신 반...",
+              "url": "http://www.wikileaks-kr.org/news/articleView.html?idxno=192725",
+              "published_at": "2026-10-02T09:02:00+09:00",
+              "description": "SK디스커버리 부회장이 이끄는 SK케미칼에 증여했고 이후 SK케미칼은 SK건설 지분을 추가로 확보하며... SK케미칼은 인적분할을 통해 지주회사 SK디스커버리와 사업회사 SK케미칼로 나뉘었다. 그러나 SK디스커버리는... ",
+              "source_name": "wikileaks-kr.org"
+            },
+            {
+              "title": "[2026 3Q 리그테이블] [M&amp;A재무자문] 선두 꿰찬 EY한영…8위에서 1위로",
+              "url": "https://dealsite.co.kr/articles/169836",
+              "published_at": "2026-10-02T09:02:00+09:00",
+              "description": "▲IMM프라이빗에쿼티의 이화다이아몬드공업 인수(4000억원) ▲미래에셋컨설팅의 코빗 지분 인수(1334억원) ▲SK디스커버리의 SK디앤디 매각(742억원) ▲클로봇의 두산로지스틱스솔루션 인수(667억원)... ",
+              "source_name": "dealsite.co.kr"
+            },
+            {
+              "title": "액센추어, 호실적에 15% 급등⋯파라마운트는 10%↓ [뉴욕증시 무버]",
+              "url": "https://www.etoday.co.kr/news/view/2631798",
+              "published_at": "2026-10-02T08:28:00+09:00",
+              "description": "워너브러더스디스커버리(WBD) 인수를 위해 발행한 60억달러 규모의 2031년 만기 신규 회사채가 거래 첫날 액면가를 밑도는 가격에 거래됐다. 인수 이후 순부채가 약 800억달러에 이를 것으로 예상되면서 재무 부담에 대한... ",
+              "source_name": "etoday.co.kr"
+            },
+            {
+              "title": "삼성바이오로직스, 국내외 제약바이오 4개 행사 참여",
+              "url": "https://www.biospectator.com/view/news_view.php?varAtcId=29970",
+              "published_at": "2026-10-02T08:20:00+09:00",
+              "description": "플랫폼 디스커버리 그룹장과 오세규 오가노이드 테크놀로지그룹 프로는 포스터 발표에 나선다. 국내에서는 이번달 28일부터 30일까지 서울 강남구 코엑스에서 열리는 '바이오플러스 인터펙스 코리아... ",
+              "source_name": "biospectator.com"
+            },
+            {
+              "title": "[더벨]티움바이오, SK플라즈마 지분 현금화…두경부암 임상 재원",
+              "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609301815517040102351",
+              "published_at": "2026-10-02T07:02:00+09:00",
+              "description": "티움바이오가 2021년 SK플라즈마 유상증자 참여로 확보한 지분 일부를 SK디스커버리에 넘겼다. 2024년에... ◇SK디스커버리에 비상장 주식 처분…잔여 주식은 보유 계획 티움바이오는 9월 30일 이사회를 열고... ",
+              "source_name": "thebell.co.kr"
+            },
+            {
+              "title": "&quot;최소 30편 만들어라&quot; 파라마운트만 웃은 WBD 합병의 조건",
+              "url": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=54266",
+              "published_at": "2026-10-02T07:00:00+09:00",
+              "description": "파라마운트 스카이댄스(Paramount Skydance)의 워너브러더스 디스커버리(Warner Bros. Discovery) 인수가 마지막 관문을 넘었다. 미국 연방법원은 9월 30일 파라마운트와 12개 주가 맺은 합의안을 승인했다. 약 1110억 달러... ",
+              "source_name": "fortunekorea.co.kr"
+            },
+            {
+              "title": "바비인형 제조사 마텔, 어센틱 브랜즈 인수설에 주가 18% 폭등",
+              "url": "https://www.g-enews.com/view.php?ud=202610020601571977e250e8e188_1",
+              "published_at": "2026-10-02T06:06:00+09:00",
+              "description": "그는 파라마운트 글로벌과 워너 브라더스 디스커버리의 공동 CEO로 자리를 옮기는 이논 크레이즈 현 CEO의 뒤를 이어 마텔의 지식재산권 사업과 완구 부문을 이끌게 된다. 이인수 글로벌이코노믹 기자",
+              "source_name": "g-enews.com"
+            },
+            {
+              "title": "AI 특수에 마이크론 또 최대 실적...韓日, 美 발전소 투자 확대 [글로벌...",
+              "url": "https://www.sedaily.com/article/20097379?ref=naver",
+              "published_at": "2026-10-02T06:01:00+09:00",
+              "description": "파라마운트-워너 합병 합의…영화 150편 제작 조건 파라마운트의 워너브라더스디스커버리 인수합병(M&amp;A)이 마지막 큰 산을 넘었습니다. 12개 주가 제기한 반독점 소송이 미 연방법원에서 합의로 마무리되면서 조만간... ",
+              "source_name": "sedaily.com"
+            },
+            {
+              "title": "찬바람보다 먼저 온 ‘경량패딩’",
+              "url": "https://www.seoul.co.kr/news/economy/industry/2026/10/02/20261002032006?wlog_tag3=naver",
+              "published_at": "2026-10-02T05:05:00+09:00",
+              "description": "에프앤에프의 ‘디스커버리’, 이랜드월드의 ‘스파오’, ‘뉴발란스’ 등은 예년보다 1~2주가량 경량패딩 제품을 앞당겨 출시했다. 삼성물산 패션부문이 운영하는 SSF샵에서는 지난 8월 20일부터 9월 27일까지 경량패딩... ",
+              "source_name": "seoul.co.kr"
+            },
             {
               "title": "10월 1일 모닝뉴스 헤드라인",
               "url": "https://www.radiokorea.com/news/article.php?uid=505536",
@@ -520,82 +541,54 @@
               "published_at": "2026-10-01T16:15:00+09:00",
               "description": "마크 스투더(Marc Studer) ADC·mRNA 오퍼레이션팀장이 '자산에서 운영으로: ADC GMP 생산 램프업의 핵심 성공요인'을 주제로 연사로 나서고, 김지나 ADC 플랫폼 디스커버리 그룹장과 오세규 오가노이드... ",
               "source_name": "catchnews.kr"
-            },
-            {
-              "title": "SK하이닉스·바이오팜 쾌속 질주… SK그룹, 혼조세 속 강세 마감",
-              "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=491955",
-              "published_at": "2026-10-01T16:10:00+09:00",
-              "description": "SK스퀘어와 SK디스커버리, SK가스, SK리츠, 드림어스컴퍼니도 상승 흐름에 동참했다. 금융과 로봇, 헬스케어 관련 계열사도 강세를 보였다. SK증권은 증권업황 개선 기대가 반영됐으며, 엠엑스로보틱스는 로봇용 부품과... ",
-              "source_name": "pinpointnews.co.kr"
-            },
-            {
-              "title": "[ESG 경영 분석] '이사회 독립성 강화' SK케미칼…&quot;5대 위원회 기반 전문...",
-              "url": "http://www.economytalk.kr/news/articleView.html?idxno=424440",
-              "published_at": "2026-10-01T16:06:00+09:00",
-              "description": "&lt; 사내이사 이사회 구성 &gt; ○ 안재현(대표이사) - 남성 60세 (산업, 경영 전문) (임기) 2026.03~2029.03, 경력(SK디스커버리 대표이사, SK D&amp;D 대표이사, SK가스 경영지원부문장 및 신성장에너지위원장, SK에코플랜트... ",
-              "source_name": "economytalk.kr"
-            },
-            {
-              "title": "SSG닷컴, 황금연휴 쇼핑 수요 잡는다…패션·뷰티·가전 총출동",
-              "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=209928",
-              "published_at": "2026-10-01T15:48:00+09:00",
-              "description": "패션·스포츠에서는 스타카토 슈즈와 K2 패딩 점퍼, 디스커버리 재킷, 아디다스 러닝화 등을 준비했다. 뷰티에서는 일리윤과 아이소이를 비롯해 아르마니 뷰티, 맥 등의 상품을 만나볼 수 있다. 가전·리빙 부문에서는... ",
-              "source_name": "thefirstmedia.net"
-            },
-            {
-              "title": "삼성바이오로직스, 10월 글로벌 행사 4곳 참여···기술 소개",
-              "url": "http://www.finomy.com/news/articleView.html?idxno=262705",
-              "published_at": "2026-10-01T15:46:00+09:00",
-              "description": "김지나 ADC 플랫폼 디스커버리 그룹장과 오세규 오가노이드 테크놀로지그룹 프로는 각각 이중특이 ADC와 환자 유래 오가노이드 관련 연구 성과를 포스터로 발표한다. 국내에서는 오는 28일부터 30일까지 서울... ",
-              "source_name": "finomy.com"
-            },
-            {
-              "title": "미국 법원, 파라마운트ㆍ워너 합병 승인⋯6일 마무리",
-              "url": "https://www.etoday.co.kr/news/view/2631589",
-              "published_at": "2026-10-01T15:44:00+09:00",
-              "description": "이투데이=고대영 기자 | 12개주 법무장관과 파라마운트 합의안 승인 극장 영화 제작 의무, 미국 내 제작 등 조건 파라마운트 스카이댄스와 워너브러더스 디스커버리 간 세기의 인수합병(M&amp;A)이 다음 주 마무리될... ",
-              "source_name": "etoday.co.kr"
-            },
-            {
-              "title": "삼성바이오로직스, 10월 4개 제약·바이오 행사에 참가 차별화된 CDMO 경...",
-              "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3036410",
-              "published_at": "2026-10-01T15:34:00+09:00",
-              "description": "아울러 김지나 ADC 플랫폼 디스커버리 그룹장과 오세규 오가노이드 테크놀로지그룹 프로는 포스터 발표를 통해 각각 '이중특이 ADC'와 '환자 유래 오가노이드' 관련 연구 성과를 공유한다. 28일부터 30일까지 3일간... ",
-              "source_name": "kihoilbo.co.kr"
-            },
-            {
-              "title": "삼성바이오로직스, 글로벌 행사 4곳 출격…CDMO 경쟁력 알린다",
-              "url": "http://www.4th.kr/news/articleView.html?idxno=2119038",
-              "published_at": "2026-10-01T15:20:00+09:00",
-              "description": "김지나 ADC 플랫폼 디스커버리 그룹장과 오세규 오가노이드 테크놀로지그룹 프로는 각각 '이중특이 ADC'와 '환자 유래 오가노이드' 관련 연구 성과를 발표한다. 국내에서는 28~30일 서울 강남구 코엑스에서 열리는... ",
-              "source_name": "4th.kr"
-            },
-            {
-              "title": "삼성바이오, 10월 글로벌 행사 4곳서 CDMO 기술력 소개",
-              "url": "https://www.medipana.com/news/articleView.html?idxno=418595",
-              "published_at": "2026-10-01T15:14:00+09:00",
-              "description": "김지나 ADC 플랫폼 디스커버리 그룹장과 오세규 오가노이드 테크놀로지그룹 프로는 각각 이중특이 ADC와 환자 유래 오가노이드 관련 연구 결과를 포스터로 발표한다. 국내에서는 오는 28~30일 서울 코엑스에서... ",
-              "source_name": "medipana.com"
-            },
-            {
-              "title": "삼성바이오로직스, 10월 글로벌 수주전 확대… 일본·유럽·미국 잇단 출...",
-              "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=359898",
-              "published_at": "2026-10-01T15:14:00+09:00",
-              "description": "김지나 ADC 플랫폼 디스커버리 그룹장과 오세규 오가노이드 테크놀로지그룹 프로는 각각 '이중특이 ADC'와 '환자 유래 오가노이드' 관련 연구 결과를 포스터로 소개한다. 특히, ADC를 별도 글로벌 행사에서 집중적으로... ",
-              "source_name": "biztribune.co.kr"
-            },
-            {
-              "title": "삼성바이오로직스, 이달 전시·학회 등 4개 행사 연이어 참가…CDMO 경쟁...",
-              "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610011203245950130",
-              "published_at": "2026-10-01T15:02:00+09:00",
-              "description": "플랫폼 디스커버리 그룹장과 오세규 오가노이드 테크놀로지그룹 프로는 포스터 발표를 통해 각각 ‘이중특이 ADC’와 ‘환자 유래 오가노이드’ 관련 연구 성과를 공유할 예정이다. 국내에서는 오는... ",
-              "source_name": "dnews.co.kr"
             }
           ]
         },
         {
           "keyword": "네파",
           "articles": [
+            {
+              "title": "네파, 초경량·고기능성 시그니처 테크 다운 '에어써밋 시리즈' 라인업...",
+              "url": "https://www.maxmovie.com/news/articleView.html?idxno=502188",
+              "published_at": "2026-10-02T08:44:00+09:00",
+              "description": "아웃도어 브랜드 네파가 뛰어난 아웃도어 퍼포먼스와 가벼운 착용감, 세련된 광택 실루엣을 두루 갖춘... 집약된 네파의 대표 다운이다. 올해는 날씨와 착용 상황에 따라 유연하게 겹쳐 입을 수 있도록 초경량 다운부터... ",
+              "source_name": "maxmovie.com"
+            },
+            {
+              "title": "네파, 경량화·기능성 강화한 다운 라인업 '에어써밋 시리즈' 확장",
+              "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1103128",
+              "published_at": "2026-10-02T08:40:00+09:00",
+              "description": "네파 '에어써밋 라이트' 착용 화보_모델 안유진 [사진=네파]  아웃도어 브랜드 네파가 경량성과 보온성을 강화하고 간절기부터 한겨울까지 착용 가능한 테크 다운 '에어써밋(AIR SUMMIT) 시리즈' 라인업을 확장해 선보였다.... ",
+              "source_name": "discoverynews.kr"
+            },
+            {
+              "title": "롯데하이마트-마리오아울렛 '이사·웨딩 페스티벌' '청소기 브랜드 대전...",
+              "url": "http://www.wsobi.com/news/articleView.html?idxno=319118",
+              "published_at": "2026-10-02T08:38:00+09:00",
+              "description": "마리오광장에서는 블랙야크 롱다운을 149,000원부터 만나볼 수 있으며, 마르페광장에서는 K2, 하이드로겐, 노스페이스, 액티브, 네파 등 아웃도어 브랜드들이 참여한다. 3관 지하 1층 이벤트홀에서는 언더아머... ",
+              "source_name": "wsobi.com"
+            },
+            {
+              "title": "네파, 초경량부터 방풍까지 '에어써밋' 3종 출시",
+              "url": "http://www.beyondpost.co.kr/view.php?ud=20261002075936610846a9e4dd7f_30",
+              "published_at": "2026-10-02T08:02:00+09:00",
+              "description": "아웃도어 브랜드 네파가 시그니처 테크 다운 '에어써밋(AIR SUMMIT) 시리즈'의 라인업을 확대해 출시했다고... 네파 관계자는 &quot;이번 시즌에는 초경량 다운부터 고기능성 방풍 다운까지 라인업을 넓혔다&quot;며 &quot;날씨와 착용... ",
+              "source_name": "beyondpost.co.kr"
+            },
+            {
+              "title": "이준호·안유진, 네파 테크다운 '에어써밋 시리즈' 제안",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=770408",
+              "published_at": "2026-10-02T07:40:00+09:00",
+              "description": "중인 네파가 뛰어난 아웃도어 퍼포먼스는 물론, 가벼운 착용감과 세련된 광택 실루엣으로 도심 속 활용도를 높인 시그니처 테크 다운 '에어써밋 시리즈'를 출시했다. 사진=네파 지난 2024년 첫선을 보인 '에어써밋'은 등산... ",
+              "source_name": "slist.kr"
+            },
+            {
+              "title": "마리오아울렛, 가을 신상 탐색전…패션·스포츠 최대 80% 할인",
+              "url": "https://www.news1.kr/industry/distribution/6308196",
+              "published_at": "2026-10-02T06:00:00+09:00",
+              "description": "2관과 야외 행사장에서는 나이키골프와 아이더, 블랙야크, K2, 노스페이스, 네파 등 골프·아웃도어 브랜드 특가전을 진행한다. 3관에서는 언더아머와 스케쳐스 등을 최대 50% 할인한다. 다품목 구매 혜택도 마련했다.... ",
+              "source_name": "news1.kr"
+            },
             {
               "title": "유통업계, 온·오프라인서 생필품·먹거리 ‘할인 대전’ 펼친다",
               "url": "https://www.ekn.kr/web/view.php?key=20261001025551101",
@@ -693,47 +686,68 @@
               "published_at": "2026-10-01T09:53:00+09:00",
               "description": "빈폴과 닥터지, 라네즈, AHC, 네파, 로레알, 피지오겔 등이 참여한다. 이니스프리 '그린티 판테놀 카밍 토너 패드'와 '그린티 세라마이드 클렌징 밤', 에스쁘아 '매쉬드 블러 밤스틱' 등 뷰티 신상품도 할인한다.... ",
               "source_name": "newsis.com"
-            },
-            {
-              "title": "11번가, 10월 ‘월간 십일절’…가전·패션·여행까지 가을 수요 공략",
-              "url": "https://www.ddaily.co.kr/page/view/2026100109082676284",
-              "published_at": "2026-10-01T09:22:00+09:00",
-              "description": "빈폴과 닥터지, 라네즈, 온앤온, AHC, 마인드브릿지, 네파, 로레알, 피지오겔 등 총 50개 브랜드가 참여한다. 이니스프리 ‘그린티 판테놀 카밍 토너 패드’와 ‘그린티 세라마이드 클렌징 밤’, 에스쁘아 ‘매쉬드 블러... ",
-              "source_name": "ddaily.co.kr"
-            },
-            {
-              "title": "11번가, 10월 '월간 십일절'...가을 인기상품 특가판매",
-              "url": "https://www.slist.kr/news/articleView.html?idxno=770166",
-              "published_at": "2026-10-01T09:04:00+09:00",
-              "description": "▲3일 빈폴, 닥터지, 라네즈, 온앤온, 베베쥬 ▲4일 AHC, 무스텔라, 마인드브릿지, 네파 ▲9일 로레알, 피지오겔, 오르시떼, 예일X하버드키즈 등 총 50개 인기 브랜드가 할인 행렬에 참여한다. '이니스프리'의 그린티... ",
-              "source_name": "slist.kr"
-            },
-            {
-              "title": "11번가, 10월 '월간 십일절'…가을 인기상품 특가 판매",
-              "url": "https://www.news1.kr/industry/distribution/6306936",
-              "published_at": "2026-10-01T08:43:00+09:00",
-              "description": "빈폴·닥터지·라네즈·온앤온·네파·로레알 등 총 50개 브랜드가 참여하며, 이니스프리·에스쁘아·아이소이 등 뷰티 신상품도 할인 판매한다. 라이브 커머스 플랫폼 'LIVE11'에서는 에스트라, 김정문알로에, 싸이닉 등... ",
-              "source_name": "news1.kr"
-            },
-            {
-              "title": "11번가, 10월 '월간 십일절' 개막…가을 시즌 쇼핑 공략",
-              "url": "https://news.tf.co.kr/read/economy/2371656.htm",
-              "published_at": "2026-10-01T08:22:00+09:00",
-              "description": "가을 나들이족을 위한 서울랜드 자유이용권과 인스파이어·쏠비치 리조트 숙박권을 비롯해 빈폴, 라네즈, 네파 등 50개 패션·뷰티 브랜드 상품을 온라인 최저가 수준으로 내놓는다. 자체 라이브 커머스 'LIVE11'을... ",
-              "source_name": "tf.co.kr"
-            },
-            {
-              "title": "[유통소식] 이마트, '와인그랩 페스타' 2일부터 사전예약",
-              "url": "http://www.4th.kr/news/articleView.html?idxno=2118958",
-              "published_at": "2026-10-01T06:00:00+09:00",
-              "description": "빈폴, 닥터지, 라네즈, 온앤온, AHC, 무스텔라, 마인드브릿지, 네파, 로레알, 피지오겔, 오르시떼, 예일X하버드키즈 등 총 50개 브랜드가 참여한다. 이니스프리 '그린티 판테놀 카밍 토너 패드', '그린티 세라마이드... ",
-              "source_name": "4th.kr"
             }
           ]
         },
         {
           "keyword": "룰루레몬",
           "articles": [
+            {
+              "title": "신세계사이먼, F/W 시즌 '슈퍼 골든 위크' 전개…&quot;할인 혜택 강화&quot;",
+              "url": "https://news.tf.co.kr/read/economy/2372252.htm",
+              "published_at": "2026-10-02T08:50:00+09:00",
+              "description": "룰루레몬은 추가 할인 혜택을 제공하며, 오프아웃은 호카·써코니·노다 상품을 최대 70% 할인해 내놓는다. 파주 프리미엄 아울렛은 내셔널지오그래픽·아이더·팀버랜드 등 아웃도어 브랜드에서 할인 행사를 열고... ",
+              "source_name": "tf.co.kr"
+            },
+            {
+              "title": "신세계사이먼, 10월 연휴 맞아 '슈퍼 골든 위크' 진행",
+              "url": "https://www.etnews.com/20261002000012",
+              "published_at": "2026-10-02T08:33:00+09:00",
+              "description": "룰루레몬은 추가 할인 혜택을 제공하고 오프아웃은 호카·써코니·노다 상품을 최대 70% 할인 판매한다. 파주 프리미엄 아울렛에서는 내셔널지오그래픽·아이더·팀버랜드 등 아웃도어 브랜드가 할인 행사를 진행한다.... ",
+              "source_name": "etnews.com"
+            },
+            {
+              "title": "신세계사이먼, 10월 황금연휴 맞아 ‘슈퍼 골든 위크’…F/W 쇼핑 혜택",
+              "url": "https://www.news1.kr/industry/distribution/6308371",
+              "published_at": "2026-10-02T08:25:00+09:00",
+              "description": "룰루레몬 추가 할인과 함께 오프아웃에서는 호카·써코니·노다 상품을 최대 70% 할인한다. 파주 프리미엄 아울렛에서는 내셔널지오그래픽·아이더·팀버랜드 등 아웃도어 브랜드 할인 행사를 진행한다. 리바이스는 인기... ",
+              "source_name": "news1.kr"
+            },
+            {
+              "title": "&quot;요가복 안 입는다더니&quot;…'20만원 레깅스' 불티나게 팔린 까닭",
+              "url": "https://www.hankyung.com/article/2026100185131",
+              "published_at": "2026-10-02T08:01:00+09:00",
+              "description": "룰루레몬을 비롯해 알로, 뷰오리 등 신흥 글로벌 프리미엄 브랜드가 약진하며 애슬레저(일상복으로도 활용할 수 있는 운동복·사진) 시장 경쟁이 치열해지고 있다. 1일 대체데이터 플랫폼 한경에이셀(Aicel)에 따르면... ",
+              "source_name": "hankyung.com"
+            },
+            {
+              "title": "신세계아울렛, ‘슈퍼골든위크’ 진행…“나들이·쇼핑 한번에”",
+              "url": "https://biz.heraldcorp.com/article/10891224?ref=naver",
+              "published_at": "2026-10-02T07:30:00+09:00",
+              "description": "룰루레몬은 추가 할인 혜택을 제공하고, 오프아웃은 호카·써코니·노다 상품을 최대 70% 할인 판매한다. 파주 프리미엄 아울렛에서는 내셔널지오그래픽·아이더·팀버랜드 등 아웃도어 브랜드의 할인 행사를... ",
+              "source_name": "biz.heraldcorp.com"
+            },
+            {
+              "title": "신세계사이먼, '슈퍼 골든 위크' 진행…F/W 쇼핑 수요 공략",
+              "url": "https://www.m-i.kr/news/articleView.html?idxno=2002113",
+              "published_at": "2026-10-02T07:28:00+09:00",
+              "description": "룰루레몬은 추가 할인 혜택을 제공하고, 오프아웃에서는 호카·써코니·노다 상품을 최대 70% 할인 판매한다. 파주 프리미엄 아울렛에서는 내셔널지오그래픽·아이더·팀버랜드 등 아웃도어 브랜드가 할인 행사에... ",
+              "source_name": "m-i.kr"
+            },
+            {
+              "title": "신세계사이먼 아울렛, '슈퍼 골든위크' 진행...최대 70% 할인",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=770395",
+              "published_at": "2026-10-02T07:14:00+09:00",
+              "description": "이와 함께 룰루레몬은 추가 할인 혜택을 제공하며 오프아웃은 호카·써코니·노다 상품을 최대 70% 할인 판매한다. 파주 프리미엄 아울렛에서는 내셔널지오그래픽·아이더·팀버랜드 등 아웃도어 브랜드에서 할인 행사를... ",
+              "source_name": "slist.kr"
+            },
+            {
+              "title": "신세계사이먼 프리미엄 아울렛, '슈퍼 골든 위크' 진행",
+              "url": "http://www.popcornnews.net/news/articleView.html?idxno=134754",
+              "published_at": "2026-10-02T06:48:00+09:00",
+              "description": "이와 함께 룰루레몬은 추가 할인 혜택을 제공하며, 오프아웃은 호카·써코니·노다 상품을 최대 70% 할인 판매한다. 파주 프리미엄 아울렛에서는 내셔널지오그래픽·아이더·팀버랜드 등 아웃도어 브랜드에서 할인... ",
+              "source_name": "popcornnews.net"
+            },
             {
               "title": "[기자수첩] '혁신의 나이키'는 어디로 갔나",
               "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=869400",
@@ -764,11 +778,117 @@
         },
         {
           "keyword": "사우스케이프",
-          "articles": []
+          "articles": [
+            {
+              "title": "K-골프의 쾌거…홍천 카스카디아CC, 美 골프매거진 ‘세계 100대 골프 리...",
+              "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000019255&cp=nv",
+              "published_at": "2026-10-02T06:10:00+09:00",
+              "description": "2년마다 발표되는 이 평가에서 카스카디아는 경남 남해 사우스케이프 오너스클럽, 전남 해남 파인비치 골프링크스와 함께 대한민국을 대표하는 프리미엄 리조트로 당당히 100대 리스트에 이름을 올렸다. 카스카디아가... ",
+              "source_name": "kmib.co.kr"
+            }
+          ]
         },
         {
           "keyword": "데상트",
           "articles": [
+            {
+              "title": "데상트, 홍태준과 ‘딜라이트 다운’ 공개…경량성·보온성에 겨울 스타...",
+              "url": "http://www.segyebiz.com/newsView/20261002504079?OutUrl=naver",
+              "published_at": "2026-10-02T09:30:00+09:00",
+              "description": "사진=데상트 프리미엄 스포츠 브랜드 데상트(DESCENTE)가 모델 홍태준과 함께 경량 다운을 중심으로 한 겨울 스타일을 제안한다고 2일 밝혔다. 데상트는 경량성과 보온성에 다양한 디자인 요소를 접목한 ‘딜라이트 다운... ",
+              "source_name": "segyebiz.com"
+            },
+            {
+              "title": "데상트, 10D 나일론·덕 다운 적용한 ‘딜라이트 다운’ 컬렉션 출시",
+              "url": "http://www.beyondpost.co.kr/view.php?ud=2026100117194941716cf2d78c68_30",
+              "published_at": "2026-10-02T09:02:00+09:00",
+              "description": "데상트(DESCENTE)가 가벼운 착용감과 보온성을 고려한 겨울 아우터 ‘딜라이트 다운(DE:LIGHT DOWN)’ 컬렉션을... 데상트는 모델 홍태준과 함께 ‘Delight of Lightness’ 캠페인도 전개한다. 홍태준은 겨울 도시를 배경으로... ",
+              "source_name": "beyondpost.co.kr"
+            },
+            {
+              "title": "데상트 ‘딜라이트 다운’ 출시...다운부터 아노락·플리스까지 겨울 스...",
+              "url": "https://www.thepowernews.co.kr/view.php?ud=202610011708431376cf2d78c68_7",
+              "published_at": "2026-10-02T09:02:00+09:00",
+              "description": "데상트(DESCENTE)가 하나의 다운 재킷에 집중하기보다 아노락과 플리스까지 함께 활용할 수 있는 겨울... 있다”며 “데상트는 윈터 스포츠 기술력을 바탕으로 다운 본연의 기능성과 트렌디한 디자인을 모두 갖춘 겨울... ",
+              "source_name": "thepowernews.co.kr"
+            },
+            {
+              "title": "데상트, ‘딜라이트 다운’ 출시…겨울 일상 활용도 높여",
+              "url": "https://hbnpress.com/news/view/1065594123059514",
+              "published_at": "2026-10-02T09:00:00+09:00",
+              "description": "사진: 데상트 제공  데상트(DESCENTE)가 경량성과 보온성을 앞세운 겨울 컬렉션 ‘딜라이트 다운(DE:LIGHT DOWN)’을 출시한다고 2일 밝혔다. 스포츠웨어에서 축적해 온 기능성을 일상에서 활용하기 쉬운 실루엣과 결합하고... ",
+              "source_name": "hbnpress.com"
+            },
+            {
+              "title": "데상트, 모델 홍태준과 오리솜털 90% 경량 다운 컬렉션 출시",
+              "url": "https://www.gokorea.kr/news/articleView.html?idxno=880219",
+              "published_at": "2026-10-02T09:00:00+09:00",
+              "description": "데상트가 모델 홍태준과 함께 겨울 컬렉션 '딜라이트 다운(DE:LIGHT DOWN)'을 선보였다. 데상트는 경량 다운 자켓과 아노락, 플리스 제품으로 구성한 이번 컬렉션을 공개한다고 밝혔다. 회사는 윈터 스포츠 기술력을... ",
+              "source_name": "gokorea.kr"
+            },
+            {
+              "title": "데상트, 경량성·보온성 갖춘 '딜라이트 다운' 출시",
+              "url": "http://www.sisunnews.co.kr/news/articleView.html?idxno=247005",
+              "published_at": "2026-10-02T09:00:00+09:00",
+              "description": "스포츠 브랜드 데상트(DESCENTE)가 경량성과 보온성을 앞세운 '딜라이트 다운(DE:LIGHT DOWN)' 컬렉션을 선보인다.... 데상트의 윈터 스포츠 기술력을 바탕으로 기능성을 강화하는 동시에 색감과 실루엣 등 디자인 요소를... ",
+              "source_name": "sisunnews.co.kr"
+            },
+            {
+              "title": "데상트, 모델 홍태준과 딜라이트 다운 컬렉션 공개",
+              "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=209984",
+              "published_at": "2026-10-02T09:00:00+09:00",
+              "description": "스포츠 브랜드 데상트(DESCENTE)가 모델 홍태준과 함께 스타일과 기능성을 갖춘 '딜라이트 다운(DE:LIGHT DOWN)... 데상트의 윈터 스포츠 기술력을 바탕으로 가벼운 착용감과 보온성을 구현하고, 색감과 실루엣 등 디자인... ",
+              "source_name": "thefirstmedia.net"
+            },
+            {
+              "title": "데상트, 홍태준과 '딜라이트 다운' 공개…겨울 경량 아우터 선보여",
+              "url": "https://www.stardailynews.co.kr/news/articleView.html?idxno=551142",
+              "published_at": "2026-10-02T09:00:00+09:00",
+              "description": "프리미엄 스포츠 브랜드 데상트(DESCENTE)가 모델 홍태준과 함께 겨울 경량 아우터 컬렉션 '딜라이트 다운(DE:LIGHT DOWN)'을 공개했다. 데상트는 컬렉션 공개와 함께 'Delight of Lightness' 캠페인을 진행한다. 홍태준이 참여한... ",
+              "source_name": "stardailynews.co.kr"
+            },
+            {
+              "title": "데상트, 경량 다운 제품군 확대…일상용 겨울 아우터 공략",
+              "url": "https://www.businessplus.kr/news/articleView.html?idxno=117587",
+              "published_at": "2026-10-02T09:00:00+09:00",
+              "description": "사진=데상트 데상트가 스키웨어에 적용해온 소재와 설계 기술을 활용한 경량 다운 제품을 내놓고 일상용 겨울 아우터 제품군을 확대한다. 데상트는 경량 다운을 중심으로 구성한 '딜라이트 다운(DE:LIGHT DOWN)' 컬렉션을... ",
+              "source_name": "businessplus.kr"
+            },
+            {
+              "title": "데상트, 유스 스타일 아이콘 홍태준과 경량 다운 컬렉션 '딜라이트 다운...",
+              "url": "https://www.enetnews.co.kr/news/articleView.html?idxno=54931",
+              "published_at": "2026-10-02T08:58:00+09:00",
+              "description": "프리미엄 스포츠 브랜드 데상트(DESCENTE)가 유스 패션신에서 주목받고 있는 모델 홍태준과 함께 감각적인 스타일과 기능성을 갖춘 '딜라이트 다운(DE:LIGHT DOWN)' 컬렉션을 선보인다. 세련된 색감과 실루엣에 데상트 고유의... ",
+              "source_name": "enetnews.co.kr"
+            },
+            {
+              "title": "데상트코리아, 미래 스포츠 인재 육성에 1억 기부",
+              "url": "https://www.newsis.com/view/NISX20261002_0003811858",
+              "published_at": "2026-10-02T08:46:00+09:00",
+              "description": "글로벌 스포츠 기업 데상트코리아가 미래 스포츠 인재 육성을 위해 대한육상연맹, 대한역도연맹... 기부금 전달식은 국제 스포츠대회가 열리고 있는 일본 나고야의 데상트 인 나고야(DESCENTE in NAGOYA)에서 진행했다. 이날... ",
+              "source_name": "newsis.com"
+            },
+            {
+              "title": "데상트코리아, 육상·역도·근대5종 유소년에 1억원 기부",
+              "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492069",
+              "published_at": "2026-10-02T07:56:00+09:00",
+              "description": "대한육상연맹 육현표 회장, 데상트코리아 시미즈 모토나리 회장 데상트코리아가 육상·역도·근대5종 유소년 선수 육성을 위해 3개 스포츠 연맹에 총 1억원을 지원한다. 데상트코리아는 대한육상연맹과 대한역도연맹... ",
+              "source_name": "pinpointnews.co.kr"
+            },
+            {
+              "title": "데상트코리아, 육상·역도·근대5종 유소년 육성에 1억원 기부",
+              "url": "http://www.beyondpost.co.kr/view.php?ud=20261002074850979146a9e4dd7f_30",
+              "published_at": "2026-10-02T07:52:00+09:00",
+              "description": "데상트코리아가 유소년 스포츠 선수 육성을 위해 대한육상연맹, 대한역도연맹, 대한근대5종연맹 등 3개... 데상트코리아는 육상·역도·근대5종 종목에서 유망 선수들이 꾸준히 훈련할 수 있는 기반을 지원한다는... ",
+              "source_name": "beyondpost.co.kr"
+            },
+            {
+              "title": "데상트코리아, 유소년 스포츠 인재 육성에 1억원 기부",
+              "url": "https://www.bntnews.co.kr/article/view/bnt202610020031",
+              "published_at": "2026-10-02T07:38:00+09:00",
+              "description": "데상트코리아가 유소년 스포츠 인재 육성을 위해 대한육상연맹, 대한역도연맹, 대한근대5종연맹에 총... 데상트코리아는 미래 스포츠 인재의 성장 기반을 넓히기 위해 3개 스포츠 연맹에 총 1억원의 기부금을 전달했다고... ",
+              "source_name": "bntnews.co.kr"
+            },
             {
               "title": "데상트, 경량 다운 중심 '딜라이트 다운' 컬렉션 출시",
               "url": "https://www.handmk.com/news/articleView.html?idxno=43763",
